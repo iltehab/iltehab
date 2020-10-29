@@ -1,0 +1,370 @@
+#EXTM3U
+#EXTINF:0,Geo News
+#EXTGRP:NEWS
+https://stream1.jeem.tv/geo/geonews_abr/playlist.m3u8
+#EXTINF:0,ARY News
+#EXTGRP:NEWS
+http://158.69.229.30:8081/news_int/livestream/playlist.m3u8
+#EXTINF:0,Dunya News
+#EXTGRP:NEWS
+http://109.169.19.173:1935/live/dunyalive_1/playlist.m3u8
+#EXTINF:0,Dawn
+#EXTGRP:NEWS
+http://stream.tapmad.com:1935/pitvlive/dawnnews3.stream/playlist.m3u8?usertoken=d71c82cf-ef74-417c-a135-a3b56415904e-1528309151027tmp
+#EXTINF:0,92 News HD
+#EXTGRP:NEWS
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:0,Samaa
+#EXTGRP:NEWS
+http://stream.tapmad.com:1935/pitvlive/samaanews3.stream/playlist.m3u8?usertoken=d71c82cf-ef74-417c-a135-a3b56415904e-1528309151027tmp
+#EXTINF:0,Express News
+#EXTGRP:NEWS
+http://stream.tapmad.com:1935/pitvlive/expressnews3.stream/playlist.m3u8?usertoken=d71c82cf-ef74-417c-a135-a3b56415904e-1528309151027tmp
+#EXTINF:0,24 News HD
+#EXTGRP:NEWS
+http://stream.tapmad.com:1935/pitvlive/channel243.stream/playlist.m3u8
+#EXTINF:0,Aaj news
+#EXTGRP:NEWS
+http://stream.tapmad.com:1935/pitvlive/aajnews3.stream/playlist.m3u8?usertoken=d71c82cf-ef74-417c-a135-a3b56415904e-1528309151027tmp
+#EXTINF:0,PTV News
+#EXTGRP:NEWS
+http://stream.tapmad.com:1935/pitvlive/ptvnews3.stream/playlist.m3u8?usertoken=d71c82cf-ef74-417c-a135-a3b56415904e-1528309151027tmp
+#EXTINF:0,B4U Music
+#EXTGRP:Music
+https://ind17-lh.akamaihd.net/i/ind17_b4umusic@68543/index_2000_av-p.m3u8?sd=10&amp;dw=7200&b=100-2500&amp;rebase=on
+#EXTINF:0,B4U Music UK
+#EXTGRP:Music
+http://217.182.192.226:20000/karl123/456/479
+#EXTINF:0,Mastiii
+#EXTGRP:Music
+http://jiocdn.in/JIOtv.php?c=Mastiii&q=800&e=.m3u8
+#EXTINF:0,Sony Mix
+#EXTGRP:Music
+http://jiocdn.in/JIOtv.php?c=Sony_Mix&q=800&e=.m3u8
+#EXTINF:0,Wow Music
+#EXTGRP:Music
+http://209.58.160.177/wowouthls/live_src.m3u8
+#EXTINF:0,MTV
+#EXTGRP:Music
+http://jiocdn.in/JIOtv.php?c=MTV_HD_Plus&q=1200&e=.m3u8
+#EXTINF:0,MTV India
+#EXTGRP:Music
+https://mslapacs.akamaized.net/hls/live/692167/mtvau/playlist.m3u8
+#EXTINF:0,MTV Beats HD
+#EXTGRP:Music
+http://jiocdn.in/JIOtv.php?c=MTV_Beats_HD&q=1200&e=.m3u8
+#EXTINF:0,ETC
+#EXTGRP:Music
+https://msluk5s.akamaized.net/hls/live/2000170/zeesmilemsl/zeesmile_1100/chunklist.m3u8
+#EXTINF:0,9XM
+#EXTGRP:Music
+http://jiocdn.in/JIOtv.php?c=9XM&q=800&e=.m3u8
+#EXTINF:0,B4U Music USA
+#EXTGRP:Music
+http://161.0.157.8/PLTV/88888888/224/3221226332/index.m3u8
+#EXTINF:0,Zing
+#EXTGRP:Music
+https://mslapacs.akamaized.net/hls/live/692167/zingapac/playlist.m3u8
+#EXTINF:0,Zoom
+#EXTGRP:Music
+http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+#EXTINF:0,And Pictures HD
+#EXTGRP:Bollywood
+http://jiocdn.in/JIOtv.php?c=And_Pictures_HD&q=1200&e=.m3u8
+#EXTINF:0,And Pictures SD
+#EXTGRP:Bollywood
+http://india.stariptv.co/airtel/airtel.php?c=andpictures&e=.m3u8
+#EXTINF:0,PTC Punjabi Gold
+#EXTGRP:Bollywood
+http://jiocdn.in/JIOtv.php?c=PTC_Punjabi_Gold&q=800&e=.m3u8
+#EXTINF:0,UTV HD
+#EXTGRP:Bollywood
+http://217.182.192.226:20000/karl123/456/207
+#EXTINF:0,Punjabi Movies
+#EXTGRP:Bollywood
+http://217.182.192.226:20000/karl123/456/767
+#EXTINF:0,BBO
+#EXTGRP:Bollywood
+https://msluscen1s.akamaized.net/hls/live/2000127/bbomsl/playlist.m3u8
+#EXTINF:0,BBO 2
+#EXTGRP:Bollywood
+https://msluseasts.akamaized.net/hls/live/2000128/bbousmsl/playlist.m3u8
+#EXTINF:0,Zee Cinema HD
+#EXTGRP:Bollywood
+http://jiocdn.in/JIOtv.php?c=Zee_Cinema_HD&q=1200&e=.m3u8
+#EXTINF:0,Zee Cinema 
+#EXTGRP:Bollywood
+http://jiocdn.in/JIOtv.php?c=Zee_Cinema&q=800&e=.m3u8
+#EXTINF:0,Zee Cinema UAE
+#EXTGRP:Bollywood
+https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/chunklist.m3u8
+#EXTINF:0,Zee Cinema UK
+#EXTGRP:Bollywood
+http://217.182.192.226:20000/karl123/456/210
+#EXTINF:0,Zee Aflam
+#EXTGRP:Bollywood
+http://217.182.192.226:20000/karl123/456/622
+#EXTINF:0,Sony Max HD
+#EXTGRP:Bollywood
+http://jiocdn.in/JIOtv.php?c=Sony_Max_HD&q=1200&e=.m3u8
+#EXTINF:0,Sony Max 
+#EXTGRP:Bollywood
+http://india.stariptv.co/airtel/airtel.php?c=sonymax&e=.m3u8
+#EXTINF:0,Sony Max SD
+#EXTGRP:Bollywood
+https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/playlist.m3u8
+#EXTINF:0,Sony Max APAC
+#EXTGRP:Bollywood
+https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/playlist.m3u8
+#EXTINF:0,Sony Max 2
+#EXTGRP:Bollywood
+http://jiocdn.in/JIOtv.php?c=Sony_MAX2&q=800&e=.m3u8
+#EXTINF:0,Star Gold HD
+#EXTGRP:Bollywood
+http://mhdtvworld.com/delta/hotstar/hsplustv.m3u8?c=stargold&e=.m3u8
+#EXTINF:0,Star Gold UK
+#EXTGRP:Bollywood
+http://217.182.192.226:20000/karl123/456/224
+#EXTINF:0,Movies OK
+#EXTGRP:Bollywood
+http://mhdtvworld.com/delta/hotstar/hsplustv.m3u8?c=moviesok&e=.m3u8
+#EXTINF:0,Rishtey Cineplex
+#EXTGRP:Bollywood
+http://jiocdn.in/JIOtv.php?c=Rishtey_Cineplex&q=800&e=.m3u8
+#EXTINF:0,Rishtey Cineplex APAC
+#EXTGRP:Bollywood
+https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/playlist.m3u8
+#EXTINF:0,Rishtey Cineplex UK
+#EXTGRP:Bollywood
+http://217.182.192.226:20000/karl123/456/403
+#EXTINF:0,B4U Movies
+#EXTGRP:Bollywood
+http://jiocdn.in/JIOtv.php?c=B4U_Movies&q=800&e=.m3u8
+#EXTINF:0,B4U Movies UK
+#EXTGRP:Bollywood
+http://217.182.192.226:20000/karl123/456/401
+#EXTINF:0,B4U Movies USA
+#EXTGRP:Bollywood
+http://161.0.157.5/PLTV/88888888/224/3221226255/01.m3u8
+#EXTINF:0,B4U Plus
+#EXTGRP:Bollywood
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:0,Bollywood Premiere
+#EXTGRP:Bollywood
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhinpre.stream_all/playlist.m3u8
+#EXTINF:0,BBO Claasics
+#EXTGRP:Bollywood
+https://msluscens.akamaized.net/hls/live/2000126/bboclassicmsl/playlist.m3u8
+#EXTINF:0,Zee Action
+#EXTGRP:Bollywood
+http://jiocdn.in/JIOtv.php?c=Zee_Action&q=800&e=.m3u8
+#EXTINF:0,Zee Bollywood
+#EXTGRP:Bollywood
+http://jiocdn.in/JIOtv.php?c=Zee_Classic&q=800&e=.m3u8
+#EXTINF:0,HUM TV HD
+#EXTGRP:Drama
+http://stream.tapmad.com:1935/pitvlive/humtv3.stream/playlist.m3u8?usertoken=d71c82cf-ef74-417c-a135-a3b56415904e-1528309151027tmp
+#EXTINF:0,Hum Europe
+#EXTGRP:Drama
+http://217.182.192.226:20000/karl123/456/543
+#EXTINF:0,ARY Digital
+#EXTGRP:Drama
+http://158.69.229.29:8081/digital_abr/streamabr/digital/livestream/playlist.m3u8
+#EXTINF:0,Geo TV
+#EXTGRP:Drama
+http://stream1.jeem.tv/geo/geoentertainment_abr/playlist.m3u8
+#EXTINF:0,Geo Kahani
+#EXTGRP:Drama
+http://217.182.192.226:20000/karl123/456/334
+#EXTINF:0,Geo UK
+#EXTGRP:Drama
+http://217.182.192.226:20000/karl123/456/554
+#EXTINF:0,PTV Home
+#EXTGRP:Drama
+http://stream.tapmad.com:1935/pitvlive/ptvhome3.stream/playlist.m3u8?
+#EXTINF:0,PTV Global
+#EXTGRP:Drama
+http://stream.tapmad.com:1935/pitvlive/ptvglobal3.stream/playlist.m3u8
+#EXTINF:0,TV One
+#EXTGRP:Drama
+http://stream.tapmad.com:1935/pitvlive/tvone3.stream/playlist.m3u8?usertoken=iDOLKVi9qzkpDBd4169vaUttmp
+#EXTINF:0,Express Entertainment
+#EXTGRP:Drama
+http://stream.tapmad.com:1935/pitvlive/express3.stream/playlist.m3u8?usertoken=iDOLKVi9qzkpDBd4169vaUttmp
+#EXTINF:0,ATV
+#EXTGRP:Drama
+http://stream.tapmad.com:1935/pitvlive/atv3.stream/playlist.m3u8
+#EXTINF:0,Aaj Entertainment
+#EXTGRP:Drama
+http://stream.tapmad.com:1935/pitvlive/aajent3.stream/playlist.m3u8?
+#EXTINF:0,A Plus
+#EXTGRP:Drama
+http://173.212.252.47:1935/Aplus%20Pakistan/AplusPK/playlist.m3u8?
+#EXTINF:0,Hum Sitaray
+#EXTGRP:Drama
+http://stream.tapmad.com:1935/pitvlive/sitaray3.stream/playlist.m3u8?
+#EXTINF:0,ARY Zindagi
+#EXTGRP:Drama
+http://149.202.205.24:1935/ARYZINDAGI/ngrp:myStream_all/playlist.m3u8
+#EXTINF:0,Zee TV
+#EXTGRP:Bollywood
+http://jiocdn.in/JIOtv.php?c=Zee_TV_HD&q=800&e=.m3u8
+#EXTINF:0,Zee TV 
+#EXTGRP:Drama
+http://delta11.flexiptv.store/ZeeTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Zee TV UK
+#EXTGRP:Drama
+http://217.182.192.226:20000/karl123/456/624
+#EXTINF:0,Zee TV APAC
+#EXTGRP:Drama
+https://mslapacs.akamaized.net/hls/live/692167/zeetvapac/playlist.m3u8
+#EXTINF:0,Zee TV ME
+#EXTGRP:Drama
+https://mslapacs.akamaized.net/hls/live/692167/zeetvme/playlist.m3u8
+#EXTINF:0,Zee TV US
+#EXTGRP:Drama
+https://msluseast1s.akamaized.net/hls/live/2000129/zeetvmsl/playlist.m3u8
+#EXTINF:0,Sony TV HD
+#EXTGRP:Drama
+http://216.144.250.174/Sony_tV_hd/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sony TV UK
+#EXTGRP:Drama
+http://msleurope2s.akamaized.net/hls/live/2000183/sonymaxukhdmsl/playlist.m3u8
+#EXTINF:0,Sony TV India UK
+#EXTGRP:Drama
+http://217.182.192.226:20000/karl123/456/645
+#EXTINF:0,Star Plus HD
+#EXTGRP:Drama
+http://216.144.250.174/Star_Plus_hd/tracks-v1a1/mono.m3u8
+#EXTINF:0,Star Plus UK
+#EXTGRP:Drama
+http://217.182.192.226:20000/karl123/456/340
+#EXTINF:0,Star Plus ME
+#EXTGRP:Drama
+Https://mslapacs.akamaized.net/hls/live/692167/starplusau/playlist.m3u8
+#EXTINF:0,Star Bharat
+#EXTGRP:Drama
+https://mslapacs.akamaized.net/hls/live/692167/lifeokau/playlist.m3u8
+#EXTINF:0,Star Bharat UK
+#EXTGRP:Drama
+http://217.182.192.226:20000/karl123/456/358
+#EXTINF:0,Colors HD
+#EXTGRP:Drama
+http://jiocdn.in/JIOtv.php?c=Colors_HD&q=800&e=.m3u8
+#EXTINF:0,Colors 
+#EXTGRP:Drama
+http://delta11.flexiptv.store/ColorsHD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Colors APAC
+#EXTGRP:Drama
+Https://mslapacs.akamaized.net/hls/live/692167/colorsau/playlist.m3u8
+#EXTINF:0,Colors UK
+#EXTGRP:Drama
+http://217.182.192.226:20000/karl123/456/203
+#EXTINF:0,And TV HD
+#EXTGRP:Drama
+http://jiocdn.in/JIOtv.php?c=And_TV_HD&q=800&e=.m3u8
+#EXTINF:0,And TV
+#EXTGRP:Drama
+https://mslapacs.akamaized.net/hls/live/692167/andtvapachd/playlist.m3u8
+#EXTINF:0,And TV UK
+#EXTGRP:Drama
+http://217.182.192.226:20000/karl123/456/400
+#EXTINF:0,And TV ME
+#EXTGRP:Drama
+https://msluk4s.akamaized.net/hls/live/2000136/andtvmemsl/playlist.m3u8
+#EXTINF:0,Rishtey UK
+#EXTGRP:Drama
+http://217.182.192.226:20000/karl123/456/402
+#EXTINF:0,Sab HD
+#EXTGRP:Drama
+http://delta11.flexiptv.store/SonySab/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sab TV
+#EXTGRP:Drama
+https://mslapacs.akamaized.net/hls/live/692167/sabtvau/playlist.m3u8
+#EXTINF:0,Sony Pix HD
+#EXTGRP:Hollywood
+http://jiocdn.in/JIOtv.php?c=Sony_Pix_HD&q=800&e=.m3u8
+#EXTINF:0,Sky Cinema SCI-FI
+#EXTGRP:Hollywood
+http://217.182.192.226:20000/karl123/456/80
+#EXTINF:0,Sky Cinema Action
+#EXTGRP:Hollywood
+http://217.182.192.226:20000/karl123/456/64
+#EXTINF:0,Sky Cinema Disney
+#EXTGRP:Hollywood
+http://217.182.192.226:20000/karl123/456/342
+#EXTINF:0,Sky Cinema Thriller
+#EXTGRP:Hollywood
+http://217.182.192.226:20000/karl123/456/101
+#EXTINF:0,Sky Cinema Horror
+#EXTGRP:Hollywood
+http://217.182.192.226:20000/karl123/456/23
+#EXTINF:0,Sky Cinema SCI-FI Horror
+#EXTGRP:Hollywood
+http://217.182.192.226:20000/karl123/456/598
+#EXTINF:0,Sky Cinema Family
+#EXTGRP:Hollywood
+http://217.182.192.226:20000/karl123/456/3165
+#EXTINF:0,Sky Cinema Action Adventure
+#EXTGRP:Hollywood
+http://217.182.192.226:20000/karl123/456/24
+#EXTINF:0,And Flix HD
+#EXTGRP:Hollywood
+http://jiocdn.in/JIOtv.php?c=And_Flix_HD&q=800&e=.m3u8
+#EXTINF:0,And Privé HD
+#EXTGRP:Hollywood
+https://livetv-online.tk/jio/kodilivetv.php?c=And_Prive_HD&q=800&e=.m3u8
+#EXTINF:0,Sky Cinema Comedy
+#EXTGRP:Hollywood
+http://217.182.192.226:20000/karl123/456/123
+#EXTINF:0,Fox Comedy
+#EXTGRP:Hollywood
+http://161.0.157.9/PLTV/88888888/224/3221226800/01.m3u8
+#EXTINF:0,Fox Cinema
+#EXTGRP:Hollywood
+http://161.0.157.7/PLTV/88888888/224/3221226793/01.m3u8
+#EXTINF:0,Sky Cinema Premiere
+#EXTGRP:Hollywood
+http://217.182.192.226:20000/karl123/456/99
+#EXTINF:0,HBO 2
+#EXTGRP:Hollywood
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:0,IPL
+#EXTGRP:Sports
+http://mhdtvworld.com/delta/hotstar/hsplus.m3u8?c=sshd1livetv&e=.m3u8
+#EXTINF:0,IPL2
+#EXTGRP:Sports
+http://13.234.160.129:81/StarSports1/tracks-v1a1/mono.m3u8?token=NxtSports
+#EXTINF:0,Willow
+#EXTGRP:Sports
+http://stream.wicket.pw/app/willowsd.m3u8
+#EXTINF:0,Willow HD
+#EXTGRP:Sports
+https://cors-anywhere.herokuapp.com/http://stream.wicket.pw/app/willowsd.m3u8
+#EXTINF:0,Sky Sports Cricket
+#EXTGRP:Sports
+https://stream.wicket.pw/app/skysportshd.m3u8
+#EXTINF:0,Sky Sports Main Event
+#EXTGRP:Sports
+http://217.182.192.226:20000/karl123/456/1087
+#EXTINF:0,Watan HD
+#EXTGRP:Sports
+http://51.15.236.137/hls/stream.m3u8
+#EXTINF:0,PTV Sports
+#EXTGRP:Sports
+https://stream.wicket.pw/app/ptvsports.m3u8
+#EXTINF:0,CNN
+#EXTGRP:World News
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+#EXTINF:0,TRT World
+#EXTGRP:World News
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0,Sky News
+#EXTGRP:World News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0,RT
+#EXTGRP:World News
+https://rt-uk.secure.footprint.net/1106-inadv-qidx-1k_v3.m3u8
+#EXTINF:0,Aljazeera
+#EXTGRP:World News
+https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
