@@ -71,25 +71,37 @@ http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Bollywood
 https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/14c290cdde854265b74f78b102f6ecd8/index.m3u8?
+#EXTINF:0,Zee Cinema UK
+#EXTGRP:Bollywood
+http://z5amshls.akamaized.net/cinemauk/playlist.m3u8
+#EXTINF:0,Zee Cinema ME
+#EXTGRP:Bollywood
+http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
+#EXTINF:0,Zee Cinema USA
+#EXTGRP:Bollywood
+http://z5amshls.akamaized.net/cinemausa/playlist.m3u8
+#EXTINF:0,And Xplor HD
+#EXTGRP:Bollywood
+https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8?
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
-http://jiocdn.in/JIOtv.php?c=And_Pictures_HD&q=1200&e=.m3u8
+http://z5amshls.akamaized.net/andpicshd/playlist.m3u8
 #EXTINF:0,And Pictures SD
 #EXTGRP:Bollywood
-http://india.stariptv.co/airtel/airtel.php?c=andpictures&e=.m3u8
-#EXTINF:0,PTC Punjabi Gold
+http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
+#EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
-http://jiocdn.in/JIOtv.php?c=PTC_Punjabi_Gold&q=800&e=.m3u8
-#EXTINF:0,UTV HD
+http://dx3.gcdn.co/hindi-SONYMAXHD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sony Max
 #EXTGRP:Bollywood
-http://217.182.192.226:20000/karl123/456/207
-#EXTINF:0,Punjabi Movies
+https://load.airtelxstream.in/sonymax/smil:common.smil/index.m3u8
+#EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
-http://217.182.192.226:20000/karl123/456/767
-#EXTINF:0,BBO
+http://dx3.gcdn.co/hindi-CINEPLEXHD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
 https://msluscen1s.akamaized.net/hls/live/2000127/bbomsl/playlist.m3u8
-#EXTINF:0,BBO 2
+#EXTINF:0, Rishtey Cineplex
 #EXTGRP:Bollywood
 https://msluseasts.akamaized.net/hls/live/2000128/bbousmsl/playlist.m3u8
 #EXTINF:0,Zee Cinema HD
