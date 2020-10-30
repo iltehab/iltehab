@@ -65,6 +65,12 @@ https://mslapacs.akamaized.net/hls/live/692167/zingapac/playlist.m3u8
 #EXTINF:0,Zoom
 #EXTGRP:Music
 http://dishactive.xyz/jio/jio.m3u8?c=ZOOM
+#EXTINF:0,Zee Cinema HD
+#EXTGRP:Bollywood
+http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
+#EXTINF:0,Zee Cinema
+#EXTGRP:Bollywood
+https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/14c290cdde854265b74f78b102f6ecd8/index.m3u8?
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
 http://jiocdn.in/JIOtv.php?c=And_Pictures_HD&q=1200&e=.m3u8
