@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:0, Animal Planet
+#EXTGRP: Infotainment
+https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:0, Sky Nature
+#EXTGRP: Infotainment
+http://185.232.53.5:2086/live/gennaro/gennaro/99206.m3u8
+#EXTINF:0, Nat Geo Wild 
+#EXTGRP: Infotainment
+http://185.232.53.5:2086/live/gennaro/gennaro/67074.m3u8
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
 https://stream1.jeem.tv/geo/geonews_abr/playlist.m3u8
