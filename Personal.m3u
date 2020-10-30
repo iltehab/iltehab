@@ -8,75 +8,63 @@ http://185.232.53.5:2086/live/gennaro/gennaro/99206.m3u8
 #EXTINF:0, Nat Geo Wild 
 #EXTGRP: Infotainment
 http://185.232.53.5:2086/live/gennaro/gennaro/67074.m3u8
+#EXTINF:0, BBC Earth HD
+#EXTGRP: Infotainment
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/6774360613b071f.m3u8
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
-https://stream1.jeem.tv/geo/geonews_abr/playlist.m3u8
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/playlist_dvr.m3u8
 #EXTINF:0,ARY News
 #EXTGRP:NEWS
-http://158.69.229.30:8081/news_int/livestream/playlist.m3u8
-#EXTINF:0,Dunya News
+https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:0,Hum News
 #EXTGRP:NEWS
-http://109.169.19.173:1935/live/dunyalive_1/playlist.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/b2ca4968066a24b.m3u8
 #EXTINF:0,Dawn
 #EXTGRP:NEWS
-http://stream.tapmad.com:1935/pitvlive/dawnnews3.stream/playlist.m3u8?usertoken=d71c82cf-ef74-417c-a135-a3b56415904e-1528309151027tmp
-#EXTINF:0,92 News HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/6c654456be81201.m3u8
+#EXTINF:0,Dunya News
 #EXTGRP:NEWS
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:0,Samaa
-#EXTGRP:NEWS
-http://stream.tapmad.com:1935/pitvlive/samaanews3.stream/playlist.m3u8?usertoken=d71c82cf-ef74-417c-a135-a3b56415904e-1528309151027tmp
-#EXTINF:0,Express News
-#EXTGRP:NEWS
-http://stream.tapmad.com:1935/pitvlive/expressnews3.stream/playlist.m3u8?usertoken=d71c82cf-ef74-417c-a135-a3b56415904e-1528309151027tmp
-#EXTINF:0,24 News HD
-#EXTGRP:NEWS
-http://stream.tapmad.com:1935/pitvlive/channel243.stream/playlist.m3u8
-#EXTINF:0,Aaj news
-#EXTGRP:NEWS
-http://stream.tapmad.com:1935/pitvlive/aajnews3.stream/playlist.m3u8?usertoken=d71c82cf-ef74-417c-a135-a3b56415904e-1528309151027tmp
-#EXTINF:0,PTV News
-#EXTGRP:NEWS
-http://stream.tapmad.com:1935/pitvlive/ptvnews3.stream/playlist.m3u8?usertoken=d71c82cf-ef74-417c-a135-a3b56415904e-1528309151027tmp
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/373b22d0ff9cb18.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-https://ind17-lh.akamaihd.net/i/ind17_b4umusic@68543/index_2000_av-p.m3u8?sd=10&amp;dw=7200&b=100-2500&amp;rebase=on
-#EXTINF:0,B4U Music UK
+http://dx3.gcdn.co/hindi-B4UMUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:0,Show Box
 #EXTGRP:Music
-http://217.182.192.226:20000/karl123/456/479
+https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/be3ef13a77a24a9ab185567d1ea0d9d8/index.m3u8?
 #EXTINF:0,Mastiii
 #EXTGRP:Music
-http://jiocdn.in/JIOtv.php?c=Mastiii&q=800&e=.m3u8
-#EXTINF:0,Sony Mix
+https://load.airtelxstream.in/mastiii/smil:common.smil/index.m3u8
+#EXTINF:0,Aaho
 #EXTGRP:Music
-http://jiocdn.in/JIOtv.php?c=Sony_Mix&q=800&e=.m3u8
+https://v.aaho.tv/live/aahomusic-57043.ts
 #EXTINF:0,Wow Music
 #EXTGRP:Music
-http://209.58.160.177/wowouthls/live_src.m3u8
+https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:0,MTV
 #EXTGRP:Music
-http://jiocdn.in/JIOtv.php?c=MTV_HD_Plus&q=1200&e=.m3u8
+http://dishactive.xyz/jio/jio.m3u8?c=MTV_HD_Plus
 #EXTINF:0,MTV India
 #EXTGRP:Music
 https://mslapacs.akamaized.net/hls/live/692167/mtvau/playlist.m3u8
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
-http://jiocdn.in/JIOtv.php?c=MTV_Beats_HD&q=1200&e=.m3u8
+http://dishactive.xyz/jio/jio.m3u8?c=MTV_BEATS_HD
 #EXTINF:0,ETC
 #EXTGRP:Music
 https://msluk5s.akamaized.net/hls/live/2000170/zeesmilemsl/zeesmile_1100/chunklist.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
-http://jiocdn.in/JIOtv.php?c=9XM&q=800&e=.m3u8
+https://load.airtelxstream.in/9xm/smil:common.smil/index.m3u8
 #EXTINF:0,B4U Music USA
 #EXTGRP:Music
-http://161.0.157.8/PLTV/88888888/224/3221226332/index.m3u8
+https://load.airtelxstream.in/9xjalwa/smil:common.smil/index.m3u8
 #EXTINF:0,Zing
 #EXTGRP:Music
 https://mslapacs.akamaized.net/hls/live/692167/zingapac/playlist.m3u8
 #EXTINF:0,Zoom
 #EXTGRP:Music
-http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+http://dishactive.xyz/jio/jio.m3u8?c=ZOOM
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
 http://jiocdn.in/JIOtv.php?c=And_Pictures_HD&q=1200&e=.m3u8
