@@ -37,7 +37,7 @@ https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v
 https://load.airtelxstream.in/mastiii/smil:common.smil/index.m3u8
 #EXTINF:0,Aaho
 #EXTGRP:Music
-https://v.aaho.tv/live/aahomusic-57043.ts
+https://v.aaho.tv/live/aahomusic.m3u8
 #EXTINF:0,Wow Music
 #EXTGRP:Music
 https://ilove.livebox.co.in/wowinhls/live.m3u8
@@ -49,7 +49,7 @@ http://dishactive.xyz/jio/jio.m3u8?c=MTV_HD_Plus
 https://mslapacs.akamaized.net/hls/live/692167/mtvau/playlist.m3u8
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
-http://dishactive.xyz/jio/jio.m3u8?c=MTV_BEATS_HD
+http://dishactive.xyz/jio/jio.m3u8?c=MTV_Beats_HD
 #EXTINF:0,ETC
 #EXTGRP:Music
 https://msluk5s.akamaized.net/hls/live/2000170/zeesmilemsl/zeesmile_1100/chunklist.m3u8
