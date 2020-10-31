@@ -20,37 +20,37 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 #EXTINF:0, BBC Two HD
 #EXTGRP: UK 
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8
-EXTINF:0, BBC Four HD
+#EXTINF:0, BBC Four
 #EXTGRP: UK 
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
-EXTINF:0, ITV 1
+#EXTINF:0, ITV 1
 #EXTGRP: UK 
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-EXTINF:0, ITV 2
+#EXTINF:0, ITV 2
 #EXTGRP: UK 
 http://51.52.156.22:8888/http/005
-EXTINF:0, Channel 4
+#EXTINF:0, Channel 4
 #EXTGRP: UK 
 http://185.232.53.5:2086/live/gennaro/gennaro/66961.m3u8
-EXTINF:0, Channel 5
+#EXTINF:0, Channel 5
 #EXTGRP: UK 
 http://185.232.53.5:2086/live/gennaro/gennaro/66962.m3u8
-EXTINF:0, E4
+#EXTINF:0, E4
 #EXTGRP: UK 
 http://185.232.53.5:2086/live/gennaro/gennaro/66972.m3u8
-EXTINF:0, Star Movies HD
+#EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/0158de17bb8b802.m3u8
-EXTINF:0, Star Movies Select HD
+#EXTINF:0, Star Movies Select
 #EXTGRP: Hollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/260d69bb5a4b928.m3u8
 EXTINF:0, Sony Pix HD
 #EXTGRP: Hollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/dc9ac236cb73cbb.m3u8
-EXTINF:0, And Flix HD
+#EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 http://z5amshls.akamaized.net/andflix/hdplaylist.m3u8
-EXTINF:0, And Privé HD
+#EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
 http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
 #EXTINF:0,Geo News
@@ -106,7 +106,7 @@ https://load.airtelxstream.in/9xjalwa/smil:common.smil/index.m3u8
 https://mslapacs.akamaized.net/hls/live/692167/zingapac/playlist.m3u8
 #EXTINF:0,Zoom
 #EXTGRP:Music
-http://dishactive.xyz/jio/jio.m3u8?c=ZOOM
+http://dx3.gcdn.co/HINDI-MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
