@@ -25,10 +25,10 @@ EXTINF:0, BBC Four HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
 EXTINF:0, ITV 1
 #EXTGRP: UK 
-http://185.232.53.5:2086/live/gennaro/gennaro/66991.m3u8
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 EXTINF:0, ITV 2
 #EXTGRP: UK 
-http://185.232.53.5:2086/live/gennaro/gennaro/67003.m3u8
+http://51.52.156.22:8888/http/005
 EXTINF:0, Channel 4
 #EXTGRP: UK 
 http://185.232.53.5:2086/live/gennaro/gennaro/66961.m3u8
@@ -38,6 +38,21 @@ http://185.232.53.5:2086/live/gennaro/gennaro/66962.m3u8
 EXTINF:0, E4
 #EXTGRP: UK 
 http://185.232.53.5:2086/live/gennaro/gennaro/66972.m3u8
+EXTINF:0, Star Movies HD
+#EXTGRP: Hollywood
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/0158de17bb8b802.m3u8
+EXTINF:0, Star Movies Select HD
+#EXTGRP: Hollywood
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/260d69bb5a4b928.m3u8
+EXTINF:0, Sony Pix HD
+#EXTGRP: Hollywood
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/dc9ac236cb73cbb.m3u8
+EXTINF:0, And Flix HD
+#EXTGRP: Hollywood
+http://z5amshls.akamaized.net/andflix/hdplaylist.m3u8
+EXTINF:0, And Privé HD
+#EXTGRP: Hollywood
+http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/playlist_dvr.m3u8
@@ -76,7 +91,7 @@ http://dishactive.xyz/jio/jio.m3u8?c=MTV_HD_Plus
 https://load.airtelxstream.in/hbohd/smil:common.smil/manifest.mpd
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
-http://dishactive.xyz/jio/jio.m3u8?c=MTV_Beats_HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/2e6c35522945b1a.m3u8
 #EXTINF:0,ETC
 #EXTGRP:Music
 https://msluk5s.akamaized.net/hls/live/2000170/zeesmilemsl/zeesmile_1100/chunklist.m3u8
