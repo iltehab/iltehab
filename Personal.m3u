@@ -91,20 +91,20 @@ https://v.aaho.tv/live/aahomusic.m3u8
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:0,MTV
 #EXTGRP:Music
-http://dishactive.xyz/jio/jio.m3u8?c=MTV_HD_Plus
-#EXTINF:0,MTV India
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/bae13d5bb4ca9bc.m3u8
+#EXTINF:0,Bindass
 #EXTGRP:Music
-https://load.airtelxstream.in/hbohd/smil:common.smil/manifest.mpd
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/f1013677e681b17.m3u8
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/2e6c35522945b1a.m3u8
-#EXTINF:0,ETC
+#EXTINF:0,Music India
 #EXTGRP:Music
-https://msluk5s.akamaized.net/hls/live/2000170/zeesmilemsl/zeesmile_1100/chunklist.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/3cf7dc83b084c64.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
 https://load.airtelxstream.in/9xm/smil:common.smil/index.m3u8
-#EXTINF:0,B4U Music USA
+#EXTINF:0,9X Jalsa
 #EXTGRP:Music
 https://load.airtelxstream.in/9xjalwa/smil:common.smil/index.m3u8
 #EXTINF:0,Zing
@@ -112,7 +112,7 @@ https://load.airtelxstream.in/9xjalwa/smil:common.smil/index.m3u8
 https://mslapacs.akamaized.net/hls/live/692167/zingapac/playlist.m3u8
 #EXTINF:0,Zoom
 #EXTGRP:Music
-http://dx3.gcdn.co/HINDI-MTVBEATSHD/tracks-v1a1/mono.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/09040ec03d6e9fd.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
@@ -148,10 +148,10 @@ https://load.airtelxstream.in/sonymax/smil:common.smil/index.m3u8
 http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
-https://msluscen1s.akamaized.net/hls/live/2000127/bbomsl/playlist.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/45ee33a1d6d948f.m3u8
 #EXTINF:0, Rishtey Cineplex
 #EXTGRP:Bollywood
-https://msluseasts.akamaized.net/hls/live/2000128/bbousmsl/playlist.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/c66ccffd4944665.m3u8
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
 http://dx3.gcdn.co/hindi-STARGOLD/tracks-v1a1/mono.m3u8
@@ -191,12 +191,12 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:0, B4U Kadak
 #EXTGRP:Bollywood
 https://streamitv.multitvsolution.in/idvo/moviehouse_360p/index.m3u8
-#EXTINF:0,Rishtey Cineplex
+#EXTINF:0,Colors Cineplex USA
 #EXTGRP:Bollywood
-http://jiocdn.in/JIOtv.php?c=Rishtey_Cineplex&q=800&e=.m3u8
-#EXTINF:0,Rishtey Cineplex APAC
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/4131b3c0e0202d1.m3u8
+#EXTINF:0,SET MAX Australia
 #EXTGRP:Bollywood
-https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/playlist.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/756ee35f42dbd80.m3u8
 #EXTINF:0,Rishtey Cineplex UK
 #EXTGRP:Bollywood
 http://217.182.192.226:20000/karl123/456/403
@@ -355,7 +355,7 @@ http://217.182.192.226:20000/karl123/456/80
 http://217.182.192.226:20000/karl123/456/64
 #EXTINF:0,Sky Cinema Disney
 #EXTGRP:Hollywood
-http://217.182.192.226:20000/karl123/456/342
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/85496895df7717c.m3u8
 #EXTINF:0,Sky Cinema Thriller
 #EXTGRP:Hollywood
 http://217.182.192.226:20000/karl123/456/101
@@ -367,7 +367,7 @@ http://217.182.192.226:20000/karl123/456/23
 http://217.182.192.226:20000/karl123/456/598
 #EXTINF:0,Sky Cinema Family
 #EXTGRP:Hollywood
-http://217.182.192.226:20000/karl123/456/3165
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/6fd1a00eb7e58b7.m3u8
 #EXTINF:0,Sky Cinema Action Adventure
 #EXTGRP:Hollywood
 http://217.182.192.226:20000/karl123/456/24
@@ -385,33 +385,6 @@ http://217.182.192.226:20000/karl123/456/99
 #EXTINF:0,HBO 2
 #EXTGRP:Hollywood
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
-#EXTINF:0,IPL
-#EXTGRP:Sports
-http://mhdtvworld.com/delta/hotstar/hsplus.m3u8?c=sshd1livetv&e=.m3u8
-#EXTINF:0,IPL2
-#EXTGRP:Sports
-http://13.234.160.129:81/StarSports1/tracks-v1a1/mono.m3u8?token=NxtSports
-#EXTINF:0,Willow
-#EXTGRP:Sports
-http://stream.wicket.pw/app/willowsd.m3u8
-#EXTINF:0,Willow HD
-#EXTGRP:Sports
-https://cors-anywhere.herokuapp.com/http://stream.wicket.pw/app/willowsd.m3u8
-#EXTINF:0,Sky Sports Cricket
-#EXTGRP:Sports
-https://stream.wicket.pw/app/skysportshd.m3u8
-#EXTINF:0,Sky Sports Main Event
-#EXTGRP:Sports
-http://217.182.192.226:20000/karl123/456/1087
-#EXTINF:0,Watan HD
-#EXTGRP:Sports
-http://51.15.236.137/hls/stream.m3u8
-#EXTINF:0,PTV Sports
-#EXTGRP:Sports
-https://stream.wicket.pw/app/ptvsports.m3u8
-#EXTINF:0,CNN
-#EXTGRP:World News
-http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 #EXTINF:0,TRT World
 #EXTGRP:World News
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
