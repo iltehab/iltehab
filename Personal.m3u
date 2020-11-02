@@ -391,6 +391,6 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:0,RT
 #EXTGRP:World News
 https://rt-uk.secure.footprint.net/1106-inadv-qidx-1k_v3.m3u8
-#EXTINF:0,Aljazeera
+#EXTINF:0,Test
 #EXTGRP:World News
-https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
+http://jiotv.live.cdn.jio.com/bpk-tv/Colors_HD_BTS/output/index.mpd|User-Agent=KAIOS
