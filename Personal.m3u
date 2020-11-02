@@ -388,14 +388,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:0,Sky News
 #EXTGRP:World News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:0,RT
+#EXTINF:0,Test
 #EXTGRP:World News
-https://rt-uk.secure.footprint.net/1106-inadv-qidx-1k_v3.m3u8
-
-#EXTINF:0 tvg-id="144" tvg-name="Colors HD" group-title="Hindi;Entertainment;JioTV+" tvg-chno="3" tvg-logo="https://wxca.cf/images/j/tEjAMpwRiI.png",Colors HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wxca.cf/j/wv/Colors_HD_BTS?signature=32d4f553567bdfb3682a835471827733c2735161&unique=f7f86f13af012823eb20052071f2969e
-http://jiotv.live.cdn.jio.com/bpk-tv/Colors_HD_BTS/output/index.mpd|User-Agent=KAIOS
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/WildlifeScience/7a622aa0a318e6a.m3u8
