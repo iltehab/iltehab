@@ -5,12 +5,6 @@ https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:0, Sky Nature
 #EXTGRP: Infotainment
 http://185.232.53.5:2086/live/gennaro/gennaro/99206.m3u8
-#EXTINF:0, Nat Geo Wild UK
-#EXTGRP: Infotainment
-http://185.232.53.5:2086/live/gennaro/gennaro/67074.m3u8
-#EXTINF:0, Nat Geo Wild
-#EXTGRP: Infotainment
-https://ott.bingebd.com/live/ngrp:nat_geo_wild_all/chunklist.m3u8
 #EXTINF:0, BBC Earth HD
 #EXTGRP: Infotainment
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/6774360613b071f.m3u8
@@ -50,12 +44,9 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/260d69bb5a4b928
 EXTINF:0, Sony Pix HD
 #EXTGRP: Hollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/dc9ac236cb73cbb.m3u8
-EXTINF:0, HBO
-#EXTGRP: Hollywood
-https://ott.bingebd.com/live/ngrp:hbo_all/chunklist.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-http://z5amshls.akamaized.net/andflix/hdplaylist.m3u8
+http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
 http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
@@ -112,7 +103,7 @@ https://load.airtelxstream.in/9xjalwa/smil:common.smil/index.m3u8
 http://185.232.53.5:2086/live/gennaro/gennaro/94667.m3u8
 #EXTINF:0,Zoom
 #EXTGRP:Music
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/09040ec03d6e9fd.m3u8
+http://dx3.gcdn.co/hindi-MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
