@@ -17,7 +17,6 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 #EXTINF:0,Al Jazeera
 #EXTGRP:World News
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
 #EXTINF:0, BBC News HD
 #EXTGRP: UK 
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
@@ -38,13 +37,13 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 http://51.52.156.22:8888/http/005
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
-http://exodus1.eu:8080/live/blue123/blue123/441373.m3u8
+http://imnotdead.live:8080/live/XjTRZnx2Pg/fBDqAeSAAZ/83997.m3u8
 #EXTINF:0, Channel 5
 #EXTGRP: UK 
-http://exodus1.eu:8080/live/blue123/blue123/441374.m3u8
+http://imnotdead.live:8080/live/XjTRZnx2Pg/fBDqAeSAAZ/83999.m3u8
 #EXTINF:0, E4
 #EXTGRP: UK 
-http://exodus1.eu:8080/live/blue123/blue123/49.m3u8
+http://imnotdead.live:8080/live/XjTRZnx2Pg/fBDqAeSAAZ/7922.m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/0158de17bb8b802.m3u8
