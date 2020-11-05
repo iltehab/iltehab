@@ -340,4 +340,4 @@ http://217.182.192.226:20000/karl123/456/402
 http://delta11.flexiptv.store/SonySab/tracks-v1a1/mono.m3u8
 #EXTINF:0,COMEDY
 #EXTGRP:Drama
-http://jiotv.live.cdn.jio.com/bpk-tv/Comedy_Central_HD_BTS/output/index.mpd|User-Agent=KAIOS
+http://jiotv.live.cdn.jio.com/bpk-tv/Comedy_Central_HD_BTS/output/index.mpd|user-agent=KAIOS
