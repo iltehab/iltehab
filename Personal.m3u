@@ -4,10 +4,20 @@
 https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:0, Sky Nature
 #EXTGRP: Infotainment
-http://185.232.53.5:2086/live/gennaro/gennaro/99206.m3u8
+http://exodus1.eu:8080/live/blue123/blue123/399515.m3u8
 #EXTINF:0, BBC Earth HD
 #EXTGRP: Infotainment
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/6774360613b071f.m3u8
+EXTINF:0,TRT World
+#EXTGRP:World News
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:0,Sky News
+#EXTGRP:World News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0,Al Jazeera
+#EXTGRP:World News
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
 #EXTINF:0, BBC News HD
 #EXTGRP: UK 
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
@@ -28,13 +38,13 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 http://51.52.156.22:8888/http/005
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
-http://185.232.53.5:2086/live/gennaro/gennaro/66961.m3u8
+http://exodus1.eu:8080/live/blue123/blue123/441373.m3u8
 #EXTINF:0, Channel 5
 #EXTGRP: UK 
-http://185.232.53.5:2086/live/gennaro/gennaro/66962.m3u8
+http://exodus1.eu:8080/live/blue123/blue123/441374.m3u8
 #EXTINF:0, E4
 #EXTGRP: UK 
-http://185.232.53.5:2086/live/gennaro/gennaro/66972.m3u8
+http://exodus1.eu:8080/live/blue123/blue123/49.m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/0158de17bb8b802.m3u8
@@ -332,53 +342,3 @@ http://delta11.flexiptv.store/SonySab/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sab TV
 #EXTGRP:Drama
 https://mslapacs.akamaized.net/hls/live/692167/sabtvau/playlist.m3u8
-#EXTINF:0,Sony Pix HD
-#EXTGRP:Hollywood
-http://jiocdn.in/JIOtv.php?c=Sony_Pix_HD&q=800&e=.m3u8
-#EXTINF:0,Sky Cinema SCI-FI
-#EXTGRP:Hollywood
-http://217.182.192.226:20000/karl123/456/80
-#EXTINF:0,Sky Cinema Action
-#EXTGRP:Hollywood
-http://217.182.192.226:20000/karl123/456/64
-#EXTINF:0,Sky Cinema Disney
-#EXTGRP:Hollywood
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/85496895df7717c.m3u8
-#EXTINF:0,Sky Cinema Thriller
-#EXTGRP:Hollywood
-http://217.182.192.226:20000/karl123/456/101
-#EXTINF:0,Sky Cinema Horror
-#EXTGRP:Hollywood
-http://217.182.192.226:20000/karl123/456/23
-#EXTINF:0,Sky Cinema SCI-FI Horror
-#EXTGRP:Hollywood
-http://217.182.192.226:20000/karl123/456/598
-#EXTINF:0,Sky Cinema Family
-#EXTGRP:Hollywood
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/6fd1a00eb7e58b7.m3u8
-#EXTINF:0,Sky Cinema Action Adventure
-#EXTGRP:Hollywood
-http://217.182.192.226:20000/karl123/456/24
-#EXTGRP:Hollywood
-http://217.182.192.226:20000/karl123/456/123
-#EXTINF:0,Fox Comedy
-#EXTGRP:Hollywood
-http://161.0.157.9/PLTV/88888888/224/3221226800/01.m3u8
-#EXTINF:0,Fox Cinema
-#EXTGRP:Hollywood
-http://161.0.157.7/PLTV/88888888/224/3221226793/01.m3u8
-#EXTINF:0,Sky Cinema Premiere
-#EXTGRP:Hollywood
-http://217.182.192.226:20000/karl123/456/99
-#EXTINF:0,HBO 2
-#EXTGRP:Hollywood
-http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
-#EXTINF:0,TRT World
-#EXTGRP:World News
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:0,Sky News
-#EXTGRP:World News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:0,Test
-#EXTGRP:World News
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/WildlifeScience/7a622aa0a318e6a.m3u8
