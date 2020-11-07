@@ -37,10 +37,10 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 http://51.52.156.22:8888/http/005
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
-http://imnotdead.live:8080/live/XjTRZnx2Pg/fBDqAeSAAZ/83997.m3u8
+http://dx4.gcdn.co/UK335/index.m3u8
 #EXTINF:0, Channel 5
 #EXTGRP: UK 
-http://imnotdead.live:8080/live/XjTRZnx2Pg/fBDqAeSAAZ/83999.m3u8
+http://dx4.gcdn.co/UK336/index.m3u8
 #EXTINF:0, E4
 #EXTGRP: UK 
 http://imnotdead.live:8080/live/XjTRZnx2Pg/fBDqAeSAAZ/7922.m3u8
@@ -338,6 +338,6 @@ http://217.182.192.226:20000/karl123/456/402
 #EXTINF:0,Sab HD
 #EXTGRP:Drama
 http://delta11.flexiptv.store/SonySab/tracks-v1a1/mono.m3u8
-#EXTINF:0,COMEDY
+#EXTINF:0,Comedy Central
 #EXTGRP:Drama
-https://jiotv.live.cdn.jio.com/bpk-tv/Comedy_Central_HD_BTS/output/index.mpd|user-agent=KAIOS|https://wxca.cf/j/wv/Comedy_Central_HD_BTS?signature=5c5763e15e736d18715043cb8c1209a82e89ae08&unique=743bf8d810e10ccc6ed1ec54d7ebaea8
+http://dx4.gcdn.co/UK337/index.m3u8
