@@ -34,7 +34,7 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-http://51.52.156.22:8888/http/005
+http://dx4.gcdn.co/UK356/index.m3u8
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
 http://dx4.gcdn.co/UK335/index.m3u8
@@ -342,59 +342,44 @@ http://delta11.flexiptv.store/SonySab/tracks-v1a1/mono.m3u8
 #EXTGRP:Drama
 http://dx4.gcdn.co/UK337/index.m3u8
 #EXTINF:0,Sky Cinema
-#EXTGRP:World News
+#EXTGRP:Cinema
 http://dx4.gcdn.co/UK384/index.m3u8
 #EXTINF:0,Sky Cinema
 #EXTGRP:World News
 http://dx4.gcdn.co/UK383/index.m3u8
 #EXTINF:0, Sky Cinema
-#EXTGRP: UK 
+#EXTGRP: Cinema
 http://dx4.gcdn.co/UK382/index.m3u8
 #EXTINF:0, Sky Cinema
-#EXTGRP: UK 
+#EXTGRP: Cinema
 http://dx4.gcdn.co/UK381/index.m3u8
 #EXTINF:0, Sky Cinema
-#EXTGRP: UK 
+#EXTGRP: Cinema
 http://dx4.gcdn.co/UK380/index.m3u8
 #EXTINF:0, Sky Cinema
-#EXTGRP: UK 
+#EXTGRP: Cinema
 http://dx4.gcdn.co/UK379/index.m3u8
 #EXTINF:0, Sky Cinema
-#EXTGRP: UK 
+#EXTGRP: Cinema
 http://dx4.gcdn.co/UK378/index.m3u8
-#EXTINF:0, ITV 2
-#EXTGRP: UK 
-http://dx4.gcdn.co/UK356/index.m3u8
-#EXTINF:0, Channel 4
-#EXTGRP: UK 
-http://dx4.gcdn.co/UK335/index.m3u8
-#EXTINF:0, Channel 5
-#EXTGRP: UK 
-http://dx4.gcdn.co/UK336/index.m3u8
-#EXTINF:0, E4
-#EXTGRP: UK 
-http://dx4.gcdn.co/UK344/index.m3u8
 EXTINF:0,Rishtey UK
 #EXTGRP:Drama
 http://dx4.gcdn.co/UK353/index.m3u8
-#EXTINF:0,Gold
-#EXTGRP:Drama
-http://dx4.gcdn.co/UK352/index.m3u8
 #EXTINF:0,Comedy Central
-#EXTGRP:Drama
+#EXTGRP:UK
 http://dx4.gcdn.co/UK337/index.m3u8 
 #EXTINF:0,Sky Cinema
-#EXTGRP:Drama
+#EXTGRP: Cinema
 http://dx4.gcdn.co/UK386/index.m3u8
 #EXTINF:0,Sky Cinema
-#EXTGRP:Drama
+#EXTGRP: Cinema
 http://dx4.gcdn.co/UK387/index.m3u8
 #EXTINF:0,Sky Cinema
-#EXTGRP:Drama
+#EXTGRP: Cinema
 http://dx4.gcdn.co/UK388/index.m3u8 
 #EXTINF:0,Sky Cinema
-#EXTGRP:Drama
+#EXTGRP: Cinema
 http://dx4.gcdn.co/UK389/index.m3u8
 #EXTINF:0,Sky Cinema
-#EXTGRP:Drama
+#EXTGRP: Cinema
 http://dx4.gcdn.co/UK397/index.m3u8
