@@ -337,7 +337,7 @@ https://msluk4s.akamaized.net/hls/live/2000136/andtvmemsl/playlist.m3u8
 http://217.182.192.226:20000/karl123/456/402
 #EXTINF:0,Sab HD
 #EXTGRP:Drama
-http://delta11.flexiptv.store/SonySab/tracks-v1a1/mono.m3u8
+https://load.airtelxstream.in/colorscineplexhd/smil:common.smil/manifest.mpd
 #EXTINF:0,Comedy Central
 #EXTGRP:Drama
 http://dx4.gcdn.co/UK337/index.m3u8
