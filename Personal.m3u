@@ -70,10 +70,10 @@ https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/b2ca4968066a24b.m3u8
 #EXTINF:0,Dawn
 #EXTGRP:NEWS
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/6c654456be81201.m3u8
-#EXTINF:0,Dunya News
+https://streams.simpaisa.com:8443/pitvlive3/dawnnews.smil/playlist.m3u8
+#EXTINF:0,Samaa
 #EXTGRP:NEWS
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/373b22d0ff9cb18.m3u8
+https://streams.simpaisa.com:8443/pitvlive3/samaanews.smil/playlist.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 http://dx3.gcdn.co/hindi-B4UMUSIC/tracks-v1a1/mono.m3u8
@@ -247,19 +247,19 @@ http://stream.tapmad.com:1935/pitvlive/ptvhome3.stream/playlist.m3u8?
 http://stream.tapmad.com:1935/pitvlive/ptvglobal3.stream/playlist.m3u8
 #EXTINF:0,TV One
 #EXTGRP:Drama
-http://stream.tapmad.com:1935/pitvlive/tvone3.stream/playlist.m3u8?usertoken=iDOLKVi9qzkpDBd4169vaUttmp
+https://streams.simpaisa.com:8443/pitvlive3/tvone.smil/playlist.m3u8
 #EXTINF:0,Express Entertainment
 #EXTGRP:Drama
-http://stream.tapmad.com:1935/pitvlive/express3.stream/playlist.m3u8?usertoken=iDOLKVi9qzkpDBd4169vaUttmp
+http://stream.tapmad.com:8443/pitvlive3/expressent.stream/playlist.m3u8?usertoken=iDOLKVi9qzkpDBd4169vaUttmp
 #EXTINF:0,ATV
 #EXTGRP:Drama
-http://stream.tapmad.com:1935/pitvlive/atv3.stream/playlist.m3u8
+http://stream.tapmad.com:8443/pitvlive3/atv.stream/playlist.m3u8
 #EXTINF:0,Aaj Entertainment
 #EXTGRP:Drama
-http://stream.tapmad.com:1935/pitvlive/aajent3.stream/playlist.m3u8?
+http://stream.tapmad.com:8443/pitvlive3/aajent.stream/playlist.m3u8?
 #EXTINF:0,A Plus
 #EXTGRP:Drama
-http://173.212.252.47:1935/Aplus%20Pakistan/AplusPK/playlist.m3u8?
+https://streams.simpaisa.com:8443/pitvlive3/aplus.smil/playlist.m3u8?
 #EXTINF:0,Hum Sitaray
 #EXTGRP:Drama
 http://stream.tapmad.com:1935/pitvlive/sitaray3.stream/playlist.m3u8?
