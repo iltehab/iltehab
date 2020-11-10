@@ -340,46 +340,28 @@ http://217.182.192.226:20000/karl123/456/402
 https://load.airtelxstream.in/colorscineplexhd/smil:common.smil/manifest.mpd
 #EXTINF:0,Comedy Central
 #EXTGRP:Drama
-http://dx4.gcdn.co/UK337/index.m3u8
-#EXTINF:0,Sky Cinema
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/0113fa1cdf623f4.m3u8
+#EXTINF:0,Sky Cinema Disney
 #EXTGRP:Cinema
-http://dx4.gcdn.co/UK384/index.m3u8
-#EXTINF:0,Sky Cinema
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/85496895df7717c.m3u8
+#EXTINF:0,Sky Cinema Family
 #EXTGRP:World News
-http://dx4.gcdn.co/UK383/index.m3u8
-#EXTINF:0, Sky Cinema
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/6fd1a00eb7e58b7.m3u8
+#EXTINF:0, Sky Cinema Sci-Fi Horror
 #EXTGRP: Cinema
-http://dx4.gcdn.co/UK382/index.m3u8
-#EXTINF:0, Sky Cinema
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/960c3206209f72b.m3u8
+#EXTINF:0, Sky Cinema Premier
 #EXTGRP: Cinema
-http://dx4.gcdn.co/UK381/index.m3u8
-#EXTINF:0, Sky Cinema
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/94cdea027a31e2c.m3u8
+#EXTINF:0, Sky Cinema Comedy
 #EXTGRP: Cinema
-http://dx4.gcdn.co/UK380/index.m3u8
-#EXTINF:0, Sky Cinema
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/3377be67cb7798c.m3u8
+#EXTINF:0, Sky Cinema Action
 #EXTGRP: Cinema
-http://dx4.gcdn.co/UK379/index.m3u8
-#EXTINF:0, Sky Cinema
-#EXTGRP: Cinema
-http://dx4.gcdn.co/UK378/index.m3u8
-EXTINF:0,Rishtey UK
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/afc22160ca6371e.m3u8
+#EXTINF:0, Raavi
+#EXTGRP: Bollywood
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/a60d6f28af57723.m3u8
+EXTINF:0,Silver Screen 
 #EXTGRP:Drama
-http://dx4.gcdn.co/UK353/index.m3u8
-#EXTINF:0,Comedy Central
-#EXTGRP:UK
-http://dx4.gcdn.co/UK337/index.m3u8 
-#EXTINF:0,Sky Cinema
-#EXTGRP: Cinema
-http://dx4.gcdn.co/UK386/index.m3u8
-#EXTINF:0,Sky Cinema
-#EXTGRP: Cinema
-http://dx4.gcdn.co/UK387/index.m3u8
-#EXTINF:0,Sky Cinema
-#EXTGRP: Cinema
-http://dx4.gcdn.co/UK388/index.m3u8 
-#EXTINF:0,Sky Cinema
-#EXTGRP: Cinema
-http://dx4.gcdn.co/UK389/index.m3u8
-#EXTINF:0,Sky Cinema
-#EXTGRP: Cinema
-http://dx4.gcdn.co/UK397/index.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/f0bd89b59ae07e1.m3u8
