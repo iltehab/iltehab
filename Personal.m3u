@@ -34,16 +34,16 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-http://dx4.gcdn.co/UK356/index.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/d98a725296dce2b.m3u8
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
-http://dx4.gcdn.co/UK335/index.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/8c3f3d49812f040.m3u8
 #EXTINF:0, Channel 5
 #EXTGRP: UK 
-http://dx4.gcdn.co/UK336/index.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/08ca91f7f84bd3b.m3u8
 #EXTINF:0, E4
 #EXTGRP: UK 
-http://dx4.gcdn.co/UK344/index.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/3ded6447931733f.m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/0158de17bb8b802.m3u8
