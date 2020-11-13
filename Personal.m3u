@@ -143,6 +143,12 @@ http://dx3.gcdn.co/hindi-SONYMAXHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
 https://load.airtelxstream.in/sonymax/smil:common.smil/index.m3u8
+#EXTINF:0,Set Max UK
+#EXTGRP:Bollywood
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/f8a777eb1183fcd.m3u8
+#EXTINF:0,Sony Max SD
+#EXTGRP:Bollywood
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/756ee35f42dbd80.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
@@ -160,91 +166,63 @@ http://dx3.gcdn.co/hindi-STARGOLD/tracks-v1a1/mono.m3u8
 http://dx3.gcdn.co/hindi-STARGOLDUK/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Gold ME
 #EXTGRP:Bollywood
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_gold_intlPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/b9041cabca3f790.m3u8WQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:0,Star Gold 2
 #EXTGRP:Bollywood
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_movies_okPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:0,Sony Max HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/0e023e6f868ccdb.m3u8ou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:0,Star Gold SD
 #EXTGRP:Bollywood
-http://dx3.gcdn.co/hindi-SONYMAXHD/tracks-v1a1/mono.m3u8
-#EXTINF:0,Sony Max 
-#EXTGRP:Bollywood
-http://india.stariptv.co/airtel/airtel.php?c=sonymax&e=.m3u8
-#EXTINF:0,Sony Max SD
-#EXTGRP:Bollywood
-https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/playlist.m3u8
-#EXTINF:0,Sony Max APAC
-#EXTGRP:Bollywood
-https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/playlist.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/4c95c1073f7dd5b.m3u8
 #EXTINF:0,Sony Max 2
 #EXTGRP:Bollywood
 https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 #EXTINF:0,Sony Wah
 #EXTGRP:Bollywood
 https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-#EXTINF:0,BTV KADAK
+#EXTINF:0, Zee Action
 #EXTGRP:Bollywood
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvkadak.stream/live-orgin/btvkadak.stream/chunks.m3u8
+http://z5amshls.akamaized.net/action/playlist.m3u8
 #EXTINF:0, B4U Kadak
 #EXTGRP:Bollywood
 https://streamitv.multitvsolution.in/idvo/moviehouse_360p/index.m3u8
-#EXTINF:0,Colors Cineplex USA
-#EXTGRP:Bollywood
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/4131b3c0e0202d1.m3u8
-#EXTINF:0,SET MAX Australia
-#EXTGRP:Bollywood
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/756ee35f42dbd80.m3u8
-#EXTINF:0,Rishtey Cineplex UK
-#EXTGRP:Bollywood
-http://217.182.192.226:20000/karl123/456/403
-#EXTINF:0,B4U Movies
-#EXTGRP:Bollywood
-http://jiocdn.in/JIOtv.php?c=B4U_Movies&q=800&e=.m3u8
-#EXTINF:0,B4U Movies UK
-#EXTGRP:Bollywood
-http://185.232.53.5:2086/live/gennaro/gennaro/94667.m3u8
-#EXTINF:0,B4U Movies USA
-#EXTGRP:Bollywood
-http://161.0.157.5/PLTV/88888888/224/3221226255/01.m3u8
-#EXTINF:0,B4U Plus
-#EXTGRP:Bollywood
-http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:0,Bollywood Premiere
-#EXTGRP:Bollywood
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhinpre.stream_all/playlist.m3u8
-#EXTINF:0,BBO Claasics
-#EXTGRP:Bollywood
-https://msluscens.akamaized.net/hls/live/2000126/bboclassicmsl/playlist.m3u8
-#EXTINF:0,Zee Action
-#EXTGRP:Bollywood
-http://jiocdn.in/JIOtv.php?c=Zee_Action&q=800&e=.m3u8
 #EXTINF:0,Zee Bollywood
 #EXTGRP:Bollywood
-http://jiocdn.in/JIOtv.php?c=Zee_Classic&q=800&e=.m3u8
+http://z5amshls.akamaized.net/classic/playlist.m3u8
+#EXTINF:0,Zee Classic
+#EXTGRP:Bollywood
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/3fff272a46fac78.m3u8
+#EXTINF:0,Zee Café HD
+#EXTGRP:Bollywood
+http://z5amshls.akamaized.net/zeecafehd/playlist.m3u8
+#EXTINF:0,UTV Action
+#EXTGRP:Bollywood
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/820a90e1f3b64b5.m3u8
+#EXTINF:0,B4U Movies 
+#EXTGRP:Bollywood
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/9c8e61573080515.m3u8
+#EXTINF:0,B4U Movies UK
+#EXTGRP:Bollywood
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-http://stream.tapmad.com:1935/pitvlive/humtv3.stream/playlist.m3u8?usertoken=d71c82cf-ef74-417c-a135-a3b56415904e-1528309151027tmp
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/a7b0327770771d8.m3u8
 #EXTINF:0,Hum Europe
 #EXTGRP:Drama
-http://217.182.192.226:20000/karl123/456/543
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/ac0162b40a58260.m3u8
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
-http://158.69.229.29:8081/digital_abr/streamabr/digital/livestream/playlist.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/0c1433e7656f71b.m3u8
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
-http://stream1.jeem.tv/geo/geoentertainment_abr/playlist.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/f087ba790e548b4.m3u8
 #EXTINF:0,Geo Kahani
 #EXTGRP:Drama
-http://217.182.192.226:20000/karl123/456/334
-#EXTINF:0,Geo UK
-#EXTGRP:Drama
-http://217.182.192.226:20000/karl123/456/554
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/b9464cae875e9f9.m3u8
 #EXTINF:0,PTV Home
 #EXTGRP:Drama
-http://stream.tapmad.com:1935/pitvlive/ptvhome3.stream/playlist.m3u8?
+http://stream.tapmad.com:8443/pitvlive/ptvhome.stream/playlist.m3u8?
 #EXTINF:0,PTV Global
 #EXTGRP:Drama
-http://stream.tapmad.com:1935/pitvlive/ptvglobal3.stream/playlist.m3u8
+http://stream.tapmad.com:8443/pitvlive3/ptvglobal.stream/playlist.m3u8
 #EXTINF:0,TV One
 #EXTGRP:Drama
 https://streams.simpaisa.com:8443/pitvlive3/tvone.smil/playlist.m3u8
@@ -262,10 +240,10 @@ http://stream.tapmad.com:8443/pitvlive3/aajent.stream/playlist.m3u8?
 https://streams.simpaisa.com:8443/pitvlive3/aplus.smil/playlist.m3u8?
 #EXTINF:0,Hum Sitaray
 #EXTGRP:Drama
-http://stream.tapmad.com:1935/pitvlive/sitaray3.stream/playlist.m3u8?
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/c55dde5ff4b80eb.m3u8?
 #EXTINF:0,ARY Zindagi
 #EXTGRP:Drama
-http://149.202.205.24:1935/ARYZINDAGI/ngrp:myStream_all/playlist.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/808a3a715dac604.m3u8
 #EXTINF:0,Zee TV
 #EXTGRP:Bollywood
 http://jiocdn.in/JIOtv.php?c=Zee_TV_HD&q=800&e=.m3u8
@@ -274,67 +252,6 @@ http://jiocdn.in/JIOtv.php?c=Zee_TV_HD&q=800&e=.m3u8
 http://delta11.flexiptv.store/ZeeTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee TV UK
 #EXTGRP:Drama
-http://217.182.192.226:20000/karl123/456/624
-#EXTINF:0,Zee TV APAC
-#EXTGRP:Drama
-https://mslapacs.akamaized.net/hls/live/692167/zeetvapac/playlist.m3u8
-#EXTINF:0,Zee TV ME
-#EXTGRP:Drama
-https://mslapacs.akamaized.net/hls/live/692167/zeetvme/playlist.m3u8
-#EXTINF:0,Zee TV US
-#EXTGRP:Drama
-https://msluseast1s.akamaized.net/hls/live/2000129/zeetvmsl/playlist.m3u8
-#EXTINF:0,Sony TV HD
-#EXTGRP:Drama
-http://216.144.250.174/Sony_tV_hd/tracks-v1a1/mono.m3u8
-#EXTINF:0,Sony TV UK
-#EXTGRP:Drama
-http://msleurope2s.akamaized.net/hls/live/2000183/sonymaxukhdmsl/playlist.m3u8
-#EXTINF:0,Sony TV India UK
-#EXTGRP:Drama
-http://217.182.192.226:20000/karl123/456/645
-#EXTINF:0,Star Plus HD
-#EXTGRP:Drama
-http://216.144.250.174/Star_Plus_hd/tracks-v1a1/mono.m3u8
-#EXTINF:0,Star Plus UK
-#EXTGRP:Drama
-http://217.182.192.226:20000/karl123/456/340
-#EXTINF:0,Star Plus ME
-#EXTGRP:Drama
-Https://mslapacs.akamaized.net/hls/live/692167/starplusau/playlist.m3u8
-#EXTINF:0,Star Bharat
-#EXTGRP:Drama
-https://mslapacs.akamaized.net/hls/live/692167/lifeokau/playlist.m3u8
-#EXTINF:0,Star Bharat UK
-#EXTGRP:Drama
-http://217.182.192.226:20000/karl123/456/358
-#EXTINF:0,Colors HD
-#EXTGRP:Drama
-http://jiocdn.in/JIOtv.php?c=Colors_HD&q=800&e=.m3u8
-#EXTINF:0,Colors 
-#EXTGRP:Drama
-http://delta11.flexiptv.store/ColorsHD/tracks-v1a1/mono.m3u8
-#EXTINF:0,Colors APAC
-#EXTGRP:Drama
-Https://mslapacs.akamaized.net/hls/live/692167/colorsau/playlist.m3u8
-#EXTINF:0,Colors UK
-#EXTGRP:Drama
-http://217.182.192.226:20000/karl123/456/203
-#EXTINF:0,And TV HD
-#EXTGRP:Drama
-http://jiocdn.in/JIOtv.php?c=And_TV_HD&q=800&e=.m3u8
-#EXTINF:0,And TV
-#EXTGRP:Drama
-https://mslapacs.akamaized.net/hls/live/692167/andtvapachd/playlist.m3u8
-#EXTINF:0,And TV UK
-#EXTGRP:Drama
-http://217.182.192.226:20000/karl123/456/400
-#EXTINF:0,And TV ME
-#EXTGRP:Drama
-https://msluk4s.akamaized.net/hls/live/2000136/andtvmemsl/playlist.m3u8
-#EXTINF:0,Rishtey UK
-#EXTGRP:Drama
-http://217.182.192.226:20000/karl123/456/402
 #EXTINF:0,Sab HD
 #EXTGRP:Drama
 https://load.airtelxstream.in/colorscineplexhd/smil:common.smil/manifest.mpd
