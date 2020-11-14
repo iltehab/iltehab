@@ -146,9 +146,9 @@ https://load.airtelxstream.in/sonymax/smil:common.smil/index.m3u8
 #EXTINF:0,Set Max UK
 #EXTGRP:Bollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/f8a777eb1183fcd.m3u8
-#EXTINF:0,Sony Max SD
+#EXTINF:0,Set Max APAC
 #EXTGRP:Bollywood
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/756ee35f42dbd80.m3u8
+http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
@@ -164,6 +164,9 @@ http://dx3.gcdn.co/hindi-STARGOLD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Gold UK
 #EXTGRP:Bollywood
 http://dx3.gcdn.co/hindi-STARGOLDUK/tracks-v1a1/mono.m3u8
+#EXTINF:0,Star Gold Select HD
+#EXTGRP:Bollywood
+http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
 #EXTINF:0,Star Gold ME
 #EXTGRP:Bollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/b9041cabca3f790.m3u8WQ_uiou_f36erxty_fort63_DH/playlist.m3u8
@@ -202,6 +205,13 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/820a90e1f3b64b5
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/9c8e61573080515.m3u8
 #EXTINF:0,B4U Movies UK
 #EXTGRP:Bollywood
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/5b1b48d4e5066dd.m3u8
+#EXTINF:0, Raavi
+#EXTGRP:Bollywood
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/a60d6f28af57723.m3u8
+EXTINF:0,Silver Screen 
+#EXTGRP: Bollywood
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/f0bd89b59ae07e1.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/a7b0327770771d8.m3u8
@@ -276,9 +286,3 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/3377be67cb7798c.m3
 #EXTINF:0, Sky Cinema Action
 #EXTGRP: Cinema
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/afc22160ca6371e.m3u8
-#EXTINF:0, Raavi
-#EXTGRP: Bollywood
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/a60d6f28af57723.m3u8
-EXTINF:0,Silver Screen 
-#EXTGRP:Drama
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/f0bd89b59ae07e1.m3u8
