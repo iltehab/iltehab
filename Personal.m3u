@@ -4,10 +4,13 @@
 https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:0, Sky Nature
 #EXTGRP: Infotainment
-https://tv4.live/api/stream/ppqpy@akxpert.com/921846/livetv.epg/sky.nature.uk.m3u8
+http://simbapride19.eu:8080/live/andyh/andyh/137098.m3u8
 #EXTINF:0, BBC Earth HD
 #EXTGRP: Infotainment
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/6774360613b071f.m3u8
+http://dx3.gcdn.co/hindi-SONYBBCEARTHHD/index.m3u8
+#EXTINF:0, Nat Geo Wild
+#EXTGRP: Infotainment
+https://ott.bingebd.com/live/ngrp:nat_geo_wild_all/chunklist.m3u8
 #EXTINF:0,TRT World
 #EXTGRP:World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
@@ -34,7 +37,7 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/d98a725296dce2b.m3u8
+http://51.52.156.22:8888/http/005
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/8c3f3d49812f040.m3u8
@@ -47,12 +50,12 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/3ded6447931733f.m3
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/0158de17bb8b802.m3u8
-#EXTINF:0, Star Movies Select
+#EXTINF:0, HBO
 #EXTGRP: Hollywood
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/260d69bb5a4b928.m3u8
+https://ott.bingebd.com/live/ngrp:hbo_all/chunklist.m3u8
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/dc9ac236cb73cbb.m3u8
+https://ott.bingebd.com/live/ngrp:sony_pix_all/chunklist.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
@@ -100,7 +103,7 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/f1013677e681b17
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/2e6c35522945b1a.m3u8
 #EXTINF:0,Music India
 #EXTGRP:Music
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/3cf7dc83b084c64.m3u8
+https://ott.bingebd.com/live/ngrp:music_india_all/chunklist.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
 https://load.airtelxstream.in/9xm/smil:common.smil/index.m3u8
@@ -169,10 +172,10 @@ http://dx3.gcdn.co/hindi-STARGOLDUK/tracks-v1a1/mono.m3u8
 http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
 #EXTINF:0,Star Gold ME
 #EXTGRP:Bollywood
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/b9041cabca3f790.m3u8WQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:star_gold_intl_all/chunklist.m3u8
 #EXTINF:0,Star Gold 2
 #EXTGRP:Bollywood
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/0e023e6f868ccdb.m3u8ou_f36erxty_fort63_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:movies_ok_all/chunklist.m3u8
 #EXTINF:0,Star Gold SD
 #EXTGRP:Bollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/4c95c1073f7dd5b.m3u8
@@ -267,7 +270,7 @@ http://delta11.flexiptv.store/ZeeTVHD/tracks-v1a1/mono.m3u8
 https://load.airtelxstream.in/colorscineplexhd/smil:common.smil/manifest.mpd
 #EXTINF:0,Comedy Central
 #EXTGRP:Drama
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/0113fa1cdf623f4.m3u8
+https://ott.bingebd.com/live/ngrp:comedy_central_all/chunklist.m3u8
 #EXTINF:0,Sky Cinema Disney
 #EXTGRP:Cinema
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/85496895df7717c.m3u8
