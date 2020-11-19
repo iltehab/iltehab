@@ -8,9 +8,12 @@ http://simbapride19.eu:8080/live/andyh/andyh/137098.m3u8
 #EXTINF:0, BBC Earth HD
 #EXTGRP: Infotainment
 http://dx3.gcdn.co/hindi-SONYBBCEARTHHD/index.m3u8
-#EXTINF:0, Nat Geo Wild
+#EXTINF:0, ID
 #EXTGRP: Infotainment
-http://simbapride19.eu:8080/live/andyh/andyh/429.m3u8
+https://streamitv.multitvsolution.in/idvo/investigationdiscovery.m3u8
+#EXTINF:0, Discovery Science
+#EXTGRP: Infotainment
+https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 #EXTINF:0,TRT World
 #EXTGRP:World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
