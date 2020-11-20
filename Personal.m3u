@@ -220,7 +220,7 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/a60d6f28af57
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/f0bd89b59ae07e1.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/a7b0327770771d8.m3u8
+http://95.211.211.168/live/humtv0066/playlist.m3u8
 #EXTINF:0,Hum Europe
 #EXTGRP:Drama
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/ac0162b40a58260.m3u8
@@ -244,13 +244,13 @@ http://stream.tapmad.com:8443/pitvlive3/ptvglobal.stream/playlist.m3u8
 https://streams.simpaisa.com:8443/pitvlive3/tvone.smil/playlist.m3u8
 #EXTINF:0,Express Entertainment
 #EXTGRP:Drama
-http://stream.tapmad.com:8443/pitvlive3/expressent.stream/playlist.m3u8?usertoken=iDOLKVi9qzkpDBd4169vaUttmp
+https://streams.simpaisa.com:8443/pitvlive3/expressent.smil/playlist.m3u8
 #EXTINF:0,ATV
 #EXTGRP:Drama
-http://stream.tapmad.com:8443/pitvlive3/atv.stream/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive3/atv.smil/playlist.m3u8
 #EXTINF:0,Aaj Entertainment
 #EXTGRP:Drama
-http://stream.tapmad.com:8443/pitvlive3/aajent.stream/playlist.m3u8?
+https://streams.simpaisa.com:8443/pitvlive3/aajent.smil/playlist.m3u8?
 #EXTINF:0,A Plus
 #EXTGRP:Drama
 https://streams.simpaisa.com:8443/pitvlive3/aplus.smil/playlist.m3u8?
@@ -263,9 +263,9 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/808a3a715dac
 #EXTINF:0,Zee TV
 #EXTGRP:Bollywood
 http://jiocdn.in/JIOtv.php?c=Zee_TV_HD&q=800&e=.m3u8
-#EXTINF:0,Zee TV 
+#EXTINF:0,ARY Family
 #EXTGRP:Drama
-http://delta11.flexiptv.store/ZeeTVHD/tracks-v1a1/mono.m3u8
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 #EXTINF:0,Zee TV UK
 #EXTGRP:Drama
 #EXTINF:0,Sab HD
