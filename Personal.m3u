@@ -52,13 +52,13 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/08ca91f7f84bd3b.m3
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/3ded6447931733f.m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/0158de17bb8b802.m3u8
+http://89.187.169.204:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=
 #EXTINF:0, HBO
 #EXTGRP: Hollywood
-https://ott.bingebd.com/live/ngrp:hbo_all/chunklist.m3u8
+http://89.187.169.204:2200/R-EX/ENGLISH_HBO_HD-in/index.m3u8?token=
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-https://ott.bingebd.com/live/ngrp:sony_pix_all/chunklist.m3u8
+http://89.187.169.204:2200/R-EX/ENGLISH_SONY_PIX_HD-in/index.m3u8?token=
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
