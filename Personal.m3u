@@ -43,13 +43,13 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 http://51.52.156.22:8888/http/005
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/8c3f3d49812f040.m3u8
+http://185.246.210.53:2200/EX/Channel_4_HD-uk/index.m3u8?token=
 #EXTINF:0, Channel 5
 #EXTGRP: UK 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/08ca91f7f84bd3b.m3u8
+http://185.246.210.53:2200/EX/Channel_5_HD-uk/index.m3u8?token=
 #EXTINF:0, E4
 #EXTGRP: UK 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/3ded6447931733f.m3u8
+http://185.246.210.53:2200/EX/E4_HD-uk/index.m3u8?token=
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://89.187.169.204:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=
