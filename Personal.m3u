@@ -4,7 +4,7 @@
 https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:0, Sky Nature
 #EXTGRP: Infotainment
-http://simbapride19.eu:8080/live/andyh/andyh/137098.m3u8
+http://185.246.210.53:2200/EX/Sky_Nature_HD-uk/index.m3u8?token=
 #EXTINF:0, BBC Earth HD
 #EXTGRP: Infotainment
 http://dx3.gcdn.co/hindi-SONYBBCEARTHHD/index.m3u8
@@ -58,7 +58,7 @@ http://89.187.169.204:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=
 http://89.187.169.204:2200/R-EX/ENGLISH_HBO_HD-in/index.m3u8?token=
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://89.187.169.204:2200/R-EX/ENGLISH_SONY_PIX_HD-in/index.m3u8?token=
+http://89.187.169.204:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
@@ -115,7 +115,7 @@ https://load.airtelxstream.in/9xm/smil:common.smil/index.m3u8
 https://load.airtelxstream.in/9xjalwa/smil:common.smil/index.m3u8
 #EXTINF:0,B4u Music UK
 #EXTGRP:Music
-http://simbapride19.eu:8080/live/andyh/andyh/14211.m3u8
+http://89.187.169.205:2200/NL/b4umusic-in/index.m3u8?token=
 #EXTINF:0,Zoom
 #EXTGRP:Music
 http://dx3.gcdn.co/hindi-MTVBEATSHD/tracks-v1a1/mono.m3u8
