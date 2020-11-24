@@ -103,10 +103,10 @@ http://dx3.gcdn.co/hindi-MTVINDIA/tracks-v1a1/mono.m3u8
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/f1013677e681b17.m3u8
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/2e6c35522945b1a.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=
 #EXTINF:0,Music India
 #EXTGRP:Music
-https://ott.bingebd.com/live/ngrp:music_india_all/chunklist.m3u8
+http://dx3.gcdn.co/hindi-MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
 https://load.airtelxstream.in/9xm/smil:common.smil/index.m3u8
