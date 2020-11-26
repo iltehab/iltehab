@@ -157,19 +157,22 @@ http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
 http://dx3.gcdn.co/hindi-SONYMAXHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
-https://load.airtelxstream.in/sonymax/smil:common.smil/index.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/41b489fb11c5179.m3u8
 #EXTINF:0,Set Max UK
 #EXTGRP:Bollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/f8a777eb1183fcd.m3u8
 #EXTINF:0,Set Max APAC
 #EXTGRP:Bollywood
-http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/756ee35f42dbd80.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
 http://dx3.gcdn.co/hindi-COLORSCINEPLEXUK/tracks-v1a1/mono.m3u8
+#EXTINF:0,Colors Cineplex ME
+#EXTGRP:Bollywood
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/4131b3c0e0202d1.m3u8
 #EXTINF:0, Rishtey Cineplex
 #EXTGRP:Bollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/c66ccffd4944665.m3u8
@@ -184,19 +187,19 @@ http://dx3.gcdn.co/hindi-STARGOLDUK/tracks-v1a1/mono.m3u8
 http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
 #EXTINF:0,Star Gold ME
 #EXTGRP:Bollywood
-https://ott.bingebd.com/live/ngrp:star_gold_intl_all/chunklist.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/b9041cabca3f790.m3u8
 #EXTINF:0,Star Gold 2
 #EXTGRP:Bollywood
-https://ott.bingebd.com/live/ngrp:movies_ok_all/chunklist.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/0e023e6f868ccdb.m3u8
 #EXTINF:0,Star Gold SD
 #EXTGRP:Bollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/4c95c1073f7dd5b.m3u8
 #EXTINF:0,Sony Max 2
 #EXTGRP:Bollywood
-https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+http://dx3.gcdn.co/hindi-SONYMAX2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Wah
 #EXTGRP:Bollywood
-https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/bc67b5d958603b8.m3u8
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
 http://z5amshls.akamaized.net/action/playlist.m3u8
