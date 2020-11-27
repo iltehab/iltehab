@@ -90,9 +90,6 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/b2ca4968066a
 #EXTINF:0,Dawn
 #EXTGRP:NEWS
 https://streams.simpaisa.com:8443/pitvlive3/dawnnews.smil/playlist.m3u8
-#EXTINF:0,Samaa
-#EXTGRP:NEWS
-https://streams.simpaisa.com:8443/pitvlive3/samaanews.smil/playlist.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 http://dx3.gcdn.co/hindi-B4UMUSIC/tracks-v1a1/mono.m3u8
@@ -285,27 +282,6 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/c55dde5ff4b8
 #EXTINF:0,ARY Zindagi
 #EXTGRP:Drama
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/808a3a715dac604.m3u8
-#EXTINF:0,Zee TV
-#EXTGRP:Bollywood
-http://jiocdn.in/JIOtv.php?c=Zee_TV_HD&q=800&e=.m3u8
 #EXTINF:0,ARY Family
 #EXTGRP:Drama
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8
-#EXTINF:0,Zee TV UK
-#EXTGRP:Drama
-#EXTINF:0, TEST
-#https://livevoot-i.akamaihd.net/dash/live/876250/comedycentral/master.mpd 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZLY2h0SWpVdzZGZXY3VjhWdEZSbUlvbGxmREI4M0o2c1pfQkMtWnZfSnhSbHNNVjlVTkVHSVNWTkd2UTJfb3pyX1ZQU1BEaUNVZm1qSGdDZlE3RnhXWWY3dWExY1B3TkQ0UzRQUjQ3UmxNYVpuYVp2Q3JibGZVSlRzTGswSVlwZGR0bHRxekx2VFBwZTBwampKdWVGV0R6VTVsV3RVUDhjS1QwMFRaYXJoUnpsTHFaU05mOEVucXhPTm5Gb0lMWkdWYkN4eU5FQlZMbXg2aHBFT0hod2pndy1ZZXVxd1dzaTVhMS01Y3lBZDJBTlRhdWV3aHdET3RYMTJkb09Sb3FoSTBvZU8tMTVsQ1hoSjYxMzZFTjNCMmh0Rk1ja0psZEZvbUxpMlBMV01SRW9mREhyLWZQQVd2cTlqRmxCOHVpSEhhajl5R0RmTUJaM0FsaEQ3b2VkUFU9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTA2ODI5MTYiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3Jza2FubmFkYWhkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZLY2h0SWpVdzZGZXY3VjhWdEZSbUlvbGxmREI4M0o2c1pfQkMtWnZfSnhSbHNNVjlVTkVHSVNWTkd2UTJfb3pyX1ZQU1BEaUNVZm1qSGdDZlE3RnhXWWY3dWExY1B3TkQ0UzRQUjQ3UmxNYVpuYVp2Q3JibGZVSlRzTGswSVlwZGR0bHRxekx2VFBwZTBwampKdWVGV0R6VTVsV3RVUDhjS1QwMFRaYXJoUnpsTHFaU05mOEVucXhPTm5Gb0lMWkdWYkN4eU5FQlZMbXg2aHBFT0hod2pndy1ZZXVxd1dzaTVhMS01Y3lBZDJBTlRhdWV3aHdET3RYMTJkb09Sb3FoSTBvZU8tMTVsQ1hoSjYxMzZFTjNCMmh0Rk1ja0psZEZvbUxpMlBMV01SRW9mREhyLWZQQVd2cTlqRmxCOHVpSEhhajl5R0RmTUJaM0FsaEQ3b2VkUFU9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=1V%2fHGzSpXLYJ7K37fYhTF8NiQnM%3d
-#EXTINF:0,Comedy Central
-#EXTGRP:Drama
-#EXTINF:0, Sky Cinema Premier
-#EXTGRP: Cinema
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/94cdea027a31e2c.m3u8
-#EXTINF:0, Sky Cinema Comedy
-#EXTGRP: Cinema
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/3377be67cb7798c.m3u8
-#EXTINF:0, Sky Cinema Action
-#EXTGRP: Cinema
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/afc22160ca6371e.m3u8
