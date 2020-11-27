@@ -48,11 +48,24 @@ http://185.246.210.53:2200/EX/Channel_4_HD-uk/index.m3u8?token=
 #EXTGRP: UK 
 http://185.246.210.53:2200/EX/Channel_5_HD-uk/index.m3u8?token=
 #EXTINF:0, E4
-#EXTGRP: UK 
+#EXTGRP: UK
 http://185.246.210.53:2200/EX/E4_HD-uk/index.m3u8?token=
+#EXTINF:0,Sky Cinema Disney
+#EXTGRP:Cinema
+http://89.187.169.206:2200/EX/Sky_Cinema_Disney_HD-uk/index.m3u8?token=
+#EXTINF:0,Sky Cinema Family
+#EXTGRP: Cinema
+http://89.187.169.206:2200/EX/Sky_Cinema_Family_HD-uk/index.m3u8?token=
+#EXTINF:0, Sky Cinema Select
+#EXTGRP: Cinema
+http://89.187.169.206:2200/EX/Sky_Cinema_Select_HD-uk/index.m3u8?token=
+HD-uk/index.m3u8?token=
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://89.187.169.204:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=
+#EXTINF:0, Star Movies Select
+#EXTGRP: Hollywood
+http://89.187.169.204:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=
 #EXTINF:0, HBO
 #EXTGRP: Hollywood
 http://89.187.169.204:2200/R-EX/ENGLISH_HBO_HD-in/index.m3u8?token=
@@ -287,16 +300,6 @@ http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZLY2h0SWpVdzZGZXY3VjhWdEZSbUlvbGxmREI4M0o2c1pfQkMtWnZfSnhSbHNNVjlVTkVHSVNWTkd2UTJfb3pyX1ZQU1BEaUNVZm1qSGdDZlE3RnhXWWY3dWExY1B3TkQ0UzRQUjQ3UmxNYVpuYVp2Q3JibGZVSlRzTGswSVlwZGR0bHRxekx2VFBwZTBwampKdWVGV0R6VTVsV3RVUDhjS1QwMFRaYXJoUnpsTHFaU05mOEVucXhPTm5Gb0lMWkdWYkN4eU5FQlZMbXg2aHBFT0hod2pndy1ZZXVxd1dzaTVhMS01Y3lBZDJBTlRhdWV3aHdET3RYMTJkb09Sb3FoSTBvZU8tMTVsQ1hoSjYxMzZFTjNCMmh0Rk1ja0psZEZvbUxpMlBMV01SRW9mREhyLWZQQVd2cTlqRmxCOHVpSEhhajl5R0RmTUJaM0FsaEQ3b2VkUFU9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTA2ODI5MTYiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3Jza2FubmFkYWhkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZLY2h0SWpVdzZGZXY3VjhWdEZSbUlvbGxmREI4M0o2c1pfQkMtWnZfSnhSbHNNVjlVTkVHSVNWTkd2UTJfb3pyX1ZQU1BEaUNVZm1qSGdDZlE3RnhXWWY3dWExY1B3TkQ0UzRQUjQ3UmxNYVpuYVp2Q3JibGZVSlRzTGswSVlwZGR0bHRxekx2VFBwZTBwampKdWVGV0R6VTVsV3RVUDhjS1QwMFRaYXJoUnpsTHFaU05mOEVucXhPTm5Gb0lMWkdWYkN4eU5FQlZMbXg2aHBFT0hod2pndy1ZZXVxd1dzaTVhMS01Y3lBZDJBTlRhdWV3aHdET3RYMTJkb09Sb3FoSTBvZU8tMTVsQ1hoSjYxMzZFTjNCMmh0Rk1ja0psZEZvbUxpMlBMV01SRW9mREhyLWZQQVd2cTlqRmxCOHVpSEhhajl5R0RmTUJaM0FsaEQ3b2VkUFU9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=1V%2fHGzSpXLYJ7K37fYhTF8NiQnM%3d
 #EXTINF:0,Comedy Central
 #EXTGRP:Drama
-https://ott.bingebd.com/live/ngrp:comedy_central_all/chunklist.m3u8
-#EXTINF:0,Sky Cinema Disney
-#EXTGRP:Cinema
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/85496895df7717c.m3u8
-#EXTINF:0,Sky Cinema Family
-#EXTGRP: Cinema
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/6fd1a00eb7e58b7.m3u8
-#EXTINF:0, Sky Cinema Sci-Fi Horror
-#EXTGRP: Cinema
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/960c3206209f72b.m3u8
 #EXTINF:0, Sky Cinema Premier
 #EXTGRP: Cinema
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/94cdea027a31e2c.m3u8
