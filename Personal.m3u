@@ -110,7 +110,7 @@ https://ilove.livebox.co.in/wowinhls/live.m3u8
 http://dx3.gcdn.co/hindi-MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:0,Bindass
 #EXTGRP:Music
-http://t100v.com/play.php?token=RED&id=48170
+http://t100v.com/play.php?token=RED&id=48170&type=m3u8
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
@@ -170,7 +170,7 @@ http://dx3.gcdn.co/hindi-SONYMAXHD/tracks-v1a1/mono.m3u8
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/41b489fb11c5179.m3u8
 #EXTINF:0,Set Max UK
 #EXTGRP:Bollywood
-http://t100v.com/play.php?token=RED&id=18185
+http://t100v.com/play.php?token=RED&id=18185&type=m3u8
 #EXTINF:0,Set Max APAC
 #EXTGRP:Bollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/756ee35f42dbd80.m3u8
@@ -185,7 +185,7 @@ http://dx3.gcdn.co/hindi-COLORSCINEPLEXUK/tracks-v1a1/mono.m3u8
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/4131b3c0e0202d1.m3u8
 #EXTINF:0, Rishtey Cineplex
 #EXTGRP:Bollywood
-http://t100v.com/play.php?token=RED&id=14036
+http://t100v.com/play.php?token=RED&id=14036&type=m3u8
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
 http://dx3.gcdn.co/hindi-STARGOLD/tracks-v1a1/mono.m3u8
