@@ -7,7 +7,7 @@ https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 http://185.246.210.53:2200/EX/Sky_Nature_HD-uk/index.m3u8?token=
 #EXTINF:0, BBC Earth HD
 #EXTGRP: Infotainment
-http://dx3.gcdn.co/hindi-SONYBBCEARTHHD/index.m3u8
+http://185.246.210.50:2200/R-EX/HINDI_BBC_EARTH_HD-in/index.m3u8?token=
 #EXTINF:0, NAT GEO WILD HD
 #EXTGRP: Infotainment
 http://89.187.169.204:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/index.m3u8?token=
@@ -92,7 +92,7 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/b2ca4968066a
 https://streams.simpaisa.com:8443/pitvlive3/dawnnews.smil/playlist.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-http://dx3.gcdn.co/hindi-B4UMUSIC/tracks-v1a1/mono.m3u8
+http://185.59.222.171:2200/R-EX/HINDI_B4U_MUSIC-in/index.m3u8?token=RED
 #EXTINF:0,Show Box
 #EXTGRP:Music
 https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/be3ef13a77a24a9ab185567d1ea0d9d8/index.m3u8?
@@ -107,10 +107,10 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8?@asfaiptv
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:0,MTV
 #EXTGRP:Music
-http://dx3.gcdn.co/hindi-MTVINDIA/tracks-v1a1/mono.m3u8
+http://185.246.210.51:2200/R-EX/HINDI_MTV_PLUS_HD-in/index.m3u8?token=RED
 #EXTINF:0,Bindass
 #EXTGRP:Music
-http://t100v.com/play.php?token=RED&id=48170&type=m3u8
+http://195.181.172.83:2200/R-EX/HINDI_BINDAS_MOVIES-in/index.m3u8?token=
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
@@ -119,7 +119,7 @@ https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NDUzMzc5OCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjb21lZHljZW50cmFsX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=59e4ClW2BOar8fBSc5NW4g1j%2fio%3d
 #EXTINF:0,Zoom
 #EXTGRP:Music
-http://dx3.gcdn.co/hindi-MTVBEATSHD/tracks-v1a1/mono.m3u8
+http://89.187.169.206:2200/R-EX/HINDI_ZOOM_TV-in/index.m3u8?token=RED
 #EXTINF:0, Music India
 #EXTGRP:Music
 http://dx3.gcdn.co/hindi-MUSICINDIA/index.m3u8
@@ -164,19 +164,19 @@ http://z5amshls.akamaized.net/andpicshd/playlist.m3u8
 http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
-http://dx3.gcdn.co/hindi-SONYMAXHD/tracks-v1a1/mono.m3u8
+http://89.187.169.204:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=RED
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/41b489fb11c5179.m3u8
 #EXTINF:0,Set Max UK
 #EXTGRP:Bollywood
-http://t100v.com/play.php?token=RED&id=18185&type=m3u8
+http://185.246.210.51:2200/EX/sonysetmax-in/index.m3u8?token=
 #EXTINF:0,Set Max APAC
 #EXTGRP:Bollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/756ee35f42dbd80.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
-http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
+http://195.181.172.83:2200/R-EX/HINDI_CINEPLEX_HD-in/index.m3u8?token=
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
 http://dx3.gcdn.co/hindi-COLORSCINEPLEXUK/tracks-v1a1/mono.m3u8
@@ -188,13 +188,13 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/4131b3c0e0202d1
 http://t100v.com/play.php?token=RED&id=14036&type=m3u8
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
-http://dx3.gcdn.co/hindi-STARGOLD/tracks-v1a1/mono.m3u8
+http://185.246.210.52:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=RED
 #EXTINF:0,Star Gold UK
 #EXTGRP:Bollywood
-http://dx3.gcdn.co/hindi-STARGOLDUK/tracks-v1a1/mono.m3u8
+http://185.246.210.52:2200/NL/stargold-uk/index.m3u8?token=RED
 #EXTINF:0,Star Gold Select HD
 #EXTGRP:Bollywood
-http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
+http://185.246.210.52:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=RED
 #EXTINF:0,Star Gold ME
 #EXTGRP:Bollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/b9041cabca3f790.m3u8
@@ -206,7 +206,7 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/0e023e6f868ccdb
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/4c95c1073f7dd5b.m3u8
 #EXTINF:0,Sony Max 2
 #EXTGRP:Bollywood
-http://dx3.gcdn.co/hindi-SONYMAX2/tracks-v1a1/mono.m3u8
+http://89.187.169.206:2200/R-EX/HINDI_SONY_MAX_2-in/index.m3u8?token=RED
 #EXTINF:0,Sony Wah
 #EXTGRP:Bollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/bc67b5d958603b8.m3u8
@@ -233,10 +233,10 @@ http://156.146.43.241:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=
 http://156.146.43.241:2200/R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=
 #EXTINF:0,B4U Movies 
 #EXTGRP:Bollywood
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/9c8e61573080515.m3u8
+http://89.187.169.202:2200/R-EX/HINDI_B4U_MOVIES-in/index.m3u8?token=RED
 #EXTINF:0,B4U Movies UK
 #EXTGRP:Bollywood
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/5b1b48d4e5066dd.m3u8
+http://89.187.169.205:2200/NL/b4umovies-in/index.m3u8?token=RED
 #EXTINF:0, Raavi
 #EXTGRP:Bollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/a60d6f28af57723.m3u8
