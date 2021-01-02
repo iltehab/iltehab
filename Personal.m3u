@@ -4,7 +4,7 @@
 https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:0, Sky Nature
 #EXTGRP: Infotainment
-http://185.246.210.53:2200/EX/Sky_Nature_HD-uk/index.m3u8?token=
+http://89.187.169.206:2200/EX/Sky_Nature_HD-uk/index.m3u8?token=
 #EXTINF:0, BBC Earth HD
 #EXTGRP: Infotainment
 http://89.187.169.205:2200/R-EX/HINDI_BBC_EARTH_HD-in/index.m3u8?token=RED
@@ -46,13 +46,13 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 http://51.52.156.22:8888/http/005
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
-http://185.246.210.53:2200/EX/Channel_4_HD-uk/index.m3u8?token=
+http://89.187.169.206:2200/EX/Channel_4_HD-uk/index.m3u8?token=
 #EXTINF:0, Channel 5
 #EXTGRP: UK 
-http://185.246.210.53:2200/EX/Channel_5_HD-uk/index.m3u8?token=
+http://89.187.169.206:2200/EX/Channel_5_HD-uk/index.m3u8?token=
 #EXTINF:0, E4
 #EXTGRP: UK
-http://185.246.210.53:2200/EX/E4_HD-uk/index.m3u8?token=
+http://89.187.169.206:2200/EX/E4_HD-uk/index.m3u8?token=
 #EXTINF:0,Sky Cinema Disney
 #EXTGRP:Cinema
 http://89.187.169.206:2200/EX/Sky_Cinema_Disney_HD-uk/index.m3u8?token=
