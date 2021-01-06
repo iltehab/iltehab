@@ -158,7 +158,7 @@ http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
 http://z5amshls.akamaized.net/cinemausa/playlist.m3u8
 #EXTINF:0,And Xplor HD
 #EXTGRP:Bollywood
-https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8?
+http://://156.146.43.241:2200/R-EX/SPORTS_SONY_ESPN_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
 http://z5amshls.akamaized.net/andpicshd/playlist.m3u8
