@@ -49,7 +49,7 @@ http://51.52.156.22:8888/http/005
 http://185.59.222.171:2200/NL/channel4-uk/index.m3u8?token=RED
 #EXTINF:0, Channel 5
 #EXTGRP: UK 
-http://185.59.222.171:2200/NL/channel4-uk/index.m3u8?token=RED
+http://185.59.222.171:2200/NL/channel5-uk/index.m3u8?token=RED
 #EXTINF:0, E4
 #EXTGRP: UK
 http://89.187.169.206:2200/EX/E4_HD-uk/index.m3u8?token=
