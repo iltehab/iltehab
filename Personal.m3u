@@ -89,7 +89,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:0,Hum News
 #EXTGRP:NEWS
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/b2ca4968066a24b.m3u8
+https://ccdn1.jazztv.pk:8077/jazzauth/Hum-news-80/live/80H/playlist.m3u8
 #EXTINF:0,Dawn
 #EXTGRP:NEWS
 https://streams.simpaisa.com:8443/pitvlive3/dawnnews.smil/playlist.m3u8
@@ -170,7 +170,7 @@ http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
 http://89.187.169.204:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=RED
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
-http://125.209.89.83:5555/play/a02y/index.m3u8
+http://45.127.244.7:8080/hls/channel6.m3u8
 #EXTINF:0,Set Max UK
 #EXTGRP:Bollywood
 http://89.187.169.206:2200/EX/UKSD_SONY_MAX-uk/index.m3u8?token=RED,
@@ -188,7 +188,7 @@ http://195.181.172.83:2200/NL/rishteycine-uk/index.m3u8?token= to/playlist.m3u8,
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/4131b3c0e0202d1.m3u8
 #EXTINF:0, Rishtey Cineplex
 #EXTGRP:Bollywood
-https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/indialpc@!2/rishteycineplex/playlist.m3u8
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
 http://89.187.169.204:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=RED
