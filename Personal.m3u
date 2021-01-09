@@ -173,7 +173,7 @@ http://89.187.169.204:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=RED
 http://125.209.89.83:5555/play/a02y/index.m3u8
 #EXTINF:0,Set Max UK
 #EXTGRP:Bollywood
-https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/indialpc@!2/sonysetmaxuk/playlist.m3u8,
+http://89.187.169.206:2200/EX/UKSD_SONY_MAX-uk/index.m3u8?token=RED,
 #EXTINF:0,Set Max APAC
 #EXTGRP:Bollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/756ee35f42dbd80.m3u8
@@ -182,7 +182,7 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/756ee35f42dbd80
 http://195.181.172.83:2200/R-EX/HINDI_CINEPLEX_HD-in/index.m3u8?token=
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
-https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/indialpc@!2/rishteycineplexuk to/playlist.m3u8,
+http://195.181.172.83:2200/NL/rishteycine-uk/index.m3u8?token= to/playlist.m3u8,
 #EXTINF:0,Colors Cineplex ME
 #EXTGRP:Bollywood
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/4131b3c0e0202d1.m3u8
@@ -194,7 +194,7 @@ https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081
 http://89.187.169.204:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=RED
 #EXTINF:0,Star Gold UK
 #EXTGRP:Bollywood
-http://185.246.210.52:2200/NL/stargold-uk/index.m3u8?token=RED
+http://185.246.210.47:2200/EX/UKSD_Star_Gold_SD-uk/index.m3u8?token=RED
 #EXTINF:0,Star Gold Select HD
 #EXTGRP:Bollywood
 http://89.187.169.204:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=RED
