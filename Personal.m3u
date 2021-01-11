@@ -111,9 +111,9 @@ https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:0,MTV
 #EXTGRP:Music
 https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/indialpc@!2/mtvindia/playlist.m3u8
-#EXTINF:0,Bindass
+#EXTINF:0,Oxygene
 #EXTGRP:Music
-http://195.181.172.83:2200/R-EX/HINDI_BINDAS_MOVIES-in/index.m3u8?token=
+http://ccdn2.jazztv.pk:8085/appchannel/132M/playlist.m3u8
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
@@ -248,13 +248,13 @@ http://cdn.smartstream.video/smartstream-us/pitaratv/pitaratv/chunklist.m3u8
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-http://95.211.211.168/live/humtv0066/playlist.m3u8
+https://ccdn1.jazztv.pk:8077/jazzauth/Hum-TV-136-3/live/136-3M/playlist.m3u8
 #EXTINF:0,Hum Europe
 #EXTGRP:Drama
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/ac0162b40a58260.m3u8
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/0c1433e7656f71b.m3u8
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream4/chunks.m3u8
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/f087ba790e548b4.m3u8
@@ -263,7 +263,7 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/f087ba790e54
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/b9464cae875e9f9.m3u8
 #EXTINF:0,PTV Home
 #EXTGRP:Drama
-http://stream.tapmad.com:8443/pitvlive/ptvhome.stream/playlist.m3u8?
+http://ccdn2.jazztv.pk:8085/appchannel/174M/playlist.m3u8?
 #EXTINF:0,PTV Global
 #EXTGRP:Drama
 http://stream.tapmad.com:8443/pitvlive3/ptvglobal.stream/playlist.m3u8
@@ -284,10 +284,10 @@ https://streams.simpaisa.com:8443/pitvlive3/aajent.smil/playlist.m3u8?
 https://streams.simpaisa.com:8443/pitvlive3/aplus.smil/playlist.m3u8?
 #EXTINF:0,Hum Sitaray
 #EXTGRP:Drama
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/c55dde5ff4b80eb.m3u8?
+https://ccdn1.jazztv.pk:8077/jazzauth/HumSitaray-157-4/live/157-4M/playlist.m3u8?
 #EXTINF:0,ARY Zindagi
 #EXTGRP:Drama
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/808a3a715dac604.m3u8
+https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
 #EXTINF:0,Test
 #EXTGRP:Drama
 https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8,
