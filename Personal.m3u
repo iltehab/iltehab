@@ -2,6 +2,9 @@
 #EXTINF:0, Animal Planet HD
 #EXTGRP: Infotainment
 https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:0, Love Nature 4K
+#EXTGRP: Infotainment
+https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/utvmoviesint/playlist.m3u8
 #EXTINF:0, Sky Nature
 #EXTGRP: Infotainment
 http://89.187.169.206:2200/EX/Sky_Nature_HD-uk/index.m3u8?token=
@@ -146,7 +149,7 @@ https://live.hungama.com/linear/kadak-hits/playlist.m3u8?@asfaiptv
 http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Bollywood
-https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/14c290cdde854265b74f78b102f6ecd8/index.m3u8?
+https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeecinema/playlist.m3u8?
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
 http://z5amshls.akamaized.net/cinemauk/playlist.m3u8
