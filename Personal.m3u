@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0, Animal Planet HD
 #EXTGRP: Infotainment
-https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
+http://185.246.210.48:2200/R-EX/HINDI_ANIMAL_PLANET_WORLD_HD-in/index.m3u8?token=RED
 #EXTINF:0, Love Nature 4K
 #EXTGRP: Infotainment
 https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/utvmoviesint/playlist.m3u8
@@ -105,9 +105,9 @@ https://streams.simpaisa.com:8443/pitvlive3/dawnnews.smil/playlist.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 http://156.146.43.241:2200/R-EX/HINDI_B4U_MUSIC-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0,Show Box
+#EXTINF:0,Bindass
 #EXTGRP:Music
-https://livechannel.shemaroome.com/linearplayout/test-linear-channel/chunklist_1920x1080_cf.m3u8?
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9ccd2d5c7f1c8c9.m3u8?
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
@@ -119,10 +119,10 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8?@asfaiptv
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:0,MTV
 #EXTGRP:Music
-https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/indialpc@!2/mtvindia/playlist.m3u8
-#EXTINF:0,Oxygene
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/2dbcd106df9b6e9.m3u8
+#EXTINF:0,Zoom
 #EXTGRP:Music
-http://ccdn2.jazztv.pk:8085/appchannel/132M/playlist.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/77789e89e7b4b03.m3u8
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
@@ -134,7 +134,7 @@ https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 http://89.187.169.206:2200/R-EX/HINDI_ZOOM_TV-in/index.m3u8?token=RED
 #EXTINF:0, Music India
 #EXTGRP:Music
-https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/indialpc@!2/musicindia/playlist.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/549940985fc4662.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
