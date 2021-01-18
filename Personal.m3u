@@ -80,7 +80,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d2cb1f2def7c995
 http://89.187.169.204:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=
 #EXTINF:0, HBO
 #EXTGRP: Hollywood
-http://89.187.169.204:2200/R-EX/ENGLISH_HBO_HD-in/index.m3u8?token=
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Pakistan/097052cfff94a57.m3u8
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
 http://89.187.169.204:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=
@@ -252,9 +252,9 @@ http://89.187.169.205:2200/NL/b4umovies-in/index.m3u8?token=RED
 #EXTINF:0, Pitaara
 #EXTGRP:Bollywood
 http://cdn.smartstream.video/smartstream-us/pitaratv/pitaratv/chunklist.m3u8
-#EXTINF:0,MH1
+#EXTINF:0,Silver Screen
 #EXTGRP: Bollywood
-http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Pakistan/5e188d8152fdf0b.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
 https://ccdn1.jazztv.pk:8077/jazzauth/Hum-TV-136-3/live/136-3M/playlist.m3u8
