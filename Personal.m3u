@@ -74,7 +74,7 @@ http://89.187.169.206:2200/EX/Sky_Cinema_Select_HD-uk/index.m3u8?token=
 HD-uk/index.m3u8?token=
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
-https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d2cb1f2def7c995.m3u8
 #EXTINF:0, Star Movies Select
 #EXTGRP: Hollywood
 http://89.187.169.204:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=
@@ -155,7 +155,7 @@ https://live.hungama.com/linear/kadak-hits/playlist.m3u8?@asfaiptv
 http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Bollywood
-https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeecinema/playlist.m3u8?
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/0c66a1e75716bab.m3u8?
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
 http://z5amshls.akamaized.net/cinemauk/playlist.m3u8
@@ -167,7 +167,7 @@ http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
 http://z5amshls.akamaized.net/cinemausa/playlist.m3u8
 #EXTINF:0,And Xplor HD
 #EXTGRP:Bollywood
-http://://156.146.43.241:2200/R-EX/SPORTS_SONY_ESPN_HD-in/tracks-v1a1/mono.m3u8?token=
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/c70d0e933f18dda.m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
 http://z5amshls.akamaized.net/andpicshd/playlist.m3u8
@@ -185,7 +185,7 @@ http://45.127.244.7:8080/hls/channel6.m3u8
 http://89.187.169.206:2200/EX/UKSD_SONY_MAX-uk/index.m3u8?token=RED,
 #EXTINF:0,Set Max APAC
 #EXTGRP:Bollywood
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/756ee35f42dbd80.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9999dcc8327a5e0.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 http://195.181.172.83:2200/R-EX/HINDI_CINEPLEX_HD-in/index.m3u8?token=
@@ -194,7 +194,7 @@ http://195.181.172.83:2200/R-EX/HINDI_CINEPLEX_HD-in/index.m3u8?token=
 http://195.181.172.83:2200/NL/rishteycine-uk/index.m3u8?token= to/playlist.m3u8,
 #EXTINF:0,Colors Cineplex ME
 #EXTGRP:Bollywood
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/4131b3c0e0202d1.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e01f3185fb0169c.m3u8
 #EXTINF:0, Rishtey Cineplex
 #EXTGRP:Bollywood
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
@@ -209,19 +209,19 @@ http://185.246.210.47:2200/EX/UKSD_Star_Gold_SD-uk/index.m3u8?token=RED
 http://89.187.169.204:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=RED
 #EXTINF:0,Star Gold ME
 #EXTGRP:Bollywood
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/b9041cabca3f790.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/bf66ffc6d70c906.m3u8
 #EXTINF:0,Star Gold 2
 #EXTGRP:Bollywood
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/0e023e6f868ccdb.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/a0876302f4d0d94.m3u8
 #EXTINF:0,Star Gold SD
 #EXTGRP:Bollywood
-http://125.209.89.83:5555/play/a02t/index.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/609ab6dfeebc78e.m3u8
 #EXTINF:0,Sony Max 2
 #EXTGRP:Bollywood
 http://89.187.169.206:2200/R-EX/HINDI_SONY_MAX_2-in/index.m3u8?token=RED
 #EXTINF:0,Sony Wah
 #EXTGRP:Bollywood
-http://208.115.215.42/Sony_Mix_HD/tracks-v1a1/mono.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e705d6bf9361e4c.m3u8
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
 http://z5amshls.akamaized.net/action/playlist.m3u8
@@ -233,7 +233,7 @@ https://streamitv.multitvsolution.in/idvo/moviehouse_360p/index.m3u8
 http://z5amshls.akamaized.net/classic/playlist.m3u8
 #EXTINF:0,Zee Classic
 #EXTGRP:Bollywood
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/3fff272a46fac78.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/dbc9cc176de493d.m3u8
 #EXTINF:0,UTV HD
 #EXTGRP:Bollywood
 http://156.146.43.241:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=
