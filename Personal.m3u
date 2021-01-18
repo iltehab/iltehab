@@ -260,7 +260,7 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
 https://ccdn1.jazztv.pk:8077/jazzauth/Hum-TV-136-3/live/136-3M/playlist.m3u8
 #EXTINF:0,Hum Europe
 #EXTGRP:Drama
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Pakistan/ac0162b40a58260.m3u8
+http://89.187.169.204:2200/NL/humeurope-uk/index.m3u8?token=RED
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
 https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream4/chunks.m3u8
