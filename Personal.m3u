@@ -58,32 +58,32 @@ http://122.254.76.16:2200/EX/Channel_4_HD-uk/index.m3u8?token=RED
 http://122.254.76.16:2200/EX/Channel_5_HD-uk/index.m3u8?token=RED
 #EXTINF:0, E4
 #EXTGRP: UK
-http://89.187.169.206:2200/EX/E4_HD-uk/index.m3u8?token=
+http://122.254.76.16:2200/EX/E4_HD-uk/index.m3u8?token=
 #EXTINF:0,Sky Cinema Disney
 #EXTGRP:Cinema
-http://89.187.169.206:2200/EX/Sky_Cinema_Disney_HD-uk/index.m3u8?token=
+http://122.254.76.16:2200/EX/Sky_Cinema_Disney_HD-uk/index.m3u8?token=
 #EXTINF:0,Sky Cinema Family
 #EXTGRP: Cinema
-http://89.187.169.206:2200/EX/Sky_Cinema_Family_HD-uk/index.m3u8?token=
+http://122.254.76.16:2200/EX/Sky_Cinema_Family_HD-uk/index.m3u8?token=
 #EXTINF:0, Sky Cinema Select
 #EXTGRP: Cinema
-http://89.187.169.206:2200/EX/Sky_Cinema_Select_HD-uk/index.m3u8?token=
+http://122.254.76.16:2200/EX/Sky_Cinema_Select_HD-uk/index.m3u8?token=
 HD-uk/index.m3u8?token=
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d2cb1f2def7c995.m3u8
 #EXTINF:0, Star Movies Select
 #EXTGRP: Hollywood
-http://89.187.169.204:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=
+http://122.254.76.16:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=
 #EXTINF:0, Comedy Central HD
 #EXTGRP: Hollywood
 http://sansat.net:25461/kFLIdCtFMSS8GOP/SdBRalK4wX/93650?play_token=Y2eJZIhj2z&e=m3u8
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://89.187.169.204:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=
+http://122.254.76.16:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-http://89.187.169.202:2200/R-EX/HINDI_AND_FLIX_HD-in/index.m3u8?token=RED
+http://122.254.76.16:2200/R-EX/HINDI_AND_FLIX_HD-in/index.m3u8?token=RED
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
 http://cv.khushitv.xyz/channels.php?c=andprivehd/tracks-v4a1&e=.m3u8
