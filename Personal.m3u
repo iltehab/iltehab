@@ -156,7 +156,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/b0dfef3736bda96
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
-.#EXTINF:0,Zee Cinema
+#EXTINF:0,Zee Cinema
 #EXTGRP:Bollywood
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/0c66a1e75716bab.m3u8?
 #EXTINF:0,Zee Cinema UK
