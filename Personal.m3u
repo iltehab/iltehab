@@ -147,10 +147,16 @@ http://t100v.com/play.php?token=RED&id=2663&e=m3u8
 #EXTINF:0,Kadak
 #EXTGRP:Music
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8?@asfaiptv
+#EXTINF:0, Now Premier
+#EXTGRP:Bollywood
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/104e7a20cd5d4d8.m3u8?
+#EXTINF:0,Now Cinema
+#EXTGRP:Bollywood
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/b0dfef3736bda96.m3u8?
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
-#EXTINF:0,Zee Cinema
+.#EXTINF:0,Zee Cinema
 #EXTGRP:Bollywood
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/0c66a1e75716bab.m3u8?
 #EXTINF:0,Zee Cinema UK
