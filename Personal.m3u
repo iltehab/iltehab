@@ -20,9 +20,9 @@ http://51.178.220.156/?watch=R-EX/HINDI_NAT_GEO_WILD_HD-in/index.m3u8?token=RED
 #EXTINF:0, NAT GEO HD
 #EXTGRP: Infotainment
 http://185.246.210.48:2200/R-EX/HINDI_NAT_GEO_HD-in/index.m3u8?token=RED
-#EXTINF:0, Discovery Science
+#EXTINF:0, ID
 #EXTGRP: Infotainment
-https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+http://51.178.220.156/?watch=R-EX/FHD_ID_-in&token=RED&m3u8
 #EXTINF:0,TRT World
 #EXTGRP:World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
