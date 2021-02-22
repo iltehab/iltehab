@@ -306,3 +306,9 @@ https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sky Sports Cricket
 #EXTGRP:PSL 
 http://dreamsat-iptv.top:8080/DM_Snappyarr/adfsgbhgsvdfv/50858
+#EXTINF:0,Sony Six
+#EXTGRP:PSL 
+http://209.126.120.153/hls/sonysix.m3u8
+#EXTINF:0,PTV Sports
+#EXTGRP:PSL 
+http://46.105.112.116/?watch=EX/ptvsportshd-pa&token=RED&e=m3u8
