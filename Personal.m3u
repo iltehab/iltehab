@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0, Animal Planet HD
 #EXTGRP: Infotainment
-http://46.105.112.116/?watch=R-EX/HINDI_ANIMAL_PLANET_WORLD_HD-in&token=RED_jpvzRcbdqCmYvIykN_7kbA==,1616313902.3692979211&t=0&s=7&p=1&c=TR&r=19&lb=1&m3u8
+http://pn.tvott.info:80/live/477845056156344/477845056156344/83685.ts
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ea42b9c4728e76e.m3u8
@@ -116,7 +116,7 @@ https://ilove.livebox.co.in/wowinhls/live.m3u8
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716158286521294296370_3103304395_==AROlEIWRVT
 #EXTINF:0,Zoom
 #EXTGRP:Music
-http://hitectv.live/hls/stream8.m3u8
+http://pn.tvott.info:80/live/477845056156344/477845056156344/83691.ts
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
