@@ -34,37 +34,37 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
 #EXTINF:0, BBC One HD
 #EXTGRP: UK 
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
+http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_=sUVgQESGBSZu9EIDJkQ
 #EXTINF:0, BBC Two HD
 #EXTGRP: UK 
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8
+http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_=sUVgQESGByb3RFIDJkQ
 #EXTINF:0, BBC Four
 #EXTGRP: UK 
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
+http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_=sUVgIVVPZEIDJkQ
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
-http://46.105.112.116/?watch=EX/ITV_HD-uk&token=RED&e=m3u8
+http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_=sUVgEDIWRVS
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-http://46.105.112.116/?watch=EX/ITV2_HD-uk&token=RED&e=m3u8
+http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_EhkRgsUVgIDIWRVS
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
 http://M2153683141.wo2.co/o.php?6949003927915110_164589908716158286521294296370_3103304395_==ARIZEILVFI0ACbl5mbhh2Q
 #EXTINF:0, Channel 5
 #EXTGRP: UK 
-http://46.105.112.116/?watch=EX/Channel_5_HD-uk/index.m3u8?token=RED
+http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_==ARIZEILVFI1ACbl5mbhh2Q
 #EXTINF:0, E4
 #EXTGRP: UK
-http://46.105.112.116/?watch=EX/E4_HD-uk/index.m3u8?token=
+http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_=sUVgQTR
 #EXTINF:0,Sky Cinema Disney
 #EXTGRP:Cinema
 http://46.105.112.116/?watch=EX/Sky_Cinema_Disney_HD-uk/index.m3u8?token=
 #EXTINF:0,Sky Cinema Family
 #EXTGRP: Cinema
-http://46.105.112.116/?watch=EX/Sky_Cinema_Family_HD-uk/index.m3u8?token=
+http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_==wSVBSeslWbhZEIZt0U
 #EXTINF:0, Sky Cinema Select
 #EXTGRP: Cinema
-http://46.105.112.116/?watch=EX/Sky_Cinema_Select_HD-uk/index.m3u8?token=
+http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_==wSVBCdjVGblNFIZt0U
 HD-uk/index.m3u8?token=
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
@@ -72,9 +72,9 @@ http://185.246.210.48:2200/R-EX/FHD_STAR_MOVIES_-in/index.m3u8?token=RED
 #EXTINF:0, Star Movies Select
 #EXTGRP: Hollywood
 http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=
-#EXTINF:0, Sky Cinema Hits
+#EXTINF:0, Sky Cinema Sci Fi
 #EXTGRP: Hollywood
-http://t100v.com/play.php?token=RED&id=22867&e=m3u8
+http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_=sUVgkmRgk2YTBycllmdv1EI5t2U
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
 http://51.178.220.156/?watch=R-EX/FHD_SONY_PIX_-in&token=RED&m3u8
@@ -179,7 +179,7 @@ http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
 http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
-http://46.105.112.116/?watch=R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=RED
+http://A2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_=EGboVGUggXYNBSeu92U
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
 http://tamilcuisine.online/api/dialogtv/dialog.php?uid=iltehabjugnoo786&id=126787&e=m3u8
@@ -218,7 +218,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/bf66ffc6d70c906
 http://51.178.220.156/?watch=R-EX/STAR_GOLD_2-in&token=RED&m3u8
 #EXTINF:0,Star Gold SD
 #EXTGRP:Bollywood
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/609ab6dfeebc78e.m3u8
+http://A2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_kx2bHBichR3U
 #EXTINF:0,Sony Max 2
 #EXTGRP:Bollywood
 http://89.187.169.206:2200/R-EX/HINDI_SONY_MAX_2-in/index.m3u8?token=RED
