@@ -4,19 +4,19 @@
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ea42b9c4728e76e.m3u8
+.http://185.71.64.167/live/694012161735110/694012161735110/83702.m3u8
 #EXTINF:0, Sky Nature
 #EXTGRP: Infotainment
 http://46.105.112.116/?watch=EX/UKFHD_Sky_Nature-uk&token=RED&e=m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
-http://46.105.112.116/?watch=R-EX/FHD_DISCOVERY_-in&token=RED&e=m3u8
+http://185.71.64.167/live/694012161735110/694012161735110/83666.m3u8
 #EXTINF:0, NAT GEO WILD HD
 #EXTGRP: Infotainment
-http://46.105.112.116/?watch=R-EX/HINDI_NAT_GEO_WILD_HD-in/index.m3u8?token=RED 
+http://185.71.64.167/live/694012161735110/694012161735110/83646.m3u8 
 #EXTINF:0, NAT GEO HD
 #EXTGRP: Infotainment
-http://46.105.112.116/?watch=R-EX/FHD_NATIONAL_GEO_-in&token=RED&m3u8
+http://185.71.64.167/live/694012161735110/694012161735110/83645.m3u8
 #EXTINF:0, ID
 #EXTGRP: Infotainment
 http://46.105.112.116/?watch=R-EX/FHD_ID_-in&token=RED&m3u8
@@ -77,10 +77,10 @@ http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?to
 http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_=sUVgkmRgk2YTBycllmdv1EI5t2U
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://51.178.220.156/?watch=R-EX/FHD_SONY_PIX_-in&token=RED&m3u8
+http://185.71.64.167/live/694012161735110/694012161735110/83703.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-http://46.105.112.116/?watch=R-EX/HINDI_AND_FLIX_HD-in/index.m3u8?token=RED
+http://185.71.64.167/live/694012161735110/694012161735110/83613.m3u8
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/playlist.m3u8
@@ -98,10 +98,10 @@ http://dream4k.co:8080/live/DM_Snappyarr/adfsgbhgsvdfv/65189.m3u8
 https://streams.simpaisa.com:8443/pitvlive4/dawnnews.smil/playlist.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-http://46.105.112.116/?watch=R-EX/HINDI_B4U_MUSIC-in&token=RED&=m3u8
+http://185.71.64.167/live/694012161735110/694012161735110/83593.m3u8
 #EXTINF:0,Bindass
 #EXTGRP:Music
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9ccd2d5c7f1c8c9.m3u8?
+http://185.71.64.167/live/694012161735110/694012161735110/83599.m3u8?
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
@@ -113,10 +113,10 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8?@asfaiptv
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:0,MTV
 #EXTGRP:Music
-http://bazarhd.online:80/307210144741/307210144741/83648
+http://185.71.64.167/live/694012161735110/694012161735110/83648.m3u8,
 #EXTINF:0,Zoom
 #EXTGRP:Music
-http://pn.tvott.info:80/live/477845056156344/477845056156344/83691.ts
+http://185.71.64.167/live/694012161735110/694012161735110/83691.m3u8,
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
@@ -128,7 +128,7 @@ https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 http://46.105.112.116/?watch=R-EX/HINDI_B4U_MUSIC-in&token=RED_YKwL6jp0LNzqhL_bdELFTw==,1617908688.8522253961&t=0&s=4&p=1&c=TR&r=842&lb=1&m3u8
 #EXTINF:0, Music India
 #EXTGRP:Music
-http://A2153683141.wo2.co/o.php?6949003927915110_164589908716158286521294296370_3103304395_=EWak5WSgMWazVXT
+http://185.71.64.167/live/694012161735110/694012161735110/83647.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
@@ -170,7 +170,7 @@ http://cv.khushitv.xyz/channels.php?c=zeecinemame&e=.m3u8
 http://cv.khushitv.xyz/channels.php?c=cinemausa&e=.m3u8
 #EXTINF:0,And Xplor HD
 #EXTGRP:Bollywood
-https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-209
+http://185.71.64.167/live/694012161735110/694012161735110/83541.m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
 http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
@@ -190,7 +190,7 @@ http://46.105.112.116/?watch=EX/UKSD_SONY_MAX-uk/index.m3u8?token=RED,
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9999dcc8327a5e0.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
-http://46.105.112.116/?watch=R-EX/HINDI_CINEPLEX_HD-in/index.m3u8?token=
+http://185.71.64.167/live/694012161735110/694012161735110/83681.m3u8,
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
 http://46.105.112.116/?watch=NL/rishteycine-uk/index.m3u8?token= to/playlist.m3u8,
@@ -214,7 +214,7 @@ http://51.178.220.156/?watch=R-EX/FHD_STAR_GOLD_SEL_-in&token=RED&m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/bf66ffc6d70c906.m3u8
 #EXTINF:0,Star Gold 2
 #EXTGRP:Bollywood
-http://51.178.220.156/?watch=R-EX/STAR_GOLD_2-in&token=RED&m3u8
+http://185.71.64.167/live/694012161735110/694012161735110/83542.m3u8
 #EXTINF:0,Star Gold SD
 #EXTGRP:Bollywood
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_kx2bHBichR3U
@@ -223,7 +223,7 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_
 http://89.187.169.206:2200/R-EX/HINDI_SONY_MAX_2-in/index.m3u8?token=RED
 #EXTINF:0,Sony Wah
 #EXTGRP:Bollywood
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e705d6bf9361e4c.m3u8
+http://185.71.64.167/live/694012161735110/694012161735110/83699.m3u8
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
 http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8
@@ -238,13 +238,13 @@ http://cv.khushitv.xyz/channels.php?c=classic&e=.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/dbc9cc176de493d.m3u8
 #EXTINF:0,UTV HD
 #EXTGRP:Bollywood
-http://46.105.112.116/?watch=R-EX/HINDI_UTV_HD-in/index.m3u8?token=
+http://185.71.64.167/live/694012161735110/694012161735110/83631.m3u8,
 #EXTINF:0,UTV Movies
 #EXTGRP:Bollywood
-http://46.105.112.116/?watch=R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=
+http://185.71.64.167/live/694012161735110/694012161735110/83598.m3u8,
 #EXTINF:0,UTV Action
 #EXTGRP:Bollywood
-http://46.105.112.116/?watch=R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=
+http://185.71.64.167/live/694012161735110/694012161735110/83632.m3u8
 #EXTINF:0,B4U Movies 
 #EXTGRP:Bollywood
 http://46.105.112.116/?watch=R-EX/HINDI_B4U_MOVIES-in/index.m3u8?token=RED
