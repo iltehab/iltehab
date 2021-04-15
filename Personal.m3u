@@ -31,7 +31,7 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0, BBC News HD
 #EXTGRP: UK 
-http://M2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=sUVgM3dl5EIDJkQ
+http://194.76.186.75:8000/play/a040/index.m3u8
 #EXTINF:0, BBC One HD
 #EXTGRP: UK 
 http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_=sUVgQESGBSZu9EIDJkQ
