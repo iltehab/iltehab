@@ -89,7 +89,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/playlist.m3u8
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/playlist_dvr.m3u8
 #EXTINF:0,ARY News
 #EXTGRP:NEWS
-http://46.105.112.116/?watch=EX/arynewshd-pa&token=RED&e=m3u8
+http://42.201.228.226:8678/ARYNEWS_EBRAVO_TV/tracks-v1a1/mono.m3u8 
 #EXTINF:0,Hum News
 #EXTGRP:NEWS
 http://185.71.64.167/live/694012161735110/694012161735110/84106.m3u8
