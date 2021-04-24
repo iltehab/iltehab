@@ -107,7 +107,7 @@ http://84.17.41.7:80/BindassPlay-Hin/tracks-v1a1/mono.m3u8
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
 #EXTINF:0,Dil Se
 #EXTGRP:Music
-http://84.17.41.7:80/HUNGUMA_DILSE/tracks-v1a1/mono.m3u8
+http://84.17.41.7:80/HUNGAMA_DILSE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Wow Music
 #EXTGRP:Music
 https://ilove.livebox.co.in/wowinhls/live.m3u8
@@ -136,7 +136,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0,Music Active Masala
 #EXTGRP:Music
-http://51.178.220.156/?watch=R-EX/MUSIC_ACTIVE_MASALA_-in/index.m3u8?token=RED
+http://84.17.41.7:80/ppv_hindi_2/tracks-v1a1/mono.m3u8
 #EXTINF:0,B4u Music UK
 #EXTGRP:Music
 http://84.17.41.7:80/B4U_Music_UK-Hin/tracks-v1a1/mono.m3u8
