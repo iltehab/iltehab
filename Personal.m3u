@@ -4,7 +4,7 @@
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ea42b9c4728e76e.m3u8
+http://84.17.41.7:80/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0, Sky Nature
 #EXTGRP: Infotainment
 https://livestreaming-swiftserve-etslive.vidio.com/live/6635/master.m3u8?%27,%27https://bit.ly/3fCeCUy%27,,0.0,0,%27%27,0
@@ -107,7 +107,7 @@ http://84.17.41.7:80/BindassPlay-Hin/tracks-v1a1/mono.m3u8
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
 #EXTINF:0,Dil Se
 #EXTGRP:Music
-https://live.hungama.com/linear/dil-se/playlist.m3u8?@asfaiptv
+http://84.17.41.7:80/HUNGUMA_DILSE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Wow Music
 #EXTGRP:Music
 https://ilove.livebox.co.in/wowinhls/live.m3u8
@@ -142,7 +142,7 @@ http://51.178.220.156/?watch=R-EX/MUSIC_ACTIVE_MASALA_-in/index.m3u8?token=RED
 http://84.17.41.7:80/B4U_Music_UK-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,Kadak
 #EXTGRP:Music
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8?@asfaiptv
+http://84.17.41.7:80/HUNGUMA_KADAK/tracks-v1a1/mono.m3u8
 #EXTINF:0, Desi Plus
 #EXTGRP:Bollywood
 http://185.71.64.167/live/694012161735110/694012161735110/83717.m3u8
@@ -151,7 +151,7 @@ http://185.71.64.167/live/694012161735110/694012161735110/83717.m3u8
 http://84.17.41.7:80/showbox_hin/tracks-v1a1/mono.m3u8?
 #EXTINF:0,Now Cinema
 #EXTGRP:Bollywood
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/b0dfef3736bda96.m3u8?
+http://84.17.41.7:80/bbo_hindi_ppv/tracks-v1a1/mono.m3u8?
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
@@ -169,7 +169,7 @@ http://cv.khushitv.xyz/channels.php?c=zeecinemame&e=.m3u8
 http://cv.khushitv.xyz/channels.php?c=cinemausa&e=.m3u8
 #EXTINF:0,And Xplor HD
 #EXTGRP:Bollywood
-http://185.71.64.167/live/694012161735110/694012161735110/83541.m3u8
+http://84.17.41.7:80/&explore_hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
 http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
@@ -191,9 +191,9 @@ http://84.17.41.7:80/SON_MAX_UK/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
-#EXTINF:0,Colors Cineplex UK
+#EXTINF:0,Colors Bolly One
 #EXTGRP:Bollywood
-http://46.105.112.116/?watch=NL/rishteycine-uk/index.m3u8?token=
+http://84.17.41.7:80/BOLLYONE_HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors Cineplex ME
 #EXTGRP:Bollywood
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e01f3185fb0169c.m3u8
@@ -209,9 +209,9 @@ https://ritesh.ch/miniproxy/miniproxy.php/http://208.115.215.42/Utsav_Gold_HD/tr
 #EXTINF:0,Star Gold Select HD
 #EXTGRP:Bollywood
 http://84.17.41.7:80/stargold_select_us/tracks-v1a1/mono.m3u8
-#EXTINF:0,Star Gold ME
+#EXTINF:0,Movies Active 
 #EXTGRP:Bollywood
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/bf66ffc6d70c906.m3u8
+http://84.17.41.7:80/D2Hmovies_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Gold 2
 #EXTGRP:Bollywood
 http://84.17.41.7:80/JS_MoviesOK_Hin/tracks-v1a1/mono.m3u8
