@@ -1,13 +1,14 @@
+
 #EXTM3U
 #EXTINF:0, Animal Planet HD
 #EXTGRP: Infotainment
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
-http://84.17.41.7:80/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0, NAT GEO WILD HD
 #EXTGRP: Infotainment
-http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0, Sky Nature
 #EXTGRP: Infotainment
 https://livestreaming-swiftserve-etslive.vidio.com/live/6635/master.m3u8?%27,%27https://bit.ly/3fCeCUy%27,,0.0,0,%27%27,0
@@ -16,7 +17,7 @@ https://livestreaming-swiftserve-etslive.vidio.com/live/6635/master.m3u8?%27,%27
 http://185.71.64.167/live/694012161735110/694012161735110/83666.m3u8 
 #EXTINF:0, NAT GEO HD
 #EXTGRP: Infotainment
-http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0, ID
 #EXTGRP: Infotainment
 http://46.105.112.116/?watch=R-EX/FHD_ID_-in&token=RED&m3u8
@@ -98,22 +99,22 @@ http://185.71.64.167/live/694012161735110/694012161735110/84106.m3u8
 https://streams.simpaisa.com:8443/pitvlive4/dawnnews.smil/playlist.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-http://84.17.41.7:80/Music_4u-Hin/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/Music_4u-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,Bindass
 #EXTGRP:Music
-http://84.17.41.7:80/BindassPlay-Hin/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/BindassPlay-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
 #EXTINF:0,Dil Se
 #EXTGRP:Music
-http://84.17.41.7:80/HUNGAMA_DILSE/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/HUNGAMA_DILSE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Wow Music
 #EXTGRP:Music
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:0,MTV
 #EXTGRP:Music
-http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/MTV_PLUS_US/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zoom
 #EXTGRP:Music
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=QkTJBSTP9kW,
@@ -121,10 +122,10 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 #EXTGRP:Music
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NDUzMzc5OCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjb21lZHljZW50cmFsX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=59e4ClW2BOar8fBSc5NW4g1j%2fio%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NDUzMzc5OCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjb21lZHljZW50cmFsX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=59e4ClW2Boar8fBSc5NW4g1j%2fio%3d
 #EXTINF:0,8XM
 #EXTGRP:Music
-http://84.17.41.7:80/8XM_HIN/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/8XM_HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0, Music India
 #EXTGRP:Music
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=EWak5WSgMWazVXT
@@ -136,22 +137,22 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0,Music Active Masala
 #EXTGRP:Music
-http://84.17.41.7:80/ppv_hindi_2/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/ppv_hindi_2/tracks-v1a1/mono.m3u8
 #EXTINF:0,B4u Music UK
 #EXTGRP:Music
-http://84.17.41.7:80/B4U_Music_UK-Hin/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/B4U_Music_UK-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,Kadak
 #EXTGRP:Music
-http://84.17.41.7:80/HUNGUMA_KADAK/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/HUNGUMA_KADAK/tracks-v1a1/mono.m3u8
 #EXTINF:0, Desi Plus
 #EXTGRP:Bollywood
 http://185.71.64.167/live/694012161735110/694012161735110/83717.m3u8
 #EXTINF:0, Show Box
 #EXTGRP:Bollywood
-http://84.17.41.7:80/showbox_hin/tracks-v1a1/mono.m3u8?
+http://hin2.error-404.website/showbox_hin/tracks-v1a1/mono.m3u8?
 #EXTINF:0,South Indian
 #EXTGRP:Bollywood
-http://84.17.41.7:80/hindi/ppv_dubbed/tracks-v1a1/mono.m3u8?
+http://hin2.error-404.website/hindi/ppv_dubbed/tracks-v1a1/mono.m3u8?
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
@@ -169,7 +170,7 @@ http://cv.khushitv.xyz/channels.php?c=zeecinemame&e=.m3u8
 http://cv.khushitv.xyz/channels.php?c=cinemausa&e=.m3u8
 #EXTINF:0,And Xplor HD
 #EXTGRP:Bollywood
-http://84.17.41.7:80/&explore_hin/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/&explore_hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
 http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
@@ -183,17 +184,17 @@ http://221.120.204.4/SONY-MAX/tracks-v1a1/mono.m3u8
 #EXTGRP:Bollywood
 #EXTINF:0,Set Max UK
 #EXTGRP:Bollywood
-http://84.17.41.7:80/SON_MAX_UK/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/SON_MAX_UK/tracks-v1a1/mono.m3u8
 #EXTINF:0,Set Max APAC
 #EXTGRP:Bollywood
-"url":"http://84.17.41.7:80/SONYMAX/USA/HIN/tracks-v1a1/mono.m3u8
+“url”:”http://hin2.error-404.website/SONYMAX/USA/HIN/tracks-v1a1/mono.m3u8 
 
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
-http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors Bolly One
 #EXTGRP:Bollywood
-http://84.17.41.7:80/BOLLYONE_HIN/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/BOLLYONE_HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors Cineplex ME
 #EXTGRP:Bollywood
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e01f3185fb0169c.m3u8
@@ -202,22 +203,22 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e01f3185fb0169c
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
-http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,Utsav Gold 
 #EXTGRP:Bollywood
 https://ritesh.ch/miniproxy/miniproxy.php/http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Gold Select HD
 #EXTGRP:Bollywood
-http://84.17.41.7:80/stargold_select_us/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/stargold_select_us/tracks-v1a1/mono.m3u8
 #EXTINF:0,Movies Active 
 #EXTGRP:Bollywood
-http://84.17.41.7:80/D2Hmovies_Hin/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/D2Hmovies_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Gold 2
 #EXTGRP:Bollywood
-http://84.17.41.7:80/JS_MoviesOK_Hin/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/JS_MoviesOK_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,B4U+,
 #EXTGRP:Bollywood
-http://84.17.41.7:80/B4U+-Hin/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/B4U+-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max 2
 #EXTGRP:Bollywood
 https://ritesh.ch/miniproxy/miniproxy.php/http://208.115.215.42/SonY_Max_HD_02/tracks-v1a1/mono.m3u8
@@ -244,10 +245,10 @@ http://185.71.64.167/live/694012161735110/694012161735110/83631.m3u8
 http://185.71.64.167/live/694012161735110/694012161735110/83598.m3u8
 #EXTINF:0,UTV Action
 #EXTGRP:Bollywood
-http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,B4U Movies UK
 #EXTGRP:Bollywood
-http://84.17.41.7:80/B4U_Movies_UK-Hin/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/B4U_Movies_UK-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,Film World
 #EXTGRP:Bollywood
 http://185.71.64.167/live/694012161735110/694012161735110/84015.m3u8
@@ -320,3 +321,4 @@ http://209.126.120.153/hls/b4umusic.m3u8
 #EXTINF:0,TEST
 #EXTGRP:PSL 
 https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
+
