@@ -144,12 +144,12 @@ http://hin2.error-404.website/B4U_Music_UK-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,Kadak
 #EXTGRP:Music
 http://hin2.error-404.website/HUNGUMA_KADAK/tracks-v1a1/mono.m3u8
-#EXTINF:0, Desi Plus
-#EXTGRP:Bollywood
-http://185.71.64.167/live/694012161735110/694012161735110/83717.m3u8
 #EXTINF:0, Show Box
 #EXTGRP:Bollywood
-http://hin2.error-404.website/showbox_hin/tracks-v1a1/mono.m3u8?
+http://hin2.error-404.website/showbox_hin/tracks-v1a1/mono.m3u8
+#EXTINF:0, Rasi TV
+#EXTGRP:Bollywood
+http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8?
 #EXTINF:0,South Indian
 #EXTGRP:Bollywood
 http://hin2.error-404.website/hindi/ppv_dubbed/tracks-v1a1/mono.m3u8?
