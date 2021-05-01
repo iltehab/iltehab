@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:0, Animal Planet HD
 #EXTGRP: Infotainment
@@ -137,7 +136,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0,Music Active Masala
 #EXTGRP:Music
-http://hin2.error-404.website/ppv_hindi_2/tracks-v1a1/mono.m3u8
+http://46.105.112.116/?watch=R-EX/MUSIC_ACTIVE_MASALA_-in&token=RED&m3u8
 #EXTINF:0,B4u Music UK
 #EXTGRP:Music
 http://hin2.error-404.website/B4U_Music_UK-Hin/tracks-v1a1/mono.m3u8
