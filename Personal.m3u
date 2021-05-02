@@ -222,13 +222,13 @@ http://hin2.error-404.website/B4U+-Hin/tracks-v1a1/mono.m3u8
 https://ritesh.ch/miniproxy/miniproxy.php/http://208.115.215.42/SonY_Max_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Wah
 #EXTGRP:Bollywood
-http://185.71.64.167/live/694012161735110/694012161735110/83699.m3u8
+https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
 http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8
 #EXTINF:0, B4U Kadak
 #EXTGRP:Bollywood
-https://streamitv.multitvsolution.in/idvo/moviehouse_360p/index.m3u8
+https://itvorigin.multitvsolution.com/idvo/moviehouse_360p/index.m3u8
 #EXTINF:0,Zee Bollywood
 #EXTGRP:Bollywood
 http://cv.khushitv.xyz/channels.php?c=classic&e=.m3u8
