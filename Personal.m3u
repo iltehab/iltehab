@@ -123,8 +123,6 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
 http://46.105.112.116/?watch=R-EX/HINDI_MTV_BEATS_HD-in&token=RED_&m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NDUzMzc5OCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjb21lZHljZW50cmFsX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=59e4ClW2Boar8fBSc5NW4g1j%2fio%3d
 #EXTINF:0,8XM
 #EXTGRP:Music
 http://hin2.error-404.website/8XM_HIN/tracks-v1a1/mono.m3u8
@@ -146,6 +144,9 @@ http://hin2.error-404.website/B4U_Music_UK-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,Kadak
 #EXTGRP:Music
 http://hin2.error-404.website/HUNGUMA_KADAK/tracks-v1a1/mono.m3u8
+#EXTINF:0,Music Non Stop
+#EXTGRP:Music
+http://hin2.error-404.website/ppv_hindi_2/tracks-v1a1/mono.m3u8
 #EXTINF:0, Show Box
 #EXTGRP:Bollywood
 http://hin2.error-404.website/showbox_hin/tracks-v1a1/mono.m3u8
@@ -199,7 +200,6 @@ https://tvstream.space/jtv/livvee1.php?c=Colors_Cineplex_Bollywood&q=800&e=.m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
 http://hin2.error-404.website/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
-
 #EXTINF:0, Bolly One
 #EXTGRP:Bollywood
 http://hin2.error-404.website/BOLLYONE_HIN/tracks-v1a1/mono.m3u8
@@ -214,13 +214,16 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 http://hin2.error-404.website/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,Utsav Gold 
 #EXTGRP:Bollywood
-https://ritesh.ch/miniproxy/miniproxy.php/http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Star Gold US
+#EXTGRP:Bollywood
+http://hin2.error-404.website/STAR_GOLD_US/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Gold Select HD
 #EXTGRP:Bollywood
 http://hin2.error-404.website/stargold_select_us/tracks-v1a1/mono.m3u8
-#EXTINF:0,Movies Active 
+#EXTINF:0,Star Gold Select US
 #EXTGRP:Bollywood
-http://hin2.error-404.website/D2Hmovies_Hin/tracks-v1a1/mono.m3u8
+http://hin2.error-404.website/stargold_select_us/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Gold 2
 #EXTGRP:Bollywood
 http://hin2.error-404.website/JS_MoviesOK_Hin/tracks-v1a1/mono.m3u8
@@ -244,7 +247,7 @@ https://itvorigin.multitvsolution.com/idvo/moviehouse_360p/index.m3u8
 http://cv.khushitv.xyz/channels.php?c=classic&e=.m3u8
 #EXTINF:0,Zee Classic
 #EXTGRP:Bollywood
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/dbc9cc176de493d.m3u8
+http://hin2.error-404.website/ZeeClassic/tracks-v1a1/mono.m3u8
 #EXTINF:0,UTV HD
 #EXTGRP:Bollywood
 http://185.71.64.167/live/694012161735110/694012161735110/83631.m3u8
