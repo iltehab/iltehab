@@ -199,7 +199,7 @@ http://hin2.error-404.website/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 https://tvstream.space/jtv/livvee29.php?c=Colors_Cineplex_Bollywood&q=1200&e=.m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
-http://hin2.error-404.website/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
+http://46.105.112.116/?watch=EX/RishteyCineplex-in&token=RED&m3u8
 #EXTINF:0, Bolly One
 #EXTGRP:Bollywood
 http://hin2.error-404.website/BOLLYONE_HIN/tracks-v1a1/mono.m3u8
@@ -214,7 +214,7 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 http://46.105.112.116/?watch=R-EX/FHD_STAR_GOLD_-in&token=RED&m3u8
 #EXTINF:0,Utsav Gold 
 #EXTGRP:Bollywood
-http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+http://46.105.112.116/?watch=EX/stargold-in&token=RED&m3u8
 #EXTINF:0,Star Gold US
 #EXTGRP:Bollywood
 http://hin2.error-404.website/STAR_GOLD_US/tracks-v1a1/mono.m3u8
