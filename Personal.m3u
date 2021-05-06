@@ -122,7 +122,7 @@ http://hin2.error-404.website/MTV_PLUS_US/tracks-v1a1/mono.m3u8
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=QkTJBSTP9kW,
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
-http://46.105.112.116/?watch=R-EX/HINDI_MTV_BEATS_HD-in&token=RED_&m3u8
+http://hin2.error-404.website/MTV_BEATS_US/tracks-v1a1/mono.m3u8
 #EXTINF:0,8XM
 #EXTGRP:Music
 http://hin2.error-404.website/8XM_HIN/tracks-v1a1/mono.m3u8
@@ -135,9 +135,9 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 #EXTINF:0,9X Jalwa
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:0,Music Active Masala
+#EXTINF:0,MTV 2
 #EXTGRP:Music
-http://46.105.112.116/?watch=R-EX/MUSIC_ACTIVE_MASALA_-in&token=RED&m3u8
+http://hin2.error-404.website/MtunesHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,B4u Music UK
 #EXTGRP:Music
 http://hin2.error-404.website/B4U_Music_UK-Hin/tracks-v1a1/mono.m3u8
