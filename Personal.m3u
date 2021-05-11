@@ -20,9 +20,9 @@ http://hin2.error-404.website/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0, Sky Nature
 #EXTGRP: Infotainment
 http://46.105.112.116/?watch=EX/UKFHD_Sky_Nature-uk&token=RED&m3u8
-#EXTINF:0, NDTV24X7
+#EXTINF:0, BBC News Asia
 #EXTGRP:World News
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
+http://103.153.175.254:8080/hls/stream36.m3u8
 #EXTINF:0,TRT World
 #EXTGRP:World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
@@ -70,7 +70,7 @@ http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_
 http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_==wSVBCdjVGblNFIZt0U
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
-http://starshare.live:8080/live/533004/533004/979.ts
+http://103.153.175.254:8080/hls/stream3.m3u8
 #EXTINF:0, HBO Comedy
 #EXTGRP: Hollywood
 http://M2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_==wSVBSekVWbvNEIPJES
@@ -79,7 +79,7 @@ http://M2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_=sUVgkmRgk2YTBycllmdv1EI5t2U
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://starshare.live:8080/live/533004/533004/147.ts
+http://103.153.175.254:8080/hls/stream1.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 http://starshare.live:8080/live/533004/533004/253.ts
@@ -130,7 +130,7 @@ http://hin2.error-404.website/8XM_HIN/tracks-v1a1/mono.m3u8
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=EWak5WSgMWazVXT
 #EXTINF:0,9XM
 #EXTGRP:Music
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+http://103.153.175.254:8080/hls/stream4.m3u8
 #EXTINF:0,9X Jalwa
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
@@ -193,7 +193,7 @@ http://hin2.error-404.website/SON_MAX_UK/tracks-v1a1/mono.m3u8
 http://hin2.error-404.website/SONYMAX/USA/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
-http://hin2.error-404.website/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
+http://103.153.175.254:8080/hls/stream29.m3u8
 #EXTINF:0,Colors Cineplex Bollywood
 #EXTGRP:Bollywood
 https://tvstream.space/jtv/livvee29.php?c=Colors_Cineplex_Bollywood&q=1200&e=.m3u8
