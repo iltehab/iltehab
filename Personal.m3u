@@ -100,7 +100,7 @@ http://dreamsat-iptv.top:8080/DM_Snappyarr/adfsgbhgsvdfv/65189
 https://streams.simpaisa.com:8443/pitvlive4/dawnnews.smil/playlist.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-http://hin2.error-404.website/Music_4u-Hin/tracks-v1a1/mono.m3u8
+https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 #EXTINF:0,Bindass
 #EXTGRP:Music
 http://hin2.error-404.website/BindassPlay-Hin/tracks-v1a1/mono.m3u8
@@ -136,7 +136,7 @@ http://103.153.175.254:8080/hls/stream4.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0,MTV 2
 #EXTGRP:Music
-http://hin2.error-404.website/MtunesHD-Hin/tracks-v1a1/mono.m3u8
+https://d3t60pmzggqymi.cloudfront.net/MTV.m3u8
 #EXTINF:0,B4u Music UK
 #EXTGRP:Music
 http://hin2.error-404.website/B4U_Music_UK-Hin/tracks-v1a1/mono.m3u8
@@ -148,7 +148,7 @@ http://hin2.error-404.website/HUNGUMA_KADAK/tracks-v1a1/mono.m3u8
 https://d38944htyexzq5.cloudfront.net/MO_MUSIC.m3u8
 #EXTINF:0, Show Box
 #EXTGRP:Bollywood
-http://hin2.error-404.website/showbox_hin/tracks-v1a1/mono.m3u8
+https://d2lybujvbxswjw.cloudfront.net/SHOW_MUSIC.m3u8
 #EXTINF:0, Rasi TV
 #EXTGRP:Bollywood
 http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8?
