@@ -143,9 +143,9 @@ http://hin2.error-404.website/B4U_Music_UK-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,Kadak
 #EXTGRP:Music
 http://hin2.error-404.website/HUNGUMA_KADAK/tracks-v1a1/mono.m3u8
-#EXTINF:0,Music Non Stop
+#EXTINF:0,BSi Music
 #EXTGRP:Music
-https://d38944htyexzq5.cloudfront.net/MO_MUSIC.m3u8
+http://livecdn.live247stream.com/sbimusic/tv/sbimusic/stream/chunks.m3u8
 #EXTINF:0, Show Box
 #EXTGRP:Bollywood
 https://d2lybujvbxswjw.cloudfront.net/SHOW_MUSIC.m3u8
@@ -280,19 +280,19 @@ https://streams.simpaisa.com:8443/pitvlive4/filmworld.smil/playlist.m3u8
 http://185.71.64.167/live/694012161735110/694012161735110/84006.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-http://46.105.112.116/?watch=EX/humtv-pa&token=RED&e=m3u8
+http://42.201.228.226:8678/HUMTV_EBRAVO_TV/tracks-v1a1/mono.m3u8
 #EXTINF:0,Hum Europe
 #EXTGRP:Drama
 http://46.105.112.116/?watch=NL/humeurope-uk&token=RED&e=m3u8
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
-http://46.105.112.116/?watch=EX/arydigital-pa&token=RED&e=<m3u8
+http://42.201.228.226:8678/ARYDIGITAL_NOC_TV/mono.m3u8<m3u8
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
 http://46.105.112.116/?watch=EX/geoentertainment-pa&token=RED&e=<m3u8
 #EXTINF:0,Urdu 1
 #EXTGRP:Drama
-http://46.105.112.116/?watch=EX/urdu1urope-pa&token=&e=m3u8
+http://42.201.228.226:8678/URDU1_EBRAVO_TV/tracks-v1a1/mono.m3u8
 #EXTINF:0,PTV Home
 #EXTGRP:Drama
 http://46.105.112.116/?watch=EX/ptvhome-pa&token=RED&e=m3u8
@@ -319,7 +319,7 @@ https://streams.simpaisa.com:8443/pitvlive4/aplus.smil/playlist.m3u8?
 https://streams.simpaisa.com:8443/pitvlive4/sitaraynew.smil/playlist.m3u8?
 #EXTINF:0,ARY Zindagi
 #EXTGRP:Drama
-https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
+http://42.201.228.226:8678/ARYZINDAGI_NOC_TV/mono.m3u8
 #EXTINF:0,Sky Sports Cricket
 #EXTGRP:PSL 
 http://46.105.112.116/?watch=EX/Sky_Sports_Cricket_HD-uk&token=RED&e=m3u8
