@@ -154,7 +154,7 @@ https://d2lybujvbxswjw.cloudfront.net/SHOW_MUSIC.m3u8
 http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8?
 #EXTINF:0,South Indian
 #EXTGRP:Bollywood
-http://hin2.error-404.website/hindi/ppv_dubbed/tracks-v1a1/mono.m3u8?
+http://hin2.error-404.website/hindi/ppv_dubbed/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/playlist.m3u8
@@ -194,9 +194,6 @@ http://hin2.error-404.website/SONYMAX/USA/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 http://103.153.175.254:8080/hls/stream29.m3u8
-#EXTINF:0,Colors Cineplex Bollywood
-#EXTGRP:Bollywood
-https://tvstream.space/jtv/livvee29.php?c=Colors_Cineplex_Bollywood&q=1200&e=.m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
 http://46.105.112.116/?watch=EX/RishteyCineplex-in&token=RED&m3u8
@@ -220,7 +217,7 @@ http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_kx2bHBichR3U
 #EXTINF:0,Star Gold Select HD
 #EXTGRP:Bollywood
-"url":"http://hin2.error-404.website/star_gold_Select-Hin/tracks-v1a1/mono.m3u8",
+"url":"http://hin2.error-404.website/star_gold_Select-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Gold Select US
 #EXTGRP:Bollywood
 http://hin2.error-404.website/stargold_select_us/tracks-v1a1/mono.m3u8
@@ -286,10 +283,10 @@ http://42.201.228.226:8678/HUMTV_EBRAVO_TV/tracks-v1a1/mono.m3u8
 http://46.105.112.116/?watch=NL/humeurope-uk&token=RED&e=m3u8
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
-http://42.201.228.226:8678/ARYDIGITAL_NOC_TV/mono.m3u8<m3u8
+http://42.201.228.226:8678/ARYDIGITAL_NOC_TV/mono.m3u8
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
-http://46.105.112.116/?watch=EX/geoentertainment-pa&token=RED&e=<m3u8
+http://46.105.112.116/?watch=EX/geoentertainment-pa&token=RED&e=m3u8
 #EXTINF:0,Urdu 1
 #EXTGRP:Drama
 http://42.201.228.226:8678/URDU1_EBRAVO_TV/tracks-v1a1/mono.m3u8
