@@ -70,7 +70,7 @@ http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_
 http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_==wSVBCdjVGblNFIZt0U
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
-http://103.153.175.254:8080/hls/stream3.m3u8
+http://46.105.112.116/?watch=R-EX/FHD_STAR_MOVIES_-in&token=RED_&m3u8
 #EXTINF:0, HBO Comedy
 #EXTGRP: Hollywood
 http://M2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_==wSVBSekVWbvNEIPJES
@@ -79,10 +79,10 @@ http://M2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_=sUVgkmRgk2YTBycllmdv1EI5t2U
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://103.153.175.254:8080/hls/stream1.m3u8
+http://46.105.112.116/?watch=R-EX/FHD_SONY_PIX_-in&token=RED_&m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-http://starshare.live:8080/live/533004/533004/253.ts
+http://46.105.112.116/?watch=R-EX/HINDI_AND_FLIX_HD-in&token=RED_&m3u8
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/playlist.m3u8
@@ -193,7 +193,7 @@ http://hin2.error-404.website/SON_MAX_UK/tracks-v1a1/mono.m3u8
 http://hin2.error-404.website/SONYMAX/USA/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
-http://103.153.175.254:8080/hls/stream29.m3u8
+http://hin2.error-404.website/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
 http://46.105.112.116/?watch=EX/RishteyCineplex-in&token=RED&m3u8
