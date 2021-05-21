@@ -32,18 +32,18 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 #EXTINF:0,Al Jazeera
 #EXTGRP:World News
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:0, BBC News HD
+#EXTINF:0, BBC News 
 #EXTGRP: UK 
 http://M2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=sUVgM3dl5EIDJkQ
-#EXTINF:0, BBC One HD
+#EXTINF:0, BBC One 
 #EXTGRP: UK 
-http://M2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_LVFI0NXZXBCa0J3bOBSZu9EIDJkQ
-#EXTINF:0, BBC Two HD
+https://cdnuk001.broadcastcdn.net/KUK-BBC1/tracks-v2a1/mono.m3u8
+#EXTINF:0, BBC Two 
 #EXTGRP: UK 
-http://M2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_==wSVByTXRFIDJkQ
-#EXTINF:0,Comedy Central
+https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v2a1/mono.m3u8
+#EXTINF:0,BBC FOUR 
 #EXTGRP: UK 
-http://starshare.live:8080/live/533004/533004/186.ts
+https://cdnuk001.broadcastcdn.net/KUK-BBC4/tracks-v2a1/mono.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
 http://M2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=sUVgEDIWRVS
