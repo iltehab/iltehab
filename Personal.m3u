@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:0, Animal Planet HD
 #EXTGRP: Infotainment
+#EXTINF:-1 tvg-id="AnimalPlanet.in"
 http://46.105.112.116/?watch=R-EX/HINDI_ANIMAL_PLANET_WORLD_HD-in&token=RED_&m3u8
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
