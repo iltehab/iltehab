@@ -333,4 +333,4 @@ http://209.126.120.153/hls/b4umusic.m3u8
 #EXTINF:0,Comedy Central
 #EXTGRP:PSL 
 http://103.153.39.34:8000/play/a06d/index.m3u8
-
+#EXTINF:-1 tvg-id="AnimalPlanet.in":-1 tvg-id="Be1.be" tvg-name="Animal Planet HD" group-title="Infotainment",Be1 Name http://46.105.112.116/?watch=R-EX/HINDI_ANIMAL_PLANET_WORLD_HD-in&token=RED_&m3u8
