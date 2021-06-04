@@ -20,6 +20,9 @@ http://hin2.error-404.website/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0, Sky Nature
 #EXTGRP: Infotainment
 http://46.105.112.116/?watch=EX/UKFHD_Sky_Nature-uk&token=RED&m3u8
+#EXTINF:0, Love Nature
+#EXTGRP: Infotainment
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:0, BBC News Asia
 #EXTGRP:World News
 https://d2cuyje6aq0ny8.cloudfront.net/BBC_WORLD.m3u8
