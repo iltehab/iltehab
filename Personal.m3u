@@ -69,15 +69,23 @@ http://90.216.109.250:9981/stream/channelid/1064286761?ticket=C0BE205C284071FD3C
 #EXTINF:0,4 Music
 #EXTGRP: UK
 http://46.105.112.116/?watch=EX/4Music-uk&token=RED&m3u8
+#EXTINF:0, Sky Cinema Disney
+#EXTGRP: Hollywood
+http://46.105.112.116/?watch=EX/Sky_Cinema_Disney_HD-uk&token=RED_&m3u8
+#EXTINF:0, Sky Cinema Family
+#EXTGRP: Hollywood
+#EXTINF:0, Sky Cinema Animation
+#EXTGRP: Hollywood
+http://46.105.112.116/?watch=EX/Sky_Cinema_Animation_FHD-uk&token=RED_&m3u8
+#EXTINF:0, Sky Cinema Scifi
+#EXTGRP: Hollywood
+http://46.105.112.116/?watch=EX/UKFHD_Sky_Cinema_SciFi-uk&token=RED_&m3u8
+#EXTINF:0, Sky Cinema Comedy
+#EXTGRP: Hollywood
+http://46.105.112.116/?watch=EX/Sky_Cinema_Comedy_HD-uk&token=RED_&m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://46.105.112.116/?watch=R-EX/FHD_STAR_MOVIES_-in&token=RED_&m3u8
-#EXTINF:0, Hollywood Dubbed
-#EXTGRP: Hollywood
-http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
-#EXTINF:0, Sky Cinema Sci Fi
-#EXTGRP: Hollywood
-http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_=sUVgkmRgk2YTBycllmdv1EI5t2U
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
 http://46.105.112.116/?watch=R-EX/FHD_SONY_PIX_-in&token=RED_&m3u8
