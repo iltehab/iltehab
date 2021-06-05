@@ -53,7 +53,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/content/x=3/v=pv10/b=1604032/t=3840/i
 https://cdnuk001.broadcastcdn.net/KUK-ITV/index.m3u8
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-https://cdnuk001.broadcastcdn.net/KUK-ITV2/index.m3u8
+http://90.216.109.250:9981/stream/channelid/1202737903?ticket=E602C1114C72D447BCDFCE4883A2B1364270F383&profile=pass
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
@@ -65,7 +65,7 @@ https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
 #EXTINF:0,E4+1
 #EXTGRP:UK
-http://M2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=sUVgEzc1xGUgQTR
+http://90.216.109.250:9981/stream/channelid/1064286761?ticket=C0BE205C284071FD3C6994F21C5E1ADBB033F6A4&profile=pass
 #EXTINF:0,Sky Cinema Family
 #EXTGRP: Cinema
 http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_==wSVBSeslWbhZEIZt0U
