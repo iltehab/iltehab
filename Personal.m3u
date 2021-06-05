@@ -267,9 +267,9 @@ https://ott.bingebd.com/live/ngrp:b4u_movies_all/playlist.m3u8
 #EXTINF:0, Pitaara
 #EXTGRP:Bollywood
 http://cdn.smartstream.video/smartstream-us/pitaratv/pitaratv/chunklist.m3u8
-#EXTINF:0,Silver Screen
+#EXTINF:0,Movie Opera
 #EXTGRP: Bollywood
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Pakistan/5e188d8152fdf0b.m3u8
+http://d2whc8q9z2af8n.cloudfront.net/MO1.m3u8
 #EXTINF:0,Filmazia Entertainment
 #EXTGRP: Bollywood
 http://42.201.228.226:8678/FILMAZIA_NOC_TV/mono.m3u8
