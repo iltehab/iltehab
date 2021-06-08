@@ -71,7 +71,7 @@ http://90.216.109.250:9981/stream/channelid/1064286761?ticket=C0BE205C284071FD3C
 http://46.105.112.116/?watch=EX/4Music-uk&token=RED&m3u8
 #EXTINF:0, Sky Movies Family
 #EXTGRP: Hollywood
-http://46.105.112.116/?watch=EX/UKFHD_Sky_Cinema_Family-uk&token=RED_M3u8
+http://46.105.112.116/?watch=EX/UKFHD_Sky_Cinema_Family-uk&token=RED_&m3u8
 #EXTGRP: Hollywood
 #EXTINF:0, Sky Movies Disney
 #EXTGRP: Hollywood
