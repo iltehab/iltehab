@@ -331,10 +331,9 @@ http://46.105.112.116/?watch=EX/Sky_Sports_Cricket_HD-uk&token=RED&e=m3u8
 #EXTINF:0,Sony Six FHD
 #EXTGRP:PSL 
 http://46.105.112.116/?watch=R-EX/FHD_SONY_SIXX_-in&token=RED&e=m3u8
-#EXTINF:0,Sony Six HD
+#EXTINF:0,Sony Ten HD
 #EXTGRP:PSL 
-http://209.126.120.153/hls/b4umusic.m3u8
+http://212.102.60.40:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
 #EXTINF:0,Comedy Central
 #EXTGRP:PSL 
 http://103.153.39.34:8000/play/a06d/index.m3u8
-#EXTINF:0,tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" group-title="News",http://46.105.112.116/?watch=R-EX/HINDI_ANIMAL_PLANET_WORLD_HD-in&token=RED_&m3u8
