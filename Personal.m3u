@@ -47,7 +47,7 @@ https://cdnuk001.broadcastcdn.net/KUK-BBC1/tracks-v2a1/mono.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v2a1/mono.m3u8
 #EXTINF:0,BBC FOUR 
 #EXTGRP: UK 
-https://vs-hls-pushb-uk-live.akamaized.net/content/x=3/v=pv10/b=1604032/t=3840/i=urn:bbc:pips:service:bbc_four_hd/main.m3u8
+http://ztvuk.com:8080/live/harris/harris123/89044.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-ITV/index.m3u8
