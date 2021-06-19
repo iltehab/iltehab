@@ -20,7 +20,7 @@ http://103.153.39.34:8000/play/a04i/index.m3u8
 http://hin2.error-404.website/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0, Sky Nature
 #EXTGRP: Infotainment
-http://46.105.112.116/?watch=EX/UKFHD_Sky_Nature-uk&token=RED&m3u8
+http://ztvuk.com:8080/live/harris/harris123/31514.m3u8
 #EXTINF:0, Love Nature
 #EXTGRP: Infotainment
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
@@ -53,7 +53,7 @@ http://ztvuk.com:8080/live/harris/harris123/89044.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-ITV/index.m3u8
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-http://90.216.109.250:9981/stream/channelid/1202737903?ticket=E602C1114C72D447BCDFCE4883A2B1364270F383&profile=pass
+http://ztvuk.com:8080/live/harris/harris123/29705.m3u8
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
@@ -63,15 +63,15 @@ https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
 #EXTINF:0, E4
 #EXTGRP: UK
 https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
-#EXTINF:0,E4+1
+#EXTINF:0,Sky One
 #EXTGRP:UK
-http://90.216.109.250:9981/stream/channelid/1064286761?ticket=C0BE205C284071FD3C6994F21C5E1ADBB033F6A4&profile=pass
+http://ztvuk.com:8080/live/harris/harris123/25256.m3u8
 #EXTINF:0,4 Music
 #EXTGRP: UK
 http://46.105.112.116/?watch=EX/4Music-uk&token=RED&m3u8
 #EXTINF:0, Star World
 #EXTGRP: Hollywood
-http://103.153.39.34:8000/play/a03z/index.m3u8
+http://ztvuk.com:8080/live/harris/harris123/17747.m3u8
 #EXTGRP: Hollywood
 #EXTINF:0, Star World Select
 #EXTGRP: Hollywood
@@ -79,18 +79,18 @@ http://103.153.39.34:8000/play/a08h/index.m3u8
 #EXTINF:0, Colors Infinity
 #EXTGRP: Hollywood
 http://103.153.39.34:8000/play/a06g/index.m3u8
-#EXTINF:0, Zee Café,
+#EXTINF:0, Zee Café
 #EXTGRP: Hollywood
 http://103.153.39.34:8000/play/a04d/index.m3u8
 #EXTINF:0, Star Movies Select
 #EXTGRP: Hollywood
-http://103.153.39.34:8000/play/a04g/index.m3u8
+http://ztvuk.com:8080/live/harris/harris123/17748.m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
-http://103.153.39.34:8000/play/a04f/index.m3u8
+http://ztvuk.com:8080/live/harris/harris123/12261.m3u8
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://103.153.39.34:8000/play/a05n/index.m3u8
+http://ztvuk.com:8080/live/harris/harris123/12253.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 http://103.153.39.34:8000/play/a057/index.m3u8
