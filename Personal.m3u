@@ -5,7 +5,7 @@
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
-http://84.17.41.7:80/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
+http://89.41.180.253:8080/INDIA_HINDI/BBC_EARTH_HD/index.m3u8
 #EXTINF:0, NAT GEO WILD HD
 #EXTGRP: Infotainment
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
@@ -90,7 +90,7 @@ http://ztvuk.com:8080/live/harris/harris123/17748.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://ztvuk.com:8080/live/harris/harris123/12253.m3u8
+http://89.41.180.253:8080/INDIA_HINDI/SONY_PIX_HD/index.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/playlist.m3u8
@@ -192,7 +192,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
-http://103.153.39.34:8000/play/a046/index.m3u8
+http://89.41.180.253:8080/INDIA_HINDI/SONY_MAX_HD/index.m3u8
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/eabb0fee1d27bbf.m3u8
