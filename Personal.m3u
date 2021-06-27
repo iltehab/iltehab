@@ -219,7 +219,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e01f3185fb0169c
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
-https://ott.bingebd.com/live/ngrp:star_gold_all/playlist.m3u8
+http://89.41.180.253:8080/INDIA_HINDI/STAR_GOLD_HD/index.m3u8
 #EXTINF:0,Utsav Gold 
 #EXTGRP:Bollywood
 http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
@@ -228,7 +228,7 @@ http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_kx2bHBichR3U
 #EXTINF:0,Star Gold Select HD
 #EXTGRP:Bollywood
-http://hin2.error-404.website/star_gold_Select-Hin/tracks-v1a1/mono.m3u8
+http://89.41.180.253:8080/INDIA_HINDI/STAR_GOLD_SELECT_HD/index.m3u8
 #EXTINF:0,Star Gold Select US
 #EXTGRP:Bollywood
 http://hin2.error-404.website/stargold_select_us/tracks-v1a1/mono.m3u8
