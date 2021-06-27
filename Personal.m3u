@@ -258,7 +258,7 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/playlist.m3u8
 http://hin2.error-404.website/ZeeClassic/tracks-v1a1/mono.m3u8
 #EXTINF:0,UTV HD
 #EXTGRP:Bollywood
-http://46.105.112.116/?watch=R-EX/FHD_UTV_-in&token=RED&m3u8
+http://89.41.180.253:8080/INDIA_HINDI/UTV_HD/index.m3u8
 #EXTINF:0,UTV Movies
 #EXTGRP:Bollywood
 http://103.153.39.34:8000/play/a06n/index.m3u8
