@@ -162,7 +162,7 @@ http://livecdn.live247stream.com/sbimusic/tv/sbimusic/stream/chunks.m3u8
 https://d2lybujvbxswjw.cloudfront.net/SHOW_MUSIC.m3u8
 #EXTINF:0, Rasi TV
 #EXTGRP:Bollywood
-http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8?
+http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8?
 #EXTINF:0,South Indian
 #EXTGRP:Bollywood
 http://hin2.error-404.website/hindi/ppv_dubbed/tracks-v1a1/mono.m3u8
@@ -261,7 +261,7 @@ http://hin2.error-404.website/ZeeClassic/tracks-v1a1/mono.m3u8
 http://89.41.180.253:8080/INDIA_HINDI/UTV_HD/index.m3u8
 #EXTINF:0,UTV Movies
 #EXTGRP:Bollywood
-http://103.153.39.34:8000/play/a06n/index.m3u8
+http://84.17.41.7/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,UTV Action
 #EXTGRP:Bollywood
 http://hin2.error-404.website/UTVACTION-Hin/tracks-v1a1/mono.m3u8
