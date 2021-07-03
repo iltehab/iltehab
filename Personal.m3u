@@ -333,10 +333,10 @@ http://42.201.228.226:8678/ARYZINDAGI_NOC_TV/mono.m3u8
 http://46.105.112.116/?watch=EX/Sky_Sports_Cricket_HD-uk&token=RED&e=m3u8
 #EXTINF:0,Sony Six FHD
 #EXTGRP:PSL 
-http://46.105.112.116/?watch=R-EX/FHD_SONY_SIXX_-in&token=RED&e=m3u8
-#EXTINF:0,Sony Ten HD
+http://hin2.error-404.website/ppv_hindi4/tracks-v1a1/mono.m3u8
+#EXTINF:0, Music 1
 #EXTGRP:PSL 
-http://46.105.112.116/?watch=R-EX/FHD_SONY_TEN_1_-in&token=RED_&m3u8
+http://hin2.error-404.website/ppv_hindi_2/tracks-v1a1/mono.m3u8
 #EXTINF:0,test
 #EXTGRP:PSL 
 http://hin2.error-404.website/ANMLPLANET/HD/HIN/tracks-v1a1/mono.m3u8
