@@ -360,7 +360,7 @@ http://103.153.39.34:8000/play/a05n/index.m3u8
 http://103.153.39.34:8000/play/a04f/index.m3u8
 #EXTINF:0,And Flix HD
 #EXTGRP:PSL 
-http://103.153.39.34:8000/play/a057/index.m3u8
+https://m3u-editor.com/serve/98728a70-dcb4-11eb-af42-57542107020a/330558704&e=.m3u8
 #EXTINF:0, Star Movies Select HD
 #EXTGRP:PSL 
 http://103.153.39.34:8000/play/a04g/index.m3u8
