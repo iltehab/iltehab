@@ -192,7 +192,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
-http://89.41.180.253:8080/INDIA_HINDI/SONY_MAX_HD/index.m3u8
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
 https://m3u-editor.com/serve/11f67660-d772-11eb-a4de-fffef7b03678/325843199&e=m3u8
@@ -219,7 +219,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e01f3185fb0169c
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
-http://89.41.180.253:8080/INDIA_HINDI/STAR_GOLD_HD/index.m3u8
+http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,Utsav Gold 
 #EXTGRP:Bollywood
 http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
