@@ -2,7 +2,7 @@
 #EXTINF:0, Animal Planet HD
 #EXTGRP: Infotainment
 #EXTEPG:0, tvg-id="AnimalPlanet.in"
-http://hin2.error-404.website/ANMLPLANET/HD/HIN/tracks-v1a1/mono.m3u8
+http://46.105.112.116/?watch=R-EX/HINDI_ANIMAL_PLANET_WORLD_HD-in&token=RED_&m3u8
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
 http://hin2.error-404.website/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
@@ -90,7 +90,7 @@ http://89.41.180.253:8080/INDIA_ENGLISH/STAR_MOVIES_SELECT_HD/index.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-https://bit.ly/3e5ptVF
+http://46.105.112.116/?watch=R-EX/FHD_SONY_PIX_-in&token=RED&m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/playlist.m3u8
