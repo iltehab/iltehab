@@ -14,7 +14,7 @@ http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
-http://103.153.39.34:8000/play/a04i/index.m3u8 
+http://46.105.112.116/?watch=R-EX/FHD_DISCOVERY_-in&token=RED&m3u8 
 #EXTINF:0, NAT GEO HD
 #EXTGRP: Infotainment
 http://hin2.error-404.website/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
