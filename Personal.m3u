@@ -68,7 +68,7 @@ https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
 http://89.41.180.253:8080/INDIA_ENGLISH/STAR_WORLD_HD/index.m3u8
 #EXTINF:0,Comedy Central
 #EXTGRP: UK
-http://89.41.180.253:8080/INDIA_ENGLISH/COMEDY_CENTRAL_HD/index.m3u8?
+http://103.153.39.34:8000/play/a06d/index.m3u8
 #EXTINF:0, Sky Family
 #EXTGRP: Hollywood
 http://stream.tvtap.live:8081/live/mfamily.stream/playlist.m3u8?
@@ -81,7 +81,7 @@ http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_WORLD_PREMIER_HD-in&token=RED_&m3
 http://46.105.112.116/?watch=R-EX/ENGLISH_COLORS_INFINITY_HD-in&token=RED&m3u8
 #EXTINF:0, Zee Café
 #EXTGRP: Hollywood
-http://89.41.180.253:8080/INDIA_ENGLISH/ZEE_CAFE_HD/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/playlist.m3u8
 #EXTINF:0, Star Movies Select
 #EXTGRP: Hollywood
 http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in&token=RED_&m3u8
