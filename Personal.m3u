@@ -47,7 +47,7 @@ https://cdnuk001.broadcastcdn.net/KUK-BBC1/tracks-v1a1/mono.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v1a1/mono.m3u8
 #EXTINF:0,BBC FOUR 
 #EXTGRP: UK 
-http://46.105.112.116/?watch=NL-N/BBC_Four_HD-uk&token=RED_&m3u8
+http://dimapro.cz:8080/00:1A:79:17:0B:1F/fukssjslsljls/38563
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
 http://dimapro.cz:8080/00:1A:79:17:0B:1F/fukssjslsljls/38658
@@ -56,7 +56,7 @@ http://dimapro.cz:8080/00:1A:79:17:0B:1F/fukssjslsljls/38658
 http://dimapro.cz:8080/00:1A:79:17:0B:1F/fukssjslsljls/38659
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
-http://dimapro.cz:8080/00:1A:79:17:0B:1F/fukssjslsljls/38563
+https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
 #EXTINF:0, Channel 5
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
@@ -222,7 +222,7 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,Utsav Gold 
 #EXTGRP:Bollywood
-http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+http://dimapro.cz:8080/00:1A:79:17:0B:1F/fukssjslsljls/38601
 #EXTINF:0,Star Gold US
 #EXTGRP:Bollywood
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_kx2bHBichR3U
