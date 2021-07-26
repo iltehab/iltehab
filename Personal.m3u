@@ -198,7 +198,7 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 https://m3u-editor.com/serve/11f67660-d772-11eb-a4de-fffef7b03678/325843199&e=m3u8
 #EXTINF:0,Set Max UK
 #EXTGRP:Bollywood
-http://hin2.error-404.website/SON_MAX_UK/tracks-v1a1/mono.m3u8
+https://admin.gulliyo.com/play.php?url=http://livezer0.hjkm.info:11991/neptune/sonysetmaxhduk/playlist.m3u8
 #EXTINF:0,Set Max APAC
 #EXTGRP:Bollywood
 http://hin2.error-404.website/SONYMAX/USA/HIN/tracks-v1a1/mono.m3u8
@@ -207,7 +207,7 @@ http://hin2.error-404.website/SONYMAX/USA/HIN/tracks-v1a1/mono.m3u8
 http://84.17.41.7/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/f25724119174e8f.m3u8
+https://admin.gulliyo.com/play.php?url=http://livezer0.hjkm.info:11991/neptune/rishteycineplexuk/playlist.m3u8
 #EXTINF:0, Colors Cineplex
 #EXTGRP:Bollywood
 https://jio.instream.ml/jio.php?c=Colors_Cineplex&q=800&e=.m3u8
@@ -291,10 +291,10 @@ http://185.71.64.167/live/694012161735110/694012161735110/84006.m3u8
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Hum Europe
 #EXTGRP:Drama
-http://46.105.112.116/?watch=NL/humeurope-uk&token=RED&e=m3u8
+https://admin.gulliyo.com/play.php?url=http://livespecial.hjkm.info:11991/minerva/humtveurope/playlist.m3u8
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
-http://46.105.112.116/?watch=EX/arydigital-pa&token=RED_&m3u8
+https://admin.gulliyo.com/play.php?url=http://livespecial.hjkm.info:11991/minerva/arydigital/playlist.m3u8
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
 http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
@@ -303,10 +303,10 @@ http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
 http://42.201.228.226:8678/URDU1_EBRAVO_TV/tracks-v1a1/mono.m3u8
 #EXTINF:0,PTV Home
 #EXTGRP:Drama
-http://46.105.112.116/?watch=EX/ptvhome-pa&token=RED&e=m3u8
+https://admin.gulliyo.com/play.php?url=http://livespecial.hjkm.info:11991/minerva/ptvhome/playlist.m3u8
 #EXTINF:0,ARY Family
 #EXTGRP:Drama
-http://46.105.112.116/?watch=EX/aryfamily-pa&token=RED_&m3u8
+https://admin.gulliyo.com/play.php?url=http://livespecial.hjkm.info:11991/minerva/arydigitalworld/playlist.m3u8
 #EXTINF:0,TV One
 #EXTGRP:Drama
 https://streams.simpaisa.com:8443/pitvlive4/tvone.smil/playlist.m3u8
