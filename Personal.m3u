@@ -2,7 +2,7 @@
 #EXTINF:0, Animal Planet HD
 #EXTGRP: Infotainment
 #EXTEPG:0, tvg-id="AnimalPlanet.in"
-http://103.157.237.18:8000/play/526/index.m3u8
+http://103.157.237.18:8000/play/526
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
 http://103.157.237.18:8000/play/507/index.m3u8
