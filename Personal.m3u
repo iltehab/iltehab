@@ -2,13 +2,13 @@
 #EXTINF:0, Animal Planet HD
 #EXTGRP: Infotainment
 #EXTEPG:0, tvg-id="AnimalPlanet.in"
-http://46.105.112.116/?watch=R-EX/HINDI_ANIMAL_PLANET_WORLD_HD-in&token=RED_&m3u8
+http://103.157.237.18:8000/play/526/index.m3u8
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
-http://46.105.112.116/?watch=R-EX/ENGLISH_BBC_EARTH_HD-in&token=RED&m3u8
+http://103.157.237.18:8000/play/507/index.m3u8
 #EXTINF:0, NAT GEO WILD HD
 #EXTGRP: Infotainment
-http://46.105.112.116/?watch=R-EX/HINDI_NAT_GEO_WILD_HD-in&token=RED&m3u8
+http://103.157.237.18:8000/play/503/index.m3u8
 #EXTINF:0, Discovery Science
 #EXTGRP: Infotainment
 https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
@@ -90,7 +90,7 @@ https://jio.instream.ml/jio.php?c=Comedy_Central_HD&q=800&e=.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-https://jio.instream.ml/jio.php?c=Sony_Pix_HD&q=800&e=.m3u8
+http://103.157.237.18:8000/play/710/index.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/playlist.m3u8
@@ -277,15 +277,15 @@ http://cdn.smartstream.video/smartstream-us/pitaratv/pitaratv/chunklist.m3u8
 #EXTINF:0,Movie Opera
 #EXTGRP: Bollywood
 http://d2whc8q9z2af8n.cloudfront.net/MO1.m3u8
-#EXTINF:0,Filmazia Entertainment
+#EXTINF:0,Dhinchaak 
 #EXTGRP: Bollywood
-http://46.105.112.116/?watch=R-EX/ARUJ_TV-pa&token=RED_&m3u8
+http://14.199.164.20:4001/play/a0tm/index.m3u8
 #EXTINF:0, Filmazia Global
 #EXTGRP: Bollywood
 https://streams.simpaisa.com:8443/pitvlive4/filmworld.smil/playlist.m3u8
-#EXTINF:0,Raavi
+#EXTINF:0, Dhinchaak,
 #EXTGRP: Bollywood
-http://185.71.64.167/live/694012161735110/694012161735110/84006.m3u8
+http://14.199.164.20:4001/play/a0o5/index.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
@@ -294,7 +294,7 @@ http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 https://admin.gulliyo.com/play.php?url=http://livespecial.hjkm.info:11991/minerva/humtveurope/playlist.m3u8
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
-https://admin.gulliyo.com/play.php?url=http://livespecial.hjkm.info:11991/minerva/arydigital/playlist.m3u8
+http://14.199.164.20:4001/play/a0vl/index.m3u8
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
 http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
@@ -306,7 +306,7 @@ http://42.201.228.226:8678/URDU1_EBRAVO_TV/tracks-v1a1/mono.m3u8
 https://admin.gulliyo.com/play.php?url=http://livespecial.hjkm.info:11991/minerva/ptvhome/playlist.m3u8
 #EXTINF:0,ARY Family
 #EXTGRP:Drama
-https://admin.gulliyo.com/play.php?url=http://livespecial.hjkm.info:11991/minerva/arydigitalworld/playlist.m3u8
+http://14.199.164.20:4001/play/a0vk/index.m3u8
 #EXTINF:0,TV One
 #EXTGRP:Drama
 https://streams.simpaisa.com:8443/pitvlive4/tvone.smil/playlist.m3u8
@@ -351,20 +351,19 @@ http://84.17.41.7:80/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
 http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP:PSL 
-http://103.153.39.34:8000/play/a04i/index.m3u8
+http://103.157.237.18:8000/play/509/index.m3u8
 #EXTINF:0,Sony Pix HD
 #EXTGRP:PSL 
-http://103.153.39.34:8000/play/a05n/index.m3u8
+http://103.157.237.18:8000/play/711/index.m3u8
 #EXTINF:0,Star Movies HD
 #EXTGRP:PSL 
-http://103.153.39.34:8000/play/a04f/index.m3u8
+http://103.157.237.18:8000/play/705/index.m3u8
 #EXTINF:0,And Flix HD
 #EXTGRP:PSL 
 https://m3u-editor.com/serve/98728a70-dcb4-11eb-af42-57542107020a/330558704&e=.m3u8
 #EXTINF:0, Star Movies Select HD
 #EXTGRP:PSL 
-#EXTINF:0, Star Movies Select HD
-https://m3u-editor.com/serve/98728a70-dcb4-11eb-af42-57542107020a/330558701&e=.m3u8 
+http://103.157.237.18:8000/play/707/index.m3u8 
 #EXTINF:0, Sky Sports Cricket
 #EXTGRP:PK v ENG
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=samitv
