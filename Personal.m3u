@@ -213,7 +213,7 @@ https://admin.gulliyo.com/play.php?url=http://livezer0.hjkm.info:11991/neptune/r
 https://jio.instream.ml/jio.php?c=Colors_Cineplex&q=800&e=.m3u8
 #EXTINF:0,Colors Cineplex Bollywood
 #EXTGRP:Bollywood
-https://jio.instream.ml/jio.php?c=Colors_Cineplex_Bollywood&q=800&e=.m3u8
+http://103.157.237.18:8000/play/343
 #EXTINF:0, Rishtey Cineplex
 #EXTGRP:Bollywood
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
@@ -258,7 +258,7 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/playlist.m3u8
 http://hin2.error-404.website/ZeeClassic/tracks-v1a1/mono.m3u8
 #EXTINF:0,UTV HD
 #EXTGRP:Bollywood
-http://89.41.180.253:8080/INDIA_HINDI/UTV_HD/index.m3u8
+http://103.157.237.18:8000/play/314
 #EXTINF:0,UTV Movies
 #EXTGRP:Bollywood
 http://84.17.41.7/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
