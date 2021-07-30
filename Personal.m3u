@@ -277,13 +277,13 @@ http://cdn.smartstream.video/smartstream-us/pitaratv/pitaratv/chunklist.m3u8
 #EXTINF:0,Movie Opera
 #EXTGRP: Bollywood
 http://d2whc8q9z2af8n.cloudfront.net/MO1.m3u8
-#EXTINF:0,Dhinchaak 
+#EXTINF:0,Dhinchaak 2
 #EXTGRP: Bollywood
 http://14.199.164.20:4001/play/a0tm/index.m3u8
 #EXTINF:0, Filmazia Global
 #EXTGRP: Bollywood
 https://streams.simpaisa.com:8443/pitvlive4/filmworld.smil/playlist.m3u8
-#EXTINF:0, Dhinchaak,
+#EXTINF:0, Dhinchaak 
 #EXTGRP: Bollywood
 http://14.199.164.20:4001/play/a0o5/index.m3u8
 #EXTINF:0,HUM TV HD
