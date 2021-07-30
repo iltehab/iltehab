@@ -17,7 +17,7 @@ https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 https://jio.instream.ml/jio.php?c=Discovery_Channel_Hindi&q=800&e=.m3u8 
 #EXTINF:0, NAT GEO HD
 #EXTGRP: Infotainment
-http://46.105.112.116/?watch=R-EX/FHD_NATIONAL_GEO_-in&token=RED&m3u8
+http://103.157.237.18:8000/play/501
 #EXTINF:0, Sky Nature
 #EXTGRP: Infotainment
 http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/76147
@@ -90,7 +90,7 @@ https://jio.instream.ml/jio.php?c=Comedy_Central_HD&q=800&e=.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://103.157.237.18:8000/play/710.m3u8
+http://103.157.237.18:8000/play/710
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/playlist.m3u8
