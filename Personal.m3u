@@ -65,26 +65,26 @@ https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
 #EXTINF:0,Sky  Disney
 #EXTGRP:UK
-http://dimapro.cz:8080/00:1A:79:17:0B:1F/fukssjslsljls/38589
+http://stream.tvtap.live:8081/live/mdisney.stream/playlist.m3u8
 #EXTINF:0,Sky Comedy
 #EXTGRP: UK
-http://dimapro.cz:8080/00:1A:79:17:0B:1F/fukssjslsljls/38588
+http://stream.tvtap.live:8081/live/mcomedy.stream/playlist.m3u8
 #EXTINF:0, Sky Family
 #EXTGRP: Hollywood
 http://stream.tvtap.live:8081/live/mfamily.stream/playlist.m3u8?
 #EXTGRP: Hollywood
 #EXTINF:0, Sky Sci-Fi
 #EXTGRP: Hollywood
-http://dimapro.cz:8080/00:1A:79:17:0B:1F/fukssjslsljls/38595
-#EXTINF:0, Sky Premier
+http://stream.tvtap.live:8081/live/mscifi.stream/playlist.m3u8
+#EXTINF:0, Sky Action
 #EXTGRP: Hollywood
-http://dimapro.cz:8080/00:1A:79:17:0B:1F/fukssjslsljls/38594
-#EXTINF:0, Zee Café
+http://stream.tvtap.live:8081/live/maction.stream/playlist.m3u8
+#EXTINF:0, Sky Select
 #EXTGRP: Hollywood
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/playlist.m3u8
-#EXTINF:0, Star Movies Select
+http://stream.tvtap.live:8081/live/mselect.stream/playlist.m3u8
+#EXTINF:0, Star Premiere
 #EXTGRP: Hollywood
-https://jio.instream.ml/jio.php?c=Comedy_Central_HD&q=800&e=.m3u8
+http://stream.tvtap.live:8081/live/mpremiere.stream/playlist.m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
