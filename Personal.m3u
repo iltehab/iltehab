@@ -47,13 +47,13 @@ https://cdnuk001.broadcastcdn.net/KUK-BBC1/tracks-v1a1/mono.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v1a1/mono.m3u8
 #EXTINF:0,BBC FOUR 
 #EXTGRP: UK 
-http://dimapro.cz:8080/00:1A:79:17:0B:1F/fukssjslsljls/38563
+https://admin.gulliyo.com/play.php?url=http://live0ne.hjkm.info:11991/mars2/bbcfour/playlist.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
-http://dimapro.cz:8080/00:1A:79:17:0B:1F/fukssjslsljls/38658
+https://cdnuk001.broadcastcdn.net/KUK-STV/tracks-v1a1/mono.m3u8
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-http://dimapro.cz:8080/00:1A:79:17:0B:1F/fukssjslsljls/38659
+https://admin.gulliyo.com/play.php?url=http://livespecial.hjkm.info:11991/mars/itv2/playlist.m3u8
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
@@ -63,7 +63,7 @@ https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
 #EXTINF:0, E4
 #EXTGRP: UK
 https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
-#EXTINF:0,Sky Disney
+#EXTINF:0,Sky  Disney
 #EXTGRP:UK
 http://dimapro.cz:8080/00:1A:79:17:0B:1F/fukssjslsljls/38589
 #EXTINF:0,Sky Comedy
@@ -90,7 +90,7 @@ https://jio.instream.ml/jio.php?c=Comedy_Central_HD&q=800&e=.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://103.157.237.18:8000/play/710
+https://admin.gulliyo.com/play.php?url=http://livezer0.hjkm.info:11991/neptune/sonypixhd/playlist.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/playlist.m3u8
