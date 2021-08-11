@@ -90,7 +90,7 @@ http://stream.tvtap.live:8081/live/mpremiere.stream/playlist.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-https://admin.gulliyo.com/play.php?url=http://livezer0.hjkm.info:11991/neptune/sonypixhd/playlist.m3u8
+http://103.81.104.118/hls/stream1.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/playlist.m3u8
