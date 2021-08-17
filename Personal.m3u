@@ -30,6 +30,9 @@ https://d2cuyje6aq0ny8.cloudfront.net/BBC_WORLD.m3u8
 #EXTINF:0,TRT World
 #EXTGRP:World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:0,CNN UK
+#EXTGRP:World News
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,Sky News
 #EXTGRP:World News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
