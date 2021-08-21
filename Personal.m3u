@@ -48,7 +48,7 @@ https://cdnuk001.broadcastcdn.net/KUK-BBC1/tracks-v1a1/mono.m3u8
 #EXTINF:0, BBC Two 
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v1a1/mono.m3u8
-#EXTINF:0,BBC 4
+#EXTINF:0,BBC Four
 #EXTGRP: UK 
 https://list.iptvcat.com/my_list/s/23c977221877d15a66c38b7c9a348ab5.m3u8
 #EXTINF:0, ITV 1
@@ -56,7 +56,7 @@ https://list.iptvcat.com/my_list/s/23c977221877d15a66c38b7c9a348ab5.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-STV/tracks-v1a1/mono.m3u8
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-https://admin.gulliyo.com/play.php?url=http://livespecial.hjkm.info:11991/mars/itv2/playlist.m3u8
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000837
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
