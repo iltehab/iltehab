@@ -48,9 +48,9 @@ https://cdnuk001.broadcastcdn.net/KUK-BBC1/tracks-v1a1/mono.m3u8
 #EXTINF:0, BBC Two 
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v1a1/mono.m3u8
-#EXTINF:0,BBC FOUR 
+#EXTINF:0,BBC 4
 #EXTGRP: UK 
-https://admin.gulliyo.com/play.php?url=http://live0ne.hjkm.info:11991/mars2/bbcfour/playlist.m3u8
+https://list.iptvcat.com/my_list/s/23c977221877d15a66c38b7c9a348ab5.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-STV/tracks-v1a1/mono.m3u8
