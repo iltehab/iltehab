@@ -5,10 +5,10 @@
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e901782c5ad3f413434f76feba4126576823fdf44b34911850a0dc345c440cee76ee92138c664006a29d4792957a13ce9f386d0f81e4bad707c643dffddbb332a702f41eb8a4177934010da02cd85807927addfbee3fb015fe7846c156d439bd0f9899a593&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
-http://84.17.41.7/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #EXTINF:0, NAT GEO WILD HD
 #EXTGRP: Infotainment
-http://84.17.41.7/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
+http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/video.m3u8
 #EXTINF:0, Discovery Science
 #EXTGRP: Infotainment
 https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
@@ -17,7 +17,7 @@ https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 http://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:0, NAT GEO HD
 #EXTGRP: Infotainment
-http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
+http://178.79.161.66/woh/index.m3u8?id=48016
 #EXTINF:0, Sky Nature
 #EXTGRP: Infotainment
 http://one.d4k4u.com:2082/live/6949003927915110/1y7gicb9l086jhc/295629.m3u8
@@ -87,13 +87,13 @@ http://stream.tvtap.live:8081/live/maction.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/mselect.stream/playlist.m3u8
 #EXTINF:0, Star Movies Select
 #EXTGRP: Hollywood
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-https://is.gd/ObFrpt
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/playlist.m3u8
@@ -135,7 +135,7 @@ http://hin2.error-404.website/MTV_PLUS_US/tracks-v1a1/mono.m3u8
 https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
-http://hin2.error-404.website/MTV_BEATS_US/tracks-v1a1/mono.m3u8
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_MTVBEATS/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae4a394259c6db1d16e576027bb0db11aea0f2b34cf27214dfff0b3824c6d53da96bdf6f8e05e6cf62d003d161403e53f7ef378af936e02f1a18dfa2ed55e01cdcb9e382e124892a8f20077563ac4154ea7f4feb777d9f&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
 #EXTINF:0,MTV India
 #EXTGRP:Music
 https://d3t60pmzggqymi.cloudfront.net/MTV.m3u8
@@ -171,7 +171,7 @@ http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8?
 http://hin2.error-404.website/hindi/ppv_dubbed/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
-http://hin2.error-404.website/ZeeCinemaHD-Hin/tracks-v1a1/mono.m3u8
+http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Bollywood
 https://d1duaw1rs4anpp.cloudfront.net/102.m3u8
@@ -189,7 +189,7 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/playlist.m3u8
 http://hin2.error-404.website/&explore_hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
-http://hin2.error-404.website/&Picture-Hin/tracks-v1a1/mono.m3u8
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae493a4359cfdcea90f8dfa04e4bc42fcca7bcd1d853320dab3c4ded7709401b7a6c66646711c947c824d2ef15ce47a2eea6846438f5ceee0f55402b01fd8caad8034216e4c458138d898027cf262530fc9defd78a48d9&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
 #EXTINF:0,And Pictures SD
 #EXTGRP:Bollywood
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/playlist.m3u8
@@ -207,7 +207,7 @@ https://admin.gulliyo.com/play.php?url=http://livezer0.hjkm.info:11991/neptune/s
 http://hin2.error-404.website/SONYMAX/USA/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
-http://84.17.41.7/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
+http://89.187.182.181:9090/SM_FHD-HINDI-CINEPLEX/tracks-v1a1/index.m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
 https://bit.ly/37DWVyQ
@@ -222,7 +222,7 @@ http://103.157.237.18:8000/play/343
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
-http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+http://89.187.182.181:9090/SM_FHD-HINDI-STARGOLD/tracks-v1a1/index.m3u8
 #EXTINF:0,Star Gold 
 #EXTGRP:Bollywood
 https://admin.gulliyo.com/play.php?url=http://starlive.hjkm.info:11991/junosafe/stargold/playlist.m3u8
@@ -234,7 +234,7 @@ http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 https://admin.gulliyo.com/play.php?url=http://starlive.hjkm.info:11991/junosafe/stargolduk/playlist.m3u8
 #EXTINF:0,Star Gold Select HD
 #EXTGRP:Bollywood
-http://hin2.error-404.website/stargold_select_us/tracks-v1a1/mono.m3u8
+http://178.79.161.66/woh/index.m3u8?id=480108
 #EXTINF:0,Star Gold 2
 #EXTGRP:Bollywood
 http://hin2.error-404.website/JS_MoviesOK_Hin/tracks-v1a1/mono.m3u8
@@ -264,10 +264,10 @@ http://hin2.error-404.website/ZeeClassic/tracks-v1a1/mono.m3u8
 http://103.157.237.18:8000/play/314
 #EXTINF:0,UTV Movies
 #EXTGRP:Bollywood
-http://84.17.41.7/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
+http://178.79.161.66/woh/index.m3u8?id=480171
 #EXTINF:0,UTV Action
 #EXTGRP:Bollywood
-http://hin2.error-404.website/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+http://178.79.161.66/woh/index.m3u8?id=48134
 #EXTINF:0,B4U Movies UK
 #EXTGRP:Bollywood
 http://hin2.error-404.website/B4U_Movies_UK-Hin/tracks-v1a1/mono.m3u8
@@ -353,9 +353,9 @@ http://84.17.41.7:80/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
 #EXTGRP:PSL 
 http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0, Discovery HD
-#EXTINF:0, Sky Sports Cricket
+#EXTINF:0, Clarity
 #EXTGRP:PK v ENG
-http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=samitv
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:0, BT Sport 1
 #EXTGRP:PK v ENG
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8?Token=Samitvhd.com
