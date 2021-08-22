@@ -50,13 +50,13 @@ https://cdnuk001.broadcastcdn.net/KUK-BBC1/tracks-v1a1/mono.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v1a1/mono.m3u8
 #EXTINF:0,BBC Four
 #EXTGRP: UK 
-https://list.iptvcat.com/my_list/s/23c977221877d15a66c38b7c9a348ab5.m3u8
+http://31.220.41.88:8081/live/bbc4.stream/playlist.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-STV/tracks-v1a1/mono.m3u8
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000837
+http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
