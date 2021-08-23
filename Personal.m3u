@@ -136,7 +136,7 @@ https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_MTVBEATS/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae4a394259c6db1d16e576027bb0db11aea0f2b34cf27214dfff0b3824c6d53da96bdf6f8e05e6cf62d003d161403e53f7ef378af936e02f1a18dfa2ed55e01cdcb9e382e124892a8f20077563ac4154ea7f4feb777d9f&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
-#EXTINF:0,MTV India
+#EXTINF:0,MTV 
 #EXTGRP:Music
 https://d3t60pmzggqymi.cloudfront.net/MTV.m3u8
 #EXTINF:0, Music India
@@ -157,9 +157,9 @@ http://one.d4k4u.com:2082/live/6949003927915110/1y7gicb9l086jhc/50756.m3u8
 #EXTINF:0,Kadak
 #EXTGRP:Music
 https://live.hungama.com/linear/kadak-hits/playlist_480p/index.m3u8
-#EXTINF:0,Zee Magic
+#EXTINF:0,MTV India
 #EXTGRP:Music
-https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/600.m3U8
 #EXTINF:0, Show Box
 #EXTGRP:Bollywood
 https://d2lybujvbxswjw.cloudfront.net/SHOW_MUSIC.m3u8
