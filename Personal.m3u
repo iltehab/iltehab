@@ -349,9 +349,9 @@ http://hin2.error-404.website/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0,BBC Earth HD
 #EXTGRP:PSL 
 http://watchindia.net:8880/live/33253/72963/789.m3u8
-#EXTINF:0, National Geographic HD
+#EXTINF:0, Test
 #EXTGRP:PSL 
-http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
+https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
 #EXTINF:0, Discovery HD
 #EXTINF:0, Clarity
 #EXTGRP:PK v ENG
