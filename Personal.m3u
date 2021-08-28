@@ -14,7 +14,7 @@ http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/video.m3u8
 https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
-http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26a6b1fbb4afd9b4d4f2393f1c64d7b6ac5564402c4b
+http://89.187.182.181:9090/SM_FHD-HINDI-DISCOVERY/tracks-v1a1/index.m3u893f1c64d7b6ac5564402c4b
 #EXTINF:0, NAT GEO HD
 #EXTGRP: Infotainment
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-NATGEOCH/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b798594ea4703895a13c15835ab364465124
@@ -166,9 +166,9 @@ https://d2lybujvbxswjw.cloudfront.net/SHOW_MUSIC.m3u8
 #EXTINF:0, Rasi TV
 #EXTGRP:Bollywood
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8?
-#EXTINF:0,South Indian
+#EXTINF:0,MTV HD+
 #EXTGRP:Bollywood
-http://hin2.error-404.website/hindi/ppv_dubbed/tracks-v1a1/mono.m3u8
+http://89.187.182.181:9090/SM_FHD-HINDI-MTV/tracks-v1a1/index.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
