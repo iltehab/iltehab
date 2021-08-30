@@ -87,7 +87,7 @@ http://stream.tvtap.live:8081/live/maction.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/mselect.stream/playlist.m3u8
 #EXTINF:0, Star Movies Select
 #EXTGRP: Hollywood
-http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8.71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
