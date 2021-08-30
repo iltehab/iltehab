@@ -114,7 +114,7 @@ http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/mono.m3u8
 https://streams.simpaisa.com:8443/pitvlive4/dawnnews.smil/playlist.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
+http://14.199.164.20:4001/play/a0wk/index.m3u8
 #EXTINF:0,Bindass
 #EXTGRP:Music
 http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2175240.m3u8
@@ -273,7 +273,7 @@ http://178.79.161.66/woh/index.m3u8?id=48134
 http://hin2.error-404.website/B4U_Movies_UK-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,B4U Movies
 #EXTGRP:Bollywood
-https://ott.bingebd.com/live/ngrp:b4u_movies_all/playlist.m3u8
+http://14.199.164.20:4001/play/a0wj/index.m3u8
 #EXTINF:0, Pitaara
 #EXTGRP:Bollywood
 http://cdn.smartstream.video/smartstream-us/pitaratv/pitaratv/chunklist.m3u8
@@ -297,7 +297,7 @@ http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 https://admin.gulliyo.com/play.php?url=http://livespecial.hjkm.info:11991/minerva/humtveurope/playlist.m3u8
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
-http://14.199.164.20:4001/play/a0vl/index.m3u8
+http://14.199.164.20:4001/play/a0zd/index.m3u8
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
 http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
