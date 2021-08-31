@@ -264,10 +264,10 @@ http://watchindia.net:8880/live/33253/72963/802.m3u8
 http://103.157.237.18:8000/play/314
 #EXTINF:0,UTV Movies
 #EXTGRP:Bollywood
-http://178.79.161.66/woh/index.m3u8?id=480171
+http://103.153.39.34:8000/play/a06n/index.m3u8
 #EXTINF:0,UTV Action
 #EXTGRP:Bollywood
-http://178.79.161.66/woh/index.m3u8?id=48134
+http://103.153.39.34:8000/play/a06o/index.m3u8
 #EXTINF:0,B4U Movies UK
 #EXTGRP:Bollywood
 http://hin2.error-404.website/B4U_Movies_UK-Hin/tracks-v1a1/mono.m3u8
