@@ -223,15 +223,9 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
 http://89.187.182.181:9090/SM_FHD-HINDI-STARGOLD/tracks-v1a1/index.m3u8
-#EXTINF:0,Star Gold 
-#EXTGRP:Bollywood
-https://admin.gulliyo.com/play.php?url=http://starlive.hjkm.info:11991/junosafe/stargold/playlist.m3u8
 #EXTINF:0,Utsav Gold
 #EXTGRP:Bollywood
 http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0,Star Gold ME
-#EXTGRP:Bollywood
-https://admin.gulliyo.com/play.php?url=http://starlive.hjkm.info:11991/junosafe/stargolduk/playlist.m3u8
 #EXTINF:0,Star Gold Select HD
 #EXTGRP:Bollywood
 http://143.244.60.10/HINDI__STAR_GOLD_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
@@ -246,7 +240,7 @@ http://indo51.gcdn.co/hindi-B4UPLUS/tracks-v1a1/mono.m3u8
 http://indo51.gcdn.co/hindi-SONYMAX2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Wah
 #EXTGRP:Bollywood
-http://143.244.60.10/HINDI__SONY_WAH/tracks-v1a1/mono.m3u8?token=test
+http://indo51.gcdn.co/hindi-Sonymix/tracks-v1a1/mono.m3u8
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
 https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/playlist.m3u8
