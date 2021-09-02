@@ -96,10 +96,10 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/playlist.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/playlist.m3u8
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/playlist.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
 http://indo51.gcdn.co/urdu-GEONEWS/tracks-v1a1/mono.m3u8
@@ -129,7 +129,7 @@ https://live.hungama.com/linear/dil-se/playlist_480p/index.m3u8
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:0,Zing
 #EXTGRP:Music
-https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Zoom
 #EXTGRP:Music
 http://indo51.gcdn.co/hindi-MTVBEATSHD/tracks-v1a1/mono.m3u8
@@ -177,13 +177,13 @@ http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 https://d1duaw1rs4anpp.cloudfront.net/102.m3u8
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
-https://y5w8j4a9.ssl.hwcdn.net/cinemauk/tracks-v1a1/playlist.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/cinemauk/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Zee Cinema ME
 #EXTGRP:Bollywood
-https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v1a1/playlist.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Zee Cinema USA
 #EXTGRP:Bollywood
-https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/playlist.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/cinemausa/tracks-v1a1/playlist.m3u8
 #EXTINF:0,And Xplor HD
 #EXTGRP:Bollywood
 http://watchindia.net:8880/live/33253/72963/2204.m3u8
@@ -192,7 +192,7 @@ http://watchindia.net:8880/live/33253/72963/2204.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae493a4359cfdcea90f8dfa04e4bc42fcca7bcd1d853320dab3c4ded7709401b7a6c66646711c947c824d2ef15ce47a2eea6846438f5ceee0f55402b01fd8caad8034216e4c458138d898027cf262530fc9defd78a48d9&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
 #EXTINF:0,And Pictures SD
 #EXTGRP:Bollywood
-https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/playlist.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
@@ -243,13 +243,13 @@ http://indo51.gcdn.co/hindi-SONYMAX2/tracks-v1a1/mono.m3u8
 http://indo51.gcdn.co/hindi-Sonymix/tracks-v1a1/mono.m3u8
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
-https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/playlist.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/action/tracks-v1a1/playlist.m3u8
 #EXTINF:0, B4U Kadak
 #EXTGRP:Bollywood
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:0,Zee Bollywood
 #EXTGRP:Bollywood
-https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/playlist.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/classic/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Zee Classic
 #EXTGRP:Bollywood
 http://143.244.60.10/HINDI__ZEE_CLASSIC/tracks-v1a1/mono.m3u8?token=test
