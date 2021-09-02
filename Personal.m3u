@@ -115,9 +115,9 @@ https://streams.simpaisa.com:8443/pitvlive4/dawnnews.smil/playlist.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 http://14.199.164.20:4001/play/a0wk/index.m3u8
-#EXTINF:0,Bindass
+#EXTINF:0,B4U Music UK
 #EXTGRP:Music
-http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2175240.m3u8
+http://tvflix03.ddns.net/b4u_music-pak/video.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
@@ -270,7 +270,7 @@ http://143.244.60.10/HINDI__UTV_MOVIES/tracks-v1a1/mono.m3u8?token=test
 http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0,B4U Movies UK
 #EXTGRP:Bollywood
-http://hin2.error-404.website/B4U_Movies_UK-Hin/tracks-v1a1/mono.m3u8
+http://tvflix03.ddns.net/b4u_mov-pak/video.m3u8
 #EXTINF:0,B4U Movies
 #EXTGRP:Bollywood
 http://14.199.164.20:4001/play/a0wj/index.m3u8
@@ -349,9 +349,9 @@ http://143.244.60.10/HINDI__NAT_GEO_WILD_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0,BBC Earth HD
 #EXTGRP:PSL 
 http://indo51.gcdn.co/hindi-SONYBBCEARTHHD/tracks-v1a1/mono.m3u8
-#EXTINF:0, Test
+#EXTINF:0, Love Nature 4k
 #EXTGRP:PSL 
-https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
+https://feed.play.mv/live/1011/I1AjNshoqG/master.m3u8
 #EXTINF:0, Discovery HD
 #EXTINF:0, Clarity
 #EXTGRP:PK v ENG
