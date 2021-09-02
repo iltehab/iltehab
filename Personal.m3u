@@ -102,16 +102,16 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
-https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/playlist_dvr.m3u8
+http://indo51.gcdn.co/urdu-GEONEWS/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARY News
 #EXTGRP:NEWS
-https://cdnuk001.broadcastcdn.net/KUK-NEWVISIONTV/index.m3u8 
+http://indo51.gcdn.co/urdu-ARYNEWS/tracks-v1a1/mono.m3u8 
 #EXTINF:0,Hum News
 #EXTGRP:NEWS
 http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Dawn
 #EXTGRP:NEWS
-https://streams.simpaisa.com:8443/pitvlive4/dawnnews.smil/playlist.m3u8
+http://indo51.gcdn.co/urdu-DAWNNEWS/tracks-v1a1/mono.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 http://14.199.164.20:4001/play/a0wk/index.m3u8
