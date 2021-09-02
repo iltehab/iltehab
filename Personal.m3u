@@ -201,7 +201,7 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
 #EXTINF:0,Set Max UK
 #EXTGRP:Bollywood
-https://admin.gulliyo.com/play.php?url=http://livezer0.hjkm.info:11991/neptune/sonysetmaxhduk/playlist.m3u8
+http://indo51.gcdn.co/hindi-SONYMAXUK/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors Bollywood
 #EXTGRP:Bollywood
 http://152.67.9.211//jioo.php?c=Colors_Cineplex_Bollywood&q=1200&e=.m3u8
@@ -210,7 +210,7 @@ http://152.67.9.211//jioo.php?c=Colors_Cineplex_Bollywood&q=1200&e=.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-CINEPLEX/tracks-v1a1/index.m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
-https://bit.ly/37DWVyQ
+http://indo51.gcdn.co/hindi-COLORSCINEPLEXUK/tracks-v1a1/mono.m3u8
 #EXTINF:0, Colors Cineplex
 #EXTGRP:Bollywood
 http://152.67.9.211//jioo.php?c=Colors_Cineplex&q=800&e=.m3u8
@@ -294,7 +294,7 @@ http://14.199.164.20:4001/play/a0o5/index.m3u8
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Hum Europe
 #EXTGRP:Drama
-https://admin.gulliyo.com/play.php?url=http://livespecial.hjkm.info:11991/minerva/humtveurope/playlist.m3u8
+http://indo51.gcdn.co/urdu-HUMEUROPE/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
 http://14.199.164.20:4001/play/a0zd/index.m3u8
@@ -303,10 +303,10 @@ http://14.199.164.20:4001/play/a0zd/index.m3u8
 http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Urdu 1
 #EXTGRP:Drama
-http://42.201.228.226:8678/URDU1_EBRAVO_TV/tracks-v1a1/mono.m3u8
+http://indo51.gcdn.co/urdu-URDU1/tracks-v1a1/mono.m3u8
 #EXTINF:0,PTV Home
 #EXTGRP:Drama
-https://admin.gulliyo.com/play.php?url=http://livespecial.hjkm.info:11991/minerva/ptvhome/playlist.m3u8
+http://indo51.gcdn.co/urdu-PTVHOME/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARY Family
 #EXTGRP:Drama
 http://14.199.164.20:4001/play/a0vk/index.m3u8
@@ -331,9 +331,9 @@ https://streams.simpaisa.com:8443/pitvlive4/sitaraynew.smil/playlist.m3u8?
 #EXTINF:0,ARY Zindagi
 #EXTGRP:Drama
 http://46.105.112.116/?watch=EX/aryzindagi-pa&token=RED_&m3u8
-#EXTINF:0,PK v WI
+#EXTINF:0,PTV News HD
 #EXTGRP:PSL 
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+http://indo51.gcdn.co/urdu-PTVNEWS/tracks-v1a1/mono.m3u8
 #EXTINF:0,Pak v WI
 #EXTGRP:PSL 
 https://fancodealive1-a.akamaihd.net/015dd81bbb53469290dd7eda823059af/ap-south-1/6008340455001/playlist_dvr.m3u8?hdnea=exp=1627509016~acl=*~id=116502193_42PxGFmIvr4tBqVM~data=116502193~hmac=4da1d28d772967e4b5394055fa897abdbeb68f20269be42677e590a95a255757&deviceId=Linux%20armv8l
