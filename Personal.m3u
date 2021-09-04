@@ -307,18 +307,18 @@ http://14.199.164.20:4001/play/a0vk/index.m3u8
 #EXTINF:0,TV One
 #EXTGRP:Drama
 https://streams.simpaisa.com:8443/pitvlive4/tvone.smil/playlist.m3u8
-#EXTINF:0,Express Entertainment
+#EXTINF:0,SET INDIA
 #EXTGRP:Drama
-https://streams.simpaisa.com:8443/pitvlive4/expressent.smil/playlist.m3u8
-#EXTINF:0,ATV
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0,Colors HD
 #EXTGRP:Drama
-https://streams.simpaisa.com:8443/pitvlive4/atv.smil/playlist.m3u8
-#EXTINF:0,Aaj Entertainment
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0,Star Plus HD
 #EXTGRP:Drama
-https://streams.simpaisa.com:8443/pitvlive4/aajent.smil/playlist.m3u8?
-#EXTINF:0,A Plus
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?
+#EXTINF:0,Zee TV
 #EXTGRP:Drama
-https://streams.simpaisa.com:8443/pitvlive4/aplus.smil/playlist.m3u8?
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?
 #EXTINF:0,Hum Sitaray
 #EXTGRP:Drama
 https://streams.simpaisa.com:8443/pitvlive4/sitaraynew.smil/playlist.m3u8?
