@@ -96,7 +96,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/playlist.m3u8
+http://tvflix03.ddns.net/ENC-16/index.m3u8
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/playlist.m3u8
@@ -322,9 +322,9 @@ http://indo51.gcdn.co/urdu-PTVNEWS/tracks-v1a1/mono.m3u8
 #EXTINF:0,Pak v WI
 #EXTGRP:PSL 
 https://fancodealive1-a.akamaihd.net/015dd81bbb53469290dd7eda823059af/ap-south-1/6008340455001/playlist_dvr.m3u8?hdnea=exp=1627509016~acl=*~id=116502193_42PxGFmIvr4tBqVM~data=116502193~hmac=4da1d28d772967e4b5394055fa897abdbeb68f20269be42677e590a95a255757&deviceId=Linux%20armv8l
-#EXTINF:0, Music 1
+#EXTINF:0, NAT GEOWILD test
 #EXTGRP:PSL 
-http://hin2.error-404.website/ppv_hindi_2/tracks-v1a1/mono.m3u8
+http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/index.m3u8
 #EXTINF:0,Animal Planet HD
 #EXTGRP:PSL 
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
