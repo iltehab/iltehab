@@ -195,25 +195,19 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+http://89.187.182.181:9090/SM_FHD-HINDI-MAX/tracks-v1a1/index.m3u8
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
 #EXTINF:0,Set Max UK
 #EXTGRP:Bollywood
 http://indo51.gcdn.co/hindi-SONYMAXUK/tracks-v1a1/mono.m3u8
-#EXTINF:0,Colors Bollywood
-#EXTGRP:Bollywood
-http://152.67.9.211//jioo.php?c=Colors_Cineplex_Bollywood&q=1200&e=.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 http://89.187.182.181:9090/SM_FHD-HINDI-CINEPLEX/tracks-v1a1/index.m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
 http://indo51.gcdn.co/hindi-COLORSCINEPLEXUK/tracks-v1a1/mono.m3u8
-#EXTINF:0, Colors Cineplex
-#EXTGRP:Bollywood
-http://152.67.9.211//jioo.php?c=Colors_Cineplex&q=800&e=.m3u8
 #EXTINF:0,Astro Bollywood
 #EXTGRP:Bollywood
 http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
