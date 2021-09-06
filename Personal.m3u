@@ -108,7 +108,7 @@ http://indo51.gcdn.co/urdu-GEONEWS/tracks-v1a1/mono.m3u8
 http://indo51.gcdn.co/urdu-ARYNEWS/tracks-v1a1/mono.m3u8 
 #EXTINF:0,Hum News
 #EXTGRP:NEWS
-http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/mono.m3u8
+http://indo51.gcdn.co/urdu-HUMNEWSHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Dawn
 #EXTGRP:NEWS
 http://indo51.gcdn.co/urdu-DAWNNEWS/tracks-v1a1/mono.m3u8
@@ -282,22 +282,22 @@ http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 http://indo51.gcdn.co/urdu-HUMEUROPE/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
-http://14.199.164.20:4001/play/a0zd/index.m3u8
+http://indo51.gcdn.co/urdu-ARYDIGITAL/tracks-v1a1/mono.m3u8
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
 http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0,Urdu 1
+#EXTINF:0,PTV Global
 #EXTGRP:Drama
-http://indo51.gcdn.co/urdu-URDU1/tracks-v1a1/mono.m3u8
+http://indo51.gcdn.co/urdu-PTVGLOBAL/tracks-v1a1/mono.m3u8
 #EXTINF:0,PTV Home
 #EXTGRP:Drama
 http://indo51.gcdn.co/urdu-PTVHOME/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARY Family
 #EXTGRP:Drama
-http://14.199.164.20:4001/play/a0vk/index.m3u8
+http://indo51.gcdn.co/urdu-ARYFAMILY/tracks-v1a1/mono.m3u8
 #EXTINF:0,TV One
 #EXTGRP:Drama
-https://streams.simpaisa.com:8443/pitvlive4/tvone.smil/playlist.m3u8
+http://indo51.gcdn.co/urdu-TVONE/tracks-v1a1/mono.m3u8
 #EXTINF:0,SET INDIA
 #EXTGRP:Drama
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
@@ -319,9 +319,9 @@ http://46.105.112.116/?watch=EX/aryzindagi-pa&token=RED_&m3u8
 #EXTINF:0,PTV News HD
 #EXTGRP:PSL 
 http://indo51.gcdn.co/urdu-PTVNEWS/tracks-v1a1/mono.m3u8
-#EXTINF:0,Pak v WI
+#EXTINF:0,GEO UK
 #EXTGRP:PSL 
-https://fancodealive1-a.akamaihd.net/015dd81bbb53469290dd7eda823059af/ap-south-1/6008340455001/playlist_dvr.m3u8?hdnea=exp=1627509016~acl=*~id=116502193_42PxGFmIvr4tBqVM~data=116502193~hmac=4da1d28d772967e4b5394055fa897abdbeb68f20269be42677e590a95a255757&deviceId=Linux%20armv8l
+http://indo51.gcdn.co/urdu-GEOTVUK/tracks-v1a1/mono.m3u8=4da1d28d772967e4b5394055fa897abdbeb68f20269be42677e590a95a255757&deviceId=Linux%20armv8l
 #EXTINF:0, NAT GEOWILD test
 #EXTGRP:PSL 
 http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/index.m3u8
