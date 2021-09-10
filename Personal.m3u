@@ -20,7 +20,7 @@ http://89.187.182.181:9090/SM_FHD-HINDI-DISCOVERY/tracks-v1a1/index.m3u8?token=9
 http://143.244.60.10/HINDI__NAT_GEO_HD/tracks-v1a1/mono.m3u8?token=test15835ab364465124
 #EXTINF:0, Sky Nature
 #EXTGRP: Infotainment
-http://one.d4k4u.com:2082/live/6949003927915110/1y7gicb9l086jhc/295629.m3u8
+http://royall.xyz:2082/live/6949003927915110/1y7gicb9l086jhc/295629.m3u8
 #EXTINF:0, Love Nature
 #EXTGRP: Infotainment
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
@@ -50,10 +50,10 @@ https://cdnuk001.broadcastcdn.net/KUK-BBC1/tracks-v1a1/mono.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v1a1/mono.m3u8
 #EXTINF:0,BBC Four
 #EXTGRP: UK 
-http://31.220.41.88:8081/live/bbc4.stream/playlist.m3u8
+http://royall.xyz:2082/live/6949003927915110/1y7gicb9l086jhc/50788.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
-https://cdnuk001.broadcastcdn.net/KUK-STV/tracks-v1a1/mono.m3u8
+http://royall.xyz:2082/live/6949003927915110/1y7gicb9l086jhc/50779.m3u8
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
 http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
