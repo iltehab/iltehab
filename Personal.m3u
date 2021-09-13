@@ -253,9 +253,9 @@ http://143.244.60.10/HINDI__UTV_MOVIES/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0,UTV Action
 #EXTGRP:Bollywood
 http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:0,B4U Movies UK
+#EXTINF:0,UTV Movies International
 #EXTGRP:Bollywood
-http://tvflix03.ddns.net/b4u_mov-pak/video.m3u8
+https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 #EXTINF:0,B4U Movies
 #EXTGRP:Bollywood
 http://14.199.164.20:4001/play/a0wj/index.m3u8
