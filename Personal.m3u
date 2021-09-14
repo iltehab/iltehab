@@ -5,7 +5,7 @@
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e901782c5ad3f413434f76feba4126576823fdf44b34911850a0dc345c440cee76ee92138c664006a29d4792957a13ce9f386d0f81e4bad707c643dffddbb332a702f41eb8a4177934010da02cd85807927addfbee3fb015fe7846c156d439bd0f9899a593&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
-https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+https://cdn.nowhdtime.com.bd/Bbc-Earth/tracks-v1a1/mono.m3u8
 #EXTINF:0, NAT GEO WILD HD
 #EXTGRP: Infotainment
 http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/video.m3u8
@@ -150,7 +150,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_2
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 #EXTINF:0,B4u Music UK
 #EXTGRP:Music
-http://royall.xyz:2082/live/6949003927915110/1y7gicb9l086jhc/50756.m3u8
+http://jupiter.bdcabletv.com/b4u_music-pak/video.m3u8
 #EXTINF:0,Kadak
 #EXTGRP:Music
 https://live.hungama.com/linear/kadak-hits/playlist_480p/index.m3u8
@@ -330,7 +330,7 @@ http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/index.m3u8
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:0,NAT GEO WILD HD
 #EXTGRP:PSL 
-http://143.244.60.10/HINDI__NAT_GEO_WILD_HD/tracks-v1a1/mono.m3u8?token=test
+http://89.187.182.181:9090/SM_FHD-HINDI-NATGEOWILD/tracks-v1a1/index.m3u8
 #EXTINF:0,BBC Earth HD
 #EXTGRP:PSL 
 http://indo51.gcdn.co/hindi-SONYBBCEARTHHD/tracks-v1a1/mono.m3u8
