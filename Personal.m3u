@@ -186,7 +186,7 @@ https://f8e7y4c6.ssl.hwcdn.net/cinemausa/tracks-v1a1/playlist.m3u8
 https://snehz5tv.herokuapp.com?c=0-9-209&m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae493a4359cfdcea90f8dfa04e4bc42fcca7bcd1d853320dab3c4ded7709401b7a6c66646711c947c824d2ef15ce47a2eea6846438f5ceee0f55402b01fd8caad8034216e4c458138d898027cf262530fc9defd78a48d9&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+https://jiotv.netlivtv.tech/?c=Sony_Max_SD&e=play.m3u8
 #EXTINF:0,And Pictures SD
 #EXTGRP:Bollywood
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v1a1/playlist.m3u8
@@ -195,7 +195,7 @@ https://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v1a1/playlist.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-MAX/tracks-v1a1/index.m3u8
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
-https://jiotv.netlivtv.tech/?c=Sony_Max_SD
+https://jiotv.netlivtv.tech/jp.php?c=Sony_Max_SD&wmsAuthSign=c2VydmVyX103RamNC8yVMD1010dkbFGDdg21abVYnxz1610dsfsAEvna1310omfFRWEhmy10W51dGVzPTI=&e=play.m3u8
 #EXTINF:0,Set Max UK
 #EXTGRP:Bollywood
 http://indo51.gcdn.co/hindi-SONYMAXUK/tracks-v1a1/mono.m3u8
