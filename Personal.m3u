@@ -44,7 +44,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:0, BBC One 
 #EXTGRP: UK 
-https://cdnuk001.broadcastcdn.net/KUK-BBC1/tracks-v1a1/mono.m3u8
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, BBC Two 
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v1a1/mono.m3u8
