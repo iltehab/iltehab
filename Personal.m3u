@@ -341,9 +341,9 @@ https://feed.play.mv/live/10005200/7EsSDh7aX6/1.m3u8
 #EXTGRP:PSL 
 https://feed.play.mv/live/1011/I1AjNshoqG/master.m3u8
 #EXTINF:0, Discovery HD
-#EXTINF:0, Clarity
+#EXTINF:0, Dreamz
 #EXTGRP:PK v ENG
-https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
 #EXTINF:0, URDU 1
 #EXTGRP:PK v ENG
 http://221.120.204.4/URDU-1-LOCKLE/tracks-v1a1/mono.m3u8
