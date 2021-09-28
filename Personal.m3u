@@ -8,7 +8,7 @@ https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8ee92138c664006a29
 http://indo51.gcdn.co/hindi-SONYBBCEARTHHD/tracks-v1a1/mono.m3u8
 #EXTINF:0, NAT GEO WILD HD
 #EXTGRP: Infotainment
-http://89.187.182.181:9090/SM_FHD-HINDI-NATGEOWILD/tracks-v1a1/index.m3u8
+http://212.224.98.210:2200/R-EX/ENGLISH_NAT_GEO_WILD_HD-in/index.m3u8?token=RED_
 #EXTINF:0, Discovery Science
 #EXTGRP: Infotainment
 https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
@@ -322,15 +322,15 @@ http://indo51.gcdn.co/urdu-PTVNEWS/tracks-v1a1/mono.m3u8
 #EXTINF:0,GEO UK
 #EXTGRP:PSL 
 http://indo51.gcdn.co/urdu-GEOTVUK/tracks-v1a1/mono.m3u8
-#EXTINF:0, NAT GEOWILD test
+#EXTINF:0, BBC Earth HD
 #EXTGRP:PSL 
-http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/index.m3u8
+http://212.224.98.210:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/index.m3u8?token=RED_
 #EXTINF:0,Animal Planet HD
 #EXTGRP:PSL 
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:0,NAT GEO WILD HD
 #EXTGRP:PSL 
-http://89.187.182.181:9090/SM_FHD-HINDI-NATGEOWILD/tracks-v1a1/index.m3u8
+http://212.224.98.210:2200/R-EX/ENGLISH_NAT_GEO_WILD_HD-in/index.m3u8?token=RED_
 #EXTINF:0,BBC Earth HD
 #EXTGRP:PSL 
 http://indo51.gcdn.co/hindi-SONYBBCEARTHHD/tracks-v1a1/mono.m3u8
