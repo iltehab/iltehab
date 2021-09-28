@@ -93,10 +93,10 @@ http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-http://143.244.60.10/HINDI__AND_FLIX_HD/tracks-v1a1/mono.m3u8?token=test
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/playlist.m3u8
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/playlist.m3u8
@@ -186,7 +186,7 @@ https://f8e7y4c6.ssl.hwcdn.net/cinemausa/tracks-v1a1/playlist.m3u8
 https://snehz5tv.herokuapp.com?c=0-9-209&m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
-https://jiotv.netlivtv.tech/?c=Sony_Max_SD&e=play.m3u8
+http://173.199.120.51/hls/andpicture.m3u8
 #EXTINF:0,And Pictures SD
 #EXTGRP:Bollywood
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v1a1/playlist.m3u8
@@ -252,7 +252,7 @@ http://143.244.60.10/HINDI__UTV_HD/tracks-v1a1/mono.m3u8?token=test
 http://143.244.60.10/HINDI__UTV_MOVIES/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0,UTV Action
 #EXTGRP:Bollywood
-http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=test
+http://173.199.120.51/hls/andpicture.m3u8
 #EXTINF:0,UTV Movies International
 #EXTGRP:Bollywood
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
