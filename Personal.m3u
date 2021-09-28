@@ -2,7 +2,7 @@
 #EXTINF:0, Animal Planet HD
 #EXTGRP: Infotainment
 #EXTEPG:0, tvg-id="AnimalPlanet.in"
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e901782c5ad3f413434f76feba4126576823fdf44b34911850a0dc345c440cee76ee92138c664006a29d4792957a13ce9f386d0f81e4bad707c643dffddbb332a702f41eb8a4177934010da02cd85807927addfbee3fb015fe7846c156d439bd0f9899a593&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8ee92138c664006a29d4792957a13ce9f386d0f81e4bad707c643dffddbb332a702f41eb8a4177934010da02cd85807927addfbee3fb015fe7846c156d439bd0f9899a593&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
 http://indo51.gcdn.co/hindi-SONYBBCEARTHHD/tracks-v1a1/mono.m3u8
@@ -14,7 +14,7 @@ http://89.187.182.181:9090/SM_FHD-HINDI-NATGEOWILD/tracks-v1a1/index.m3u8
 https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
-http://89.187.182.181:9090/SM_FHD-HINDI-DISCOVERY/tracks-v1a1/index.m3u8?token=93f1c64d7b6ac5564402c4b
+https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:0, NAT GEO HD
 #EXTGRP: Infotainment
 http://indo51.gcdn.co/hindi-Nationalgeographicindia/tracks-v1a1/mono.m3u8
