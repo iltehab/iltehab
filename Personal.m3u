@@ -183,7 +183,7 @@ https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/cinemausa/tracks-v1a1/playlist.m3u8
 #EXTINF:0,And Xplor HD
 #EXTGRP:Bollywood
-https://snehz5tv.herokuapp.com?c=0-9-209&m3u8
+https://live.picasotv.xyz/zeetv/index.php?c=0-9-209
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
 http://173.199.120.51/hls/andpicture.m3u8
@@ -252,7 +252,7 @@ http://143.244.60.10/HINDI__UTV_HD/tracks-v1a1/mono.m3u8?token=test
 http://143.244.60.10/HINDI__UTV_MOVIES/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0,UTV Action
 #EXTGRP:Bollywood
-http://173.199.120.51/hls/andpicture.m3u8
+http://103.153.39.34:8000/play/a06o/index.m3u8
 #EXTINF:0,UTV Movies International
 #EXTGRP:Bollywood
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
