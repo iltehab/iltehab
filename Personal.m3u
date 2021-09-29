@@ -204,7 +204,7 @@ http://indo51.gcdn.co/hindi-SONYMAXUK/tracks-v1a1/mono.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-CINEPLEX/tracks-v1a1/index.m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
-http://indo51.gcdn.co/hindi-COLORSCINEPLEXUK/tracks-v1a1/mono.m3u8
+http://93.152.174.144:4000/play/ait/index.m3u8
 #EXTINF:0,Astro Bollywood
 #EXTGRP:Bollywood
 http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
@@ -213,7 +213,7 @@ http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
-http://89.187.182.181:9090/SM_FHD-HINDI-STARGOLD/tracks-v1a1/index.m3u8
+http://93.152.174.144:4000/play/stargold/index.m3u8
 #EXTINF:0,Utsav Gold
 #EXTGRP:Bollywood
 http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
