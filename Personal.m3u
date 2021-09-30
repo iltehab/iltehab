@@ -103,15 +103,15 @@ https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
 https://bcovlive-a.akamaihd.net/rbd6e9dea9cdf43f0a79ac20d1f78a388/ap-southeast-1/ap-southeast-1/6100381078001/profile_1/chunklist_dvr.m3u8
-#EXTINF:0,ARY News
+#EXTINF:0,New Vision TV
 #EXTGRP:NEWS
 https://cdnuk001.broadcastcdn.net/KUK-NEWVISIONTV/tracks-v1a1/mono.m3u8 
 #EXTINF:0,Hum News
 #EXTGRP:NEWS
 http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0,Dawn
+#EXTINF:0,ARY NEWS
 #EXTGRP:NEWS
-http://indo51.gcdn.co/urdu-DAWNNEWS/tracks-v1a1/mono.m3u8
+http://14.199.164.20:4001/play/a0vo/index.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 http://14.199.164.20:4001/play/a0wk/index.m3u8
@@ -163,9 +163,9 @@ http://14.199.164.20:4001/play/a0o8/index.m3u8
 #EXTINF:0, Badshah
 #EXTGRP:Music
 http://185.132.178.105:8090/badshaha24/7/tracks-v1a1/index.m3u8?
-#EXTINF:0,MTV HD+
+#EXTINF:0,E24
 #EXTGRP:Music
-http://89.187.182.181:9090/SM_FHD-HINDI-MTV/tracks-v1a1/index.m3u8
+http://14.199.164.20:4001/play/a0pc/index.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
@@ -282,7 +282,7 @@ http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 http://indo51.gcdn.co/urdu-HUMEUROPE/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
-http://indo51.gcdn.co/urdu-ARYDIGITAL/tracks-v1a1/mono.m3u8
+http://14.199.164.20:4001/play/a0zd/index.m3u8
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
 http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
@@ -294,7 +294,7 @@ http://indo51.gcdn.co/urdu-PTVGLOBAL/tracks-v1a1/mono.m3u8
 http://indo51.gcdn.co/urdu-PTVHOME/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARY Family
 #EXTGRP:Drama
-http://indo51.gcdn.co/urdu-ARYFAMILY/tracks-v1a1/mono.m3u8
+http://14.199.164.20:4001/play/a0vk/index.m3u8
 #EXTINF:0,TV One
 #EXTGRP:Drama
 http://indo51.gcdn.co/urdu-TVONE/tracks-v1a1/mono.m3u8
@@ -315,7 +315,7 @@ http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?
 https://streams.simpaisa.com:8443/pitvlive4/sitaraynew.smil/playlist.m3u8?
 #EXTINF:0,ARY Zindagi
 #EXTGRP:Drama
-http://46.105.112.116/?watch=EX/aryzindagi-pa&token=RED_&m3u8
+http://14.199.164.20:4001/play/a0vj/index.m3u8
 #EXTINF:0,PTV News HD
 #EXTGRP:PSL 
 http://indo51.gcdn.co/urdu-PTVNEWS/tracks-v1a1/mono.m3u8
@@ -327,13 +327,13 @@ http://indo51.gcdn.co/urdu-GEOTVUK/tracks-v1a1/mono.m3u8
 http://212.224.98.210:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/index.m3u8?token=RED_
 #EXTINF:0,Animal Planet HD
 #EXTGRP:PSL 
-https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+http://103.153.39.34:8000/play/a05i/index.m3u8
 #EXTINF:0,NAT GEO WILD HD
 #EXTGRP:PSL 
-http://212.224.98.210:2200/R-EX/ENGLISH_NAT_GEO_WILD_HD-in/index.m3u8?token=RED_
+http://103.153.39.34:8000/play/a047/index.m3u8
 #EXTINF:0,BBC Earth HD
 #EXTGRP:PSL 
-http://indo51.gcdn.co/hindi-SONYBBCEARTHHD/tracks-v1a1/mono.m3u8
+http://103.153.39.34:8000/play/a05m/index.m3u8
 #EXTINF:0,BBC Earth Hindi
 #EXTGRP:PSL 
 https://feed.play.mv/live/10005200/7EsSDh7aX6/1.m3u8
