@@ -192,7 +192,7 @@ http://173.199.120.51/hls/andpicture.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
-http://89.187.182.181:9090/SM_FHD-HINDI-MAX/tracks-v1a1/index.m3u8
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
 https://jiotv.netlivtv.tech/jp.php?c=Sony_Max_SD&wmsAuthSign=c2VydmVyX103RamNC8yVMD1010dkbFGDdg21abVYnxz1610dsfsAEvna1310omfFRWEhmy10W51dGVzPTI=&e=play.m3u8
