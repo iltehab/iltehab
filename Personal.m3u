@@ -244,9 +244,9 @@ https://f8e7y4c6.ssl.hwcdn.net/classic/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Zee Classic
 #EXTGRP:Bollywood
 http://143.244.60.10/HINDI__ZEE_CLASSIC/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:0,UTV HD
+#EXTINF:0, Global Sanjh
 #EXTGRP:Bollywood
-http://143.244.60.10/HINDI__UTV_HD/tracks-v1a1/mono.m3u8?token=test
+https://globalsanjh.r.worldssl.net/global-sanjh/global-sanjhGfN25/playlist.m3u8
 #EXTINF:0,UTV Movies
 #EXTGRP:Bollywood
 http://143.244.60.10/HINDI__UTV_MOVIES/tracks-v1a1/mono.m3u8?token=test
