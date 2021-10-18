@@ -341,12 +341,12 @@ https://feed.play.mv/live/10005200/7EsSDh7aX6/1.m3u8
 #EXTGRP:PSL 
 https://feed.play.mv/live/1011/I1AjNshoqG/master.m3u8
 #EXTINF:0, Discovery HD
-#EXTINF:0, Dreamz
+#EXTINF:0, Star Sports 2
+#EXTGRP:T20
+http://173.199.120.53/hls/chsp2.m3u8
+#EXTINF:0, Sky Sports Cricket
 #EXTGRP:PK v ENG
-http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
-#EXTINF:0, URDU 1
-#EXTGRP:PK v ENG
-http://221.120.204.4/URDU-1-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0, URDU 1
-#EXTGRP:Radio
-http://peridot.streamguys.com:7150/Mirchi
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6681.m3u8
+#EXTINF:0, Willow 
+#EXTGRP:T20
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/4403.ts
