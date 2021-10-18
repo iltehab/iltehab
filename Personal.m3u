@@ -225,13 +225,13 @@ http://eurotv.vip:80/live/60/60/51622.m3u8
 http://143.244.60.10/HINDI__STAR_GOLD_2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0,B4U+
 #EXTGRP:Bollywood
-http://eurotv.vip:80/live/60/60/51642.m3u8
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/199.m3u8
 #EXTINF:0,Sony Max 2
 #EXTGRP:Bollywood
-http://indo51.gcdn.co/hindi-SONYMAX2/tracks-v1a1/mono.m3u8
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/197.m3u8
 #EXTINF:0,Sony Wah
 #EXTGRP:Bollywood
-http://indo51.gcdn.co/hindi-Sonymix/tracks-v1a1/mono.m3u8
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/196.m3u8
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
 https://f8e7y4c6.ssl.hwcdn.net/action/tracks-v1a1/playlist.m3u8
