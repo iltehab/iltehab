@@ -337,9 +337,9 @@ http://103.153.39.34:8000/play/a05m/index.m3u8
 #EXTINF:0,BBC Earth Hindi
 #EXTGRP:PSL 
 https://feed.play.mv/live/10005200/7EsSDh7aX6/1.m3u8
-#EXTINF:0, Love Nature 4k
-#EXTGRP:PSL 
-https://feed.play.mv/live/1011/I1AjNshoqG/master.m3u8
+#EXTINF:0, Star Sports 1
+#EXTGRP:T20
+http://93.152.174.144:4000/play/ss1in/index.m3u8?
 #EXTINF:0, Discovery HD
 #EXTINF:0, Star Sports 2
 #EXTGRP:T20
