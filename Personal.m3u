@@ -68,21 +68,21 @@ https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
 #EXTINF:0,Sky  Disney
 #EXTGRP:UK
-http://stream.tvtap.live:8081/live/mdisney.stream/playlist.m3u8
+http://vip.cms-xtream.com:8080/live/DreamSkype2021/hP2LTZ2TV8/37441.m3u8
 #EXTINF:0,Sky Comedy
 #EXTGRP: UK
-http://stream.tvtap.live:8081/live/mcomedy.stream/playlist.m3u8
+http://vip.cms-xtream.com:8080/live/DreamSkype2021/hP2LTZ2TV8/37439.m3u8
 #EXTINF:0, Sky Family
 #EXTGRP: Hollywood
-http://stream.tvtap.live:8081/live/mfamily.stream/playlist.m3u8?
+http://vip.cms-xtream.com:8080/live/DreamSkype2021/hP2LTZ2TV8/37443.m3u8?
 #EXTGRP: Hollywood
 #EXTINF:0, Sky Sci-Fi
 #EXTGRP: Hollywood
-http://stream.tvtap.live:8081/live/mscifi.stream/playlist.m3u8
-#EXTINF:0, Sky Action
+http://vip.cms-xtream.com:8080/live/DreamSkype2021/hP2LTZ2TV8/37446,.m3u8
+#EXTINF:0, Sky Action & Adventure
 #EXTGRP: Hollywood
-http://stream.tvtap.live:8081/live/maction.stream/playlist.m3u8
-#EXTINF:0, Sky Select
+http://vip.cms-xtream.com:8080/live/DreamSkype2021/hP2LTZ2TV8/37438.m3u8
+#EXTINF:0, Sky Premiere
 #EXTGRP: Hollywood
 http://stream.tvtap.live:8081/live/mselect.stream/playlist.m3u8
 #EXTINF:0, Star Movies Select
@@ -96,10 +96,10 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/playlist.m3u8
+http://vip.cms-xtream.com:8080/live/DreamSkype2021/hP2LTZ2TV8/147546.m3u8,
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/playlist.m3u8
+http://vip.cms-xtream.com:8080/live/DreamSkype2021/hP2LTZ2TV8/147547.m3u8
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
 https://bcovlive-a.akamaihd.net/rbd6e9dea9cdf43f0a79ac20d1f78a388/ap-southeast-1/ap-southeast-1/6100381078001/profile_1/chunklist_dvr.m3u8
@@ -344,9 +344,9 @@ http://acdn.bdixsports.live:1935/live/event.stream/index.m3u8??
 #EXTINF:0, Star Sports 2
 #EXTGRP:T20
 http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5,
-#EXTINF:0, Sky Sports Cricket
+#EXTINF:0, Willow Cricket
 #EXTGRP:PK v ENG
-https://d809c1360a545a.nowhatsappforwards.ml/t20worldcup/english/playlist.m3u8?token=VIRIFY_0e570dc0ba8be8eb9003492c228c290e~1635084606 
+http://vip.cms-xtream.com:8080/live/DreamSkype2021/hP2LTZ2TV8/147583.m3u8 
 #EXTINF:0, Astro Cricket
 #EXTGRP:T20
 http://172.105.37.228/ch/ipl.m3u8?
