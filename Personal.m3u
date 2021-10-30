@@ -344,9 +344,9 @@ http://acdn.bdixsports.live:1935/live/event.stream/index.m3u8??
 #EXTINF:0, Star Sports 2
 #EXTGRP:T20
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8?5c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5,
-#EXTINF:0, Willow Cricket
-#EXTGRP:PK v ENG
-http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in&token=RED&.m3u8 
+#EXTINF:0, Sky Cricket
+#EXTGRP:T20
+https://24tv.short.gy/Local_IPTV_PLAYLIST/ENGLISH-T20-WORLD-CUP/SKY_SPORTS_CRICKET.m3u8 
 #EXTINF:0, Astro Cricket
 #EXTGRP:T20
-http://46.105.112.116/?watch=EX/Sky_Sports_Cricket_FHD-uk&token=RED&.m3u8
+https://24tv.short.gy/Local_IPTV_PLAYLIST/ASTRO_CRICKET_LIVE.m3u8
