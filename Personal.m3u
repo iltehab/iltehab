@@ -337,16 +337,15 @@ http://103.153.39.34:8000/play/a05m/index.m3u8
 #EXTINF:0,BBC Earth Hindi
 #EXTGRP:PSL 
 https://feed.play.mv/live/10005200/7EsSDh7aX6/1.m3u8
-#EXTINF:0, Star Sports 1
+#EXTINF:0, A Sports HD
 #EXTGRP:T20
-http://acdn.bdixsports.live:1935/live/event.stream/index.m3u8??
-#EXTINF:0, Discovery HD
-#EXTINF:0, Star Sports 2
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:0, T Sports
 #EXTGRP:T20
-http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8?5c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5,
+http://103.70.140.27:8080/hls/tsports.m3u8?token=7e50e07a64eff32421d00c4de17b8b06ce5,
 #EXTINF:0, Sky Cricket
 #EXTGRP:T20
-https://24tv.short.gy/Local_IPTV_PLAYLIST/ENGLISH-T20-WORLD-CUP/SKY_SPORTS_CRICKET.m3u8 
+http://93.152.174.144:4000/play/skysports2/index.m3u8 
 #EXTINF:0, Astro Cricket
 #EXTGRP:T20
 https://24tv.short.gy/Local_IPTV_PLAYLIST/ASTRO_CRICKET_LIVE.m3u8
