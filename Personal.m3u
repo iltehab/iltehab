@@ -340,12 +340,12 @@ https://feed.play.mv/live/10005200/7EsSDh7aX6/1.m3u8
 #EXTINF:0, A Sports HD
 #EXTGRP:T20
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:0, T Sports
+#EXTINF:0, Siyatha
 #EXTGRP:T20
-http://103.70.140.27:8080/hls/tsports.m3u8?token=7e50e07a64eff32421d00c4de17b8b06ce5,
+http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8?
 #EXTINF:0, Sky Cricket
 #EXTGRP:T20
 http://93.152.174.144:4000/play/skysports2/index.m3u8 
 #EXTINF:0, Astro Cricket
 #EXTGRP:T20
-https://24tv.short.gy/Local_IPTV_PLAYLIST/ASTRO_CRICKET_LIVE.m3u8
+https://last.gcdn.co/IND424/index.m3u8
