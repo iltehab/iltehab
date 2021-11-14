@@ -171,7 +171,7 @@ http://14.199.164.20:4001/play/a0pc/index.m3u8
 http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Bollywood
-https://snehz5tv.herokuapp.com?c=0-9-zeecinema&m3u8
+http://65.2.4.240/jioo.php?c=Zee_Cinema&q=1200&e=.m3u8
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/tracks-v1a1/playlist.m3u8
