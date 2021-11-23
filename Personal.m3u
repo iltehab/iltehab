@@ -68,10 +68,10 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://65.2.4.240/jioo.php?c=Sony_Pix_HD&q=800&e=junk.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-http://vip.cms-xtream.com:8080/live/DreamSkype2021/hP2LTZ2TV8/147546.m3u8,
+https://sneh-z5api.herokuapp.com/?c=0-9-&flixhd
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
-http://vip.cms-xtream.com:8080/live/DreamSkype2021/hP2LTZ2TV8/147547.m3u8
+https://sneh-z5api.herokuapp.com/?c=0-9-&privehd
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream1/playlist_dvr.m3u8
@@ -101,7 +101,7 @@ https://live.hungama.com/linear/dil-se/playlist_480p/index.m3u8
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:0,Zing
 #EXTGRP:Music
-https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+https://sneh-z5api.herokuapp.com/?c=0-9-zing
 #EXTINF:0,Zoom
 #EXTGRP:Music
 http://indo51.gcdn.co/hindi-MTVBEATSHD/tracks-v1a1/mono.m3u8
@@ -140,7 +140,7 @@ http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 http://65.2.4.240/jioo.php?c=Zee_Cinema&q=1200&e=.m3u8
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
-https://f8e7y4c6.ssl.hwcdn.net/cinemauk/tracks-v1a1/playlist.m3u8
+https://sneh-z5api.herokuapp.com/?c=0-9-cinemauk
 #EXTINF:0,Zee Cinema ME
 #EXTGRP:Bollywood
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/tracks-v1a1/playlist.m3u8
@@ -152,7 +152,7 @@ https://f8e7y4c6.ssl.hwcdn.net/cinemausa/tracks-v1a1/playlist.m3u8
 http://eurotv.vip:80/live/60/60/51609.m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
-http://173.199.120.51/hls/andpicture.m3u8
+https://sneh-z5api.herokuapp.com/?c=0-9-&pictureshd
 #EXTINF:0,And Pictures SD
 #EXTGRP:Bollywood
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v1a1/playlist.m3u8
