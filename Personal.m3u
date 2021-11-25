@@ -6,9 +6,9 @@ http://65.2.4.240/jioo.php?c=Animal_Planet_Hindi&q=800&e=junk.m3u8
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
 http://65.2.4.240/jioo.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
-#EXTINF:0, NAT GEO WILD HD
+#EXTINF:0, Animal Planet Hindi
 #EXTGRP: Infotainment
-http://46.105.112.116/?watch=R-EX/HINDI_NAT_GEO_WILD_HD-in&token=&.m3u8
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/315.m3u8
 #EXTINF:0, Discovery Science
 #EXTGRP: Infotainment
 http://65.2.4.240/jioo.php?c=Didcovery_Science&q=800&e=junk.m3u8
