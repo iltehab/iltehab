@@ -2,10 +2,10 @@
 #EXTINF:0, Animal Planet HD
 #EXTGRP: Infotainment
 #EXTEPG:0, tvg-id="AnimalPlanet.in"
-https://snehjiotv.in1.bitmana.io/snehtv/snehjio/snehji0.php?c=Animal_Planet_Hindi&q=1200&e=junk.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_Hindi&=600&e=.m3u8
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
-https://snehjiotv.in1.bitmana.io/snehtv/snehjio/snehji0.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD&=600&e=.m3u8
 #EXTINF:0, Animal Planet Hindi
 #EXTGRP: Infotainment
 http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/315.m3u8
@@ -14,7 +14,7 @@ http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/315.m3u8
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/74198.m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
-http://tv.alphamediazone.com:8089/thunderbd/43/index.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Hindi&=600&e=.m3u8
 #EXTINF:0, Love Nature
 #EXTGRP: Infotainment
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
@@ -65,7 +65,7 @@ https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-https://snehjiotv.in1.bitmana.io/snehtv/snehjio/snehji0.php?c=Sony_BBC_Earth_HD_Hindi&q=1200&e=junk.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Sony_Pix_HD&=600&e=.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 http://tv.alphamediazone.com:8089/thunderbd/78/index.m3u8
@@ -86,10 +86,10 @@ http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/mono.m3u8
 http://103.17.201.18:8062/ARY_NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/153823.ts
+http://jo123.biz/jweb/m3u8.php?c=B4U_Music&=600&e=.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Mastiii&=600&e=.m3u8
 #EXTINF:0, Show Box
 #EXTGRP:Bollywood
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
@@ -110,7 +110,7 @@ http://tv.alphamediazone.com:8089/thunderbd/60/index.m3u8
 https://236s.short.gy/DreamTV/MtvHD.m3u8
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
-http://eurotv.vip:80/live/60/60/51662.m3u8
+http://jo123.biz/jweb/m3u8.php?c=MTV_Beats_HD&=600&e=.m3u8
 #EXTINF:0, Music India
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
