@@ -2,10 +2,10 @@
 #EXTINF:0, Animal Planet HD
 #EXTGRP: Infotainment
 #EXTEPG:0, tvg-id="AnimalPlanet.in"
-https://tvstream.space/jtv/jiio.php?c=Animal_Planet_Hindi&q=1200&e=Rukmini.m3u8
+https://snehjiotv.in1.bitmana.io/snehtv/snehjio/snehji0.php?c=Animal_Planet_Hindi&q=1200&e=junk.m3u8
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
-http://65.2.4.240/jioo.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
+https://snehjiotv.in1.bitmana.io/snehtv/snehjio/snehji0.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
 #EXTINF:0, Animal Planet Hindi
 #EXTGRP: Infotainment
 http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/315.m3u8
@@ -58,14 +58,14 @@ https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
 #EXTINF:0, E4
-#EXTGRP: UK
+#EXTGRP: UK .
 https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://tv.alphamediazone.com:8089/thunderbd/41/index.m3u8
+https://snehjiotv.in1.bitmana.io/snehtv/snehjio/snehji0.php?c=Sony_BBC_Earth_HD_Hindi&q=1200&e=junk.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 http://tv.alphamediazone.com:8089/thunderbd/78/index.m3u8
