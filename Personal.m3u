@@ -50,7 +50,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_h
 http://93.190.139.35:8278/streams/d/itv1_antik/playlist.m3u8
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-ITV2/index.m3u8
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
