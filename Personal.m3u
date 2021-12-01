@@ -68,10 +68,10 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Sony_Pix_HD&=600&e=.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-https://snehjiotv.in1.bitmana.io/snehtv/z5api/z5api.php?c=0-9-channel_2105335046&e=m3u8
+https://snehjiotv.in1.bitmana.io/snehtv/z5api/z5api.php?c=0-9-channel_2105335046&e.m3u8
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
-https://sneh-z5api.herokuapp.com/?c=0-9-&privehd
+https://sneh-z5api.herokuapp.com/?c=0-9-&privehd&e.m3u8
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream1/playlist_dvr.m3u8
@@ -101,7 +101,7 @@ https://live.hungama.com/linear/dil-se/playlist_480p/index.m3u8
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:0,Zing
 #EXTGRP:Music
-http://tv.alphamediazone.com:8089/thunderbd/93/index.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zing&e.m3u8
 #EXTINF:0,Zoom
 #EXTGRP:Music
 http://tv.alphamediazone.com:8089/thunderbd/60/index.m3u8
@@ -140,13 +140,13 @@ https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8
 http://14.199.164.20:4001/play/a0pc/index.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
-http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
+http://221.120.204.4/ZEE-CINEMA-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Bollywood
-http://prasadtv.ml/prasadZee/index.m3u8?c=0-9-pictures
+http://prasadtv.ml/prasadZee/index.m3u8?c=0-9-zeecinema
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
-https://sneh-z5api.herokuapp.com/?c=0-9-cinemauk
+http://prasadtv.ml/prasadZee/index.m3u8?c=0-9-cinemauk
 #EXTINF:0,Zee Cinema ME
 #EXTGRP:Bollywood
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/189.m3u8
@@ -155,13 +155,13 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/189.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/cinemausa/tracks-v1a1/playlist.m3u8
 #EXTINF:0,And Xplor HD
 #EXTGRP:Bollywood
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/153816.ts
-#EXTINF:0,And Pictures 
-#EXTGRP:Bollywood
-http://tv.alphamediazone.com:8089/thunderbd/100/index.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-209&e.m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
-https://snehz5tv.herokuapp.com/?c=0-9-tvpictureshd
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-tvpictureshd&e.m3u8
+#EXTINF:0,And Pictures SD
+#EXTGRP:Bollywood
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-pictures&e.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
@@ -177,9 +177,6 @@ http://jo123.biz/jweb/m3u8.php?c=Colors_Cineplex_HD&q=800&e=junk.m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
 http://93.152.174.144:4000/play/ait/index.m3u8
-#EXTINF:0,Astro Bollywood
-#EXTGRP:Bollywood
-http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
 #EXTINF:0, Rishtey Cineplex
 #EXTGRP:Bollywood
 http://jo123.biz/jweb/m3u8.php?c=Colors_Cineplex&=600&e=.m3u8
@@ -189,12 +186,6 @@ http://93.152.174.144:4000/play/stargold/index.m3u8
 #EXTINF:0,Utsav Gold
 #EXTGRP:Bollywood
 http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0,Star Gold Select HD
-#EXTGRP:Bollywood
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/153930.ts
-#EXTINF:0,Star Gold 2
-#EXTGRP:Bollywood
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/154201.ts
 #EXTINF:0,B4U+
 #EXTGRP:Bollywood
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/199.m3u8
@@ -206,16 +197,16 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/197.m3u8
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/196.m3u8
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
-http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeeaction&e.m3u8
 #EXTINF:0, B4U Kadak
 #EXTGRP:Bollywood
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:0,Zee Bollywood
 #EXTGRP:Bollywood
-http://tv.alphamediazone.com:8089/thunderbd/94/index.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeeclassic&e.m3u8
 #EXTINF:0,Zee Classic
 #EXTGRP:Bollywood
-http://tv.alphamediazone.com:8089/thunderbd/46/index.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-176&e.m3u8
 #EXTINF:0, Colors Cineplex
 #EXTGRP:Bollywood
 http://jo123.biz/jweb/m3u8.php?c=Colors_Cineplex_Bollywood&=600&e=.m3u8
