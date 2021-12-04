@@ -213,9 +213,9 @@ http://jo123.biz/jweb/m3u8.php?c=Colors_Cineplex_Bollywood&=600&e=.m3u8
 #EXTINF:0,UTV Movies
 #EXTGRP:Bollywood
 http://143.244.60.10/HINDI__UTV_MOVIES/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:0,UTV Action
+#EXTINF:0,Star Gold 2
 #EXTGRP:Bollywood
-http://103.153.39.34:8000/play/a06o/index.m3u8
+http://103.49.69.246:8000/play/a02u/index.m3u8
 #EXTINF:0,Bflix
 #EXTGRP:Bollywood
 http://tv.alphamediazone.com:8089/thunderbd/97/index.m3u8
@@ -233,7 +233,7 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/2850.m3u8
 http://14.199.164.20:4001/play/a0tm/index.m3u8
 #EXTINF:0, UTV Action
 #EXTGRP: Bollywood
-http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8 
 #EXTINF:0, Dhinchaak 
 #EXTGRP: Bollywood
 http://14.199.164.20:4001/play/a0o5/index.m3u8
