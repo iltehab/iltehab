@@ -68,7 +68,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Sony_Pix_HD&=600&e=.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-http://195.201.82.32:5001/play/a02g.m3u8
+http://195.201.82.32:5001/play/a02g
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
 http://195.201.82.32:5001/play/a00j
