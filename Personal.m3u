@@ -58,14 +58,20 @@ https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
 #EXTINF:0, E4
-#EXTGRP: UK .
+#EXTGRP: UK
 https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
+#EXTINF:0, E4
+#EXTGRP: UK
+http://195.201.82.32:5001/play/a00e
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0, Star Movies Select
+#EXTGRP: UK
+http://195.201.82.32:5001/play/a005
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://jo123.biz/jweb/m3u8.php?c=Sony_Pix_HD&=600&e=.m3u8
+http://195.201.82.32:5001/play/a02o
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 http://195.201.82.32:5001/play/a02g
