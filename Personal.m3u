@@ -2,7 +2,7 @@
 #EXTINF:0, Animal Planet HD
 #EXTGRP: Infotainment
 #EXTEPG:0, tvg-id="AnimalPlanet.in"
-http://195.201.82.32:5001/play/a00g
+http://jigriyaar.eu5.org/discovery/animalplanet_hd.m3u8
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
 http://195.201.82.32:5001/play/a02w
@@ -15,6 +15,9 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/74198.m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
 http://195.201.82.32:5001/play/a02k
+#EXTINF:0, Discovery Science
+#EXTGRP: Infotainment
+http://jigriyaar.eu5.org/discovery/discovery_sci_HD.m3u8
 #EXTINF:0, Love Nature
 #EXTGRP: Infotainment
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
@@ -149,10 +152,10 @@ http://14.199.164.20:4001/play/a0pc/index.m3u8
 http://221.120.204.4/ZEE-CINEMA-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Bollywood
-http://prasadtv.ml/prasadZee/index.m3u8?c=0-9-zeecinema
+https://aczee.000webhostapp.com/ztestp.php?c=0-9-zeecinema&e=.m3u8
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
-http://prasadtv.ml/prasadZee/index.m3u8?c=0-9-cinemauk
+https://aczee.000webhostapp.com/ztestp.php?c=0-9-cinemauk&e=.m3u8
 #EXTINF:0,Zee Cinema ME
 #EXTGRP:Bollywood
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/189.m3u8
@@ -161,7 +164,7 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/189.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/cinemausa/tracks-v1a1/playlist.m3u8
 #EXTINF:0,And Xplor HD
 #EXTGRP:Bollywood
-https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-209&e.m3u8
+https://aczee.000webhostapp.com/ztestp.php?c=0-9-209&e=.m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
 https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-tvpictureshd&e.m3u8
@@ -212,7 +215,7 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://208.86.19.21/701.stream/index.m3u8
 #EXTINF:0,Zee Classic
 #EXTGRP:Bollywood
-https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-176&e.m3u8
+https://aczee.000webhostapp.com/ztestp.php?c=0-9-176&e.m3u8
 #EXTINF:0, UTV HD
 #EXTGRP:Bollywood
 http://208.86.19.21/723.stream/index.m3u8
