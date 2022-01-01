@@ -167,7 +167,7 @@ https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-209&e.m3u8
 https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-tvpictureshd&e.m3u8
 #EXTINF:0,And Pictures SD
 #EXTGRP:Bollywood
-https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-pictures&e.m3u8
+http://208.86.19.21/705.stream/index.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
@@ -203,13 +203,13 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/197.m3u8
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/196.m3u8
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
-https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeeaction&e.m3u8
+http://208.86.19.21/728.stream/index.m3u8
 #EXTINF:0, B4U Kadak
 #EXTGRP:Bollywood
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:0,Zee Bollywood
 #EXTGRP:Bollywood
-https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeeclassic&e.m3u8
+http://208.86.19.21/701.stream/index.m3u8
 #EXTINF:0,Zee Classic
 #EXTGRP:Bollywood
 https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-176&e.m3u8
