@@ -66,7 +66,7 @@ https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
 #EXTINF:0, E4
 #EXTGRP: UK
 https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
-#EXTINF:0, E4
+#EXTINF:0, Comedy Central
 #EXTGRP: UK
 http://195.201.82.32:5001/play/a00e
 #EXTINF:0, Star Movies 
