@@ -152,10 +152,10 @@ https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8
 http://14.199.164.20:4001/play/a0pc/index.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
-http://221.120.204.4/ZEE-CINEMA-LOCKLE/tracks-v1a1/mono.m3u8
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Bollywood
-https://aczee.000webhostapp.com/ztestp.php?c=0-9-zeecinema&e=.m3u8
+https://aczee.000webhostapp.com/ztestp.php?c=0-9-zeecinema
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
 https://aczee.000webhostapp.com/ztestp.php?c=0-9-cinemauk&e=.m3u8
