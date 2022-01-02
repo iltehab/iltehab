@@ -9,12 +9,15 @@ http://195.201.82.32:5001/play/a02w
 #EXTINF:0, Nat Geo Wild HD
 #EXTGRP: Infotainment
 http://195.201.82.32:5001/play/a02f
+#EXTINF:0, Nat Geo HD
+#EXTGRP: Infotainment
+http://195.201.82.32:5001/play/a02v
 #EXTINF:0, Love Nature
 #EXTGRP: Infotainment
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/74198.m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
-http://195.201.82.32:5001/play/a02k
+http://jigriyaar.eu5.org/discovery/discovery_hd.m3u8
 #EXTINF:0, Discovery Science
 #EXTGRP: Infotainment
 http://jigriyaar.eu5.org/discovery/discovery_sci_HD.m3u8
