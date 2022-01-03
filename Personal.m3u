@@ -2,7 +2,7 @@
 #EXTINF:0, Animal Planet HD
 #EXTGRP: Infotainment
 #EXTEPG:0, tvg-id="AnimalPlanet.in"
-http://jigriyaar.eu5.org/discovery/animalplanet_hd.m3u8
+http://195.201.82.32:5001/play/a02w
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
 http://195.201.82.32:5001/play/a02w
@@ -17,7 +17,7 @@ http://195.201.82.32:5001/play/a02v
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/74198.m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
-http://jigriyaar.eu5.org/discovery/discovery_hd.m3u8
+http://195.201.82.32:5001/play/a02k
 #EXTINF:0, Discovery Science
 #EXTGRP: Infotainment
 http://jigriyaar.eu5.org/discovery/discovery_sci_HD.m3u8
