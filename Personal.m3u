@@ -113,7 +113,7 @@ https://live.hungama.com/linear/dil-se/playlist_480p/index.m3u8
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:0,Zing
 #EXTGRP:Music
-https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zing&e.m3u8
+http://14.199.164.20:4001/play/a0wm/index.m3u8
 #EXTINF:0,Zoom
 #EXTGRP:Music
 http://tv.alphamediazone.com:8089/thunderbd/60/index.m3u8
@@ -122,7 +122,7 @@ http://tv.alphamediazone.com:8089/thunderbd/60/index.m3u8
 https://236s.short.gy/DreamTV/MtvHD.m3u8
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
-https://durbinlive.com:443/live/jio?c=MTV_Beats_HD&q=auto&e=IshanJiotv.m3u8
+http://195.201.82.32:5001/play/a03e
 #EXTINF:0, Music India
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
@@ -257,7 +257,7 @@ http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 http://indo51.gcdn.co/urdu-HUMEUROPE/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
-http://103.17.201.18:8062/ARY_DIGITAL/tracks-v1a1/mono.m3u8
+http://208.86.19.21:80/821.stream/index.m3u8
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
 http://103.17.201.18:8062/GEO_ENT/tracks-v1a1/mono.m3u8
