@@ -2,10 +2,10 @@
 #EXTINF:0, Animal Planet HD
 #EXTGRP: Infotainment
 #EXTEPG:0, tvg-id="AnimalPlanet.in"
-http://195.201.82.32:5001/play/a00g
+https://durbinlive.com:443/live/jio?c=Animal_Planet_Hindi&q=auto&e=IshanJiotv.m3u8
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
-http://195.201.82.32:5001/play/a02w
+https://durbinlive.com:443/live/jio?c=Sony_BBC_Earth_HD&q=auto&e=IshanJiotv.m3u8
 #EXTINF:0, Nat Geo Wild HD
 #EXTGRP: Infotainment
 http://195.201.82.32:5001/play/a02f
@@ -17,10 +17,10 @@ http://195.201.82.32:5001/play/a02v
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/74198.m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
-http://195.201.82.32:5001/play/a02k
+https://durbinlive.com:443/live/jio?c=Discovery&q=auto&e=IshanJiotv.m3u8
 #EXTINF:0, Discovery Science
 #EXTGRP: Infotainment
-http://jigriyaar.eu5.org/discovery/discovery_sci_HD.m3u8
+https://durbinlive.com:443/live/jio?c=Discovery_Science&q=auto&e=IshanJiotv.m3u8
 #EXTINF:0, Love Nature
 #EXTGRP: Infotainment
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
@@ -68,7 +68,7 @@ https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
 #EXTINF:0, Comedy Central
 #EXTGRP: UK
-http://195.201.82.32:5001/play/a00e
+https://durbinlive.com:443/live/jio?c=Comedy_Central_HD&q=auto&e=IshanJiotv.m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
@@ -77,7 +77,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://195.201.82.32:5001/play/a005
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://195.201.82.32:5001/play/a02o
+https://durbinlive.com:443/live/jio?c=Sony_Pix_HD&q=auto&e=IshanJiotv.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 http://195.201.82.32:5001/play/a02g
@@ -119,10 +119,10 @@ http://14.199.164.20:4001/play/a0wm/index.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/60/index.m3u8
 #EXTINF:0,MTV HD Plus
 #EXTGRP:Music
-http://195.201.82.32:5001/play/a02m
+https://durbinlive.com:443/live/jio?c=MTV_HD_Plus&q=auto&e=IshanJiotv.m3u8
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
-http://195.201.82.32:5001/play/a03e
+https://durbinlive.com:443/live/jio?c=MTV_Beats_HD&q=auto&e=IshanJiotv.m3u8
 #EXTINF:0, Music India
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
@@ -155,7 +155,7 @@ http://14.199.164.20:4001/play/a0pc/index.m3u8
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Bollywood
-https://aczee.000webhostapp.com/ztestp.php?c=0-9-zeecinema
+https://durbinlive.com:443/live/jio?c=Zee_Cinema&q=auto&e=IshanJiotv.m3u8
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
 https://aczee.000webhostapp.com/ztestp.php?c=0-9-cinemauk&e=.m3u8
@@ -179,7 +179,7 @@ http://208.86.19.21/705.stream/index.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
-https://snehjiotv.in1.bitmana.io/snehtv/snehjio/snehji0.php?c=Sony_Max_SD&q=600&e=.m3u8
+https://durbinlive.com:443/live/jio?c=Sony_Max_SD&q=auto&e=IshanJiotv.m3u8
 #EXTINF:0,Set Max UK
 #EXTGRP:Bollywood
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/2849.m3u8
@@ -188,10 +188,10 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/2849.m3u8
 http://208.86.19.21/735.stream/index.m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
-http://93.152.174.144:4000/play/ait/index.m3u8
+https://durbinlive.com:443/live/jio?c=Colors_Cineplex&q=auto&e=IshanJiotv.m3u8
 #EXTINF:0, Rishtey Cineplex
 #EXTGRP:Bollywood
-https://durbinlive.com:443/live/jio?c=Colors_Cineplex&=600&e=.m3u8
+https://durbinlive.com:443/live/jio?c=Colors_Cineplex_Bollywood&q=auto&e=IshanJiotv.m3u8
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
 http://208.86.19.21/717.stream/index.m3u8
