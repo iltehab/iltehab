@@ -122,7 +122,7 @@ http://tv.alphamediazone.com:8089/thunderbd/60/index.m3u8
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
-http://144.217.70.181:9587/hin2/MTVBEATS/tracks-v1a1/mono.m3u8
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:0, Music India
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
