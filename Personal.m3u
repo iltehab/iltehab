@@ -2,25 +2,22 @@
 #EXTINF:0, Animal Planet HD
 #EXTGRP: Infotainment
 #EXTEPG:0, tvg-id="AnimalPlanet.in"
-https://durbinlive.com:443/live/jio?c=Animal_Planet_Hindi&q=auto&e=IshanJiotv.m3u8
+http://asdd.cc:7444/live/1/1/2178.m3u8
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
 https://durbinlive.com:443/live/jio?c=Sony_BBC_Earth_HD&q=auto&e=IshanJiotv.m3u8
 #EXTINF:0, Nat Geo Wild HD
 #EXTGRP: Infotainment
-http://195.201.82.32:5001/play/a02f
+http://asdd.cc:7444/live/1/1/2171.m3u8
 #EXTINF:0, Nat Geo HD
 #EXTGRP: Infotainment
-http://195.201.82.32:5001/play/a02v
-#EXTINF:0, Love Nature
-#EXTGRP: Infotainment
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/74198.m3u8
+http://asdd.cc:7444/live/1/1/2169.m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
-https://durbinlive.com:443/live/jio?c=Discovery&q=auto&e=IshanJiotv.m3u8
+http://asdd.cc:7444/live/1/1/2179.m3u8
 #EXTINF:0, Discovery Science
 #EXTGRP: Infotainment
-https://durbinlive.com:443/live/jio?c=Discovery_Science&q=auto&e=IshanJiotv.m3u8
+http://asdd.cc:7444/live/1/1/2177.m3u8
 #EXTINF:0, Love Nature
 #EXTGRP: Infotainment
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
@@ -113,10 +110,10 @@ https://live.hungama.com/linear/dil-se/playlist_480p/index.m3u8
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:0,Zing
 #EXTGRP:Music
-http://14.199.164.20:4001/play/a0wm/index.m3u8
+http://asdd.cc:7444/live/1/1/2157.m3u8
 #EXTINF:0,Zoom
 #EXTGRP:Music
-http://tv.alphamediazone.com:8089/thunderbd/60/index.m3u8
+http://asdd.cc:7444/live/1/1/2159.m3u8
 #EXTINF:0,MTV HD Plus
 #EXTGRP:Music
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
