@@ -2,13 +2,13 @@
 #EXTINF:0, Animal Planet HD
 #EXTGRP: Infotainment
 #EXTEPG:0, tvg-id="AnimalPlanet.in"
-http://asdd.cc:7444/live/1/1/2178.m3u8
+http://live.flixhub.net/hls/animalplanent.m3u8
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
-https://durbinlive.com:443/live/jio?c=Sony_BBC_Earth_HD&q=auto&e=IshanJiotv.m3u8
+http://live.flixhub.net/hls/bbcearth.m3u8
 #EXTINF:0, Nat Geo Wild HD
 #EXTGRP: Infotainment
-http://asdd.cc:7444/live/1/1/2171.m3u8
+http://live.flixhub.net/hls/wild.m3u8,
 #EXTINF:0, Nat Geo HD
 #EXTGRP: Infotainment
 http://asdd.cc:7444/live/1/1/2169.m3u8
@@ -17,7 +17,7 @@ http://asdd.cc:7444/live/1/1/2169.m3u8
 http://asdd.cc:7444/live/1/1/2179.m3u8
 #EXTINF:0, Discovery Science
 #EXTGRP: Infotainment
-http://asdd.cc:7444/live/1/1/2177.m3u8
+http://live.flixhub.net/hls/dis-science.m3u8
 #EXTINF:0, Love Nature
 #EXTGRP: Infotainment
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
