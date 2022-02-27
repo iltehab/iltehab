@@ -8,7 +8,7 @@ http://live.flixhub.net/hls/animalplanent.m3u8
 http://live.flixhub.net/hls/bbcearth.m3u8
 #EXTINF:0, Nat Geo Wild HD
 #EXTGRP: Infotainment
-http://live.flixhub.net/hls/wild.m3u8,
+http://live.flixhub.net/hls/wild.m3u8
 #EXTINF:0, Nat Geo HD
 #EXTGRP: Infotainment
 http://asdd.cc:7444/live/1/1/2169.m3u8
