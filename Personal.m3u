@@ -71,7 +71,7 @@ http://125.209.88.166:45793/BRN/BBCFirstHD.stream/playlist.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0, Star Movies Select
 #EXTGRP: UK
-http://182.50.65.213:8888/udp/239.239.0.20:3001/index.m3u8,
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/300.m3u8
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
 http://live.flixhub.net/hls/sonypixhd.m3u8
