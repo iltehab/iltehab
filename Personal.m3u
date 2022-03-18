@@ -29,10 +29,10 @@ http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:0,CNN UK
 #EXTGRP:World News
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+http://125.209.88.166:45793/BRN/CNNNews.stream/playlist.m3u8
 #EXTINF:0,Sky News
 #EXTGRP:World News
-http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/05.m3u8
+http://125.209.88.166:45793/BRN/SkyNews.stream/playlist.m3u8
 #EXTINF:0,Al Jazeera
 #EXTGRP:World News
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -63,9 +63,9 @@ https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
 #EXTINF:0, E4
 #EXTGRP: UK
 https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
-#EXTINF:0, Comedy Central
+#EXTINF:0, BBC First
 #EXTGRP: UK
-https://durbinlive.com:443/live/jio?c=Comedy_Central_HD&q=auto&e=IshanJiotv.m3u8
+http://125.209.88.166:45793/BRN/BBCFirstHD.stream/playlist.m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
@@ -251,7 +251,7 @@ http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 http://indo51.gcdn.co/urdu-HUMEUROPE/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
-http://208.86.19.21:80/821.stream/index.m3u8
+http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
 http://103.17.201.18:8062/GEO_ENT/tracks-v1a1/mono.m3u8
@@ -260,7 +260,7 @@ http://103.17.201.18:8062/GEO_ENT/tracks-v1a1/mono.m3u8
 http://indo51.gcdn.co/urdu-PTVGLOBAL/tracks-v1a1/mono.m3u8
 #EXTINF:0,PTV Home
 #EXTGRP:Drama
-http://103.17.201.18:8062/PTV_HOME/tracks-v1a1/mono.m3u8
+http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
 #EXTINF:0,Express Entertainment
 #EXTGRP:Drama
 http://103.17.201.18:8062/EXPRESS_ENT/tracks-v1a1/mono.m3u8
@@ -272,19 +272,18 @@ http://103.17.201.18:8062/TV_ONE/tracks-v1a1/mono.m3u8
 http://103.17.201.18:8062/FILM_WORLD/tracks-v1a1/mono.m3u8
 #EXTINF:0,TV One
 #EXTGRP:Drama
-http://103.17.201.18:8062/ATV/tracks-v1a1/mono.m3u8
+http://125.209.88.166:45793/BRN/TvOne.stream/playlist.m3u8
 #EXTINF:0,Star Plus HD
 #EXTGRP:Drama
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?
 #EXTINF:0,Zee TV
 #EXTGRP:Drama
-?
 #EXTINF:0,Hum Sitaray
 #EXTGRP:Drama
 http://103.17.201.18:8062/HUM_SITARAY/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARY Zindagi
 #EXTGRP:Drama
-http://103.17.201.18:8062/ARY_ZINDAGI/tracks-v1a1/mono.m3u8
+http://125.209.88.166:45793/BRN/AryZindage.stream/playlist.m3u8
 #EXTINF:0, A Sports HD
 #EXTGRP:T20
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
