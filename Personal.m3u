@@ -77,10 +77,10 @@ http://182.50.65.213:8888/udp/239.239.0.20:3001/index.m3u8,
 http://live.flixhub.net/hls/sonypixhd.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-http://195.201.82.32:5001/play/a02g
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/104.m3u8
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
-http://195.201.82.32:5001/play/a00j
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/105.m3u8
 #EXTINF:0,Geo News
 https://zkpywe62ybeg-hls-live.5centscdn.com/GEONews/2775a63846b6232662fff87128061bbd.sdp/playlist.m3u8
 #EXTGRP:NEWS
