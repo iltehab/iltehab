@@ -164,7 +164,7 @@ http://208.86.19.21/705.stream/index.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
-https://durbinlive.com:443/live/jio?c=Sony_Max_SD&q=auto&e=IshanJiotv.m3u8
+http://live.flixhub.net/hls/sonymax.m3u8
 #EXTINF:0,Set Max UK
 #EXTGRP:Bollywood
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/2849.m3u8
