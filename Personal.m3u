@@ -2,16 +2,16 @@
 #EXTINF:0, Animal Planet HD
 #EXTGRP: Infotainment
 #EXTEPG:0, tvg-id="AnimalPlanet.in"
-http://live.flixhub.net/hls/animalplanent.m3u8
+http://103.55.144.46/hls/animalplanent.m3u8
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
-http://live.flixhub.net/hls/bbcearth.m3u8
+http://103.55.144.46/hls/bbcearth.m3u8
 #EXTINF:0, Nat Geo Wild HD
 #EXTGRP: Infotainment
-http://live.flixhub.net/hls/wild.m3u8
+http://103.55.144.46/hls/wild.m3u8
 #EXTINF:0, Nat Geo HD
 #EXTGRP: Infotainment
-http://live.flixhub.net/hls/ngohd.m3u8
+http://103.55.144.46/hls/ngohd.m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
 http://live.flixhub.net/hls/discovery.m3u8
@@ -71,7 +71,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 https://link.zozotv.xyz:443/@nasanash/Lifetime8899/300
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://live.flixhub.net/hls/sonypixhd.m3u8
+http://103.55.144.46/hls/sonypixhd.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 https://link.zozotv.xyz:443/@nasanash/Lifetime8899/104
@@ -125,7 +125,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0,UTV Bindass
 #EXTGRP:Music
-http://live.flixhub.net/hls/bindass.m3u8
+http://103.55.144.46/hls/bindass.m3u8
 #EXTINF:0,B4u Music UK
 #EXTGRP:Music
 http://144.217.70.181:9587/hin2/B4UMUSICUK/tracks-v1a1/mono.m3u8
@@ -138,45 +138,24 @@ http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0,Zee Cinema
-#EXTGRP:Bollywood
-https://durbinlive.com:443/live/jio?c=Zee_Cinema&q=auto&e=IshanJiotv.m3u8
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
-#EXTINF:0,Zee Cinema ME
-#EXTGRP:Bollywood
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/189.m3u8
-#EXTINF:0,Zee Cinema USA
-#EXTGRP:Bollywood
-https://f8e7y4c6.ssl.hwcdn.net/cinemausa/tracks-v1a1/playlist.m3u8
-#EXTINF:0,And Xplor HD
-#EXTGRP:Bollywood
-https://aczee.000webhostapp.com/ztestp.php?c=0-9-209&e=.m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
-http://live.flixhub.net/hls/andpictures.m3u8
-#EXTINF:0,And Pictures SD
-#EXTGRP:Bollywood
-http://208.86.19.21/705.stream/index.m3u8
+http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
-http://live.flixhub.net/hls/sonymax.m3u8
-#EXTINF:0,Set Max UK
-#EXTGRP:Bollywood
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/2849.m3u8
+http://103.55.144.46/hls/sonymax.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
-http://live.flixhub.net/hls/colorscineplex.m3u8
-#EXTINF:0,Colors Cineplex UK
-#EXTGRP:Bollywood
-https://durbinlive.com:443/live/jio?c=Colors_Cineplex&q=auto&e=IshanJiotv.m3u8
+http://103.55.144.46/hls/colorscineplex.m3u8
 #EXTINF:0, Star Gold 2
 #EXTGRP:Bollywood
-http://live.flixhub.net/hls/stargold2hd.m3u8
+http://103.55.144.46/hls/stargold2hd.m3u8
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
