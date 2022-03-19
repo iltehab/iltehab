@@ -192,9 +192,9 @@ http://cdn.smartstream.video/smartstream-us/pitaratv/pitaratv/chunklist.m3u8
 #EXTINF:0, B4U Movies UK
 #EXTGRP: Bollywood
 http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8 
-#EXTINF:0, UTV Action
+#EXTINF:0, & Xplor HD
 #EXTGRP: Bollywood
-http://live.flixhub.net/hls/utvaction.m3u8 
+https://zee5-rds.herokuapp.com/?c=0-9-209&e=.m3u8
 #EXTINF:0, Bflix
 #EXTGRP: Bollywood
 http://103.149.130.122:8089/97/index.m3u8
