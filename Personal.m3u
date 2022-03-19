@@ -20,7 +20,7 @@ http://live.flixhub.net/hls/discovery.m3u8
 http://live.flixhub.net/hls/dis-science.m3u8
 #EXTINF:0, Love Nature
 #EXTGRP: Infotainment
-https://link.zozotv.xyz/live/@nasanash/Lifetime8899/116.m3u8
+https://link.zozotv.xyz/live/@nasanash/Lifetime8899/116
 #EXTINF:0,TRT World
 #EXTGRP:World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
@@ -68,16 +68,16 @@ http://125.209.88.166:45793/BRN/BBCFirstHD.stream/playlist.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0, Star Movies Select
 #EXTGRP: UK
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/300.m3u8
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/300
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
 http://live.flixhub.net/hls/sonypixhd.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/104.m3u8
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/104
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/105.m3u8
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/105
 #EXTINF:0,Geo News
 https://zkpywe62ybeg-hls-live.5centscdn.com/GEONews/2775a63846b6232662fff87128061bbd.sdp/playlist.m3u8
 #EXTGRP:NEWS
@@ -129,9 +129,9 @@ http://live.flixhub.net/hls/bindass.m3u8
 #EXTINF:0,B4u Music UK
 #EXTGRP:Music
 http://144.217.70.181:9587/hin2/B4UMUSICUK/tracks-v1a1/mono.m3u8
-#EXTINF:0,B4u Music US
+#EXTINF:0,Zing
 #EXTGRP:Music
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/2855.m3u8
+http://103.149.130.122:8089/93/index.m3u8
 #EXTINF:0,E24
 #EXTGRP:Music
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
@@ -216,9 +216,9 @@ http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8
 #EXTINF:0, UTV Action
 #EXTGRP: Bollywood
 http://live.flixhub.net/hls/utvaction.m3u8 
-#EXTINF:0, Dhinchaak 
+#EXTINF:0, Bflix
 #EXTGRP: Bollywood
-http://14.199.164.20:4001/play/a0o5/index.m3u8
+http://103.149.130.122:8089/97/index.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
