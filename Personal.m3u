@@ -145,8 +145,7 @@ http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
 #EXTGRP:Bollywood
 http://live.flixhub.net/hls/andpictures.m3u8
 #EXTINF:0,Sony Max HD
-#EXTGRP:Bollywood
-http://live.flixhub.net/hls/sony-maxhd.m3u8
+http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
 http://live.flixhub.net/hls/sonymax.m3u8
@@ -210,28 +209,18 @@ http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
 http://103.17.201.18:8062/GEO_ENT/tracks-v1a1/mono.m3u8
-#EXTINF:0,PTV Global
-#EXTGRP:Drama
-http://indo51.gcdn.co/urdu-PTVGLOBAL/tracks-v1a1/mono.m3u8
 #EXTINF:0,PTV Home
 #EXTGRP:Drama
 http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
 #EXTINF:0,Express Entertainment
 #EXTGRP:Drama
 http://103.17.201.18:8062/EXPRESS_ENT/tracks-v1a1/mono.m3u8
-#EXTINF:0,TV One
-#EXTGRP:Drama
-http://103.17.201.18:8062/TV_ONE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Film World
 #EXTGRP:Drama
 http://103.17.201.18:8062/FILM_WORLD/tracks-v1a1/mono.m3u8
 #EXTINF:0,TV One
 #EXTGRP:Drama
 http://125.209.88.166:45793/BRN/TvOne.stream/playlist.m3u8
-#EXTINF:0,Star Plus HD
-#EXTGRP:Drama
-http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?
-#EXTINF:0,Zee TV
 #EXTGRP:Drama
 #EXTINF:0,Hum Sitaray
 #EXTGRP:Drama
