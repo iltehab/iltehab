@@ -137,7 +137,7 @@ http://103.149.130.122:8089/93/index.m3u8
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
-http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
@@ -146,7 +146,7 @@ http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
 http://live.flixhub.net/hls/andpictures.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+http://live.flixhub.net/hls/sony-maxhd.m3u8
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
 http://live.flixhub.net/hls/sonymax.m3u8
@@ -155,10 +155,10 @@ http://live.flixhub.net/hls/sonymax.m3u8
 http://live.flixhub.net/hls/colorscineplex.m3u8
 #EXTINF:0, Star Gold 2
 #EXTGRP:Bollywood
-http://live.flixhub.net/hls/stargold2hd.m3u8
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
- ://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Utsav Gold
 #EXTGRP:Bollywood
 http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
