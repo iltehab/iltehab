@@ -74,7 +74,7 @@ https://link.zozotv.xyz:443/@nasanash/Lifetime8899/300
 http://103.55.144.46/hls/sonypixhd.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-https://nayeem-parvez.gq/zeex.php?c=0-9-channel_2105335046
+https://nayeem-parvez.gq/zeex.php?c=0-9-channel_2105335046&e=m3u8
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
 https://link.zozotv.xyz:443/@nasanash/Lifetime8899/105
@@ -202,19 +202,18 @@ http://103.149.130.122:8089/97/index.m3u8
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Hum Europe
 #EXTGRP:Drama
-http://indo51.gcdn.co/urdu-HUMEUROPE/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
 http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
-http://103.17.201.18:8062/GEO_ENT/tracks-v1a1/mono.m3u8
+http://125.209.88.166:45793/BRN/GeoEnt.stream/playlist.m3u8
 #EXTINF:0,PTV Home
 #EXTGRP:Drama
 http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
 #EXTINF:0,Express Entertainment
 #EXTGRP:Drama
-http://103.17.201.18:8062/EXPRESS_ENT/tracks-v1a1/mono.m3u8
+http://125.209.88.166:45793/BRN/ExpressEnt.stream/playlist.m3u8
 #EXTINF:0,Film World
 #EXTGRP:Drama
 http://103.17.201.18:8062/FILM_WORLD/tracks-v1a1/mono.m3u8
@@ -231,9 +230,9 @@ http://125.209.88.166:45793/BRN/AryZindage.stream/playlist.m3u8
 #EXTINF:0, A Sports HD
 #EXTGRP:T20
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:0, Test
+#EXTINF:0, Geo Kahani
 #EXTGRP:T20
-http://jo123.biz/jweb/m3u8.php?c=B4U_Music&q=800&e.m3u8?
+http://125.209.88.166:45793/BRN/GeoKahani.stream/playlist.m3u8
 #EXTINF:0, Sky Cricket
 #EXTGRP:T20
 http://93.152.174.144:4000/play/skysports2/index.m3u8 
