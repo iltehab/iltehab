@@ -140,6 +140,9 @@ http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
+http://smartsw.xyz:8080/live/tom/tom123/99741.m3u8
+#EXTINF:0,Zee Cinema UK
+#EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
