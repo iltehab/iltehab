@@ -236,24 +236,24 @@ https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8
 #EXTINF:0,ARY Zindagi
 #EXTGRP:Drama
 http://125.209.88.166:45793/BRN/AryZindage.stream/playlist.m3u8
-#EXTINF:0, A Sports HD
-#EXTGRP:T20
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:0, Geo Kahani
-#EXTGRP:T20
+#EXTGRP:Drama
 http://125.209.88.166:45793/BRN/GeoKahani.stream/playlist.m3u8
+#EXTINF:0, A Sports HD
+#EXTGRP:Sports
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:0, Sky Cricket
-#EXTGRP:T20
-http://93.152.174.144:4000/play/skysports2/index.m3u8 
-#EXTINF:0, Astro Cricket
-#EXTGRP:T20
-https://last.gcdn.co/IND424/index.m3u8
+#EXTGRP:Sports
+https://king.nowtv.vip/live/skycricket/playlist.m3u8 
+#EXTINF:0, Sky Cinema Action
+#EXTGRP:Sky
+https://king.nowtv.vip/live/skycinemaaction/chunks.m3u8
 #EXTINF:0, Sky Cinema Family
 #EXTGRP:Sky 
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/266.m3u8
-#EXTINF:0, Sky Cinema Comedy
+https://king.nowtv.vip/live/skyfamilymovies/playlist.m3u8
+#EXTINF:0, Sky Cinema Premiere
 #EXTGRP:Sky 
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/263.m3u8
-#EXTINF:0, Sky Cinema Action
+https://king.nowtv.vip/live/skypremiermovies/chunks.m3u8
+#EXTINF:0, Sky Cinema SciFi
 #EXTGRP:Sky 
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/264.m3u8
+https://king.nowtv.vip/live/skyhorrormovies/chunks.m3u8
