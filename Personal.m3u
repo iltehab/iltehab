@@ -148,11 +148,10 @@ http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
 #EXTGRP:Bollywood
 http://live.flixhub.net/hls/andpictures.m3u8
 #EXTINF:0,Sony Max HD
-http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
-http://live.flixhub.net/hls/sonymax.m3u8
+http://live.flixhub.net/hls/sony-maxhd.m3u8
 #EXTINF:0,SET Max UK
 #EXTGRP:Bollywood
-http://smartsw.xyz:8080/live/tom/tom123/99784.m3u8
+http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
 http://live.flixhub.net/hls/sonymax.m3u8
