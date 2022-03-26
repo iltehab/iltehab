@@ -157,7 +157,7 @@ http://live.flixhub.net/hls/sonymax.m3u8
 http://live.flixhub.net/hls/colorscineplex.m3u8
 #EXTINF:0, Star Gold 2
 #EXTGRP:Bollywood
-http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
