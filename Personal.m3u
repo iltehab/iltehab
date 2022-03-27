@@ -200,9 +200,9 @@ http://cdn.smartstream.video/smartstream-us/pitaratv/pitaratv/chunklist.m3u8
 #EXTINF:0, B4U Movies UK
 #EXTGRP: Bollywood
 http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8 
-#EXTINF:0, & Xplor HD
+#EXTINF:0,Gold Mines Films
 #EXTGRP: Bollywood
-https://nayeem-parvez.gq/zeex.php?c=0-9-209&e=Join-us-on-telegram-AllLiveSportsLinks.m3u8
+http://live.flixhub.net/hls/dhin.m3u8
 #EXTINF:0, Bflix
 #EXTGRP: Bollywood
 http://103.149.130.122:8089/97/index.m3u8
@@ -223,7 +223,7 @@ http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
 #EXTINF:0,Express Entertainment
 #EXTGRP:Drama
 http://125.209.88.166:45793/BRN/ExpressEnt.stream/playlist.m3u8
-#EXTINF:0,Aaj Entertainment آج
+#EXTINF:0,Aaj آج
 #EXTGRP:Drama
 https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
 #EXTINF:0,TV One
