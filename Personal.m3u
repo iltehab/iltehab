@@ -2,13 +2,13 @@
 #EXTINF:0, Animal Planet HD
 #EXTGRP: Infotainment
 #EXTEPG:0, tvg-id="AnimalPlanet.in"
-http://live.flixhub.net/hls/animalplanent.m3u8
+http://103.55.144.46/hls/animalplanent.m3u8
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
-http://live.flixhub.net/hls/bbcearth.m3u8
+http://103.55.144.46/hls/bbcearth.m3u8
 #EXTINF:0, Nat Geo Wild HD
 #EXTGRP: Infotainment
-http://live.flixhub.net/hls/wild.m3u8
+http://103.55.144.46/hls/wild.m3u8
 #EXTINF:0, Nat Geo HD
 #EXTGRP: Infotainment
 http://live.flixhub.net/hls/ngohd.m3u8
