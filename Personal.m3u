@@ -154,7 +154,7 @@ http://live.flixhub.net/hls/sony-maxhd.m3u8
 http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
-http://live.flixhub.net/hls/sonymax.m3u8
+http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 http://live.flixhub.net/hls/colorscineplex.m3u8
