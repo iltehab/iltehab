@@ -245,12 +245,12 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:0, Sky Cricket
 #EXTGRP:Sports
 https://king.nowtv.vip/live/skycricket/playlist.m3u8
- #EXTINF:0, PTV Sports HD
+ #EXTINF:0, PTV Sports 
 #EXTGRP:Sports
 http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8
-#EXTINF:0, Sky Cricket
+#EXTINF:0, PTV Sports HD
 #EXTGRP:Sports
-https://king.nowtv.vip/live/skycricket/playlist.m3u8
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:0, Sky Cinema Action
 #EXTGRP:Sky
 https://king.nowtv.vip/live/skycinemaaction/chunks.m3u8
