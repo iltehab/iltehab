@@ -241,7 +241,7 @@ http://125.209.88.166:45793/BRN/AryZindage.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/GeoKahani.stream/playlist.m3u8
 #EXTINF:0, A Sports HD
 #EXTGRP:Sports
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:0, Sky Cricket
 #EXTGRP:Sports
 https://king.nowtv.vip/live/skycricket/playlist.m3u8 
