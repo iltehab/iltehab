@@ -11,13 +11,13 @@ http://103.55.144.46/hls/bbcearth.m3u8
 http://103.55.144.46/hls/wild.m3u8
 #EXTINF:0, نیشنل جیوگرافک
 #EXTGRP: Infotainment
-http://live.flixhub.net/hls/ngohd.m3u8
+https://snehapi-april.in1.bitmana.io/discplus/5_Animal_Planet/index.m3u8
 #EXTINF:0, ڈسکوری
 #EXTGRP: Infotainment
-http://live.flixhub.net/hls/discovery.m3u8
+https://snehapi-april.in1.bitmana.io/discplus/1_Discovery_Channel/index.m3u8
 #EXTINF:0, ڈسکوری سائنس
 #EXTGRP: Infotainment
-http://live.flixhub.net/hls/dis-science.m3u8
+https://snehapi-april.in1.bitmana.io/discplus/2_Discovery_Science/index.m3u8
 #EXTINF:0, لو نیچر
 #EXTGRP: Infotainment
 https://link.zozotv.xyz/live/@nasanash/Lifetime8899/116.m3u8
