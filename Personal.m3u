@@ -20,29 +20,29 @@ https://snehapi-april.in1.bitmana.io/discplus/1_Discovery_Channel/index.m3u8
 https://snehapi-april.in1.bitmana.io/discplus/2_Discovery_Science/index.m3u8
 #EXTINF:0, لو نیچر
 #EXTGRP: Infotainment
-http://103.119.95.236:81/play/a00g
-#EXTINF:0,ٹی آر ٹی ورلڈ
+http://103.119.95.236:81/play/a00g/index.m3u8
+#EXTINF:0,TRT World
 #EXTGRP:World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:0,سی این این
+#EXTINF:0,CNN 
 #EXTGRP:World News
 http://125.209.88.166:45793/BRN/CNNNews.stream/playlist.m3u8
-#EXTINF:0,سکائی نیوز
+#EXTINF:0,Sky News
 #EXTGRP:World News
 http://125.209.88.166:45793/BRN/SkyNews.stream/playlist.m3u8
-#EXTINF:0, الجزیرہ
+#EXTINF:0, Al-Jazeera
 #EXTGRP:World News
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:0,بی بی سی نیوز
+#EXTINF:0,BBC News
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
-#EXTINF:0, بی بی سی ون
+#EXTINF:0, BBC One
 #EXTGRP: UK 
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:0, بی بی سی ٹو
+#EXTINF:0, BBC Two
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v1a1/mono.m3u8
-#EXTINF:0, بی بی سی فور
+#EXTINF:0, BBC Four
 #EXTGRP: UK 
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, ITV 1
