@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, کرہ حیونات
+#EXTINF:0, کرۂِ حیوانات
 #EXTGRP: Infotainment
 #EXTEPG:0, tvg-id="AnimalPlanet.in"
 http://103.55.144.46/hls/animalplanent.m3u8
@@ -42,6 +42,9 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/
 #EXTINF:0, BBC Two
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v1a1/mono.m3u8
+#EXTINF:0, BBC Three
+#EXTGRP: UK 
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, BBC Four
 #EXTGRP: UK 
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
