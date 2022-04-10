@@ -20,7 +20,7 @@ https://snehapi-april2.in1.bitmana.io/discplus/1_Discovery_Channel/index.m3u8
 https://snehapi-april2.in1.bitmana.io/discplus/2_Discovery_Science/index.m3u8
 #EXTINF:0, لو نیچر
 #EXTGRP: Infotainment
-http://103.119.95.236:81/play/a00g/index.m3u8
+http://103.150.209.115:8000/play/a01p/index.m3u8
 #EXTINF:0,TRT World
 #EXTGRP:World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
