@@ -11,13 +11,13 @@ http://103.55.144.46/hls/bbcearth.m3u8
 http://103.55.144.46/hls/wild.m3u8
 #EXTINF:0, نیشنل جیوگرافک
 #EXTGRP: Infotainment
-https://snehapi-april.in1.bitmana.io/discplus/5_Animal_Planet/index.m3u8
+https://snehapi-april2.in1.bitmana.io/discplus/5_Animal_Planet/index.m3u8
 #EXTINF:0, ڈسکوری
 #EXTGRP: Infotainment
-https://snehapi-april.in1.bitmana.io/discplus/1_Discovery_Channel/index.m3u8
+https://snehapi-april2.in1.bitmana.io/discplus/1_Discovery_Channel/index.m3u8
 #EXTINF:0, ڈسکوری سائنس
 #EXTGRP: Infotainment
-https://snehapi-april.in1.bitmana.io/discplus/2_Discovery_Science/index.m3u8
+https://snehapi-april2.in1.bitmana.io/discplus/2_Discovery_Science/index.m3u8
 #EXTINF:0, لو نیچر
 #EXTGRP: Infotainment
 http://103.119.95.236:81/play/a00g/index.m3u8
