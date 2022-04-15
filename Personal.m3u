@@ -163,11 +163,11 @@ http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
-http://103.55.144.46/hls/colorscineplex.m3u8
+http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Cineplex_HD&q=1200&e=.m3u8
 #EXTINF:0,Colors Cineplex
 #EXTGRP:Bollywood
 http://myjio.in1.bitmana.io/livetv/amar.php?id=482&e=m3u8
-#EXTINF:0, Star Gold 2
+#EXTINF:0, Star Gold 2 
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
 #EXTINF:0, Star Gold HD
