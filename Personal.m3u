@@ -77,10 +77,10 @@ http://nayeem68.myftp.org:8080/live/ajob/baksho/58.m3u8
 http://103.55.144.46/hls/sonypixhd.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-http://nayeem68.myftp.org:8080/live/ajob/baksho/78.m3u8
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-channel_2105335046
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/105
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-andprivehd
 #EXTINF:0,Geo News
 https://zkpywe62ybeg-hls-live.5centscdn.com/GEONews/2775a63846b6232662fff87128061bbd.sdp/playlist.m3u8
 #EXTGRP:NEWS
@@ -144,9 +144,9 @@ http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
-#EXTINF:0,Zee Cinema UK
+#EXTINF:0,Zee Cinema 
 #EXTGRP:Bollywood
-http://smartsw.xyz:8080/live/tom/tom123/99741.m3u8
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeecinema
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
