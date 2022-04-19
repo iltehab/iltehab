@@ -137,7 +137,7 @@ http://ultrontv.xyz:80/live/m123/m123/73995.m3u8
 http://144.217.70.181:9587/hin2/B4UMUSICUK/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zing
 #EXTGRP:Music
-http://ultrontv.xyz:80/live/m123/m123/73985.m3u8
+http://89.187.162.109/ZING/mono.m3u8
 #EXTINF:0,E24
 #EXTGRP:Music
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
@@ -161,6 +161,9 @@ http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
 http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
+#EXTINF:0,Sony Wah
+#EXTGRP:Bollywood
+http://89.187.162.109/SONYWAH/mono.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Cineplex_HD&q=1200&e=.m3u8
