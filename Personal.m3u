@@ -77,10 +77,10 @@ http://nayeem68.myftp.org:8080/live/ajob/baksho/58.m3u8
 http://103.55.144.46/hls/sonypixhd.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-https://iamsom5.000webhostapp.com/zee5.php?c=0-9-channel_2105335046
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-channel_2105335046&e:m3u8
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
-https://iamsom5.000webhostapp.com/zee5.php?c=0-9-andprivehd
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-andprivehd&e:m3u8
 #EXTINF:0,Geo News
 https://zkpywe62ybeg-hls-live.5centscdn.com/GEONews/2775a63846b6232662fff87128061bbd.sdp/playlist.m3u8
 #EXTGRP:NEWS
@@ -146,7 +146,7 @@ http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Cinema 
 #EXTGRP:Bollywood
-https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeecinema
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeecinema&e:m3u8
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
@@ -217,7 +217,7 @@ http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8
 http://89.187.162.109/AAHOMUSIC/mono.m3u8
 #EXTINF:0, And Xplor
 #EXTGRP: Bollywood
-https://iamsom5.000webhostapp.com/zee5.php?c=0-9-209
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-209&e:m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
