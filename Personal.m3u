@@ -138,9 +138,9 @@ http://144.217.70.181:9587/hin2/B4UMUSICUK/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zing
 #EXTGRP:Music
 http://89.187.162.109/ZING/mono.m3u8
-#EXTINF:0,E24
+#EXTINF:0, Dil Se
 #EXTGRP:Music
-http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
+https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
