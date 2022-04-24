@@ -71,16 +71,16 @@ http://125.209.88.166:45793/BRN/BBCFirstHD.stream/playlist.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0, Star Movies Select
 #EXTGRP: UK
-http://nayeem68.myftp.org:8080/live/ajob/baksho/58.m3u8
+http://175.107.244.52:4455/play/a01t/index.m3u8
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
+http://175.107.244.52:4455/play/a00r/index.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 https://iamsom5.000webhostapp.com/zee5.php?c=0-9-channel_2105335046&e:m3u8
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
-https://iamsom5.000webhostapp.com/zee5.php?c=0-9-andprivehd&e:m3u8
+http://175.107.244.52:4455/play/a00x/index.m3u8
 #EXTINF:0,Geo News
 https://zkpywe62ybeg-hls-live.5centscdn.com/GEONews/2775a63846b6232662fff87128061bbd.sdp/playlist.m3u8
 #EXTGRP:NEWS
@@ -155,9 +155,9 @@ http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:0,Sony Max HD
 http://103.55.144.46/hls/sony-maxhd.m3u8
-#EXTINF:0,SET Max UK
+#EXTINF:0,Star Gold Select HD
 #EXTGRP:Bollywood
-http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
+http://175.107.244.52:4455/play/a00p/index.m3u8
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
 http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
