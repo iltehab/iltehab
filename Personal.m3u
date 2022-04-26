@@ -77,10 +77,10 @@ http://103.132.16.98:8080/starmoviesselecthd/mpegts
 http://175.107.244.52:4455/play/a00r/index.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-https://iamsom5.000webhostapp.com/zee5.php?c=0-9-channel_2105335046&e:m3u8
+http://103.132.16.98:8080/andflixhd/mpegts
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
-http://175.107.244.52:4455/play/a00x/index.m3u8
+http://103.132.16.98:8080/andprivehd/mpegts
 #EXTINF:0,Geo News
 https://zkpywe62ybeg-hls-live.5centscdn.com/GEONews/2775a63846b6232662fff87128061bbd.sdp/playlist.m3u8
 #EXTGRP:NEWS
