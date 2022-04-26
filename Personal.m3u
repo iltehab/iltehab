@@ -71,7 +71,7 @@ http://125.209.88.166:45793/BRN/BBCFirstHD.stream/playlist.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0, Star Movies Select
 #EXTGRP: UK
-http://175.107.244.52:4455/play/a01t/index.m3u8
+http://103.132.16.98:8080/starmoviesselecthd/mpegts
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
 http://175.107.244.52:4455/play/a00r/index.m3u8
@@ -182,7 +182,7 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Cineplex_Bollywood&q=1200&
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?type=live
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
-http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+http://103.132.16.98:8080/stargoldhd/mpegts
 #EXTINF:0,Utsav Gold
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
