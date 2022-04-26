@@ -185,7 +185,12 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?type=live
 http://103.132.16.98:8080/stargoldhd/mpegts
 #EXTINF:0,Utsav Gold
 #EXTGRP:Bollywood
+#EXTINF:0,Utsav Gold
+#EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
+#EXTINF:0,Star Gold
+#EXTGRP:Bollywood
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Bollywood
 #EXTGRP:Bollywood
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
