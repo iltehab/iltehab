@@ -24,12 +24,6 @@ http://103.150.209.115:8000/play/a01p/index.m3u8
 #EXTINF:0,TRT World
 #EXTGRP:World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:0,CNN 
-#EXTGRP:World News
-http://125.209.88.166:45793/BRN/CNNNews.stream/playlist.m3u8
-#EXTINF:0,Sky News
-#EXTGRP:World News
-http://125.209.88.166:45793/BRN/SkyNews.stream/playlist.m3u8
 #EXTINF:0, AlJazeera
 #EXTGRP:World News
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -63,9 +57,6 @@ https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
 #EXTINF:0, E4
 #EXTGRP: UK
 https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
-#EXTINF:0, BBC First
-#EXTGRP: UK
-http://125.209.88.166:45793/BRN/BBCFirstHD.stream/playlist.m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
@@ -86,10 +77,10 @@ https://zkpywe62ybeg-hls-live.5centscdn.com/GEONews/2775a63846b6232662fff8712806
 #EXTGRP:NEWS
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
-http://125.209.88.166:45793/BRN/DuniyaNews.stream/playlist.m3u8 
+intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist_w1787675135_b739328.m3u8 
 #EXTINF:0,Hum News
 #EXTGRP:NEWS
-http://125.209.88.166:45793/BRN/HumNewsHD.stream/playlist.m3u8
+http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARY NEWS
 #EXTGRP:NEWS
 http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
