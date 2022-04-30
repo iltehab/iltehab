@@ -148,7 +148,7 @@ http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
 #EXTGRP:Bollywood
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:0,Sony Max HD
-http://103.55.144.46/hls/sony-maxhd.m3u8
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?type=live
 #EXTINF:0,Star Gold Select HD
 #EXTGRP:Bollywood
 http://175.107.244.52:4455/play/a00p/index.m3u8
