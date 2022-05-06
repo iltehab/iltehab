@@ -160,8 +160,7 @@ http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 http://89.187.162.109/SONYWAH/mono.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
-http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Cineplex_HD&q=1200&e=.m3u8
-http://89.187.162.109/SONYWAH/mono.m3u8
+http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF:0,Colors Cineplex
 #EXTGRP:Bollywood
 http://103.132.16.98:8080/colorscineplexhd/mpegts
@@ -185,6 +184,9 @@ http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Gold
 #EXTGRP:Bollywood
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Star Gold Select 
+#EXTGRP:Bollywood
+http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF:0,Zee Bollywood
 #EXTGRP:Bollywood
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
