@@ -86,7 +86,7 @@ intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist_w1787675135_
 http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARY NEWS
 #EXTGRP:NEWS
-http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
+http://ranapk-ind.ddns.net:9100/play/a06b
 #EXTINF:0,Dawn News
 #EXTGRP:NEWS
 http://125.209.88.166:45793/BRN/DawnNews.stream/playlist.m3u8
