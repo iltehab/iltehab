@@ -11,7 +11,7 @@ http://103.55.144.46/hls/bbcearth.m3u8
 http://103.55.144.46/hls/wild.m3u8
 #EXTINF:0, انیمل پلانیٹ
 #EXTGRP: Infotainment
-http://103.139.171.5:5001/jiotvplus/live.php?c=Animal_Planet_Hindi&e=.m3u8
+http://ranapk-ind.ddns.net:9100/play/a059
 #EXTINF:0, ڈسکوری
 #EXTGRP: Infotainment
 https://snehtv-may-01.in1.bitmana.io/snehapi/discplus/1_Discovery_Channel/index.m3u8
@@ -68,7 +68,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://103.132.16.98:8080/starmoviesselecthd/mpegts
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://node97425-techmax-live.in1.bitmana.io/Jiotv/autoq.php?c=Sony_Pix_HD&e=m3u8
+http://ranapk-ind.ddns.net:9100/play/a05c
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
 http://103.132.16.98:8080/andflixhd/mpegts
