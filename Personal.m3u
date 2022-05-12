@@ -244,9 +244,9 @@ https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
 #EXTGRP:Drama
 http://125.209.88.166:45793/BRN/TvOne.stream/playlist.m3u8
 #EXTGRP:Drama
-#EXTINF:0,Play
+#EXTINF:0,ATV
 #EXTGRP:Drama
-https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8
+https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8?
 #EXTINF:0,ARY Zindagi
 #EXTGRP:Drama
 http://125.209.88.166:45793/BRN/AryZindage.stream/playlist.m3u8
