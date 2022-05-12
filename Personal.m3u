@@ -76,11 +76,11 @@ http://103.132.16.98:8080/andflixhd/mpegts
 #EXTGRP: Hollywood
 http://103.132.16.98:8080/andprivehd/mpegts
 #EXTINF:0,Geo News
-http://ranapk-ind.ddns.net:9100/play/a06y
+http://208.86.19.13:81/616.stream/index.m3u8
 #EXTGRP:NEWS
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
-http://ranapk-ind.ddns.net:9100/play/a06l 
+http://208.86.19.13:81/619.stream/index.m3u8 
 #EXTINF:0,Hum News
 #EXTGRP:NEWS
 http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/mono.m3u8
@@ -234,9 +234,9 @@ http://125.209.88.166:45793/BRN/GeoEnt.stream/playlist.m3u8
 #EXTINF:0,PTV Home
 #EXTGRP:Drama
 http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
-#EXTINF:0,Express Entertainment
+#EXTINF:0,A Plus
 #EXTGRP:Drama
-http://125.209.88.166:45793/BRN/ExpressEnt.stream/playlist.m3u8
+http://208.86.19.13:81/623.stream/index.m3u8
 #EXTINF:0,Aaj آج
 #EXTGRP:Drama
 https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
@@ -252,7 +252,7 @@ https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8?
 http://208.86.19.13:81/825.stream/index.m3u8
 #EXTINF:0, Geo Kahani
 #EXTGRP:Drama
-http://125.209.88.166:45793/BRN/GeoKahani.stream/playlist.m3u8
+http://208.86.19.13:81/603.stream/index.m3u8
 ,#EXTINF:0, A Sports HD
 #EXTGRP:Sports
 http://208.86.19.13:81/602.stream/index.m3u8
@@ -264,7 +264,7 @@ https://king.nowtv.vip/live/skycricket/playlist.m3u8
 http://208.86.19.13:81/610.stream/index.m3u8
 #EXTINF:0, PTV Sports HD
 #EXTGRP:Sports
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+http://208.86.19.13:81/731.stream/index.m3u8
 #EXTINF:0, Sky Cinema Action
 #EXTGRP:Sky
 https://king.nowtv.vip/live/skycinemaaction/chunks.m3u8
