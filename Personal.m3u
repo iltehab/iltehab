@@ -59,7 +59,7 @@ https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
 #EXTINF:0, Comedy Central
 #EXTGRP: Hollywood
-http://103.139.171.5:5001/jiotvplus/live.php?c=Comedy_Central_HD&e=m3u8
+http://103.139.171.5:5001/jiotvplus/live.php?c=Comedy_Central_HD&q=1200&e=junk.m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
@@ -131,7 +131,7 @@ http://ultrontv.xyz:80/live/m123/m123/73995.m3u8
 http://144.217.70.181:9587/hin2/B4UMUSICUK/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zing
 #EXTGRP:Music
-http://103.139.171.5:5001/jiotvplus/live.php?c=Zing&e=m3u8
+http://103.139.171.5:5001/jiotvplus/live.php?c=Zing&q=1200&e=junk.m3u8
 #EXTINF:0, Dil Se
 #EXTGRP:Music
 https://live.hungama.com/linear/dil-se/playlist.m3u8
@@ -140,23 +140,23 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Cinema 
 #EXTGRP:Bollywood
-http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_Cinema_SD&e=m3u8
+http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_Cinema_SD&q=1200&e=junk.m3u8
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
-http://103.139.171.5:5001/jiotvplus/live.php?c=And_Pictures_HD&e=m3u8
+http://103.139.171.5:5001/jiotvplus/live.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
 #EXTINF:0,Sony Max HD
 EXTGRP:Bollywood
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTGRP:Bollywood
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
-http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Max_SD&e=m3u8
+http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Max_SD&q=1200&e=junk.m3u8
 #EXTINF:0,Sony Wah
 #EXTGRP:Bollywood
-http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Wah&e=m3u8
+http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Wah&q=1200&e=junk.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 http://208.86.19.13:81/735.stream/index.m3u8
@@ -175,8 +175,6 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?type=live
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
 http://103.132.16.98:8080/stargoldhd/mpegts
-#EXTINF:0,Utsav Gold
-#EXTGRP:Bollywood
 #EXTINF:0,Utsav Gold
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
