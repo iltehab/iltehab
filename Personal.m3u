@@ -146,7 +146,7 @@ https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-zio
 http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
-http://103.139.171.5:5001/jiotvplus/live.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
+http://208.86.19.13:81/705.stream/index.m3u8
 #EXTINF:0,Sony Max HD
 EXTGRP:Bollywood
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
@@ -253,15 +253,15 @@ http://208.86.19.13:81/825.stream/index.m3u8
 #EXTINF:0, Geo Kahani
 #EXTGRP:Drama
 http://125.209.88.166:45793/BRN/GeoKahani.stream/playlist.m3u8
-#EXTINF:0, A Sports HD
+,#EXTINF:0, A Sports HD
 #EXTGRP:Sports
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+http://208.86.19.13:81/602.stream/index.m3u8
 #EXTINF:0, Sky Cricket
 #EXTGRP:Sports
 https://king.nowtv.vip/live/skycricket/playlist.m3u8
  #EXTINF:0, PTV Sports 
 #EXTGRP:Sports
-http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8
+http://208.86.19.13:81/610.stream/index.m3u8
 #EXTINF:0, PTV Sports HD
 #EXTGRP:Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
