@@ -180,7 +180,7 @@ http://103.132.16.98:8080/stargoldhd/mpegts
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Gold
 #EXTGRP:Bollywood
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8?type=live,
 #EXTINF:0,Star Gold Select 
 #EXTGRP:Bollywood
 http://208.86.19.13:81/709.stream/index.m3u8
@@ -219,7 +219,7 @@ http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8
 http://89.187.162.109/AAHOMUSIC/mono.m3u8
 #EXTINF:0, And Xplor
 #EXTGRP: Bollywood
-https://iamsom5.000webhostapp.com/zee5.php?c=0-9-209&e:m3u8
+https://2j9r.short.gy/andxplore.m3u8?type=live
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
