@@ -14,13 +14,13 @@ http://103.55.144.46/hls/wild.m3u8
 http://ranapk-ind.ddns.net:9100/play/a059
 #EXTINF:0, ڈسکوری
 #EXTGRP: Infotainment
-https://snehtv-may-01.in1.bitmana.io/snehapi/discplus/1_Discovery_Channel/index.m3u8
+https://snehtv-may-02.in1.bitmana.io/snehapi/discplus/1_Discovery_Channel/index.m3u8
 #EXTINF:0, ڈسکوری سائنس
 #EXTGRP: Infotainment
-https://snehtv-may-01.in1.bitmana.io/snehapi/discplus/2_Discovery_Science/index.m3u8،
+https://snehtv-may-02.in1.bitmana.io/snehapi/discplus/2_Discovery_Science/index.m3u8،
 #EXTINF:0, لو نیچر
 #EXTGRP: Infotainment
-https://snehtv-may-01.in1.bitmana.io/snehapi/discplus/5_Animal_Planet/index.m3u8
+https://snehtv-may-02.in1.bitmana.io/snehapi/discplus/5_Animal_Planet/index.m3u8
 #EXTINF:0,TRT World
 #EXTGRP:World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
