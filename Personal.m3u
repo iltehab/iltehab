@@ -9,6 +9,9 @@ http://103.55.144.46/hls/bbcearth.m3u8
 #EXTINF:0, نیشنل جیوگرافک وائلڈ 
 #EXTGRP: Infotainment
 http://103.55.144.46/hls/wild.m3u8
+#EXTINF:0, نیشنل جیوگرافک  
+#EXTGRP: Infotainment
+http://103.55.144.46/hls/wild.m3u8
 #EXTINF:0, انیمل پلانیٹ
 #EXTGRP: Infotainment
 http://ranapk-ind.ddns.net:9100/play/a059
