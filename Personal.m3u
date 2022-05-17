@@ -79,7 +79,7 @@ http://103.132.16.98:8080/andflixhd/mpegts
 #EXTGRP: Hollywood
 http://103.132.16.98:8080/andprivehd/mpegts
 #EXTINF:0,Geo News
-http://208.86.19.13:81/616.stream/index.m3u8
+http://ranapk-ind.ddns.net:9100/play/a06y
 #EXTGRP:NEWS
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
