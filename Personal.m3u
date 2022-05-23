@@ -274,7 +274,7 @@ http://208.86.19.13:81/610.stream/index.m3u8
 http://208.86.19.13:81/731.stream/index.m3u8
 #EXTINF:0, Sky Cinema Action
 #EXTGRP:Sky
-https://king.nowtv.vip/live/skycinemaaction/chunks.m3u8
+https://gas3.gcdn.co/IND124/tracks-v1a1/mono.m3u8
 #EXTINF:0, Sky Cinema Family
 #EXTGRP:Sky 
 https://king.nowtv.vip/live/skyfamilymovies/playlist.m3u8
