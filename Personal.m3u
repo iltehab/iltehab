@@ -102,9 +102,9 @@ http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8
 #EXTINF:0, Show Box
 #EXTGRP:Bollywood
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
-#EXTINF:0,Wow Music
+#EXTINF:0, Vision Beats HD
 #EXTGRP:Music
-https://ilove.livebox.co.in/wowinhls/live.m3u8
+https://gas3.gcdn.co/IND77/tracks-v1a1/mono.m3u8
 #EXTINF:0,PTC Music
 #EXTGRP:Music
 https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
