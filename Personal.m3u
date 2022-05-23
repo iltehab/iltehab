@@ -79,7 +79,7 @@ http://103.132.16.98:8080/andflixhd/mpegts
 #EXTGRP: Hollywood
 http://103.132.16.98:8080/andprivehd/mpegts
 #EXTINF:0,Geo News
-http://ranapk-ind.ddns.net:9100/play/a06y
+https://gas3.gcdn.co/IND160/tracks-v1a1/mono.m3u8
 #EXTGRP:NEWS
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
@@ -92,7 +92,7 @@ http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/mono.m3u8
 http://ranapk-ind.ddns.net:9100/play/a06b
 #EXTINF:0,Dawn News
 #EXTGRP:NEWS
-http://125.209.88.166:45793/BRN/DawnNews.stream/playlist.m3u8
+https://gas3.gcdn.co/IND173/tracks-v1a1/mono.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
@@ -132,9 +132,9 @@ http://103.167.190.250/hls/bindass.m3u8
 #EXTINF:0,B4u Music UK
 #EXTGRP:Music
 http://144.217.70.181:9587/hin2/B4UMUSICUK/tracks-v1a1/mono.m3u8
-#EXTINF:0,Zing
+#EXTINF:0,8XM
 #EXTGRP:Music
-http://208.86.19.13:81/828.stream/index.m3u8
+https://gas3.gcdn.co/IND221/tracks-v1a1/mono.m3u8
 #EXTINF:0, Dil Se
 #EXTGRP:Music
 https://live.hungama.com/linear/dil-se/playlist.m3u8
@@ -228,24 +228,28 @@ https://2j9r.short.gy/andxplore.m3u8?type=live
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Hum Europe
 #EXTGRP:Drama
+https://gas3.gcdn.co/IND190/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
-http://208.86.19.13:81/821.stream/index.m3u8
+https://gas3.gcdn.co/IND189/tracks-v1a1/mono.m3u8
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
-http://125.209.88.166:45793/BRN/GeoEnt.stream/playlist.m3u8
+https://gas3.gcdn.co/IND185/tracks-v1a1/mono.m3u8
+#EXTINF:0,PTV Global
+#EXTGRP:Drama
+https://gas3.gcdn.co/IND210/tracks-v1a1/mono.m3u8
 #EXTINF:0,PTV Home
 #EXTGRP:Drama
-http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
+https://gas3.gcdn.co/IND211/tracks-v1a1/mono.m3u8
 #EXTINF:0,A Plus
 #EXTGRP:Drama
-http://208.86.19.13:81/623.stream/index.m3u8
+https://gas3.gcdn.co/IND201/tracks-v1a1/mono.m3u8
 #EXTINF:0,Aaj آج
 #EXTGRP:Drama
 https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
 #EXTINF:0,TV One
 #EXTGRP:Drama
-http://125.209.88.166:45793/BRN/TvOne.stream/playlist.m3u8
+https://gas3.gcdn.co/IND184/tracks-v1a1/mono.m3u8
 #EXTGRP:Drama
 #EXTINF:0,ATV
 #EXTGRP:Drama
@@ -253,9 +257,9 @@ https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8?
 #EXTINF:0,ARY Zindagi
 #EXTGRP:Drama
 http://208.86.19.13:81/825.stream/index.m3u8
-#EXTINF:0, Geo Kahani
+#EXTINF:0, ARY Digital UK
 #EXTGRP:Drama
-http://208.86.19.13:81/603.stream/index.m3u8
+https://gas3.gcdn.co/IND196/tracks-v1a1/mono.m3u8
 ,#EXTINF:0, A Sports HD
 #EXTGRP:Sports
 http://208.86.19.13:81/602.stream/index.m3u8
@@ -277,6 +281,6 @@ https://king.nowtv.vip/live/skyfamilymovies/playlist.m3u8
 #EXTINF:0, Sky Cinema Premiere
 #EXTGRP:Sky 
 https://king.nowtv.vip/live/skypremiermovies/chunks.m3u8
-#EXTINF:0, Test
+#EXTINF:0, Express
 #EXTGRP:Sky 
-http://175.107.244.52:4455/play/a01o/index.m3u8
+https://gas3.gcdn.co/IND200/tracks-v1a1/mono.m3u8
