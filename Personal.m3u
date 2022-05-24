@@ -71,13 +71,13 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://103.132.16.98:8080/starmoviesselecthd/mpegts
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://ranapk-ind.ddns.net:9100/play/a05c
+https://gas1.gcdn.co/ENU87/index.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-http://103.132.16.98:8080/andflixhd/mpegts
+https://gas1.gcdn.co/ENU88/index.m3u8
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
-http://103.132.16.98:8080/andprivehd/mpegts
+https://gas1.gcdn.co/ENU90,/index.m3u8
 #EXTINF:0,Geo News
 https://gas3.gcdn.co/IND160/tracks-v1a1/mono.m3u8
 #EXTGRP:NEWS
@@ -283,7 +283,7 @@ http://208.86.19.13:81/731.stream/index.m3u8
 https://gas3.gcdn.co/IND124/tracks-v1a1/mono.m3u8
 #EXTINF:0, Sky Cinema Family
 #EXTGRP:Sky 
-https://king.nowtv.vip/live/skyfamilymovies/playlist.m3u8
+https://gas1.gcdn.co/ENU11/tracks-v1a1/mono.m3u8
 #EXTINF:0, Sky Cinema Premiere
 #EXTGRP:Sky 
 https://king.nowtv.vip/live/skypremiermovies/chunks.m3u8
