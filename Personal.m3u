@@ -284,9 +284,9 @@ https://gas3.gcdn.co/IND124/tracks-v1a1/mono.m3u8
 #EXTINF:0, Sky Cinema Family
 #EXTGRP:Sky 
 https://gas1.gcdn.co/ENU11/tracks-v1a1/mono.m3u8
-#EXTINF:0, Sky Cinema Premiere
+#EXTINF:0, Sky Nature
 #EXTGRP:Sky 
-https://king.nowtv.vip/live/skypremiermovies/chunks.m3u8
+http://46.105.112.116/?watch=EX/UKFHD_Sky_Nature-uk&token=RED_83-8M3wB796tKt8w2STu1A==,1652246734.9359072311|user-agent=REDLINECLIENT
 #EXTINF:0, Express
 #EXTGRP:Sky 
 https://gas3.gcdn.co/IND200/tracks-v1a1/mono.m3u8
