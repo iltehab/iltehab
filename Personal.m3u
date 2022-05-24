@@ -271,16 +271,16 @@ https://gas3.gcdn.co/IND196/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/602.stream/index.m3u8
 #EXTINF:0, Sky Cricket
 #EXTGRP:Sports
-https://king.nowtv.vip/live/skycricket/playlist.m3u8
+https://gas1.gcdn.co/UKS10/index.m3u8
  #EXTINF:0, PTV Sports 
 #EXTGRP:Sports
 http://208.86.19.13:81/610.stream/index.m3u8
 #EXTINF:0, PTV Sports HD
 #EXTGRP:Sports
 http://208.86.19.13:81/731.stream/index.m3u8
-#EXTINF:0, Sky Cinema Action
+#EXTINF:0, Sky Cinema Comedy
 #EXTGRP:Sky
-https://gas3.gcdn.co/IND124/tracks-v1a1/mono.m3u8
+https://gas1.gcdn.co/ENU10/index.m3u8
 #EXTINF:0, Sky Cinema Family
 #EXTGRP:Sky 
 https://gas1.gcdn.co/ENU11/tracks-v1a1/mono.m3u8
