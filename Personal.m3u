@@ -14,7 +14,7 @@ http://103.167.190.250/hls/wild.m3u8
 http://103.167.190.250/hls/ngohd.m3u8
 #EXTINF:0, Love Nature
 #EXTGRP: Infotainment
-https://bit.ly/3lGiVjP
+http://46.105.112.116/?watch=EX/Sky_Nature_HD-uk&token=RED_YP7s749la7U0MKpbTx0LoA==,1653515215.9359072311|user-agent=REDLINECLIENT
 #EXTINF:0, ڈسکوری
 #EXTGRP: Infotainment
 https://snehtv-may-03.in1.bitmana.io/snehapi/discplus/1_Discovery_Channel/index.m3u8
@@ -22,7 +22,7 @@ https://snehtv-may-03.in1.bitmana.io/snehapi/discplus/1_Discovery_Channel/index.
 #EXTGRP: Infotainment
 https://snehtv-may-03.in1.bitmana.io/snehapi/discplus/2_Discovery_Science/index.m3u8،
 #EXTINF:0, لو نیچر
-#EXTGRP: Infotainment
+#EXTGRP: Infotainment.
 https://snehtv-may-03.in1.bitmana.io/snehapi/discplus/5_Animal_Planet/index.m3u8
 #EXTINF:0,TRT World
 #EXTGRP:World News
