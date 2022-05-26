@@ -168,7 +168,7 @@ https://gas3.gcdn.co/IND81/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF:0,Colors Cineplex
 #EXTGRP:Bollywood
-http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Cineplex_SD&q=1200&e=junk.m3u8
+http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Cineplex&q=1200&e=junk.m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
 https://gas2.gcdn.co/IND50/index.m3u8
