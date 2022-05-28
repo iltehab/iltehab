@@ -153,7 +153,6 @@ http://208.86.19.13:81/705.stream/index.m3u8
 #EXTINF:0,Sony Max HD
 EXTGRP:Bollywood
 https://gas3.gcdn.co/IND28/tracks-v1a1/mono.m3u8
-#EXTGRP:Bollywood
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
 https://gas3.gcdn.co/IND29/tracks-v1a1/mono.m3u8
