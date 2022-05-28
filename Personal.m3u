@@ -152,14 +152,14 @@ https://gas2.gcdn.co/IND40/index.m3u8
 http://208.86.19.13:81/705.stream/index.m3u8
 #EXTINF:0,Sony Max HD
 EXTGRP:Bollywood
-http://gas3.gcdn.co/IND28/index.m3u8
+https://gas3.gcdn.co/IND28/tracks-v1a1/mono.m3u8
 #EXTGRP:Bollywood
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
-https://gas3.gcdn.co/IND29/index.m3u8
+https://gas3.gcdn.co/IND29/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max UK 
 EXTGRP:Bollywood
-http://gas3.gcdn.co/IND27/index.m3u8
+https://gas3.gcdn.co/IND27/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Wah
 #EXTGRP:Bollywood
 https://gas3.gcdn.co/IND81/tracks-v1a1/mono.m3u8
@@ -216,7 +216,7 @@ http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,UTV Movies
 #EXTGRP:Bollywood
-https://gas2.gcdn.co/IND37/index.m3u8
+https://gas3.gcdn.co/IND37/index.m3u8
 #EXTINF:0, UTV Action 
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
@@ -240,28 +240,28 @@ https://2j9r.short.gy/andxplore.m3u8?type=live
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Hum Europe
 #EXTGRP:Drama
-https://gas3.gcdn.co/IND190/tracks-v1a1/mono.m3u8
+https://gas4.gcdn.co/IND190/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
-https://gas3.gcdn.co/IND189/tracks-v1a1/mono.m3u8
+https://gas4.gcdn.co/IND189/tracks-v1a1/mono.m3u8
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
-https://gas3.gcdn.co/IND185/tracks-v1a1/mono.m3u8
+https://gas4.gcdn.co/IND185/tracks-v1a1/mono.m3u8
 #EXTINF:0,PTV Global
 #EXTGRP:Drama
-https://gas3.gcdn.co/IND210/tracks-v1a1/mono.m3u8
+https://gas4.gcdn.co/IND210/tracks-v1a1/mono.m3u8
 #EXTINF:0,PTV Home
 #EXTGRP:Drama
-https://gas3.gcdn.co/IND211/tracks-v1a1/mono.m3u8
+https://gas4.gcdn.co/IND211/tracks-v1a1/mono.m3u8
 #EXTINF:0,A Plus
 #EXTGRP:Drama
-https://gas3.gcdn.co/IND201/tracks-v1a1/mono.m3u8
+https://gas4.gcdn.co/IND201/tracks-v1a1/mono.m3u8
 #EXTINF:0,Aaj آج
 #EXTGRP:Drama
 https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
 #EXTINF:0,TV One
 #EXTGRP:Drama
-https://gas3.gcdn.co/IND184/tracks-v1a1/mono.m3u8
+https://gas4.gcdn.co/IND184/tracks-v1a1/mono.m3u8
 #EXTGRP:Drama
 #EXTINF:0,ATV
 #EXTGRP:Drama
