@@ -79,8 +79,8 @@ https://gas1.gcdn.co/ENU88/index.m3u8
 #EXTGRP: Hollywood
 https://gas1.gcdn.co/ENU90/index.m3u8
 #EXTINF:0,Geo News
-https://gas4.gcdn.co/IND160/tracks-v1a1/mono.m3u8
 #EXTGRP:NEWS
+https://gas4.gcdn.co/IND160/tracks-v1a1/mono.m3u8
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
 http://208.86.19.13:81/619.stream/index.m3u8 
@@ -176,7 +176,7 @@ https://gas3.gcdn.co/IND50/index.m3u8
 http://89.187.162.109/CINEPLEXHD/mono.m3u8
 #EXTINF:0,Colors Cineplex Bollywood
 #EXTGRP:Bollywood
-https://gas2.gcdn.co/IND58/index.m3u8
+https://gas3.gcdn.co/IND58/index.m3u8
 #EXTINF:0, Star Gold 2 
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?type=live
