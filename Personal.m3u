@@ -89,7 +89,7 @@ http://208.86.19.13:81/619.stream/index.m3u8
 http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARY NEWS
 #EXTGRP:NEWS
-https://gas4.gcdn.co/IND159/tracks-v1a1/mono.m3u8
+http://42.200.67.163:8090/play/a0od
 #EXTINF:0,Dawn News
 #EXTGRP:NEWS
 https://gas4.gcdn.co/IND173/tracks-v1a1/mono.m3u8
