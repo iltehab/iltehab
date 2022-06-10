@@ -8,10 +8,10 @@ http://103.55.144.46/hls/animalplanent.m3u8
 http://103.55.144.46/hls/bbcearth.m3u8
 #EXTINF:0, نیشنل جیوگرافک وائلڈ 
 #EXTGRP: Infotainment
-http://103.167.190.250/hls/wild.m3u8
+http://103.55.144.46/hls/wild.m3u8
 #EXTINF:0, نیشنل جیوگرافک  
 #EXTGRP: Infotainment
-http://103.167.190.250/hls/ngohd.m3u8
+http://103.55.144.46/hls/ngohd.m3u8
 #EXTINF:0, Love Nature
 #EXTGRP: Infotainment
 http://103.139.171.5:5001/jiotvplus/live.php?c=Animal_Planet_Hindi&q=1200&e=junk.m3u8
