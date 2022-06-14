@@ -77,7 +77,7 @@ https://gas1.gcdn.co/ENU88/index.m3u8
 https://gas1.gcdn.co/ENU90/index.m3u8
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
-http://quality-restream.com:8080/87bfc75e/92ebd0fc4d/1391
+http://stariptv.org:8080//live/nour2020/123456/158338.m3u8
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
 http://208.86.19.13:81/619.stream/index.m3u8 
@@ -89,7 +89,7 @@ http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/mono.m3u8
 http://42.200.67.163:8090/play/a0od
 #EXTINF:0,Dawn News
 #EXTGRP:NEWS
-https://gas4.gcdn.co/IND173/tracks-v1a1/mono.m3u8
+http://stariptv.org:8080//live/nour2020/123456/158354.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
