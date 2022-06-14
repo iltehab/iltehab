@@ -14,16 +14,13 @@ http://103.55.144.46/hls/wild.m3u8
 http://103.55.144.46/hls/ngohd.m3u8
 #EXTINF:0, Love Nature
 #EXTGRP: Infotainment
-http://103.139.171.5:5001/jiotvplus/live.php?c=Animal_Planet_Hindi&q=1200&e=junk.m3u8
+http://103.139.171.5:5001/jiotvplus/autoq.php?c=Animal_Planet_Hindi&e=m3u8
 #EXTINF:0, ڈسکوری
 #EXTGRP: Infotainment
-https://snehtv-may-03.in1.bitmana.io/snehapi/discplus/1_Discovery_Channel/index.m3u8
+http://103.139.171.5:5001/jiotvplus/autoq.php?c=Discovery_Channel_Hindi&e=m3u8
 #EXTINF:0, ڈسکوری سائنس
 #EXTGRP: Infotainment
-https://snehtv-may-03.in1.bitmana.io/snehapi/discplus/2_Discovery_Science/index.m3u8،
-#EXTINF:0, لو نیچر
-#EXTGRP: Infotainment
-https://snehtv-may-03.in1.bitmana.io/snehapi/discplus/5_Animal_Planet/index.m3u8
+http://103.139.171.5:5001/jiotvplus/autoq.php?c=Discovery_Science&e=m3u8
 #EXTINF:0,TRT World
 #EXTGRP:World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
@@ -62,7 +59,7 @@ https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
 #EXTINF:0, Comedy Central
 #EXTGRP: Hollywood
-http://103.139.171.5:5001/jiotvplus/live.php?c=Comedy_Central_HD&q=1200&e=junk.m3u8
+http://103.139.171.5:5001/jiotvplus/autoq.php?c=Comedy_Central_HD&e=m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
@@ -143,10 +140,10 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Cinema 
 #EXTGRP:Bollywood
-http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_Cinema&q=1200&e=junk.m3u8
+http://103.139.171.5:5001/jiotvplus/autoq.php?c=Zee_Cinema&e=m3u8
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
-https://gas3.gcdn.co/IND40/index.m3u8
+http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
 http://208.86.19.13:81/705.stream/index.m3u8
@@ -168,27 +165,21 @@ http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF:0,Colors Cineplex
 #EXTGRP:Bollywood
 http://103.139.171.5:5001/jiotvplus/autoq.php?c=Colors_Cineplex&e=m3u8
-#EXTINF:0,Colors Cineplex UK
-#EXTGRP:Bollywood
-https://gas3.gcdn.co/IND50/index.m3u8
 #EXTINF:0,Colors Cineplex Superhit
 #EXTGRP:Bollywood
-http://103.139.171.5:5001/jiotvplus/live.php?c=Rishtey_Cineplex&q=1200&e=junk.m3u8
+http://103.139.171.5:5001/jiotvplus/autoq.php?c=Rishtey_Cineplex&e=m3u8
 #EXTINF:0,Colors Cineplex Bollywood
 #EXTGRP:Bollywood
-https://gas3.gcdn.co/IND58/index.m3u8
+http://103.139.171.5:5001/jiotvplus/autoq.php?c=Colors_Cineplex_Bollywood&e=m3u8
 #EXTINF:0, Star Gold 2 
 #EXTGRP:Bollywood
-http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?type=live
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
 http://208.86.19.13:81/717.stream/index.m3u8
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
-#EXTINF:0,Utsav Gold
-#EXTGRP:Bollywood
-https://gas3.gcdn.co/IND34/index.m3u8
 #EXTINF:0,Star Gold
 #EXTGRP:Bollywood
 http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8?type=live,
@@ -228,12 +219,6 @@ http://cdn.smartstream.video/smartstream-us/pitaratv/pitaratv/chunklist.m3u8
 #EXTINF:0, B4U Movies UK
 #EXTGRP: Bollywood
 http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8 
-#EXTINF:0,Gold Mines Films
-#EXTGRP: Bollywood
-http://89.187.162.109/AAHOMUSIC/mono.m3u8
-#EXTINF:0, And Xplor
-#EXTGRP: Bollywood
-https://2j9r.short.gy/andxplore.m3u8?type=live
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
