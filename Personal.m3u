@@ -71,7 +71,7 @@ https://gas1.gcdn.co/ENU83/index.m3u8
 http://103.139.171.5:5001/jiotvplus/autoq.php?c=Sony_Pix_HD&e=m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-https://gas1.gcdn.co/ENU88/index.m3u8
+http://103.99.249.107/play/a00x
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
 https://gas1.gcdn.co/ENU90/index.m3u8
@@ -125,13 +125,10 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0,UTV Bindass
 #EXTGRP:Music
-http://103.167.190.250/hls/bindass.m3u8
+http://103.99.249.107/play/a01k
 #EXTINF:0,B4u Music UK
 #EXTGRP:Music
 http://144.217.70.181:9587/hin2/B4UMUSICUK/tracks-v1a1/mono.m3u8
-#EXTINF:0,Hindi Hits HD
-#EXTGRP:Music
-https://gas3.gcdn.co/IND68/index.m3u8
 #EXTINF:0, Dil Se
 #EXTGRP:Music
 https://live.hungama.com/linear/dil-se/playlist.m3u8
