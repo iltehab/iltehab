@@ -12,12 +12,12 @@ http://103.55.144.46/hls/wild.m3u8
 #EXTINF:0, نیشنل جیوگرافک  
 #EXTGRP: Infotainment
 http://103.55.144.46/hls/ngohd.m3u8
-#EXTINF:0, Love Nature
+#EXTINF:0, Animal Planet 
 #EXTGRP: Infotainment
-http://103.139.171.5:5001/jiotvplus/autoq.php?c=Animal_Planet_Hindi&e=m3u8
-#EXTINF:0, ڈسکوری
+http://103.99.249.107/play/a015
+#EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
-http://103.139.171.5:5001/jiotvplus/autoq.php?c=Discovery_Channel_Hindi&e=m3u8
+http://103.99.249.107/play/a008
 #EXTINF:0, ڈسکوری سائنس
 #EXTGRP: Infotainment
 http://103.139.171.5:5001/jiotvplus/autoq.php?c=Discovery_Science&e=m3u8
