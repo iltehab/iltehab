@@ -14,10 +14,10 @@ http://103.55.144.46/hls/wild.m3u8
 http://103.55.144.46/hls/ngohd.m3u8
 #EXTINF:0, Animal Planet 
 #EXTGRP: Infotainment
-http://103.99.249.107/play/a015
+http://103.179.246.243:8000/play/a011/index.m3u8
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
-http://103.99.249.107/play/a008
+http://103.179.246.243:8000/play/a00i/index.m3u8
 #EXTINF:0, ڈسکوری سائنس
 #EXTGRP: Infotainment
 http://103.139.171.5:5001/jiotvplus/autoq.php?c=Discovery_Science&e=m3u8
@@ -57,9 +57,9 @@ https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
 #EXTINF:0, E4
 #EXTGRP: UK
 https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
-#EXTINF:0, Comedy Central
+#EXTINF:0, E4+1
 #EXTGRP: Hollywood
-http://103.139.171.5:5001/jiotvplus/autoq.php?c=Comedy_Central_HD&e=m3u8
+http://87.212.248.44:60350/play/a09s/index.m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
