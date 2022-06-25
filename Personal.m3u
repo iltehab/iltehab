@@ -62,6 +62,9 @@ http://87.212.248.44:60350/play/a09s/index.m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0, Star Movies Select
+#EXTGRP: Hollywood
+http://103.179.246.243:8000/play/a00w
 #EXTINF:0, Comedy Central 
 #EXTGRP: UK
 http://103.179.246.243:8000/play/a01g
@@ -124,7 +127,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0,UTV Bindass
 #EXTGRP:Music
-http://103.99.249.107/play/a01k
+http://103.179.246.243:8000/play/a05r
 #EXTINF:0,B4u Music UK
 #EXTGRP:Music
 http://144.217.70.181:9587/hin2/B4UMUSICUK/tracks-v1a1/mono.m3u8
@@ -160,7 +163,7 @@ https://gas3.gcdn.co/IND81/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF:0,Colors Cineplex
 #EXTGRP:Bollywood
-http://103.139.171.5:5001/jiotvplus/autoq.php?c=Colors_Cineplex&e=m3u8
+http://103.179.246.243:8000/play/a04h
 #EXTINF:0,Colors Cineplex Superhit
 #EXTGRP:Bollywood
 http://103.139.171.5:5001/jiotvplus/autoq.php?c=Rishtey_Cineplex&e=m3u8
