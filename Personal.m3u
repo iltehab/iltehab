@@ -14,10 +14,10 @@ http://103.55.144.46/hls/wild.m3u8
 http://103.55.144.46/hls/ngohd.m3u8
 #EXTINF:0, Animal Planet 
 #EXTGRP: Infotainment
-http://103.179.246.243:8000/play/a011/index.m3u8
+http://103.179.246.243:8000/play/a011
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
-http://103.179.246.243:8000/play/a00i/index.m3u8
+http://103.179.246.243:8000/play/a00i
 #EXTINF:0, ڈسکوری سائنس
 #EXTGRP: Infotainment
 http://103.139.171.5:5001/jiotvplus/autoq.php?c=Discovery_Science&e=m3u8
