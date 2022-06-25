@@ -1,17 +1,16 @@
 #EXTM3U
-#EXTINF:0, کرۂِ حیوانات
+#EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
-#EXTEPG:0, tvg-id="AnimalPlanet.in"
-http://103.55.144.46/hls/animalplanent.m3u8
+http://103.179.246.243:8000/play/a00y
 #EXTINF:0, بی بی سی ارتھ
 #EXTGRP: Infotainment
-http://103.55.144.46/hls/bbcearth.m3u8
+http://103.179.246.243:8000/play/a015
 #EXTINF:0, نیشنل جیوگرافک وائلڈ 
 #EXTGRP: Infotainment
 http://103.55.144.46/hls/wild.m3u8
 #EXTINF:0, نیشنل جیوگرافک  
 #EXTGRP: Infotainment
-http://103.55.144.46/hls/ngohd.m3u8
+http://103.179.246.243:8000/play/a00x
 #EXTINF:0, Animal Planet 
 #EXTGRP: Infotainment
 http://103.179.246.243:8000/play/a011
@@ -20,7 +19,7 @@ http://103.179.246.243:8000/play/a011
 http://103.179.246.243:8000/play/a00i
 #EXTINF:0, ڈسکوری سائنس
 #EXTGRP: Infotainment
-http://103.139.171.5:5001/jiotvplus/autoq.php?c=Discovery_Science&e=m3u8
+http://103.179.246.243:8000/play/a01k
 #EXTINF:0,TRT World
 #EXTGRP:World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
@@ -63,18 +62,18 @@ http://87.212.248.44:60350/play/a09s/index.m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0, Star Movies Select
+#EXTINF:0, Comedy Central 
 #EXTGRP: UK
-https://gas1.gcdn.co/ENU83/index.m3u8
+http://103.179.246.243:8000/play/a01g
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://103.139.171.5:5001/jiotvplus/autoq.php?c=Sony_Pix_HD&e=m3u8
+http://103.179.246.243:8000/play/a016
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-http://103.99.249.107/play/a00x
+http://103.179.246.243:8000/play/a00p
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
-https://gas1.gcdn.co/ENU90/index.m3u8
+http://103.179.246.243:8000/play/a01d
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
 http://87.212.248.44:60530/play/a01p
