@@ -17,6 +17,9 @@ http://103.179.246.243:8000/play/a011
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
 http://103.179.246.243:8000/play/a00i
+#EXTINF:0, Sky Nature 
+#EXTGRP: Infotainment
+https://iamsom.in1.bitmana.io/star/play.php?id=50995&e=.m3u8
 #EXTINF:0, ڈسکوری سائنس
 #EXTGRP: Infotainment
 http://103.179.246.243:8000/play/a01k
