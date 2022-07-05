@@ -70,7 +70,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://103.179.246.243:8000/play/a00w
 #EXTINF:0, Comedy Central 
 #EXTGRP: UK
-http://www.ridx7.1.mywebsites.link/redx.php?id=48130&e=.m3u8
+http://103.139.171.5:5001/live.php?c=Comedy_Central_HD&q=800&e=.m3u8
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
 http://103.179.246.243:8000/play/a016
