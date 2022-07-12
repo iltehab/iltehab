@@ -29,9 +29,6 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:0, AlJazeera
 #EXTGRP:World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:0, Sky News
-#EXTGRP:World News
-http://api.iptveditor.com/UjMyqgjs/pn8Bakp7w/yeyJ1cmwiOiJodHRwczovL20zdS1lZGl0b3IuY29tOjQ0My9memJ4b2Myai9saTF2M3F6NS81OTUyMDk4OTkiLCJpZCI6OTB9/fast
 #EXTINF:0,BBC News
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
@@ -44,9 +41,6 @@ https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v1a1/mono.m3u8
 #EXTINF:0, BBC Three
 #EXTGRP: UK 
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:0, Channel 5
-#EXTGRP: UK 
-https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
 http://93.152.174.144:4000/play/itv1/index.m3u8
