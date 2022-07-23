@@ -91,7 +91,7 @@ http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/mono.m3u8
 http://42.200.67.163:8090/play/a0od
 #EXTINF:0,Dawn News
 #EXTGRP:NEWS
-http://stariptv.org:8080//live/nour2020/123456/158354.m3u8
+http://103.24.96.74/stream/dawnnews/tracks-v1a1/mono.m3u8?
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
