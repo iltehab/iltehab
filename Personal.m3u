@@ -79,7 +79,7 @@ http://103.179.246.243:8000/play/a00p
 http://103.179.246.243:8000/play/a01d
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
-http://87.212.248.44:60530/play/a01p
+http://103.24.96.74/stream/geonews/tracks-v1a1/mono.m3u8?
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
 http://208.86.19.13:81/619.stream/index.m3u8 
@@ -88,7 +88,7 @@ http://208.86.19.13:81/619.stream/index.m3u8
 http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARY NEWS
 #EXTGRP:NEWS
-http://42.200.67.163:8090/play/a0od
+http://103.24.96.74/stream/arynews/tracks-v1a1/mono.m3u8?
 #EXTINF:0,Dawn News
 #EXTGRP:NEWS
 http://103.24.96.74/stream/dawnnews/tracks-v1a1/mono.m3u8?
