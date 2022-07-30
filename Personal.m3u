@@ -257,10 +257,10 @@ https://gas3.gcdn.co/IND196/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/602.stream/index.m3u8
 #EXTINF:0, Sky Cricket
 #EXTGRP:Sports
-https://gas1.gcdn.co/UKS10/index.m3u8
- #EXTINF:0, PTV Sports 
+http://ranapk.cf/cdn/TG@Ranapk73-65/playlist.m3u8
+ #EXTINF:0, Sky Main Event
 #EXTGRP:Sports
-http://208.86.19.13:81/610.stream/index.m3u8
+http://ranapk.cf/cdn/TG@Ranapk73-38/playlist.m3u8
 #EXTINF:0, PTV Sports HD
 #EXTGRP:Sports
 http://208.86.19.13:81/731.stream/index.m3u8
