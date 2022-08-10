@@ -142,7 +142,10 @@ http://103.139.171.5:5001/jiotvplus/autoq.php?c=Zee_Cinema&e=m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
-http://208.86.19.13:81/705.stream/index.m3u8
+http://0nelivezer0.rbtvnw.com:21190/neptune/andpictureshd/playlist.m3u8
+#EXTINF:0,And Pictures
+#EXTGRP:Bollywood
+http://0nelivezer0.rbtvnw.com:21190/neptune/andpictures/playlist.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
