@@ -164,12 +164,12 @@ http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF:0,Colors Cineplex
 #EXTGRP:Bollywood
 http://103.179.246.243:8000/play/a04h
-#EXTINF:0,Colors Cineplex Superhit
+#EXTINF:0,Colors Cineplex UK 
 #EXTGRP:Bollywood
-http://103.139.171.5:5001/jiotvplus/autoq.php?c=Rishtey_Cineplex&e=m3u8
-#EXTINF:0,Colors Cineplex Bollywood
+http://0nelivezer0.rbtvnw.com:21190/neptune/rishteycineplexuk/playlist.m3u8
+#EXTINF:0,Sony Wah
 #EXTGRP:Bollywood
-http://103.139.171.5:5001/jiotvplus/autoq.php?c=Colors_Cineplex_Bollywood&e=m3u8
+http://0nelivezer0.rbtvnw.com:21190/neptune/sonywah/playlist.m3u8
 #EXTINF:0, Star Gold 2 
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
