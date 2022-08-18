@@ -136,7 +136,7 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Cinema 
 #EXTGRP:Bollywood
-http://103.139.171.5:5001/jiotvplus/autoq.php?c=Zee_Cinema&e=m3u8
+http://0nelivezer0.rbtvnw.com:21190/juno/zeecinema/playlist.m3u8
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
@@ -151,16 +151,16 @@ http://0nelivezer0.rbtvnw.com:21190/neptune/andpictures/playlist.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max
 #EXTGRP:Bollywood
-http://tv.googledrivelinks.com:8088/live.php?c=Colors_Cineplex_Bollywood&q=800&e=.m3u8
+http://tv.googledrivelinks.com:8088/live.php?c=Sony_Max_SD&q=800&e=.m3u8
 #EXTINF:0,Sony Max UK 
 #EXTGRP:Bollywood
 http://0nelivezer0.rbtvnw.com:21190/neptune/sonysetmaxuk/playlist.m3u8
-#EXTINF:0,Sony Wah
+#EXTINF:0,MiniPlex HD
 #EXTGRP:Bollywood
-https://gas3.gcdn.co/IND81/tracks-v1a1/mono.m3u8
+http://144.217.70.181:9587/hin2/MINIPLEXHD/index.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
-http://208.86.19.13:81/735.stream/index.m3u8
+http://144.217.70.181:9587/hin2/RISHTEYCINEPLEXHD/index.m3u8
 #EXTINF:0,Colors Cineplex
 #EXTGRP:Bollywood
 http://103.179.246.243:8000/play/a04h
@@ -169,7 +169,7 @@ http://103.179.246.243:8000/play/a04h
 http://0nelivezer0.rbtvnw.com:21190/neptune/rishteycineplexuk/playlist.m3u8
 #EXTINF:0,Colors Cineplex Hits 
 #EXTGRP:Bollywood
-http://tv.googledrivelinks.com:8088/live.php?c=Colors_Cineplex_Bollywood&q=800&e=.m3u8
+http://tv.googledrivelinks.com:8088/live.php?c=rishtey_Cineplex&q=800&e=.m3u8
 #EXTINF:0,Colors Cineplex UK 
 #EXTGRP:Bollywood
 http://0nelivezer0.rbtvnw.com:21190/neptune/rishteycineplexuk/playlist.m3u8
@@ -199,7 +199,7 @@ http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 #EXTINF:0, B4U Kadak
 #EXTGRP:Bollywood
-https://itvoign.multitvsolution.com/idvo/moviehouse_540p/index.m3u8
+http://144.217.70.181:9587/hin2/B4UKADAK/index.m3u8
 #EXTINF:0,Zee Action
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
@@ -209,21 +209,21 @@ http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,UTV HD
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-#EXTINF:0,UTV Movies
+#EXTINF:0,Utsav Movies
 #EXTGRP:Bollywood
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8,
+http://0nelivezer0.rbtvnw.com:21190/juno/starutsavmovies/playlist.m3u8
 #EXTINF:0, UTV Action 
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 #EXTINF:0,B4U Movies
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:0, Pitaara
+#EXTINF:0, PTC Gold
 #EXTGRP:Bollywood
-http://cdn.smartstream.video/smartstream-us/pitaratv/pitaratv/chunklist.m3u8
-#EXTINF:0, B4U Movies UK
+https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:0, Zee Anmol Cinema
 #EXTGRP: Bollywood
-http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8 
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8 
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
@@ -232,35 +232,35 @@ http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 https://gas4.gcdn.co/IND190/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
-https://gas4.gcdn.co/IND189/tracks-v1a1/mono.m3u8
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/app.stream/playlist.m3u8
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
-https://gas4.gcdn.co/IND185/tracks-v1a1/mono.m3u8
+http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,PTV Global
 #EXTGRP:Drama
-https://gas4.gcdn.co/IND210/tracks-v1a1/mono.m3u8
+http://103.24.96.74/stream/ptvglobal/tracks-v1a1/mono.m3u8
 #EXTINF:0,PTV Home
 #EXTGRP:Drama
-https://gas4.gcdn.co/IND211/tracks-v1a1/mono.m3u8
+http://103.24.96.74/stream/ptvhome/tracks-v1a1/mono.m3u8?
 #EXTINF:0,A Plus
 #EXTGRP:Drama
-https://gas4.gcdn.co/IND201/tracks-v1a1/mono.m3u8
+http://0nelivezer0.rbtvnw.com:21190/minerva/aplus/playlist.m3u8
 #EXTINF:0,Aaj آج
 #EXTGRP:Drama
 https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
 #EXTINF:0,TV One
 #EXTGRP:Drama
-https://gas4.gcdn.co/IND184/tracks-v1a1/mono.m3u8
+http://0nelivezer0.rbtvnw.com:21190/minerva/tvone/playlist.m3u8
 #EXTGRP:Drama
 #EXTINF:0,ATV
 #EXTGRP:Drama
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8?
-#EXTINF:0,ARY Zindagi
+#EXTINF:0,Aruj TV
 #EXTGRP:Drama
-http://208.86.19.13:81/825.stream/index.m3u8
-#EXTINF:0, ARY Digital UK
+http://103.24.96.74/stream/aruj/tracks-v1a1/mono.m3u8?
+#EXTINF:0, Aur Life
 #EXTGRP:Drama
-https://gas3.gcdn.co/IND196/tracks-v1a1/mono.m3u8
+http://124.109.47.101/hls/stream1.m3u8
 ,#EXTINF:0, A Sports HD
 #EXTGRP:Sports
 http://208.86.19.13:81/602.stream/index.m3u8
