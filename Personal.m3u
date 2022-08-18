@@ -154,7 +154,7 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 http://tv.googledrivelinks.com:8088/live.php?c=Colors_Cineplex_Bollywood&q=800&e=.m3u8
 #EXTINF:0,Sony Max UK 
 #EXTGRP:Bollywood
-http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
+http://0nelivezer0.rbtvnw.com:21190/neptune/sonysetmaxuk/playlist.m3u8
 #EXTINF:0,Sony Wah
 #EXTGRP:Bollywood
 https://gas3.gcdn.co/IND81/tracks-v1a1/mono.m3u8
@@ -164,6 +164,12 @@ http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF:0,Colors Cineplex
 #EXTGRP:Bollywood
 http://103.179.246.243:8000/play/a04h
+#EXTINF:0,Colors Cineplex Bollywood 
+#EXTGRP:Bollywood
+http://0nelivezer0.rbtvnw.com:21190/neptune/rishteycineplexuk/playlist.m3u8
+#EXTINF:0,Colors Cineplex Hits 
+#EXTGRP:Bollywood
+http://tv.googledrivelinks.com:8088/live.php?c=Colors_Cineplex_Bollywood&q=800&e=.m3u8
 #EXTINF:0,Colors Cineplex UK 
 #EXTGRP:Bollywood
 http://0nelivezer0.rbtvnw.com:21190/neptune/rishteycineplexuk/playlist.m3u8
