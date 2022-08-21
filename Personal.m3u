@@ -13,7 +13,7 @@ http://103.174.4.171:8000/play/a074/index.m3u8
 http://103.179.246.243:8000/play/a00x
 #EXTINF:0, Animal Planet 
 #EXTGRP: Infotainment
-http://103.179.246.243:8000/play/a011
+https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
 http://103.179.246.243:8000/play/a00i
