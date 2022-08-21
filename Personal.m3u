@@ -79,7 +79,7 @@ http://103.179.246.243:8000/play/a00p
 http://103.179.246.243:8000/play/a01d
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
-http://103.24.96.74/stream/geonews/tracks-v1a1/mono.m3u8?
+http://87.212.248.44:60530/play/a01p
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
 http://208.86.19.13:81/619.stream/index.m3u8 
@@ -229,7 +229,7 @@ http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Hum Europe
 #EXTGRP:Drama
-https://gas4.gcdn.co/IND190/tracks-v1a1/mono.m3u8
+http://87.212.248.44:60530/play/a09m
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
 https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/app.stream/playlist.m3u8
@@ -238,7 +238,7 @@ https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/app.stream/playlist.m3u8
 http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,PTV Global
 #EXTGRP:Drama
-http://103.24.96.74/stream/ptvglobal/tracks-v1a1/mono.m3u8
+http://87.212.248.44:60530/play/a09l
 #EXTINF:0,PTV Home
 #EXTGRP:Drama
 http://103.24.96.74/stream/ptvhome/tracks-v1a1/mono.m3u8?
