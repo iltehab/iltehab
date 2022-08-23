@@ -142,7 +142,7 @@ http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
-http://103.145.184.10:4500/play/a01i/index.m3u8
+http://31.172.87.52:2200/R-EX/HINDI_AND_PICTURES_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:0,And Pictures
 #EXTGRP:Bollywood
 http://0nelivezer0.rbtvnw.com:21190/neptune/andpictures/playlist.m3u8
