@@ -13,7 +13,7 @@ http://103.174.4.171:8000/play/a074/index.m3u8
 http://103.179.246.243:8000/play/a00x
 #EXTINF:0, Animal Planet 
 #EXTGRP: Infotainment
-https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
+http://103.179.246.243:8000/play/a011
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
 http://103.179.246.243:8000/play/a00i
@@ -67,7 +67,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://103.179.246.243:8000/play/a00w
 #EXTINF:0, Comedy Central 
 #EXTGRP: UK
-http://59.103.243.133:8000/play/a021
+http://103.179.246.243:8000/play/a01g
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
 http://103.179.246.243:8000/play/a016
@@ -82,7 +82,7 @@ http://103.179.246.243:8000/play/a01d
 http://87.212.248.44:60530/play/a01p
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
-http://208.86.19.13:81/619.stream/index.m3u8 
+https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8 
 #EXTINF:0,Hum News
 #EXTGRP:NEWS
 http://103.24.96.74/stream/humnews/tracks-v1a1/mono.m3u8?
