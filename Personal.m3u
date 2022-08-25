@@ -85,7 +85,7 @@ http://87.212.248.44:60530/play/a01p
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8 
 #EXTINF:0,Hum News
 #EXTGRP:NEWS
-http://103.24.96.74/stream/humnews/tracks-v1a1/mono.m3u8?
+http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/mono.m3u8?
 #EXTINF:0,ARY NEWS
 #EXTGRP:NEWS
 http://87.212.248.44:60530/play/a01t
