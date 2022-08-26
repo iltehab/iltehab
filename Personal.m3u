@@ -166,7 +166,7 @@ http://144.217.70.181:9587/hin2/RISHTEYCINEPLEXHD/index.m3u8
 http://103.179.246.243:8000/play/a04h
 #EXTINF:0,Colors Cineplex Bollywood 
 #EXTGRP:Bollywood
-http://59.103.243.133:8000/play/a02b
+http://103.151.43.102:8000/play/a04u/index.m3u8
 #EXTINF:0,Colors Cineplex Hits 
 #EXTGRP:Bollywood
 http://59.103.243.133:8000/play/a01r
@@ -281,7 +281,7 @@ https://gas1.gcdn.co/ENU10/index.m3u8
 https://gas1.gcdn.co/ENU11/tracks-v1a1/mono.m3u8
 #EXTINF:0, Sky Nature
 #EXTGRP:Sky 
-http://46.105.112.116/?watch=EX/UKFHD_Sky_Nature-uk&token=RED_83-8M3wB796tKt8w2STu1A==,1652246734.9359072311|user-agent=REDLINECLIENT
+http://103.151.43.102:8000/play/a029/index.m3u8
 #EXTINF:0, Express
 #EXTGRP:Sky 
-https://gas3.gcdn.co/IND200/tracks-v1a1/mono.m3u8
+http://103.151.43.102:8000/play/a074/index.m3u8
