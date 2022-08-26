@@ -257,7 +257,7 @@ http://0nelivezer0.rbtvnw.com:21190/minerva/tvone/playlist.m3u8
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8?
 #EXTINF:0,Aruj TV
 #EXTGRP:Drama
-http://103.24.96.74/stream/aruj/tracks-v1a1/mono.m3u8?
+http://103.151.43.102:8000/play/a02j/index.m3u8?
 #EXTINF:0, Aur Life
 #EXTGRP:Drama
 http://124.109.47.101/hls/stream1.m3u8
@@ -266,19 +266,19 @@ http://124.109.47.101/hls/stream1.m3u8
 http://208.86.19.13:81/602.stream/index.m3u8
 #EXTINF:0, Sky Cricket
 #EXTGRP:Sports
-http://ranapk.cf/cdn/TG@Ranapk73-65/playlist.m3u8
+http://208.86.19.13:81/731.stream/index.m3u8
  #EXTINF:0, Sky Main Event
 #EXTGRP:Sports
-http://ranapk.cf/cdn/TG@Ranapk73-38/playlist.m3u8
+http://103.151.43.102:8000/play/a02a/index.m3u8
 #EXTINF:0, PTV Sports HD
 #EXTGRP:Sports
-http://208.86.19.13:81/731.stream/index.m3u8
+http://103.151.43.102:8000/play/a02c/index.m3u8
 #EXTINF:0, Sky Cinema Comedy
 #EXTGRP:Sky
-https://gas1.gcdn.co/ENU10/index.m3u8
+http://103.151.43.102:8000/play/a06u/index.m3u8
 #EXTINF:0, Sky Cinema Family
 #EXTGRP:Sky 
-https://gas1.gcdn.co/ENU11/tracks-v1a1/mono.m3u8
+http://103.151.43.102:8000/play/a06k/index.m3u8
 #EXTINF:0, Sky Nature
 #EXTGRP:Sky 
 http://103.151.43.102:8000/play/a029/index.m3u8
