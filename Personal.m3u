@@ -107,8 +107,11 @@ http://103.151.43.102:8000/play/a04n/index.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
+#EXTINF:0,ILove Music 
+#EXTGRP:Music
+http://103.151.43.102:8000/play/a02j/index.m3u8
 #EXTINF:0, Show Box
-#EXTGRP:Bollywood
+#EXTGRP:Music
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:0,PTC Music
 #EXTGRP:Music
@@ -264,9 +267,6 @@ http://0nelivezer0.rbtvnw.com:21190/minerva/tvone/playlist.m3u8
 #EXTINF:0,ATV
 #EXTGRP:Drama
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8?
-#EXTINF:0,Aruj TV
-#EXTGRP:Drama
-http://103.151.43.102:8000/play/a02j/index.m3u8?
 #EXTINF:0, Aur Life
 #EXTGRP:Drama
 http://124.109.47.101/hls/stream1.m3u8
