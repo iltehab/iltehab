@@ -47,6 +47,15 @@ http://93.152.174.144:4000/play/itv1/index.m3u8
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-ITV2/index.m3u8
+#EXTINF:0, More 4
+#EXTGRP: UK 
+https://cdnuk001.broadcastcdn.net/KUK-MORE4/tracks-v1a1/mono.m3u8
+#EXTINF:0, ITV 3
+#EXTGRP: UK 
+https://cdnuk001.broadcastcdn.net/KUK-ITV3/index.m3u8
+#EXTINF:0, ITV 4
+#EXTGRP: UK 
+https://cdnuk001.broadcastcdn.net/KUK-ITV4/index.m3u8
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
@@ -182,9 +191,9 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
 http://103.151.43.102:8000/play/a035/index.m3u8
-#EXTINF:0, Star Gold HD
+#EXTINF:0, Pitaara
 #EXTGRP:Bollywood
-http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
+http://103.151.43.102:8000/play/a02w/index.m3u8
 #EXTINF:0,Star Gold
 #EXTGRP:Bollywood
 http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8?type=live
@@ -264,9 +273,9 @@ http://124.109.47.101/hls/stream1.m3u8
 ,#EXTINF:0, A Sports HD
 #EXTGRP:Sports
 http://208.86.19.13:81/602.stream/index.m3u8
-#EXTINF:0, Sky Cricket
+#EXTINF:0, Cine Max HD
 #EXTGRP:Sports
-http://208.86.19.13:81/731.stream/index.m3u8
+http://103.151.43.102:8000/play/a06v/index.m3u8
  #EXTINF:0, Sky Main Event
 #EXTGRP:Sports
 http://103.151.43.102:8000/play/a02a/index.m3u8
