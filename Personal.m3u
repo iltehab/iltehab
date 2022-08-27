@@ -202,7 +202,7 @@ http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/B4UKADAK/index.m3u8
 #EXTINF:0,Zee Action
 #EXTGRP:Bollywood
-http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
+http://93.152.174.144:4000/play/zeeaction/index.m3u8
 #EXTINF:0,Zee Classic
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
