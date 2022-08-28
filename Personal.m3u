@@ -302,7 +302,7 @@ http://103.151.43.102:8000/play/a007/index.m3u8
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:0, Sky Sports 2 HD
 #EXTGRP:Sports
-http://93.152.174.144:4000/play/ssports2/index.m3u8
+http://195.181.168.15/STARSP_HINDI/tracks-v1a1/mono.m3u8
 #EXTINF:0, Sky Sports 3 HD
 #EXTGRP:Sports
-http://93.152.174.144:4000/play/ssports3/index.m3u8
+http://31.172.87.52:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
