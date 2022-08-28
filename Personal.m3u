@@ -299,7 +299,7 @@ http://208.86.19.13:81/602.stream/index.m3u8
 http://103.151.43.102:8000/play/a007/index.m3u8
 #EXTINF:0, Sky Sports 1 HD
 #EXTGRP:Sports
-http://93.152.174.144:4000/play/ssports1/index.m3u8
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:0, Sky Sports 2 HD
 #EXTGRP:Sports
 http://93.152.174.144:4000/play/ssports2/index.m3u8
