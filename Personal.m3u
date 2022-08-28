@@ -270,13 +270,10 @@ https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8?
 #EXTINF:0, Aur Life
 #EXTGRP:Drama
 http://124.109.47.101/hls/stream1.m3u8
-,#EXTINF:0, A Sports HD
-#EXTGRP:Sports
-http://208.86.19.13:81/602.stream/index.m3u8
 #EXTINF:0, Cine Max HD
 #EXTGRP:Sports
 http://103.151.43.102:8000/play/a06v/index.m3u8
- #EXTINF:0, Sky Main Event
+#EXTINF:0, Sky Main Event
 #EXTGRP:Sports
 http://103.151.43.102:8000/play/a02a/index.m3u8
 #EXTINF:0, PTV Sports HD
@@ -294,3 +291,9 @@ http://103.151.43.102:8000/play/a029/index.m3u8
 #EXTINF:0, Express
 #EXTGRP:Sky 
 http://103.151.43.102:8000/play/a074/index.m3u8
+#EXTINF:0, A Sports HD
+#EXTGRP:Sports
+http://208.86.19.13:81/602.stream/index.m3u8
+#EXTINF:0, Star Sports 1 HD
+#EXTGRP:Sports
+http://103.151.43.102:8000/play/a007/index.m3u8
