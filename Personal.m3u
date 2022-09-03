@@ -154,7 +154,7 @@ http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
-http://208.86.19.13:81/705.stream/index.m3u8
+http://103.162.136.235:4500/play/a00n/index.m3u8
 #EXTINF:0,And Pictures
 #EXTGRP:Bollywood
 http://0nelivezer0.rbtvnw.com:21190/neptune/andpictures/playlist.m3u8
@@ -193,7 +193,7 @@ http://103.174.5.42:8000/play/a07a/index.m3u8
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
-http://103.151.43.102:8000/play/a035/index.m3u8
+http://208.86.19.13:81/717.stream/index.m3u8
 #EXTINF:0, Pitaara
 #EXTGRP:Bollywood
 http://103.151.43.102:8000/play/a02w/index.m3u8
