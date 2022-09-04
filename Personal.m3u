@@ -294,15 +294,15 @@ http://103.151.43.102:8000/play/a074/index.m3u8
 #EXTINF:0, A Sports HD
 #EXTGRP:Sports
 http://208.86.19.13:81/602.stream/index.m3u8
-#EXTINF:0, Star Sports 1 HD
+#EXTINF:0, PTV Sports 
 #EXTGRP:Sports
-http://103.151.43.102:8000/play/a007/index.m3u8
-#EXTINF:0, Sky Sports 1 Hindi
+https://lo.chowdhury-shaheb.com/live/ptvsports_720p/chunks.m3u8
+#EXTINF:0, Ten Sports
 #EXTGRP:Sports
-http://208.86.19.13:81/724.stream/index.m3u8
-#EXTINF:0, Astro Cricket 
+http://103.55.144.46/hls/ten.m3u8
+#EXTINF:0, Gazi Cricket 
 #EXTGRP:Sports
-http://208.86.19.13:81/720.stream/index.m3u8
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:0, Asia cup 
 #EXTGRP:Sports
 http://ranapk.1.mywebsites.link/cdn/TG@Ranapk73/cricket.m3u8
