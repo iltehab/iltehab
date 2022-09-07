@@ -7,7 +7,7 @@ http://103.179.246.243:8000/play/a00y
 http://103.179.246.243:8000/play/a015
 #EXTINF:0, نیشنل جیوگرافک وائلڈ 
 #EXTGRP: Infotainment
-http://103.174.4.171:8000/play/a074/index.m3u8
+http://103.162.136.235:4500/play/a01c/index.m3u8
 #EXTINF:0, نیشنل جیوگرافک  
 #EXTGRP: Infotainment
 http://103.179.246.243:8000/play/a00x
@@ -82,7 +82,7 @@ http://103.179.246.243:8000/play/a01g
 http://103.179.246.243:8000/play/a016
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-http://103.179.246.243:8000/play/a00p
+http://103.162.136.235:4500/play/a00c/index.m3u8
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
 http://103.179.246.243:8000/play/a01d
@@ -190,7 +190,7 @@ http://59.103.243.133:8000/play/a02m
 http://103.174.5.42:8000/play/a07a/index.m3u8
 #EXTINF:0, Star Gold 2 
 #EXTGRP:Bollywood
-http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+http://103.162.136.235:4500/play/a00x/index.m3u8
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
 http://208.86.19.13:81/717.stream/index.m3u8
@@ -202,7 +202,7 @@ http://103.151.43.102:8000/play/a02w/index.m3u8
 http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8?type=live
 #EXTINF:0,Star Gold Select 
 #EXTGRP:Bollywood
-http://103.179.246.243:8000/play/a014
+http://103.162.136.235:4500/play/a00k/index.m3u8
 #EXTINF:0,Zee Bollywood
 #EXTGRP:Bollywood
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
@@ -226,7 +226,7 @@ http://208.86.19.13:81/723.stream/index.m3u8
 http://103.151.43.102:8000/play/a05o/index.m3u8
 #EXTINF:0, UTV Action 
 #EXTGRP:Bollywood
-http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
+http://103.162.136.235:4500/play/a00z/index.m3u8
 #EXTINF:0,B4U Movies
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
