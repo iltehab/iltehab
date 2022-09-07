@@ -294,12 +294,12 @@ http://103.151.43.102:8000/play/a074/index.m3u8
 #EXTINF:0, A Sports HD
 #EXTGRP:Sports
 http://208.86.19.13:81/602.stream/index.m3u8
-#EXTINF:0, PTV Sports 
+#EXTINF:0, Super Sports 
 #EXTGRP:Sports
-http://ultrontv.xyz:80/live/m123/m123/128454.m3u8
+http://194.233.77.24:5866/hls/supersports.m3u8
 #EXTINF:0, Star Sports
 #EXTGRP:Sports
-http://ultrontv.xyz:80/live/m123/m123/128372.m3u8
+https://streamcdneu.loco.gg/Q76U31VGDD_d3bdcf4d-75d2-452e-a111-82443dd94775/Q76U31VGDD_d3bdcf4d-75d2-452e-a111-82443dd94775_hi/manifest.m3u8
 #EXTINF:0, Gazi Cricket 
 #EXTGRP:Sports
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
