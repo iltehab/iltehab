@@ -1,91 +1,4 @@
 #EXTM3U
-#EXTINF:0, Discovery HD
-#EXTGRP: Infotainment
-http://103.179.246.243:8000/play/a00y
-#EXTINF:0, بی بی سی ارتھ
-#EXTGRP: Infotainment
-http://103.179.246.243:8000/play/a015
-#EXTINF:0, نیشنل جیوگرافک وائلڈ 
-#EXTGRP: Infotainment
-http://103.162.136.235:4500/play/a01c/index.m3u8
-#EXTINF:0, نیشنل جیوگرافک  
-#EXTGRP: Infotainment
-http://103.179.246.243:8000/play/a00x
-#EXTINF:0, Animal Planet 
-#EXTGRP: Infotainment
-http://103.179.246.243:8000/play/a011
-#EXTINF:0, Nat Geo Wild
-#EXTGRP: Infotainment
-http://103.179.246.243:8000/play/a00i
-#EXTINF:0, Sky Nature 
-#EXTGRP: Infotainment
-http://208.86.19.13:81/717.stream/index.m3u8
-#EXTINF:0, ڈسکوری سائنس
-#EXTGRP: Infotainment
-http://103.179.246.243:8000/play/a01k
-#EXTINF:0,TRT World
-#EXTGRP:World News
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:0, AlJazeera
-#EXTGRP:World News
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:0,BBC News
-#EXTGRP: UK 
-https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
-#EXTINF:0, BBC One
-#EXTGRP: UK 
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:0, BBC Two
-#EXTGRP: UK 
-https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v1a1/mono.m3u8
-#EXTINF:0, BBC Three
-#EXTGRP: UK 
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:0, ITV 1
-#EXTGRP: UK 
-http://87.212.248.44:60350/play/a0ap/index.m3u8
-#EXTINF:0, ITV 2
-#EXTGRP: UK 
-https://cdnuk001.broadcastcdn.net/KUK-ITV2/index.m3u8
-#EXTINF:0, More 4
-#EXTGRP: UK 
-https://cdnuk001.broadcastcdn.net/KUK-MORE4/tracks-v1a1/mono.m3u8
-#EXTINF:0, ITV 3
-#EXTGRP: UK 
-https://cdnuk001.broadcastcdn.net/KUK-ITV3/index.m3u8
-#EXTINF:0, ITV 4
-#EXTGRP: UK 
-https://cdnuk001.broadcastcdn.net/KUK-ITV4/index.m3u8
-#EXTINF:0, Channel 4
-#EXTGRP: UK 
-https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
-#EXTINF:0, Channel 5
-#EXTGRP: UK 
-https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
-#EXTINF:0, E4
-#EXTGRP: UK
-https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
-#EXTINF:0, E4+1
-#EXTGRP: Hollywood
-http://87.212.248.44:60350/play/a09s/index.m3u8
-#EXTINF:0, Star Movies 
-#EXTGRP: Hollywood
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0, Star Movies Select
-#EXTGRP: Hollywood
-http://103.179.246.243:8000/play/a00w
-#EXTINF:0, Comedy Central 
-#EXTGRP: UK
-http://103.179.246.243:8000/play/a01g
-#EXTINF:0,Sony Pix HD
-#EXTGRP: Hollywood
-http://103.179.246.243:8000/play/a016
-#EXTINF:0, And Flix HD
-#EXTGRP: Hollywood
-http://103.162.136.235:4500/play/a00c/index.m3u8
-#EXTINF:0, And Privé HD
-#EXTGRP: Hollywood
-http://103.179.246.243:8000/play/a01d
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
 http://87.212.248.44:60530/play/a01p
@@ -239,6 +152,9 @@ http://208.86.19.13:81/722.stream/index.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0, HUM TV
+#EXTGRP:Drama
+http://208.86.19.13:81/611.stream/index.m3u8
 #EXTINF:0,Hum Europe
 #EXTGRP:Drama
 http://87.212.248.44:60530/play/a09m
@@ -251,7 +167,7 @@ http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,PTV Global
 #EXTGRP:Drama
 http://87.212.248.44:60530/play/a09l
-#EXTINF:0,Geo Kahani
+#EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 http://208.86.19.13:81/603.stream/index.m3u8
 #EXTINF:0,A Plus
@@ -267,9 +183,6 @@ http://221.120.204.4/URDU-1-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,ATV
 #EXTGRP:Drama
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8?
-#EXTINF:0, Aur Life
-#EXTGRP:Drama
-http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:0, Cine Max HD
 #EXTGRP:Sports
 http://103.151.43.102:8000/play/a06v/index.m3u8
@@ -306,3 +219,90 @@ https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:0, Asia cup 
 #EXTGRP:Sports
 http://ranapk.1.mywebsites.link/cdn/TG@Ranapk73/cricket.m3u8
+#EXTINF:0, Discovery HD
+#EXTGRP: Infotainment
+http://103.179.246.243:8000/play/a00y
+#EXTINF:0, بی بی سی ارتھ
+#EXTGRP: Infotainment
+http://103.179.246.243:8000/play/a015
+#EXTINF:0, نیشنل جیوگرافک وائلڈ 
+#EXTGRP: Infotainment
+http://103.162.136.235:4500/play/a01c/index.m3u8
+#EXTINF:0, نیشنل جیوگرافک  
+#EXTGRP: Infotainment
+http://103.179.246.243:8000/play/a00x
+#EXTINF:0, Animal Planet 
+#EXTGRP: Infotainment
+http://103.179.246.243:8000/play/a011
+#EXTINF:0, Nat Geo Wild
+#EXTGRP: Infotainment
+http://103.179.246.243:8000/play/a00i
+#EXTINF:0, Sky Nature 
+#EXTGRP: Infotainment
+http://208.86.19.13:81/717.stream/index.m3u8
+#EXTINF:0, ڈسکوری سائنس
+#EXTGRP: Infotainment
+http://103.179.246.243:8000/play/a01k
+#EXTINF:0,TRT World
+#EXTGRP:World News
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:0, AlJazeera
+#EXTGRP:World News
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:0,BBC News
+#EXTGRP: UK 
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF:0, BBC One
+#EXTGRP: UK 
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:0, BBC Two
+#EXTGRP: UK 
+https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v1a1/mono.m3u8
+#EXTINF:0, BBC Three
+#EXTGRP: UK 
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:0, ITV 1
+#EXTGRP: UK 
+http://87.212.248.44:60350/play/a0ap/index.m3u8
+#EXTINF:0, ITV 2
+#EXTGRP: UK 
+https://cdnuk001.broadcastcdn.net/KUK-ITV2/index.m3u8
+#EXTINF:0, More 4
+#EXTGRP: UK 
+https://cdnuk001.broadcastcdn.net/KUK-MORE4/tracks-v1a1/mono.m3u8
+#EXTINF:0, ITV 3
+#EXTGRP: UK 
+https://cdnuk001.broadcastcdn.net/KUK-ITV3/index.m3u8
+#EXTINF:0, ITV 4
+#EXTGRP: UK 
+https://cdnuk001.broadcastcdn.net/KUK-ITV4/index.m3u8
+#EXTINF:0, Channel 4
+#EXTGRP: UK 
+https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
+#EXTINF:0, Channel 5
+#EXTGRP: UK 
+https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
+#EXTINF:0, E4
+#EXTGRP: UK
+https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
+#EXTINF:0, E4+1
+#EXTGRP: Hollywood
+http://87.212.248.44:60350/play/a09s/index.m3u8
+#EXTINF:0, Star Movies 
+#EXTGRP: Hollywood
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0, Star Movies Select
+#EXTGRP: Hollywood
+http://103.179.246.243:8000/play/a00w
+#EXTINF:0, Comedy Central 
+#EXTGRP: UK
+http://103.179.246.243:8000/play/a01g
+#EXTINF:0,Sony Pix HD
+#EXTGRP: Hollywood
+http://103.179.246.243:8000/play/a016
+#EXTINF:0, And Flix HD
+#EXTGRP: Hollywood
+http://103.162.136.235:4500/play/a00c/index.m3u8
+#EXTINF:0, And Privé HD
+#EXTGRP: Hollywood
+http://103.179.246.243:8000/play/a01d
