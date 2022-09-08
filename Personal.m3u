@@ -43,7 +43,7 @@ https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v1a1/mono.m3u8
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
-http://93.152.174.144:4000/play/itv1/index.m3u8
+http://87.212.248.44:60350/play/a0ap/index.m3u8
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-ITV2/index.m3u8
