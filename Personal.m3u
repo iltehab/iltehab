@@ -183,15 +183,15 @@ http://221.120.204.4/URDU-1-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,ATV
 #EXTGRP:Drama
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8?
-#EXTINF:0, Cine Max HD
+#EXTINF:0, Hum Sitaray
 #EXTGRP:Sports
-http://103.151.43.102:8000/play/a06v/index.m3u8
-#EXTINF:0, Sky Main Event
+https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/playlist.m3u8
+#EXTINF:0, Play TV
 #EXTGRP:Sports
-http://103.151.43.102:8000/play/a02a/index.m3u8
-#EXTINF:0, PTV Sports HD
+https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8
+#EXTINF:0, See TV
 #EXTGRP:Sports
-http://103.151.43.102:8000/play/a02c/index.m3u8
+https://streamone.simpaisa.com:8443/pitvlive1/seetv.smil/playlist.m3u8
 #EXTINF:0, Sky Cinema Comedy
 #EXTGRP:Sky
 http://103.151.43.102:8000/play/a06u/index.m3u8
