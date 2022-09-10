@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:0, A Sports HD
+#EXTGRP:Sports
+http://208.86.19.13:81/602.stream/index.m3u8
+#EXTINF:0, Gazi Sports
+#EXTGRP:Sports
+http://bandookk.xyz:8000/live/asiacup/cricket/26398.m3u8
+#EXTINF:0, PTV Sports
+#EXTGRP:Sports
+http://bandookk.xyz:8000/live/asiacup/cricket/17534.m3u8
+#EXTINF:0, Astro Cricket 
+#EXTGRP:Sports
+http://bandookk.xyz:8000/live/asiacup/cricket/17528.m3u8
+#EXTINF:0, Star Sports 1
+#EXTGRP:Sports
+http://bandookk.xyz:8000/live/asiacup/cricket/17522.m3u8
+#EXTINF:0, Star Sports 1 Hindi
+#EXTGRP:Sports
+http://bandookk.xyz:8000/live/asiacup/cricket/17520.m3u8
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
 http://87.212.248.44:60530/play/a01p
@@ -11,9 +29,49 @@ http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/mono.m3u8?
 #EXTINF:0,ARY NEWS
 #EXTGRP:NEWS
 http://87.212.248.44:60530/play/a01t
-#EXTINF:0,Dawn News
-#EXTGRP:NEWS
-http://103.24.96.74/stream/dawnnews/tracks-v1a1/mono.m3u8?
+#EXTINF:0,HUM TV HD
+#EXTGRP:Drama
+http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0, HUM TV
+#EXTGRP:Drama
+http://208.86.19.13:81/611.stream/index.m3u8
+#EXTINF:0,Hum Europe
+#EXTGRP:Drama
+http://87.212.248.44:60530/play/a09m
+#EXTINF:0,ARY Digital
+#EXTGRP:Drama
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/app.stream/playlist.m3u8
+#EXTINF:0,Geo TV
+#EXTGRP:Drama
+http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0,PTV Global
+#EXTGRP:Drama
+http://87.212.248.44:60530/play/a09l
+#EXTINF:0,Geo Entertainment 
+#EXTGRP:Drama
+http://208.86.19.13:81/603.stream/index.m3u8
+#EXTINF:0,A Plus
+#EXTGRP:Drama
+http://208.86.19.13:81/623.stream/index.m3u8
+#EXTINF:0,Aaj آج
+#EXTGRP:Drama
+https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
+#EXTINF:0,Urdu 1
+#EXTGRP:Drama
+http://221.120.204.4/URDU-1-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTGRP:Drama
+#EXTINF:0,ATV
+#EXTGRP:Drama
+https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8?
+#EXTINF:0, Hum Sitaray
+#EXTGRP:Drama
+https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/playlist.m3u8
+#EXTINF:0, Play TV
+#EXTGRP:Drama
+https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8
+#EXTINF:0, See TV
+#EXTGRP:Drama
+https://streamone.simpaisa.com:8443/pitvlive1/seetv.smil/playlist.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 http://208.86.19.13:81/733.stream/index.m3u8
@@ -29,9 +87,6 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:0,PTC Music
 #EXTGRP:Music
 https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:0,Zoom
-#EXTGRP:Music
-http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
 #EXTINF:0,MTV HD Plus
 #EXTGRP:Music
 http://103.151.43.102:8000/play/a05u/index.m3u8
@@ -50,9 +105,6 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_2
 #EXTINF:0,UTV Bindass
 #EXTGRP:Music
 http://stream.asdd.cc:9191/bindass/index.m3u8
-#EXTINF:0,B4u Music UK
-#EXTGRP:Music
-http://ultrontv.xyz/live/m123/m123/128302.m3u8
 #EXTINF:0, Dil Se
 #EXTGRP:Music
 https://live.hungama.com/linear/dil-se/playlist.m3u8
@@ -68,36 +120,15 @@ http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
 http://103.162.136.235:4500/play/a00n/index.m3u8
-#EXTINF:0,And Pictures
-#EXTGRP:Bollywood
-http://0nelivezer0.rbtvnw.com:21190/neptune/andpictures/playlist.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0,Sony Max
-#EXTGRP:Bollywood
-http://103.179.246.243:8000/play/a01o
-#EXTINF:0,Sony Max UK 
-#EXTGRP:Bollywood
-http://0nelivezer0.rbtvnw.com:21190/neptune/sonysetmaxuk/playlist.m3u8
-#EXTINF:0,MiniPlex HD
-#EXTGRP:Bollywood
-http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF:0,Colors Cineplex
 #EXTGRP:Bollywood
 http://103.179.246.243:8000/play/a04h
-#EXTINF:0,Colors Cineplex Bollywood 
-#EXTGRP:Bollywood
-http://103.151.43.102:8000/play/a04u/index.m3u8
-#EXTINF:0,Colors Cineplex Hits 
-#EXTGRP:Bollywood
-http://103.151.43.102:8000/play/a04d/index.m3u8
-#EXTINF:0,Colors Cineplex UK 
-#EXTGRP:Bollywood
-http://59.103.243.133:8000/play/a02m
 #EXTINF:0,Sony Wah
 #EXTGRP:Bollywood
 http://103.174.5.42:8000/play/a07a/index.m3u8
@@ -149,76 +180,6 @@ https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:0, Zee Anmol Cinema
 #EXTGRP: Bollywood
 http://208.86.19.13:81/722.stream/index.m3u8 
-#EXTINF:0,HUM TV HD
-#EXTGRP:Drama
-http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0, HUM TV
-#EXTGRP:Drama
-http://208.86.19.13:81/611.stream/index.m3u8
-#EXTINF:0,Hum Europe
-#EXTGRP:Drama
-http://87.212.248.44:60530/play/a09m
-#EXTINF:0,ARY Digital
-#EXTGRP:Drama
-https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/app.stream/playlist.m3u8
-#EXTINF:0,Geo TV
-#EXTGRP:Drama
-http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0,PTV Global
-#EXTGRP:Drama
-http://87.212.248.44:60530/play/a09l
-#EXTINF:0,Geo Entertainment 
-#EXTGRP:Drama
-http://208.86.19.13:81/603.stream/index.m3u8
-#EXTINF:0,A Plus
-#EXTGRP:Drama
-http://208.86.19.13:81/623.stream/index.m3u8
-#EXTINF:0,Aaj آج
-#EXTGRP:Drama
-https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
-#EXTINF:0,Urdu 1
-#EXTGRP:Drama
-http://221.120.204.4/URDU-1-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTGRP:Drama
-#EXTINF:0,ATV
-#EXTGRP:Drama
-https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8?
-#EXTINF:0, Hum Sitaray
-#EXTGRP:Sports
-https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/playlist.m3u8
-#EXTINF:0, Play TV
-#EXTGRP:Sports
-https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8
-#EXTINF:0, See TV
-#EXTGRP:Sports
-https://streamone.simpaisa.com:8443/pitvlive1/seetv.smil/playlist.m3u8
-#EXTINF:0, Sky Cinema Comedy
-#EXTGRP:Sky
-http://103.151.43.102:8000/play/a06u/index.m3u8
-#EXTINF:0, Sky Cinema Family
-#EXTGRP:Sky 
-http://103.151.43.102:8000/play/a06k/index.m3u8
-#EXTINF:0, Sky Nature
-#EXTGRP:Sky 
-http://103.151.43.102:8000/play/a029/index.m3u8
-#EXTINF:0, Express
-#EXTGRP:Sky 
-http://103.151.43.102:8000/play/a074/index.m3u8
-#EXTINF:0, A Sports HD
-#EXTGRP:Sports
-http://208.86.19.13:81/602.stream/index.m3u8
-#EXTINF:0, Super Sports 
-#EXTGRP:Sports
-http://194.233.77.24:5866/hls/supersports.m3u8
-#EXTINF:0, Star Sports
-#EXTGRP:Sports
-https://streamcdneu.loco.gg/Q76U31VGDD_d3bdcf4d-75d2-452e-a111-82443dd94775/Q76U31VGDD_d3bdcf4d-75d2-452e-a111-82443dd94775_hi/manifest.m3u8
-#EXTINF:0, Gazi Cricket 
-#EXTGRP:Sports
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-#EXTINF:0, Asia cup 
-#EXTGRP:Sports
-http://ranapk.1.mywebsites.link/cdn/TG@Ranapk73/cricket.m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
 http://103.179.246.243:8000/play/a00y
@@ -237,9 +198,6 @@ http://103.179.246.243:8000/play/a011
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
 http://103.179.246.243:8000/play/a00i
-#EXTINF:0, Sky Nature 
-#EXTGRP: Infotainment
-http://208.86.19.13:81/717.stream/index.m3u8
 #EXTINF:0, ڈسکوری سائنس
 #EXTGRP: Infotainment
 http://103.179.246.243:8000/play/a01k
@@ -258,9 +216,6 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/
 #EXTINF:0, BBC Two
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v1a1/mono.m3u8
-#EXTINF:0, BBC Three
-#EXTGRP: UK 
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
 http://87.212.248.44:60350/play/a0ap/index.m3u8
