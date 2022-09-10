@@ -89,7 +89,7 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:0,MTV HD Plus
 #EXTGRP:Music
-http://103.151.43.102:8000/play/a05u/index.m3u8
+http://103.162.136.235:4500/play/a01l/index.m3u8
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
 http://103.151.43.102:8000/play/a05s/index.m3u8
@@ -110,7 +110,7 @@ http://stream.asdd.cc:9191/bindass/index.m3u8
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
-http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.162.136.235:4500/play/a00h/index.m3u8
 #EXTINF:0,Zee Cinema 
 #EXTGRP:Bollywood
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
@@ -122,13 +122,13 @@ http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
 http://103.162.136.235:4500/play/a00n/index.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.162.136.235:4500/play/a01b/index.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF:0,Colors Cineplex
 #EXTGRP:Bollywood
-http://103.179.246.243:8000/play/a04h
+http://103.179.246.243:8000/play/a00p
 #EXTINF:0,Sony Wah
 #EXTGRP:Bollywood
 http://103.174.5.42:8000/play/a07a/index.m3u8
