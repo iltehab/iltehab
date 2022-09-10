@@ -41,6 +41,9 @@ http://87.212.248.44:60530/play/a09m
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
 https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/app.stream/playlist.m3u8
+#EXTINF:0,ARY UK
+#EXTGRP:Drama
+http://87.212.248.44:60530/play/a01p
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
 http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
@@ -56,9 +59,6 @@ http://208.86.19.13:81/623.stream/index.m3u8
 #EXTINF:0,Aaj آج
 #EXTGRP:Drama
 https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
-#EXTINF:0,Urdu 1
-#EXTGRP:Drama
-http://221.120.204.4/URDU-1-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTGRP:Drama
 #EXTINF:0,ATV
 #EXTGRP:Drama
@@ -116,7 +116,7 @@ http://103.162.136.235:4500/play/a00h/index.m3u8
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
-http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
+http://87.212.248.44:60530/play/a005
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
 http://103.162.136.235:4500/play/a00n/index.m3u8
