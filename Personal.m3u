@@ -2,9 +2,9 @@
 #EXTINF:0, A Sports HD
 #EXTGRP:Sports
 http://208.86.19.13:81/602.stream/index.m3u8
-#EXTINF:0, Gazi Sports
+#EXTINF:0, Utsav Gold
 #EXTGRP:Sports
-http://bandookk.xyz:8000/live/asiacup/cricket/26398.m3u8
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:0, PTV Sports
 #EXTGRP:Sports
 http://bandookk.xyz:8000/live/asiacup/cricket/17534.m3u8
