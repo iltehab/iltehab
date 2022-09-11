@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:0, A Sports HD
-#EXTGRP:Sports
-http://208.86.19.13:81/602.stream/index.m3u8
-#EXTINF:0, Utsav Gold
-#EXTGRP:Sports
-http://208.115.215.42/Utsav_Gold_HD/index.m3u8
-#EXTINF:0, PTV Sports
-#EXTGRP:Sports
-http://bandookk.xyz:8000/live/asiacup/cricket/17534.m3u8
-#EXTINF:0, Astro Cricket 
-#EXTGRP:Sports
-http://bandookk.xyz:8000/live/asiacup/cricket/17528.m3u8
-#EXTINF:0, Star Sports 1
-#EXTGRP:Sports
-http://bandookk.xyz:8000/live/asiacup/cricket/17522.m3u8
-#EXTINF:0, Star Sports 1 Hindi
-#EXTGRP:Sports
-http://bandookk.xyz:8000/live/asiacup/cricket/17520.m3u8
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
 http://87.212.248.44:60530/play/a01p
@@ -255,3 +237,21 @@ http://103.162.136.235:4500/play/a00c/index.m3u8
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
 http://103.179.246.243:8000/play/a01d
+#EXTINF:0, A Sports HD
+#EXTGRP:Sports
+http://208.86.19.13:81/602.stream/index.m3u8
+#EXTINF:0, Utsav Gold
+#EXTGRP:Sports
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:0, PTV Sports
+#EXTGRP:Sports
+http://bandookk.xyz:8000/live/asiacup/cricket/17534.m3u8
+#EXTINF:0, Astro Cricket 
+#EXTGRP:Sports
+http://bandookk.xyz:8000/live/asiacup/cricket/17528.m3u8
+#EXTINF:0, Star Sports 1
+#EXTGRP:Sports
+http://bandookk.xyz:8000/live/asiacup/cricket/17522.m3u8
+#EXTINF:0, Star Sports 1 Hindi
+#EXTGRP:Sports
+http://bandookk.xyz:8000/live/asiacup/cricket/17520.m3u8
