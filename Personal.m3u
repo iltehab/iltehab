@@ -149,7 +149,7 @@ http://103.151.43.102:8000/play/a05o/index.m3u8
 http://103.162.136.235:4500/play/a00z/index.m3u8
 #EXTINF:0,B4U Movies
 #EXTGRP:Bollywood
-http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
+https://indxtv.com/z5.php?c=0-9-209&e=m3u8
 #EXTINF:0, PTC Gold
 #EXTGRP:Bollywood
 https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
