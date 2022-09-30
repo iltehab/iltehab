@@ -74,7 +74,7 @@ https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 http://103.162.136.235:4500/play/a01l/index.m3u8
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
-https://tvstream.fun/jtv/auto1_tv.php?c=MTV_Beats_HD&e=m3u8
+http://103.166.102.58:9981/stream/channelid/127920093?profile=pass
 #EXTINF:0, Music India
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
@@ -122,7 +122,7 @@ http://103.162.136.235:4500/play/a00j/index.m3u8
 http://103.151.43.102:8000/play/a02w/index.m3u8
 #EXTINF:0,Star Gold UK 
 #EXTGRP:Bollywood
-http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8?type=live
+http://50.7.237.4:8080/STARGOLD/tracks-v1a1/index.m3u8?
 #EXTINF:0,Star Gold Select 
 #EXTGRP:Bollywood
 http://103.162.136.235:4500/play/a00k/index.m3u8
@@ -252,6 +252,15 @@ http://bandookk.xyz:8000/live/cricket2022/cricket2022/1011.m3u8
 #EXTINF:0, Star Sports 1
 #EXTGRP:Sports
 http://bandookk.xyz:8000/live/asiacup/cricket/17522.m3u8
-#EXTINF:0, Star Sports 1 Hindi
-#EXTGRP:Sports
-http://bandookk.xyz:8000/live/asiacup/cricket/17520.m3u8
+#EXTINF:0, Aruj
+#EXTGRP:Test
+http://103.166.102.58:9981/stream/channelid/1345615016?profile=pass
+#EXTINF:0, ARY
+#EXTGRP:Test
+http://103.166.102.58:9981/stream/channelid/1342636490?profile=pass
+#EXTINF:0, Filmazia
+#EXTGRP:Test
+http://103.166.102.58:9981/stream/channelid/454469033?profile=pass
+#EXTINF:0, iLove
+#EXTGRP:Test
+http://103.166.102.58:9981/stream/channelid/1624570438?profile=pass
