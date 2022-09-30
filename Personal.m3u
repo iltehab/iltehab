@@ -56,10 +56,10 @@ https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8
 https://streamone.simpaisa.com:8443/pitvlive1/seetv.smil/playlist.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-https://tvstream.fun/jtv/auto1_tv.php?c=B4U_Music&e=m3u8
+http://50.7.237.4:8080/B4UMUSIC/tracks-v1a1/index.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
-https://tvstream.fun/jtv/auto1_tv.php?c=Mastiii&e=m3u8
+http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
 #EXTINF:0,ILove Music 
 #EXTGRP:Music
 http://103.151.43.102:8000/play/a02j/index.m3u8
