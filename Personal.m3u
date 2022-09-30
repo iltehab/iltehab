@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
-http://87.212.248.44:60530/play/a01p
+http://50.7.237.4:8080/GEONEWS/tracks-v1a1/index.m3u8
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8 
 #EXTINF:0,Hum News
 #EXTGRP:NEWS
-http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/mono.m3u8?
+http://50.7.237.4:8080/HUMNEWS/tracks-v1a1/index.m3u8?
 #EXTINF:0,ARY NEWS
 #EXTGRP:NEWS
 http://87.212.248.44:60530/play/a01t
@@ -19,7 +19,7 @@ http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/611.stream/index.m3u8
 #EXTINF:0,Hum Europe
 #EXTGRP:Drama
-http://87.212.248.44:60530/play/a09m
+http://50.7.237.4:8080/HUMTV/tracks-v1a1/index.m3u8
 #EXTINF:0,ARY Digital
 #EXTGRP:Drama
 https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/app.stream/playlist.m3u8
@@ -29,9 +29,9 @@ http://87.212.248.44:60530/play/a01p
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
 http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0,PTV Global
+#EXTINF:0,Geo TV UK
 #EXTGRP:Drama
-http://87.212.248.44:60530/play/a09l
+http://50.7.237.4:8080/GEOTV/tracks-v1a1/index.m
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 http://208.86.19.13:81/603.stream/index.m3u8
