@@ -255,13 +255,13 @@ http://bandookk.xyz:8000/live/asiacup/cricket/17522.m3u8
 #EXTINF:0, Aruj
 #EXTGRP:Test
 http://103.166.102.58:9981/stream/channelid/1345615016?profile=pass
-#EXTINF:0, ARY
+#EXTINF:0, Test 1
 #EXTGRP:Test
-http://103.166.102.58:9981/stream/channelid/1342636490?profile=pass
+http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
 #EXTINF:0, Filmazia
 #EXTGRP:Test
 http://103.166.102.58:9981/stream/channelid/454469033?profile=pass
 #EXTINF:0, iLove
 #EXTGRP:Test
-http://103.166.102.58:9981/stream/channelid/1624570438?profile=pass
 http://195.181.168.196:2222/andprive/index.m3u8
+
