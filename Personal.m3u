@@ -225,9 +225,9 @@ http://221.120.204.3/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0, Star Movies Select
 #EXTGRP: Hollywood
 http://103.162.136.235:4500/play/a006/index.m3u8
-#EXTINF:0, Comedy Central 
+#EXTINF:0, E4Xtra
 #EXTGRP: UK
-http://103.162.136.235:4500/play/a00b/index.m3u8
+http://194.76.186.55:8888/udp/239.39.32.168:1234
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
 http://103.162.136.235:4500/play/a00m/index.m3u8
