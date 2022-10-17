@@ -13,7 +13,7 @@ http://50.7.237.4:8080/HUMNEWS/tracks-v1a1/index.m3u8?
 http://87.212.248.44:60530/play/a01t
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
+http://221.120.204.3:8080/HUM-TV-LOCKLE/index.m3u8
 #EXTINF:0, HUM TV
 #EXTGRP:Drama
 http://208.86.19.13:81/611.stream/index.m3u8
@@ -25,13 +25,13 @@ http://50.7.237.4:8080/HUMTV/tracks-v1a1/index.m3u8
 https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/app.stream/playlist.m3u8
 #EXTINF:0,ARY UK
 #EXTGRP:Drama
-http://87.212.248.44:60530/play/a01p
+http://208.86.19.13:81/825.stream/index.m3u8
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
-http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
+http://221.120.204.3:8080/GEO-ENT-LOCKLE/index.m3u8
 #EXTINF:0,Geo TV UK
 #EXTGRP:Drama
-http://50.7.237.4:8080/GEOTV/tracks-v1a1/index.m
+http://208.86.19.13:81/603.stream/index.m3u8
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 http://208.86.19.13:81/603.stream/index.m3u8
@@ -164,7 +164,7 @@ http://103.162.136.235:4500/play/a008/index.m3u8
 http://103.162.136.235:4500/play/a035/index.m3u8
 #EXTINF:0, نیشنل جیوگرافک وائلڈ 
 #EXTGRP: Infotainment
-http://103.162.136.235:4500/play/a01c/index.m3u8
+http://221.120.204.3/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0, نیشنل جیوگرافک  
 #EXTGRP: Infotainment
 http://103.162.136.235:4500/play/a007/index.m3u8
@@ -221,7 +221,7 @@ https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
 http://87.212.248.44:60350/play/a09s/index.m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
-http://103.162.136.235:4500/play/a005/index.m3u8
+http://221.120.204.3/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0, Star Movies Select
 #EXTGRP: Hollywood
 http://103.162.136.235:4500/play/a006/index.m3u8
