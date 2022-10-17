@@ -20,12 +20,12 @@ http://208.86.19.13:81/611.stream/index.m3u8
 #EXTINF:0,Hum Europe
 #EXTGRP:Drama
 http://50.7.237.4:8080/HUMTV/tracks-v1a1/index.m3u8
-#EXTINF:0,ARY Digital
+#EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
 https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/app.stream/playlist.m3u8
-#EXTINF:0,ARY UK
+#EXTINF:0,ARY Digital 
 #EXTGRP:Drama
-http://208.86.19.13:81/825.stream/index.m3u8
+http://103.166.102.58:9981/stream/channelid/1342636490?profile=pass
 #EXTINF:0,Geo TV
 #EXTGRP:Drama
 http://221.120.204.3:8080/GEO-ENT-LOCKLE/index.m3u8
