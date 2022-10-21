@@ -167,13 +167,13 @@ http://103.162.136.235:4500/play/a035/index.m3u8
 http://221.120.204.3/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0, نیشنل جیوگرافک  
 #EXTGRP: Infotainment
-http://103.162.136.235:4500/play/a007/index.m3u8
+http://103.147.87.13:8000/play/a04j/index.m3u8
 #EXTINF:0, Animal Planet 
 #EXTGRP: Infotainment
-http://103.147.162.240:81/play/a02g
+http://103.147.87.13:8002/play/a005/index.m3u8
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
-http://103.162.136.235:4500/play/a00l/index.m3u8
+http://103.147.87.13:8000/play/a00a/index.m3u8
 #EXTINF:0, ڈسکوری سائنس
 #EXTGRP: Infotainment
 http://103.162.136.235:4500/play/a00y/index.m3u8
@@ -224,19 +224,19 @@ http://87.212.248.44:60350/play/a09s/index.m3u8
 http://221.120.204.3/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0, Star Movies Select
 #EXTGRP: Hollywood
-http://103.162.136.235:4500/play/a006/index.m3u8
+http://103.147.87.13:8000/play/a04i/index.m3u8
 #EXTINF:0, E4Xtra
 #EXTGRP: UK
 http://194.76.186.55:8888/udp/239.39.32.168:1234
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://103.162.136.235:4500/play/a00m/index.m3u8
+http://103.147.87.13:8002/play/a00a/index.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-http://103.162.136.235:4500/play/a00c/index.m3u8
+http://103.147.87.13:8002/play/a01o/index.m3u8
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
-http://103.162.136.235:4500/play/a00s/index.m3u8
+http://103.147.87.13:8002/play/a03h/index.m3u8
 #EXTINF:0, A Sports HD
 #EXTGRP:Sports
 http://208.86.19.13:81/602.stream/index.m3u8
