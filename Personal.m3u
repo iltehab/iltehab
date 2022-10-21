@@ -105,12 +105,15 @@ http://103.162.136.235:4500/play/a00n/index.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
 http://103.162.136.235:4500/play/a01b/index.m3u8
+#EXTINF:0,Sony Max UK 
+#EXTGRP:Bollywood
+https://akiliv.herokuapp.com/app/master.php?id=48141&e=.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 https://tv.googledrivelinks.com/live.php?c=Colors_Cineplex_HD&q=1200&e=.m3u8
-#EXTINF:0,Colors Cineplex
+#EXTINF:0,Colors Cineplex Bollywood 
 #EXTGRP:Bollywood
-http://103.179.246.243:8000/play/a00p
+https://akiliv.herokuapp.com/app/master.php?id=48141&e=.m3u8
 #EXTINF:0, Star Gold 2 
 #EXTGRP:Bollywood
 http://103.162.136.235:4500/play/a00x/index.m3u8
