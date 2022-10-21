@@ -92,7 +92,7 @@ http://stream.asdd.cc:9191/bindass/index.m3u8
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
-http://103.162.136.235:4500/play/a00h/index.m3u8
+http://221.120.204.3/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Cinema 
 #EXTGRP:Bollywood
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
@@ -104,7 +104,7 @@ http://87.212.248.44:60530/play/a005
 http://103.162.136.235:4500/play/a00n/index.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
-http://103.162.136.235:4500/play/a01b/index.m3u8
+http://221.120.204.3/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max UK 
 #EXTGRP:Bollywood
 https://akiliv.herokuapp.com/app/master.php?id=48141&e=.m3u8
