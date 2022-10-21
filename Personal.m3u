@@ -48,9 +48,9 @@ https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8?
 #EXTINF:0, Hum Sitaray
 #EXTGRP:Drama
 https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/playlist.m3u8
-#EXTINF:0, Play TV
+#EXTINF:0, Fimazia
 #EXTGRP:Drama
-https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8
+http://175.107.244.52:4456/play/a06m/index.m3u8
 #EXTINF:0, Silver Screen
 #EXTGRP:Drama
 http://175.107.244.52:4456/play/a05b/index.m3u8
@@ -60,9 +60,9 @@ http://208.86.19.13:81/833.stream/index.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
-#EXTINF:0,ILove Music 
+#EXTINF:0,Filmazia Gaane
 #EXTGRP:Music
-http://103.151.43.102:8000/play/a02j/index.m3u8
+http://175.107.244.52:4456/play/a06n/index.m3u8
 #EXTINF:0, Show Box
 #EXTGRP:Music
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
