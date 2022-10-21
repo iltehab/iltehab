@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
-http://50.7.237.4:8080/GEONEWS/tracks-v1a1/index.m3u8
+http://103.157.249.125:201/play/a06n/index.m3u8
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8 
 #EXTINF:0,Hum News
 #EXTGRP:NEWS
-http://50.7.237.4:8080/HUMNEWS/tracks-v1a1/index.m3u8?
+http://103.157.249.125:201/play/a092/index.m3u8?
 #EXTINF:0,ARY NEWS
 #EXTGRP:NEWS
 http://87.212.248.44:60530/play/a01t
@@ -56,7 +56,7 @@ https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8
 https://streamone.simpaisa.com:8443/pitvlive1/seetv.smil/playlist.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-http://50.7.237.4:8080/B4UMUSIC/tracks-v1a1/index.m3u8
+http://208.86.19.13:81/833.stream/index.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
