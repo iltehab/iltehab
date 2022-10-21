@@ -71,10 +71,10 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:0,MTV HD Plus
 #EXTGRP:Music
-http://103.162.136.235:4500/play/a01l/index.m3u8
+https://tv.googledrivelinks.com/live.php?c=MTV_HD_Plus&q=1200&e=.m3u8
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
-http://103.166.102.58:9981/stream/channelid/127920093?profile=pass
+https://tv.googledrivelinks.com/live.php?c=MTV_Beats_HD&q=1200&e=.m3u8
 #EXTINF:0, Music India
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
@@ -107,7 +107,7 @@ http://103.162.136.235:4500/play/a00n/index.m3u8
 http://103.162.136.235:4500/play/a01b/index.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
-http://208.86.19.13:81/735.stream/index.m3u8
+https://tv.googledrivelinks.com/live.php?c=Colors_Cineplex_HD&q=1200&e=.m3u8
 #EXTINF:0,Colors Cineplex
 #EXTGRP:Bollywood
 http://103.179.246.243:8000/play/a00p
