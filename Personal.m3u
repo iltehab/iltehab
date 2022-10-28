@@ -45,9 +45,9 @@ https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
 #EXTINF:0,ATV
 #EXTGRP:Drama
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8?
-#EXTINF:0, Lollywood Cinema 
+#EXTINF:0, Lollywood Songs
 #EXTGRP:Drama
-http://175.107.244.52:4456/play/a02i/index.m3u8
+http://113.203.194.217:7021/play/a02s/index.m3u8
 #EXTINF:0, Fimazia
 #EXTGRP:Drama
 http://175.107.244.52:4456/play/a06m/index.m3u8
