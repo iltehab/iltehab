@@ -53,7 +53,7 @@ http://103.151.43.102:8801/play/a06k/index.m3u8
 http://175.107.244.52:4456/play/a06m/index.m3u8
 #EXTINF:0, Silver Screen
 #EXTGRP:Drama
-http://175.107.244.52:4456/play/a05b/index.m3u8
+http://103.151.43.102:8801/play/a074/index.m3u8
 #EXTINF:0,Filmazia Gaane
 #EXTGRP:Music
 http://175.107.244.52:4456/play/a06n/index.m3u8
@@ -224,7 +224,7 @@ http://87.212.248.44:60350/play/a09s/index.m3u8
 http://103.151.43.102:8801/play/a01l/index.m3u8
 #EXTINF:0, Star Movies Select
 #EXTGRP: Hollywood
-http://103.147.87.13:8000/play/a04i/index.m3u8
+http://103.151.43.102:8801/play/a01m/index.m3u8
 #EXTINF:0, E4Xtra
 #EXTGRP: UK
 http://194.76.186.55:8888/udp/239.39.32.168:1234
