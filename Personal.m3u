@@ -63,6 +63,9 @@ http://208.86.19.13:81/833.stream/index.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
+EXTINF:0, iLove
+#EXTGRP:Music
+http://103.151.43.102:8801/play/a02j/index.m3u8
 #EXTINF:0, Show Box
 #EXTGRP:Music
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
@@ -249,9 +252,6 @@ http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/7343/index.m3u8
 #EXTINF:0, Star Sports 1
 #EXTGRP:Sports
 http://iptv.ndasat.xyz:88//live/Ousama-ar/6bsW266AcW/1877.m3u8
-#EXTINF:0, Star Sports 2
+#EXTINF:0, A Sports 
 #EXTGRP:Sports
-http://bandookk.xyz:8000/live/asiacup/cricket/17522.m3u8
-#EXTINF:0, Aruj
-#EXTGRP:Test
-http://103.151.43.102:8801/play/a02j/index.m3u8
+http://103.151.43.102:8801/play/a04z/index.m3u8
