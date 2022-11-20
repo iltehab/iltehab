@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
-http://87.212.248.44:60530/play/a01p
+http://102.222.232.18:9981/stream/channelid/884889510?ticket=1EAF434D0C816938E1C3FF159C4DDDC3E17C3EF7&profile=matroska
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8 
@@ -59,7 +59,7 @@ http://103.151.43.102:8801/play/a074/index.m3u8
 http://175.107.244.52:4456/play/a06n/index.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-http://175.107.244.52:4457/play/a059/index.m3u8
+http://102.222.232.18:9981/stream/channelid/751827688?ticket=97A1A40052381F34947A28F5295FFAB31DF7A96E&profile=matroska
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
@@ -74,7 +74,7 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:0,MTV HD Plus
 #EXTGRP:Music
-https://tv.googledrivelinks.com/live.php?c=MTV_HD_Plus&q=1200&e=.m3u8
+http://102.222.232.18:9981/stream/channelid/1420751392?ticket=65248965FEE7F6AC71DBFA975790AF44C20F513F&profile=matroska
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
 https://tv.googledrivelinks.com/live.php?c=MTV_Beats_HD&q=1200&e=.m3u8
@@ -95,7 +95,7 @@ http://103.151.43.102:8801/play/a011/index.m3u8
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
-https://akiliv.herokuapp.com/app/master.php?id=48113&e=.m3u8
+http://102.222.232.18:9981/stream/channelid/1036629778?ticket=3D29B1AE82A95A2FA670537E033C321E70878317&profile=matroska
 #EXTINF:0,Zee Cinema 
 #EXTGRP:Bollywood
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
@@ -104,13 +104,13 @@ http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 http://87.212.248.44:60530/play/a005
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
-http://103.151.43.102:8801/play/a03a/index.m3u8
+http://102.222.232.18:9981/stream/channelid/1428660321?ticket=2127692198750766DE978DFBA6AB77D70E413F54&profile=matroska
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
-http://103.151.43.102:8801/play/a00c/index.m3u8
+http://102.222.232.18:9981/stream/channelid/1079414242?ticket=95DBC0AB7E3701C2191BE75EB315EEE9D5B14FCC&profile=matroska
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
-https://tv.googledrivelinks.com/live.php?c=Colors_Cineplex_HD&q=1200&e=.m3u8
+http://102.222.232.18:9981/stream/channelid/57589000?ticket=24D3D3DB404A35020C77A702590B10ECD6CD224F&profile=matroska
 #EXTINF:0,Colors Cineplex Bollywood 
 #EXTGRP:Bollywood
 https://akiliv.herokuapp.com/app/master.php?id=48141&e=.m3u8
@@ -123,15 +123,15 @@ http://103.151.43.102:8801/play/a035/index.m3u8
 #EXTINF:0, Rishtey Cineplex 
 #EXTGRP:Bollywood
 http://103.151.43.102:8801/play/a04d/index.m3u8
-#EXTINF:0,Sony Wah
+#EXTINF:0,Sony Max 2
 #EXTGRP:Bollywood
-http://103.151.43.102:8801/play/a05q/index.m3u8?
+http://102.222.232.18:9981/stream/channelid/985166733?ticket=706C37C1A27FF6276CEA86D427BC5C6B74B35360&profile=matroska?
 #EXTINF:0,Star Gold Select 
 #EXTGRP:Bollywood
 http://208.86.19.16/709.stream/index.m3u8
 #EXTINF:0,Zee Bollywood
 #EXTGRP:Bollywood
-http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
+http://102.222.232.18:9981/stream/channelid/1273494309?ticket=55F1AF98DB8EC210EA673391EACF6F1E966B5783&profile=matroska
 #EXTINF:0, B4U Kadak
 #EXTGRP:Bollywood
 http://103.151.43.102:8801/play/a02o/index.m3u8
@@ -149,7 +149,7 @@ https://akiliv.herokuapp.com/app/master.php?id=48171&e=.m3u8
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0, UTV Action 
 #EXTGRP:Bollywood
-http://103.162.136.235:4500/play/a00z/index.m3u8
+http://102.222.232.18:9981/stream/channelid/1452596058?ticket=AE8BB41DABA59229CEA2B53D7DC1EDCAFF44D49E&profile=matroska
 #EXTINF:0,B4U Movies
 #EXTGRP:Bollywood
 http://175.107.244.52:4457/play/a058/index.m3u8
@@ -179,7 +179,7 @@ http://180.178.188.152:8000/play/a011
 http://180.178.188.152:8000/play/a00i
 #EXTINF:0, ڈسکوری سائنس
 #EXTGRP: Infotainment
-http://103.162.136.235:4500/play/a00y/index.m3u8
+http://102.222.232.18:9981/stream/channelid/2145465707?ticket=6945C4CB7A2B7C4D62587A8311E771CE2C775A14&profile=matroska
 #EXTINF:0,TRT World
 #EXTGRP:World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
@@ -240,18 +240,3 @@ http://103.151.43.102:8801/play/a00w/index.m3u8
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
 http://103.151.43.102:8801/play/a03g/index.m3u8
-#EXTINF:0, A Sports HD
-#EXTGRP:Sports
-http://208.86.19.13:81/602.stream/index.m3u8
-#EXTINF:0, Utsav Gold
-#EXTGRP:Sports
-http://208.115.215.42/Utsav_Gold_HD/index.m3u8
-#EXTINF:0, Ten Sports 
-#EXTGRP:Sports
-http://103.123.169.206:8081/hls/potato-4.m3u8
-#EXTINF:0, Star Sports 1
-#EXTGRP:Sports
-http://103.123.169.206:8081/hls/potato-2.m3u8
-#EXTINF:0, A Sports 
-#EXTGRP:Sports
-http://103.151.43.102:8801/play/a04z/index.m3u8
