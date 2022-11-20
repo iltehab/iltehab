@@ -49,7 +49,7 @@ https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 http://102.222.232.18:9981/stream/channelid/1420751392?ticket=65248965FEE7F6AC71DBFA975790AF44C20F513F&profile=matroska
 #EXTINF:0,MTV Beats HD
 #EXTGRP:Music
-https://tv.googledrivelinks.com/live.php?c=MTV_Beats_HD&q=1200&e=.m3u8
+http://103.166.102.58:9981/stream/channelid/127920093?profile=pass
 #EXTINF:0, Music India
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
@@ -67,10 +67,10 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 http://102.222.232.18:9981/stream/channelid/1036629778?ticket=3D29B1AE82A95A2FA670537E033C321E70878317&profile=matroska
 #EXTINF:0,Zee Cinema 
 #EXTGRP:Bollywood
-http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0,Zee Cinema UK
+http://103.166.102.58:9981/stream/channelid/202139919?profile=pass 
+#EXTINF:0,Colors Cineplex Bollywood 
 #EXTGRP:Bollywood
-http://87.212.248.44:60530/play/a005
+http://103.166.102.58:9981/stream/channelid/78257656?profile=pass
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
 http://102.222.232.18:9981/stream/channelid/1428660321?ticket=2127692198750766DE978DFBA6AB77D70E413F54&profile=matroska
@@ -80,6 +80,9 @@ http://102.222.232.18:9981/stream/channelid/1079414242?ticket=95DBC0AB7E3701C219
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 http://102.222.232.18:9981/stream/channelid/57589000?ticket=24D3D3DB404A35020C77A702590B10ECD6CD224F&profile=matroska
+#EXTINF:0,Colors Cineplex Superhit 
+#EXTGRP:Bollywood
+http://103.166.102.58:9981/stream/channelid/963365915?profile=pass 
 #EXTINF:0, Star Gold 2 
 #EXTGRP:Bollywood
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
