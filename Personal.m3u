@@ -5,9 +5,9 @@ http://102.222.232.18:9981/stream/channelid/884889510?ticket=1EAF434D0C816938E1C
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8 
-#EXTINF:0,Hum News
+#EXTINF:0,ARY News
 #EXTGRP:NEWS
-http://103.157.249.125:201/play/a092/index.m3u8?
+http://103.166.102.58:9981/stream/channelid/1433177807?profile=pass?
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
 http://watchindia.net:8880//live/vvv/vvv/1022.m3u8
