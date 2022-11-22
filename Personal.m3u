@@ -71,9 +71,9 @@ http://102.222.232.18:9981/stream/channelid/1428660321?ticket=2127692198750766DE
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
 http://102.222.232.18:9981/stream/channelid/1079414242?ticket=95DBC0AB7E3701C2191BE75EB315EEE9D5B14FCC&profile=matroska
-#EXTINF:0,Colors Cineplex HD
+#EXTINF:0,And Xplor HD
 #EXTGRP:Bollywood
-http://102.222.232.18:9981/stream/channelid/57589000?ticket=24D3D3DB404A35020C77A702590B10ECD6CD224F&profile=matroska
+http://iamsom69.herokuapp.com/zee5.php?id=0-9-209
 #EXTINF:0,Colors Cineplex Superhit 
 #EXTGRP:Bollywood
 http://103.166.102.58:9981/stream/channelid/963365915?profile=pass 
