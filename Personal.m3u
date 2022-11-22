@@ -76,10 +76,10 @@ http://102.222.232.18:9981/stream/channelid/57589000?ticket=24D3D3DB404A35020C77
 http://103.166.102.58:9981/stream/channelid/963365915?profile=pass 
 #EXTINF:0, Star Gold 2 
 #EXTGRP:Bollywood
-http://223.29.231.66:8000/play/a02k/index.m3u8
+http://223.29.231.66:8000/play/a02k
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
-http://223.29.231.66:8000/play/a00n/index.m3u8
+http://223.29.231.66:8000/play/a00n
 #EXTINF:0,Sony Max 2
 #EXTGRP:Bollywood
 http://102.222.232.18:9981/stream/channelid/985166733?ticket=706C37C1A27FF6276CEA86D427BC5C6B74B35360&profile=matroska?
@@ -91,7 +91,7 @@ http://208.86.19.16/709.stream/index.m3u8
 http://102.222.232.18:9981/stream/channelid/1273494309?ticket=55F1AF98DB8EC210EA673391EACF6F1E966B5783&profile=matroska
 #EXTINF:0, B4U Kadak
 #EXTGRP:Bollywood
-http://103.151.43.102:8801/play/a02o/index.m3u8
+http://103.151.43.102:8801/play/a02o
 #EXTINF:0,Zee Action
 #EXTGRP:Bollywood
 http://208.86.19.13:81/728.stream/index.m3u8
@@ -101,9 +101,9 @@ http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF:0,UTV HD
 #EXTGRP:Bollywood
 https://akiliv.herokuapp.com/app/master.php?id=48171&e=.m3u8
-#EXTINF:0,Utsav Movies
+#EXTINF:0,UTV Movies Movies
 #EXTGRP:Bollywood
-http://223.29.231.66:8000/play/a02i/index.m3u8
+http://223.29.231.66:8000/play/a02i
 #EXTINF:0, UTV Action 
 #EXTGRP:Bollywood
 http://102.222.232.18:9981/stream/channelid/1452596058?ticket=AE8BB41DABA59229CEA2B53D7DC1EDCAFF44D49E&profile=matroska
@@ -127,7 +127,7 @@ http://103.151.43.102:8801/play/a038/index.m3u8
 http://103.151.43.102:8801/play/a00d/index.m3u8
 #EXTINF:0, نیشنل جیوگرافک  
 #EXTGRP: Infotainment
-http://103.151.43.102:8801/play/a01n/index.m3u8
+http://223.29.231.66:8000/play/a01p
 #EXTINF:0, Animal Planet 
 #EXTGRP: Infotainment
 http://180.178.188.152:8000/play/a011
@@ -136,7 +136,7 @@ http://180.178.188.152:8000/play/a011
 http://180.178.188.152:8000/play/a00i
 #EXTINF:0, ڈسکوری سائنس
 #EXTGRP: Infotainment
-http://102.222.232.18:9981/stream/channelid/2145465707?ticket=6945C4CB7A2B7C4D62587A8311E771CE2C775A14&profile=matroska
+http://223.29.231.66:8000/play/a02f
 #EXTINF:0,TRT World
 #EXTGRP:World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
@@ -181,19 +181,19 @@ https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
 http://87.212.248.44:60350/play/a09s/index.m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
-http://103.151.43.102:8801/play/a01l/index.m3u8
+http://223.29.231.66:8000/play/a01n
 #EXTINF:0, Star Movies Select
 #EXTGRP: Hollywood
-http://103.151.43.102:8801/play/a01m/index.m3u8
+http://223.29.231.66:8000/play/a01o
 #EXTINF:0, E4Xtra
 #EXTGRP: UK
 http://194.76.186.55:8888/udp/239.39.32.168:1234
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://103.151.43.102:8801/play/a039/index.m3u8
+http://223.29.231.66:8000/play/a00r
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-http://103.151.43.102:8801/play/a00w/index.m3u8
+http://223.29.231.66:8000/play/a006
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
-http://103.151.43.102:8801/play/a03g/index.m3u8
+http://223.29.231.66:8000/play/a00y
