@@ -82,7 +82,7 @@ http://103.166.102.58:9981/stream/channelid/963365915?profile=pass
 http://223.29.231.66:8000/play/a02k
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
-http://223.29.231.66:8000/play/a00n
+http://cdn.rstream.me/tp/955eb87ec87838ca2f83051e7d1aa92a99580213/63843b7e/db104cbbef4a19662bfc5ce186829ad311b5ff58/245/master.m3u8
 #EXTINF:0,Sony Max 2
 #EXTGRP:Bollywood
 http://102.222.232.18:9981/stream/channelid/985166733?ticket=706C37C1A27FF6276CEA86D427BC5C6B74B35360&profile=matroska?
