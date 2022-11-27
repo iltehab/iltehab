@@ -58,7 +58,7 @@ http://223.29.231.66:8000/play/a00a
 http://102.222.232.18:9981/stream/channelid/1036629778?ticket=3D29B1AE82A95A2FA670537E033C321E70878317&profile=matroska
 #EXTINF:0,Zee Cinema HD 
 #EXTGRP:Bollywood
-http://223.29.231.66:8000/play/a00k
+http://cdn.rstream.me/tp/955eb87ec87838ca2f83051e7d1aa92a99580213/63843ca1/43fbc4fda48b2051fd123ef082f917a2cf5dd54a/503/master.m3u8
 #EXTINF:0,Colors Cineplex HD 
 #EXTGRP:Bollywood
 http://102.222.232.18:9981/stream/channelid/57589000?ticket=24D3D3DB404A35020C77A702590B10ECD6CD224F&profile=matroska
