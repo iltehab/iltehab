@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
-http://102.222.232.18:9981/stream/channelid/884889510?ticket=1EAF434D0C816938E1C3FF159C4DDDC3E17C3EF7&profile=matroska
+http://59.103.244.239:8001/play/a036/index.m3u8
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8 
@@ -25,7 +25,7 @@ http://208.86.19.13:81/603.stream/index.m3u8
 http://208.86.19.13:81/603.stream/index.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-http://102.222.232.18:9981/stream/channelid/751827688?ticket=97A1A40052381F34947A28F5295FFAB31DF7A96E&profile=matroska
+http://59.103.244.239:8001/play/a02o/index.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
@@ -124,19 +124,19 @@ http://208.86.19.13:81/722.stream/index.m3u8
 http://103.162.136.235:4500/play/a008/index.m3u8
 #EXTINF:0, بی بی سی ارتھ
 #EXTGRP: Infotainment
-http://103.151.43.102:8801/play/a038/index.m3u8
+http://59.103.244.239:8001/play/a016/index.m3u8
 #EXTINF:0, نیشنل جیوگرافک وائلڈ 
 #EXTGRP: Infotainment
 http://103.151.43.102:8801/play/a00d/index.m3u8
 #EXTINF:0, نیشنل جیوگرافک  
 #EXTGRP: Infotainment
-http://223.29.231.66:8000/play/a01p
+http://59.103.244.239:8001/play/a00y/index.m3u8
 #EXTINF:0, Animal Planet 
 #EXTGRP: Infotainment
-http://180.178.188.152:8000/play/a011
+http://59.103.244.239:8001/play/a012/index.m3u8
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
-http://180.178.188.152:8000/play/a00i
+http://59.103.244.239:8001/play/a00c/index.m3u8
 #EXTINF:0, ڈسکوری سائنس
 #EXTGRP: Infotainment
 http://223.29.231.66:8000/play/a02f
@@ -184,19 +184,19 @@ https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
 http://87.212.248.44:60350/play/a09s/index.m3u8
 #EXTINF:0, Star Movies 
 #EXTGRP: Hollywood
-http://223.29.231.66:8000/play/a01n
+http://59.103.244.239:8001/play/a00w/index.m3u8
 #EXTINF:0, Star Movies Select
 #EXTGRP: Hollywood
-http://223.29.231.66:8000/play/a01o
+http://59.103.244.239:8001/play/a00x/index.m3u8
 #EXTINF:0, E4Xtra
 #EXTGRP: UK
 http://194.76.186.55:8888/udp/239.39.32.168:1234
 #EXTINF:0,Sony Pix HD
 #EXTGRP: Hollywood
-http://223.29.231.66:8000/play/a00r
+http://59.103.244.239:8001/play/a017/index.m3u8
 #EXTINF:0, And Flix HD
 #EXTGRP: Hollywood
-http://223.29.231.66:8000/play/a006
+http://59.103.244.239:8001/play/a01j/index.m3u8
 #EXTINF:0, And Privé HD
 #EXTGRP: Hollywood
-http://223.29.231.66:8000/play/a00y
+http://59.103.244.239:8001/play/a01e/index.m3u8
