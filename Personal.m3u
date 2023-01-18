@@ -10,10 +10,10 @@ https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
 http://42.200.67.163:8090/play/a0od
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-http://watchindia.net:8880//live/vvv/vvv/1022.m3u8
+http://starshare.live:8080/live/heisenberg/2gr_ach_an93n/103.m3u8
 #EXTINF:0, HUM TV
 #EXTGRP:Drama
-http://113.203.205.228:8000/play/a03s/index.m3u8
+http://starshare.live:8080/live/heisenberg/2gr_ach_an93n/122.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
 http://42.200.67.163:8090/play/a0qc
