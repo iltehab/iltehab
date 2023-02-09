@@ -4,10 +4,10 @@
 https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
-https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8 
+http://starshare.live:8080/live/heisenberg/2gr_ach_an93n/134.m3u8 
 #EXTINF:0,ARY News
 #EXTGRP:NEWS
-http://42.200.67.163:8090/play/a0od
+http://starshare.live:8080/live/heisenberg/2gr_ach_an93n/143.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
 http://starshare.live:8080/live/heisenberg/2gr_ach_an93n/121.m3u8
