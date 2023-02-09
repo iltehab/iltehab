@@ -174,8 +174,5 @@ https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
 #EXTGRP: Hollywood
 http://87.212.248.44:60350/play/a09s/index.m3u8
 #EXTINF:0, E4Xtra
-#EXTGRP: UK 
-http://185.134.40.10:8802/play/a02f
-#EXTINF:0, E4Xtra
 #EXTGRP: UK
 http://146.19.16.205:8012/play/a06g/index.m3u8
