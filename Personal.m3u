@@ -136,7 +136,7 @@ http://87.212.248.44:60350/play/a0ap/index.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-ITV2/index.m3u8
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
-https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
+http://87.212.248.44:60230/play/a04s/index.m3u8
 #EXTINF:0, Channel 5
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
