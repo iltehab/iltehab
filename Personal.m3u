@@ -58,7 +58,7 @@ http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/6248.m3u8
 http://102.222.232.18:9981/stream/channelid/57589000?ticket=24D3D3DB404A35020C77A702590B10ECD6CD224F&profile=matroska
 #EXTINF:0,Colors Cineplex Bollywood 
 #EXTGRP:Bollywood
-http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/52081.m3u8
+http://208.86.19.13:81/73555.stream/index.m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
 http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/158.m3u8
