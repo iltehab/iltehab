@@ -13,16 +13,16 @@ http://103.208.152.3:2121/play/a03f
 http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/27983.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/84.m3u8
+/http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/970.m3u8
 #EXTINF:0, HUM Europe
 #EXTGRP:Drama
-http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/73736.m3u8
+:http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/971.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
-http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/83.m3u8
+http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/969.m3u8
 #EXTINF:0, ARY Digital UK
 #EXTGRP:Drama
-http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/113.m3u8
+/http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/999.m3u8
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
@@ -47,9 +47,9 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:0,9X Jalwa
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:0,Zee Cinema 
+#EXTINF:0, Hollywood Dubbed
 #EXTGRP:Bollywood
-http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/71671.m3u8
+http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/27985.m3u8
 #EXTINF:0,Zee Cinema HD 
 #EXTGRP:Bollywood
 http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/6248.m3u8
@@ -94,25 +94,25 @@ http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/178.m3u8
 http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/48897.m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
-http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/212.m3u8
+http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/1478.m3u8
 #EXTINF:0, بی بی سی ارتھ
 #EXTGRP: Infotainment
 http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/54509.m3u8
 #EXTINF:0, نیشنل جیوگرافک وائلڈ 
 #EXTGRP: Infotainment
-http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/49419.m3u8
+http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/29437.m3u8
 #EXTINF:0, نیشنل جیوگرافک  
 #EXTGRP: Infotainment
 http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/49418.m3u8
-#EXTINF:0, Animal Planet 
+#EXTINF:0, Sky Nature
 #EXTGRP: Infotainment
-http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/211.m3u8
+http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/29440.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
-https://spidyworld.ml/Discovery/api/Animal_Planet.m3u8
+http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/1477.m3u8
 #EXTINF:0, ڈسکوری سائنس
 #EXTGRP: Infotainment
-http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/213.m3u8
+http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/1479.m3u8
 #EXTINF:0,TRT World
 #EXTGRP:World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
