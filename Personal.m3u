@@ -13,16 +13,16 @@ http://103.208.152.3:2121/play/a03f
 http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/27983.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-/http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/970.m3u8
+http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/970.m3u8
 #EXTINF:0, HUM Europe
 #EXTGRP:Drama
-:http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/971.m3u8
+http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/971.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
 http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/969.m3u8
 #EXTINF:0, ARY Digital UK
 #EXTGRP:Drama
-/http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/999.m3u8
+http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/999.m3u8
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
