@@ -130,19 +130,19 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
-http://87.212.248.44:60350/play/a0ap/index.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-ITV1/index.m3u8
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
 http://62.131.92.221:60130/play/a095/index.m3u8
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
-http://87.212.248.44:60230/play/a04s/index.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/index.m3u8
 #EXTINF:0, Channel 5
 #EXTGRP: UK 
-http://62.131.92.221:60330/play/a086/index.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-CHANNEL5/index.m3u8
 #EXTINF:0, E4
 #EXTGRP: UK
-http://62.131.92.221:60330/play/a031/index.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
 #EXTINF:0, E4+1
 #EXTGRP: UK
 http://87.212.248.44:60350/play/a09s/index.m3u8
