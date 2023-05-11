@@ -52,25 +52,25 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_2
 http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/27985.m3u8
 #EXTINF:0,Zee Cinema HD 
 #EXTGRP:Bollywood
-http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/6248.m3u8
+http://50.7.237.6:8080/ZEECINEMAHD/tracks-v1a1/index.m3u8
 #EXTINF:0,Colors Cineplex HD 
 #EXTGRP:Bollywood
-http://102.222.232.18:9981/stream/channelid/57589000?ticket=24D3D3DB404A35020C77A702590B10ECD6CD224F&profile=matroska
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:0,Colors Cineplex Bollywood 
 #EXTGRP:Bollywood
 http://208.86.19.13:81/73555.stream/index.m3u8
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
-http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/158.m3u8
+http://50.7.237.6:8080/ANDPICTURESHD/index.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
 http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:0,And Pictures 
+#EXTGRP:Colors Superhit
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
+#EXTINF:0,Sony Wah
 #EXTGRP:Bollywood
-http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/159.m3u8
-#EXTINF:0,UTV HD
-#EXTGRP:Bollywood
-http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/183.m3u8 
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8 
 #EXTINF:0, Star Gold 2 
 #EXTGRP:Bollywood
 http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/54630.m3u8
@@ -91,7 +91,7 @@ http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/48899.m3u8
 http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/178.m3u8
 #EXTINF:0,Zee Action
 #EXTGRP:Bollywood
-http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/48897.m3u8
+http://50.7.237.6:8080/ZEEACTION/tracks-v1a1/index.m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
 http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/1478.m3u8
