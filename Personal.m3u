@@ -133,7 +133,7 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/
 https://cdnuk001.broadcastcdn.net/KUK-ITV1/index.m3u8
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-http://62.131.92.221:60130/play/a095/index.m3u8
+http://103.28.88.15:4000/play/a05y
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/index.m3u8
