@@ -8,9 +8,9 @@ https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:0,ARY News
 #EXTGRP:NEWS
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
-#EXTINF:0, Suno
+#EXTINF:0, Green TV
 #EXTGRP:NEWS
-http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/27983.m3u8
+http://103.121.31.251:8000/play/a01g/index.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
 http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/970.m3u8
