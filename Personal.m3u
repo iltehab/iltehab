@@ -52,7 +52,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_2
 http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/27985.m3u8
 #EXTINF:0,Zee Cinema HD 
 #EXTGRP:Bollywood
-http://50.7.237.6:8080/ZEECINEMAHD/tracks-v1a1/index.m3u8
+http://50.7.237.11:8080/ZEECINEMAHD/tracks-v1a1/index.m3u8
 #EXTINF:0,Colors Cineplex HD 
 #EXTGRP:Bollywood
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
@@ -79,7 +79,8 @@ http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/54630.m3u8
 http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/1435.m3u8
 #EXTINF:0,Star Plus Romance
 #EXTGRP:Bollywood
-http://50.7.237.6:8080/UTVHD/tracks-v1a1/index.m3u8?token=test
+http://50.7.237.11
+:8080/UTVHD/tracks-v1a1/index.m3u8?token=test
 #EXTINF:0,Utsav Gold
 #EXTGRP:Bollywood
 http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/1436.m3u8
