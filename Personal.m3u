@@ -143,10 +143,10 @@ http://81.173.55.195:8080/CHANNEL4HD/index.m3u8
 http://103.28.88.15:4000/play/a01i
 #EXTINF:0, E4
 #EXTGRP: UK
-http://81.173.55.195:8080/E4/index.m3u8
+http://1.revportal.eu:80/mag00:1A:79:51:18:66/fjgoVAlHVZ/171078
 #EXTINF:0, E4+1
 #EXTGRP: UK
-http://87.212.248.44:60350/play/a09s/index.m3u8
+http://81.173.55.195:8080/E4/index.m3u8
 #EXTINF:0, E4Xtra
 #EXTGRP: UK
 http://1.revportal.eu:80/mag00:1A:79:51:18:66/fjgoVAlHVZ/171021
