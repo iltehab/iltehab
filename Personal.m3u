@@ -131,7 +131,7 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
-http://103.28.88.15:4000/play/a06q
+http://1.revportal.eu:80/mag00:1A:79:51:18:66/fjgoVAlHVZ/171092
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
 http://103.28.88.15:4000/play/a05y
@@ -149,4 +149,4 @@ http://81.173.55.195:8080/E4/index.m3u8
 http://87.212.248.44:60350/play/a09s/index.m3u8
 #EXTINF:0, E4Xtra
 #EXTGRP: UK
-http://2hubs.ddns.net:25461/live/BabNour/telegrramm/59948.m3u8
+http://1.revportal.eu:80/mag00:1A:79:51:18:66/fjgoVAlHVZ/171021
