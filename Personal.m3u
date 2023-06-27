@@ -13,13 +13,13 @@ https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
 http://103.121.31.251:8000/play/a01g/index.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/970.m3u8
+https://tv.aafunmaza.com/humhd/index.m3u8
 #EXTINF:0, HUM Europe
 #EXTGRP:Drama
 http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/971.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
-http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/969.m3u8
+https://arydigital.aryzap.com/1a148a95fcf30043c3d6658f18de7d78/649ca811/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/main.m3u8
 #EXTINF:0, ARY Digital UK
 #EXTGRP:Drama
 http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/999.m3u8
