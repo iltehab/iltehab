@@ -140,7 +140,7 @@ http://81.173.55.195:8080/ITV2/index.m3u8
 http://81.173.55.195:8080/CHANNEL4HD/index.m3u8
 #EXTINF:0, Channel 5
 #EXTGRP: UK 
-http://103.28.88.15:4000/play/a01i
+http://194.76.186.146:8000/play/a06e/index.m3u8
 #EXTINF:0, E4
 #EXTGRP: UK
 http://194.76.186.146:8000/play/a03v/index.m3u8
