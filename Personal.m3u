@@ -19,10 +19,10 @@ https://tv.aafunmaza.com/humhd/index.m3u8
 http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/971.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
-https://arydigital.aryzap.com/1a148a95fcf30043c3d6658f18de7d78/649ca811/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/main.m3u8
+http://175.107.244.52:4456/play/a051/index.m3u8
 #EXTINF:0, ARY Digital UK
 #EXTGRP:Drama
-http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/999.m3u8
+http://194.76.186.146:8000/play/a05a/index.m3u8
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
@@ -35,9 +35,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungi
 #EXTINF:0, Show Box
 #EXTGRP:Music
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
-#EXTINF:0,iLove
+#EXTINF:0,MTV Beats
 #EXTGRP:Music
-https://livetv-channels.b-cdn.net/8047/chunklist0.m3u8
+http://103.141.70.219:8000/play/a04r/index.m3u8
 #EXTINF:0,MTV India
 #EXTGRP:Music
 http://gtv01.airlinktt.co/live/smil:B4U_MUSIC.smil/playlist.m3u8
