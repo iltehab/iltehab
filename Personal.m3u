@@ -37,7 +37,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungi
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:0,MTV Beats
 #EXTGRP:Music
-http://103.141.70.219:8000/play/a04r/index.m3u8
+http://50.7.237.7:8081/MTVBEATSHD/tracks-v1a1/index.m3u8
 #EXTINF:0,MTV India
 #EXTGRP:Music
 http://gtv01.airlinktt.co/live/smil:B4U_MUSIC.smil/playlist.m3u8
@@ -80,7 +80,7 @@ http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/1435.m3u8
 #EXTINF:0,Star Plus Romance
 #EXTGRP:Bollywood
 http://50.7.237.11
-:8080/UTVHD/tracks-v1a1/index.m3u8?token=test
+:http://50.7.237.7:8081/UTVMOVIES/tracks-v1a1/index.m3u8
 #EXTINF:0,Utsav Gold
 #EXTGRP:Bollywood
 http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/1436.m3u8
@@ -98,19 +98,19 @@ http://50.7.237.6:8080/ZEEACTION/tracks-v1a1/index.m3u8
 http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/1478.m3u8
 #EXTINF:0, بی بی سی ارتھ
 #EXTGRP: Infotainment
-http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/54509.m3u8
+http://50.7.237.7:8081/SONYBBCEARTHHD/tracks-v1a1/index.m3u8
 #EXTINF:0, نیشنل جیوگرافک وائلڈ 
 #EXTGRP: Infotainment
-https://ranapk-zx.ml/STAR7xc/star.php?id=48127&e=m3u8
+http://50.7.237.7:8081/NATGEOWILDHD/tracks-v1a1/index.m3u8
 #EXTINF:0, نیشنل جیوگرافک  
 #EXTGRP: Infotainment
-http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/49418.m3u8
+http://50.7.237.7:8081/NATGEOHD/tracks-v1a1/index.m3u8
 #EXTINF:0, Sky Nature
 #EXTGRP: Infotainment
 http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/29440.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
-https://ranapk-zx.ml/STAR7xc/star.php?id=47874&e=m3u8
+http://50.7.237.7:8081/ANIMALPLANETHD/tracks-v1a1/index.m3u8
 #EXTINF:0, ڈسکوری سائنس
 #EXTGRP: Infotainment
 http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/1479.m3u8
