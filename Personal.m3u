@@ -37,8 +37,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungi
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:0,MTV Beats
 #EXTGRP:Music
-http://50.7.237.7:8081/MTVBEATSHD/tracks-v1a1/index.m3u8
-#EXTINF:0,MTV India
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:0,B4U Music US
 #EXTGRP:Music
 http://gtv01.airlinktt.co/live/smil:B4U_MUSIC.smil/playlist.m3u8
 #EXTINF:0,9XM
@@ -55,19 +55,19 @@ http://208.86.19.13:81/7099.stream/index.m3u8
 http://50.7.237.11:8080/ZEECINEMAHD/tracks-v1a1/index.m3u8
 #EXTINF:0,Colors Cineplex HD 
 #EXTGRP:Bollywood
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:0,Colors Cineplex Bollywood 
 #EXTGRP:Bollywood
 http://208.86.19.13:81/73555.stream/index.m3u8
-#EXTINF:0,And Pictures HD
+#EXTINF:0,Colors Superhits
 #EXTGRP:Bollywood
-http://124.29.223.100:8050/play/a03q/index.m3u8
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:Bollywood
 http://208.86.19.13:81/7066.stream/index.m3u8
-#EXTINF:0,And Pictures 
+#EXTINF:0,Colors Bollywood 
 #EXTGRP:Colors Superhit
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
 #EXTINF:0,Sony Wah
 #EXTGRP:Bollywood
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8 
@@ -87,15 +87,15 @@ http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/1436.m3u8
 #EXTINF:0,Star Gold
 #EXTGRP:Bollywood
 http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/1437.m3u8
-#EXTINF:0, B4U Kadak
+#EXTINF:0, Comedy Central 
 #EXTGRP:Bollywood
-http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/178.m3u8
+/https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:0,Zee Action
 #EXTGRP:Bollywood
 http://50.7.237.6:8080/ZEEACTION/tracks-v1a1/index.m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
-http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/1478.m3u8
+https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF:0, بی بی سی ارتھ
 #EXTGRP: Infotainment
 http://50.7.237.7:8081/SONYBBCEARTHHD/tracks-v1a1/index.m3u8
@@ -110,10 +110,10 @@ http://50.7.237.7:8081/NATGEOHD/tracks-v1a1/index.m3u8
 http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/29440.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
-http://50.7.237.7:8081/ANIMALPLANETHD/tracks-v1a1/index.m3u8
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:0, ڈسکوری سائنس
 #EXTGRP: Infotainment
-http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/1479.m3u8
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 #EXTINF:0,TRT World
 #EXTGRP:World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
