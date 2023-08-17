@@ -55,10 +55,10 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_2
 http://208.86.19.13:81/7099.stream/index.m3u8
 #EXTINF:0,Zee Cinema HD 
 #EXTGRP:Bollywood
-http://50.7.237.11:8080/ZEECINEMAHD/tracks-v1a1/index.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 #EXTINF:0,Colors Cineplex HD 
 #EXTGRP:Bollywood
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
+http://optimustv.show:8080/play/live.php?mac=00:1A:79:7E:7F:87&stream=682950&extension=m3u8&play_token=0thWzXH5sB
 #EXTINF:0,Colors Cineplex Bollywood 
 #EXTGRP:Bollywood
 http://208.86.19.13:81/73555.stream/index.m3u8
@@ -74,22 +74,22 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB
 #EXTINF:0,Sony Wah
 #EXTGRP:Bollywood
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8 
-#EXTINF:0, Star Gold 2 
+#EXTINF:0, Star Gold Select
 #EXTGRP:Bollywood
-http://stbemutv@iptv.dxdtv.xyz:8080/live/Homeplay/h6wCGSWzgM/54630.m3u8
+http://optimustv.show:8080/play/live.php?mac=00:1A:79:7E:7F:87&stream=683022&extension=m3u8&play_token=0thWzXH5sB
 #EXTINF:0, Star Gold HD
 #EXTGRP:Bollywood
-http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/1435.m3u8
+http://optimustv.show:8080/play/live.php?mac=00:1A:79:7E:7F:87&stream=683019&extension=m3u8&play_token=0thWzXH5sB
 #EXTINF:0,Star Plus Romance
 #EXTGRP:Bollywood
 http://50.7.237.11
-:http://50.7.237.7:8081/UTVMOVIES/tracks-v1a1/index.m3u8
+:http://optimustv.show:8080/play/live.php?mac=00:1A:79:7E:7F:87&stream=683036&extension=m3u8&play_token=0thWzXH5sB
 #EXTINF:0,Utsav Gold
 #EXTGRP:Bollywood
-http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/1436.m3u8
-#EXTINF:0,Star Gold
+http://optimustv.show:8080/play/live.php?mac=00:1A:79:7E:7F:87&stream=683020&extension=m3u8&play_token=0thWzXH5sB
+#EXTINF:0,Star Gold 2
 #EXTGRP:Bollywood
-http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/1437.m3u8
+http://optimustv.show:8080/play/live.php?mac=00:1A:79:7E:7F:87&stream=683021&extension=m3u8&play_token=0thWzXH5sB
 #EXTINF:0, Comedy Central 
 #EXTGRP:Bollywood
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
