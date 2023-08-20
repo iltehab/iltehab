@@ -128,7 +128,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, BBC One
 #EXTGRP: UK 
-http://194.76.186.146:8000/play/a02e/index.m3u8
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, BBC Two
 #EXTGRP: UK 
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
