@@ -28,7 +28,7 @@ http://194.76.186.146:8000/play/a05a/index.m3u8
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-http://202.176.3.76:8000/play/a01u/index.m3u8
+http://103.162.136.103:25461/live/FAH/fah/159.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
@@ -41,9 +41,6 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/ind
 #EXTINF:0,B4U Music US
 #EXTGRP:Music
 http://gtv01.airlinktt.co/live/smil:B4U_MUSIC.smil/playlist.m3u8
-EXTINF:0 ,B4U Music APAC
-#EXTGRP:Music
-http://103.209.173.14:9998/gAAAAABkwAhGqwG2kKoegRCfZIhvgRjsQFUJdaqJORCZabK5HiBo-ZZhgBlWDWEXb8BzX57wwHXNLDP465CH4ygG2mym_y2EcA==/index.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
