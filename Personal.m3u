@@ -10,7 +10,7 @@ https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
 #EXTINF:0, Green TV
 #EXTGRP:NEWS
-https://ranapk-zx.ml/STAR7xc/star.php?id=51080&e=m3u8
+http://103.11.0.202:8000/play/a02q/index.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
 https://midesi.net/MI-TV/dhoom4u.m3u8/?id=8616
