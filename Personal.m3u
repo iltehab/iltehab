@@ -47,9 +47,9 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/ind
 #EXTINF:0,9XM
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:0,9X Jalwa
+#EXTINF:0,Bindass
 #EXTGRP:Music
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+http://59.103.244.39:8000/play/a009/index.m3u8
 #EXTINF:0,Star Gold Select
 #EXTGRP:Bollywood
 http://208.86.19.13:81/7099.stream/index.m3u8
