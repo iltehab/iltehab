@@ -154,7 +154,7 @@ https://midesi.net/MI-TV/dhoom4u.m3u8/?id=5672
 https://midesi.net/MI-TV/dhoom4u.m3u8/?id=5235
 #EXTINF:0, E4
 #EXTGRP: UK
-https://midesi.net/MI-TV/dhoom4u.m3u8/?id=5905
+http://xtv.ooo:8080/live/335846/335846/346320.m3u8
 #EXTINF:0, E4+1
 #EXTGRP: UK
 http://194.76.186.146:8000/play/a03k/index.m3u8
