@@ -10,7 +10,7 @@ http://dpny1.1234.uno:6061/geonews/index.m3u8
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8 
 #EXTINF:0,ARY News
 #EXTGRP:NEWS
-https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
+http://dpny1.1234.uno:6061/arynews/index.m3u8
 #EXTINF:0, Green TV
 #EXTGRP:NEWS
 http://103.11.0.202:8000/play/a02q/index.m3u8
