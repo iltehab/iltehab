@@ -4,7 +4,7 @@
 http://103.176.90.131:8080/live/play/UzB4MGIxUTVibmxEU1c5R1ExRjNlalJ3V1VsSFpVbHlVVkJFU2pBMVFXUkhkMUJRWVM5TlFYUmliejA9/571244
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+http://103.86.134.34:9981/stream/channelid/1955303060.ts?ticket=AF9114E5018FF6465AD031FC618DC06B6BA94D87&profile=pass#Intent;package=com.mxtech.videoplayer.ad;end
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8 
