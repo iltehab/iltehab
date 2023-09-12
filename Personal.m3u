@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,Asia Cup
 #EXTGRP:Asia Cup
-http://103.176.90.131:8080/live/play/UzB4MGIxUTVibmxEU1c5R1ExRjNlalJ3V1VsSFpVbHlVVkJFU2pBMVFXUkhkMUJRWVM5TlFYUmliejA9/571244
+http://103.86.134.34:9981/stream/channelid/1955303060?ticket=2C7761DE0E62E29F161C494ABBBE5047599E8E88&profile=pass
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
 https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
@@ -16,19 +16,19 @@ https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
 http://103.11.0.202:8000/play/a02q/index.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-https://midesi.net/MI-TV/dhoom4u.m3u8/?id=8616
+http://103.86.134.34:9981/stream/channelid/159775036?ticket=AD932EDC5FFDF4AA4E8F51C4D52A8B9EC1477E10&profile=pass
 #EXTINF:0, HUM Europe
 #EXTGRP:Drama
 http://dpny1.1234.uno:6061/humtv/index.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
-http://dpny1.1234.uno:6061/arydigital/index.m3u8
-#EXTINF:0, ARY Digital UK
+http://103.86.134.34:9981/stream/channelid/1821134525?ticket=92BA6E174E884BA381B786F5337666DBEE6DA2C8&profile=pass
+#EXTINF:0, Express 
 #EXTGRP:Drama
-http://194.76.186.146:8000/play/a05a/index.m3u8
+http://103.86.134.34:9981/stream/channelid/1416371276?ticket=DE85B869B1EA67652FC940929332DC8BC903CBFA&profile=pass
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
-http://dpny1.1234.uno:6061/geotv/index.m3u8
+http://103.86.134.34:9981/stream/channelid/1344458059?ticket=F90CABD9C4B1521C528907AF13D9B77EE8FDC0C0&profile=pass
 #EXTINF:0,B4U Music 
 #EXTGRP:Music
 http://103.86.134.34:9981/stream/channelid/903797591?ticket=7C1FB885D11CED97C567FE76C040EE0A487D68profile=pass
@@ -74,9 +74,9 @@ http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:0,Colors Bollywood 
 #EXTGRP:Colors Superhit
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
-#EXTINF:0,Sony Wah
+#EXTINF:0,Star Gold
 #EXTGRP:Bollywood
-https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8 
+http://103.86.134.34:9981/stream/channelid/1040456652?ticket=2D96B415492E751D75DDEF8A53B8FFF30DFD2C2E&profile=pass 
 #EXTINF:0, Star Gold Select
 #EXTGRP:Bollywood
 http://optimustv.show:8080/play/live.php?mac=00:1A:79:7E:7F:87&stream=683022&extension=m3u8&play_token=0thWzXH5sB
@@ -103,13 +103,13 @@ http://50.7.237.6:8080/ZEEACTION/tracks-v1a1/index.m3u8
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF:0, بی بی سی ارتھ
 #EXTGRP: Infotainment
-http://50.7.237.7:8081/SONYBBCEARTHHD/tracks-v1a1/index.m3u8
+http://103.86.134.34:9981/stream/channelid/256690842?ticket=131EE53D7C788564A5841A829CF56DBDFABDBB71&profile=pass
 #EXTINF:0, نیشنل جیوگرافک وائلڈ 
 #EXTGRP: Infotainment
 http://103.61.73.220:8000/play/a043
 #EXTINF:0, نیشنل جیوگرافک  
 #EXTGRP: Infotainment
-http://50.7.237.7:8081/NATGEOHD/tracks-v1a1/index.m3u8
+http://103.86.134.34:9981/stream/channelid/1351351337?ticket=7D8D9AC257595F806C0C88C4911395EA0E4FFD8C&profile=pass
 #EXTINF:0, Sky Nature
 #EXTGRP: Infotainment
 http://bandookk.xyz:8000/live/Ahmed/Abd-Elwakeel/29440.m3u8
