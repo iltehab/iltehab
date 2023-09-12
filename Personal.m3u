@@ -19,7 +19,7 @@ http://103.11.0.202:8000/play/a02q/index.m3u8
 http://103.86.134.34:9981/stream/channelid/159775036?ticket=AD932EDC5FFDF4AA4E8F51C4D52A8B9EC1477E10&profile=pass
 #EXTINF:0, HUM Europe
 #EXTGRP:Drama
-http://dpny1.1234.uno:6061/humtv/index.m3u8
+http://103.86.134.34:9981/stream/channelid/843922081?ticket=A0B237A3BAEA6ADDA1E46AC1BC58ECD12349C928&profile=pass
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
 http://103.86.134.34:9981/stream/channelid/1821134525?ticket=92BA6E174E884BA381B786F5337666DBEE6DA2C8&profile=pass
