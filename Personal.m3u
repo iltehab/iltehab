@@ -53,9 +53,9 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:0,Bindass
 #EXTGRP:Music
 http://59.103.244.39:8000/play/a009/index.m3u8
-#EXTINF:0,Star Gold Select
+#EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
-http://208.86.19.13:81/7099.stream/index.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 #EXTINF:0,Zee Cinema HD 
 #EXTGRP:Bollywood
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
@@ -80,13 +80,12 @@ https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 #EXTINF:0, Star Gold Select
 #EXTGRP:Bollywood
 http://optimustv.show:8080/play/live.php?mac=00:1A:79:7E:7F:87&stream=683022&extension=m3u8&play_token=0thWzXH5sB
-#EXTINF:0, Star Gold HD
+#EXTINF:0, Zee Action
 #EXTGRP:Bollywood
-http://optimustv.show:8080/play/live.php?mac=00:1A:79:7E:7F:87&stream=683019&extension=m3u8&play_token=0thWzXH5sB
-#EXTINF:0,Star Plus Romance
-#EXTGRP:Bollywood
-http://50.7.237.11
-:http://optimustv.show:8080/play/live.php?mac=00:1A:79:7E:7F:87&stream=683036&extension=m3u8&play_token=0thWzXH5sB
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
+#EXTINF:0,Zee Bollywood 
+#EXTGRP:Bollywood 
+:https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
 #EXTINF:0, Bollywood Classic 
 #EXTGRP:Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
