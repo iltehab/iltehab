@@ -31,7 +31,7 @@ http://103.86.134.34:9981/stream/channelid/1416371276?ticket=DE85B869B1EA67652FC
 http://103.86.134.34:9981/stream/channelid/1344458059?ticket=F90CABD9C4B1521C528907AF13D9B77EE8FDC0C0&profile=pass
 #EXTINF:0,B4U Music 
 #EXTGRP:Music
-http://103.86.134.34:9981/stream/channelid/903797591?ticket=7C1FB885D11CED97C567FE76C040EE0A487D68profile=pass
+https://serverbackupchannel.xyz/jiotvchannel/autoq.php?id=183&e=m3u8
 #EXTINF:0,B4U Music UK 
 #EXTGRP:Music
 http://xtv.ooo:8080/live/335846/335846/222822.m3u8
