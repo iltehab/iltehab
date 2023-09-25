@@ -139,7 +139,7 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/
 https://cdnuk001.broadcastcdn.net/KUK-ITV1/index.m3u8
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-https://midesitv.tk//dhoom4u/dhoom4u.m3u8/?id=6096
+http://45.153.35.210:8000/play/UK_itv_2_sd/index.m3u8
 #EXTINF:0, Channel 4
 #EXTGRP: UK 
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/index.m3u8
@@ -151,7 +151,7 @@ https://midesitv.tk//dhoom4u/dhoom4u.m3u8/?id=5235
 https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
 #EXTINF:0, E4+1
 #EXTGRP: UK
-http://194.76.186.152:8000/play/a03h/index.m3u8
-#EXTINF:0, iLove
+http://45.153.35.210:8000/play/UK_e4_1_sd/index.m3u8
+#EXTINF:0, E4Xtra
 #EXTGRP: UK
-https://serverbackupchannel.xyz/jiotvchannel/app/live/1267/iLove/index.m3u8
+http://45.153.35.210:8000/play/UK_e4_extra_sd/index.m3u8
