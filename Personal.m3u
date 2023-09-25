@@ -13,7 +13,7 @@ https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
 #EXTINF:0, Green TV
 #EXTGRP:NEWS
-http://103.11.0.202:8000/play/a02q/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=393&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
 https://midesitv.tk//dhoom4u/dhoom4u.m3u8/?id=10452
