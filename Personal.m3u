@@ -142,7 +142,7 @@ http://195.181.175.69:2080/22/index.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/index.m3u8
 #EXTINF:0, Channel 5
 #EXTGRP: UK 
-https://midesitv.tk//dhoom4u/dhoom4u.m3u8/?id=5235
+http://195.181.175.69:2080/19/index.m3u8
 #EXTINF:0, E4
 #EXTGRP: UK
 http://195.181.175.69:2080/25/index.m3u8
