@@ -17,15 +17,15 @@ http://tv.cloudcdn.me:80/live.ts?channelId=393&uid=7435&deviceMac=00:1A:79:51:4B
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
 https://midesitv.tk//dhoom4u/dhoom4u.m3u8/?id=10452
-#EXTINF:0, HUM Europe
+#EXTINF:0, Hasbe Haal
 #EXTGRP:Drama
-http://103.86.134.34:9981/stream/channelid/843922081?ticket=A0B237A3BAEA6ADDA1E46AC1BC58ECD12349C928&profile=pass
+http://103.121.31.251:8000/play/a008/index.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
-https://midesitv.tk//dhoom4u/dhoom4u.m3u8/?id=5341
+http://103.121.31.251:8000/play/a01d/index.m3u8
 #EXTINF:0, Express 
 #EXTGRP:Drama
-http://103.86.134.34:9981/stream/channelid/1416371276?ticket=DE85B869B1EA67652FC940929332DC8BC903CBFA&profile=pass
+http://103.121.31.251:8000/play/a00l/index.m3u8
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://midesitv.tk//dhoom4u/dhoom4u.m3u8/?id=7798
@@ -34,10 +34,10 @@ https://midesitv.tk//dhoom4u/dhoom4u.m3u8/?id=7798
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:0,B4U Music UK 
 #EXTGRP:Music
-https://midesitv.tk//dhoom4u/dhoom4u.m3u8/?id=5423
-#EXTINF:0,B4U Music US
+http://103.121.31.251:8000/play/a01g/index.m3u8
+#EXTINF:0,B4U Music
 #EXTGRP:Music
-http://103.121.7.254:8000/play/a0hn/index.m3u8
+http://103.121.31.251:8000/play/a01w/index.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
