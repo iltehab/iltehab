@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,Asia Cup
 #EXTGRP:Asia Cup
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156042&extension=ts
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=280800&extension=ts&play_token=4olQIG0RTj
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
 https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
@@ -103,7 +103,7 @@ http://103.12.122.22:5000/play/a06o/index.m3u8
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF:0, بی بی سی ارتھ
 #EXTGRP: Infotainment
-http://103.12.122.22:5000/play/a0gj/index.m3u8
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155885&extension=ts&play_token=gZShH1IxHj
 #EXTINF:0, نیشنل جیوگرافک وائلڈ 
 #EXTGRP: Infotainment
 http://119.152.56.1:8000/play/a044/index.m3u8
