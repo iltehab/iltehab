@@ -116,9 +116,9 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:0, ڈسکوری سائنس
 #EXTGRP: Infotainment
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
-#EXTINF:0,TRT World
+#EXTINF:0, Al-Jazeera
 #EXTGRP:World News
-https://tv-trtworld.live.trt.com.tr/master.m3u8
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:0, BBC News HD
 #EXTGRP:World News
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
