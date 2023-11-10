@@ -152,7 +152,7 @@ http://45.153.35.210:8000/play/UK_e4_1_sd/index.m3u8
 #EXTINF:0, E4Xtra
 #EXTGRP: UK
 http://45.153.35.210:8000/play/UK_e4_extra_sd/index.m3u8
-#EXTINF:0, BBC 3
+#EXTINF:0, BBC THREE
 #EXTGRP: UK
 http://45.153.35.210:8000/play/UK_bbc_3_HD/index.m3u8
 #EXTINF:0, Lollywood Gaane
