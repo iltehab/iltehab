@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,Asia Cup
 #EXTGRP:Asia Cup
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=280800&extension=ts&play_token=4olQIG0RTj
+http://103.186.77.21:8004/play/a01l/index.m3u8
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
 https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
@@ -16,16 +16,16 @@ https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=393&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-https://midesitv.tk//dhoom4u/dhoom4u.m3u8/?id=10452
+http://103.186.77.21:8004/play/a02k/index.m3u8
 #EXTINF:0, Hasbe Haal
 #EXTGRP:Drama
 https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
-http://103.121.31.251:8000/play/a01d/index.m3u8
+http://119.156.228.28:8000/play/a01n/index.m3u8
 #EXTINF:0, Express 
 #EXTGRP:Drama
-http://103.83.23.133:8000/play/a01v/index.m3u8
+http://103.186.77.21:8003/play/a018/index.m3u8
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
