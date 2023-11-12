@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0,Asia Cup
-#EXTGRP:Asia Cup
-https://professorwatchpush4k.000webhostapp.com/dhooommmm.php?id=7969
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
 https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
@@ -16,19 +13,25 @@ https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=393&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-http://103.186.77.21:8004/play/a02k/index.m3u8
+https://professorwatchpush4k.000webhostapp.com/dhooommmm.php?id=10452
 #EXTINF:0, Hasbe Haal
 #EXTGRP:Drama
 https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
-http://119.156.228.28:8000/play/a01n/index.m3u8
+https://professorwatchpush4k.000webhostapp.com/dhooommmm.php?id=5341
 #EXTINF:0, Express 
 #EXTGRP:Drama
 http://103.186.77.21:8003/play/a018/index.m3u8
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:0,B4U Music
+#EXTGRP:Music
+https://professorwatchpush4k.000webhostapp.com/dhooommmm.php?id=7969
+#EXTINF:0,B4U Music
+#EXTGRP:Music
+https://professorwatchpush4k.000webhostapp.com/dhooommmm.php?id=5423
 #EXTINF:0, Hindi Hits
 #EXTGRP:Music
 http://146.59.253.52:8080/hindihitshd/index.m3u8
@@ -50,7 +53,7 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/ind
 #EXTINF:0,9XM
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:0,9X Jalwa
+#EXTINF:0,90s Music
 #EXTGRP:Music
 https://professorwatchpush4k.000webhostapp.com/dhooommmm.php?id=10724
 #EXTINF:0,And Pictures HD
@@ -155,12 +158,15 @@ http://45.153.35.210:8000/play/UK_e4_extra_sd/index.m3u8
 #EXTINF:0, BBC THREE
 #EXTGRP: UK
 http://45.153.35.210:8000/play/UK_bbc_3_HD/index.m3u8
-#EXTINF:0, Lollywood Gaane
-#EXTGRP: Lollywood
-http://103.186.77.21:8000/play/a02p/index.m3u8
-#EXTINF:0, Filmazia
-#EXTGRP: Lollywood
-http://103.186.77.21:8000/play/a02o/index.m3u8
-#EXTINF:0, Punjabi
-#EXTGRP: Lollywood
-http://103.186.77.21:8000/play/a02m/index.m3u8
+#EXTINF:0, Comedy Central UK
+#EXTGRP: UK
+https://professorwatchpush4k.000webhostapp.com/dhooommmm.php?id=6507
+#EXTINF:0, Comedy Central US
+#EXTGRP: UK
+https://professorwatchpush4k.000webhostapp.com/dhooommmm.php?id=6365
+#EXTINF:0, Comedy Central In
+#EXTGRP: UK
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_voot_MOB/Fallback/index.m3u8
+#EXTINF:0, Colors Infinity
+#EXTGRP: UK
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Infinity_voot_MOB/Fallback/index.m3u8
