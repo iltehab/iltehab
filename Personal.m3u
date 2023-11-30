@@ -14,9 +14,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=393&uid=7435&deviceMac=00:1A:79:51:4B
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
 https://professorwatchpush4k.000webhostapp.com/dhooommmm.php?id=10452&e=m3u8
-#EXTINF:0, Hasbe Haal
-#EXTGRP:Drama
-https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
 https://professorwatchpush4k.000webhostapp.com/dhooommmm.php?id=5341&e=m3u8
@@ -32,6 +29,9 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=157164&ex
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 https://www.bdtubelive.xyz/new.m3u8?id=178&e=m3u8
+#EXTINF:0, B4U Music UK
+#EXTGRP:Music
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=42444&extension=ts&play_token=FT0dVIp2LN
 #EXTINF:0, Hindi Hits
 #EXTGRP:Music
 http://146.59.253.52:8080/hindihitshd/index.m3u8
@@ -103,10 +103,10 @@ http://103.12.122.22:5000/play/a06o/index.m3u8
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF:0, بی بی سی ارتھ
 #EXTGRP: Infotainment
-https://professorwatchpush4k.000webhostapp.com/dhooommmm.php?id=10601&e=m3u8
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=1118064&extension=ts&play_token=xf5NOk7Jt3
 #EXTINF:0, نیشنل جیوگرافک وائلڈ 
 #EXTGRP: Infotainment
-http://103.99.249.139/natgeowild/index.mu8
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=155989&extension=ts&play_token=oeNSYaqtPj
 #EXTINF:0, نیشنل جیوگرافک  
 #EXTGRP: Infotainment
 http://112.196.61.212:9292/NATIONAL_GEOGRAPHIC_FHD_VIDECON/index.m3u8
