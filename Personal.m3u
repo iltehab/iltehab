@@ -103,7 +103,7 @@ http://103.12.122.22:5000/play/a06o/index.m3u8
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF:0, بی بی سی ارتھ
 #EXTGRP: Infotainment
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=1118064&extension=ts&play_token=xf5NOk7Jt3
+103.141.2.37:25461/live/web/web/564.m3u8
 #EXTINF:0, نیشنل جیوگرافک وائلڈ 
 #EXTGRP: Infotainment
 103.141.2.37:25461/live/web/web/576.m3u8
