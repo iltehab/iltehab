@@ -161,9 +161,9 @@ http://103.99.249.139/andflix/index.m3u8
 #EXTINF:0, Wild HD
 #EXTGRP: UK
 http://otv.ftpbd.net:8082/Wild-HD/tracks-v1a1/mono.m3u8
-#EXTINF:0, Comedy Central In
+#EXTINF:0, Star Movies
 #EXTGRP: UK
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
+https://edge2.laotv.la/live/StarMovie/index.m3u8
 #EXTINF:0, Colors Infinity
 #EXTGRP: UK
 http://go.justflix.tv:80/client120/aarab.amar/214
