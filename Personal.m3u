@@ -16,7 +16,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=393&uid=7435&deviceMac=00:1A:79:51:4B
 http://103.24.96.74/stream/humtv/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
-38.96.178.201/live/ARYDigital/index.m3u8
+http://38.96.178.201/live/ARYDigital/index.m3u8
 #EXTINF:0, Express 
 #EXTGRP:Drama
 https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
