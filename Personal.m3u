@@ -68,15 +68,15 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB
 #EXTINF:0,Colors Superhits
 #EXTGRP:Bollywood
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF:0,Sony Max HD
+#EXTINF:0,SET Max UK
 #EXTGRP:Bollywood
-http://208.86.19.13:81/7066.stream/index.m3u8
+http://170.254.18.107/SONYMAX/index.m3u8
 #EXTINF:0,Star Gold HD
 #EXTGRP:Colors Superhit
 http://103.99.249.139/stargold/index.m3u8
-#EXTINF:0,Star Gold 2
+#EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
-http://103.12.122.22:5000/play/a06p/index.m3u8 
+http://170.254.18.107/CINEPLEX/index.m3u8 
 #EXTINF:0, Star Gold Select
 #EXTGRP:Bollywood
 http://103.12.122.22:5000/play/a05l/index.m3u8
@@ -85,16 +85,16 @@ http://103.12.122.22:5000/play/a05l/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 #EXTINF:0,Zee Bollywood 
 #EXTGRP:Bollywood 
-:https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
 #EXTINF:0, Bollywood Classic 
 #EXTGRP:Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:0, Bollywood HD
 #EXTGRP:Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:0, Star Gold Thrills
+#EXTINF:0, Zee Cinema UK
 #EXTGRP:Bollywood
-http://103.12.122.22:5000/play/a06n/index.m3u8
+http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:0,Star Gold Romance
 #EXTGRP:Bollywood
 http://103.12.122.22:5000/play/a06o/index.m3u8
