@@ -73,7 +73,7 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback
 http://170.254.18.107/SONYMAX/index.m3u8
 #EXTINF:0,Star Gold HD
 #EXTGRP:Colors Superhit
-http://103.99.249.139/stargold/index.m3u8
+http://38.96.178.201/live/StarGold/index.m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
 http://170.254.18.107/CINEPLEX/index.m3u8 
@@ -97,7 +97,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:0,Star Gold Romance
 #EXTGRP:Bollywood
-http://103.12.122.22:5000/play/a06o/index.m3u8
+http://38.96.178.201/live/StarGold/index.m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
