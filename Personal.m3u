@@ -7,7 +7,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8 
 #EXTINF:0,ARY News
 #EXTGRP:NEWS
-https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
+http://38.96.178.201/live/ARYNews/index.m3u8
 #EXTINF:0, Green TV
 #EXTGRP:NEWS
 http://tv.cloudcdn.me:80/live.ts?channelId=393&uid=7435&deviceMac=00:1A:79:51:4B:3A
