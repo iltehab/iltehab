@@ -14,15 +14,24 @@ http://tv.cloudcdn.me:80/live.ts?channelId=393&uid=7435&deviceMac=00:1A:79:51:4B
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
 http://go.justflix.tv:80/client120/aarab.amar/17
+#EXTINF:0,HUM TV UK
+#EXTGRP:Drama
+http://go.justflix.tv:80/client120/aarab.amar/50
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
 http://38.96.178.201/live/ARYDigital/index.m3u8
+#EXTINF:0,ARY Digital UK
+#EXTGRP:Drama
+http://go.justflix.tv:80/client120/aarab.amar/881
 #EXTINF:0, Express 
 #EXTGRP:Drama
 https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:0,Geo UK
+#EXTGRP:Drama
+http://go.justflix.tv:80/client120/aarab.amar/47
 #EXTINF:0,B4U Music US
 #EXTGRP:Music
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=157164&extension=ts&play_token=jXEbuf0w78
@@ -53,6 +62,9 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:0,9x Jalwa
 #EXTGRP:Music
 http://go.justflix.tv:80/client120/aarab.amar/85
+#EXTINF:0,Zing
+#EXTGRP:Music
+http://go.justflix.tv:80/client120/aarab.amar/112
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
