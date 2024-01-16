@@ -13,7 +13,7 @@ http://38.96.178.201/live/ARYNews/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=393&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-http://103.24.96.74/stream/humtv/tracks-v1a1/mono.m3u8
+http://go.justflix.tv:80/client120/aarab.amar/17
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
 http://38.96.178.201/live/ARYDigital/index.m3u8
