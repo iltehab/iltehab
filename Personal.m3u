@@ -10,28 +10,28 @@ https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 http://38.96.178.201/live/ARYNews/index.m3u8
 #EXTINF:0, Green TV
 #EXTGRP:NEWS
-http://tv.cloudcdn.me:80/live.ts?channelId=393&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://103.131.214.129:9985/stream/channelid/2022520510?ticket=8FEF589D0E07D080A83932B5310B71D480BB62C1&profile=pass
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
 http://go.justflix.tv:80/client120/aarab.amar/17
 #EXTINF:0,HUM TV UK
 #EXTGRP:Drama
-http://go.justflix.tv:80/client120/aarab.amar/50
+http://103.131.214.129:9985/stream/channelid/994406666?ticket=F39F29C1FB4041472483093DBB4585AEF43244EA&profile=pass
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
 http://38.96.178.201/live/ARYDigital/index.m3u8
-#EXTINF:0,ARY Digital UK
+#EXTINF:0,Filmazia
 #EXTGRP:Drama
-http://go.justflix.tv:80/client120/aarab.amar/881
+http://103.131.214.129:9985/stream/channelid/306129602?ticket=FB165E73EBE5A948DB2A793E23361594673EF732&profile=pass
 #EXTINF:0, Express 
 #EXTGRP:Drama
 https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:0,Geo UK
+#EXTINF:0, Silver Screen
 #EXTGRP:Drama
-http://go.justflix.tv:80/client120/aarab.amar/47
+http://103.131.214.129:9985/stream/channelid/843922081?ticket=465C0E40C4A60E6A1B1D54D1DF6391FDEBDA18D9&profile=pass
 #EXTINF:0,B4U Music US
 #EXTGRP:Music
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=157164&extension=ts&play_token=jXEbuf0w78
@@ -115,13 +115,13 @@ http://38.96.178.201/live/StarGold/index.m3u8
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF:0, بی بی سی ارتھ
 #EXTGRP: Infotainment
-http://112.196.61.212:9292/SONY_BBC_EARTH_FHD_VIDECON/index.m3u8
+http://103.131.214.129:9985/stream/channelid/1249715369?ticket=422B239DF4650FBB6B7F9C4D7977FF5AF10CE25C&profile=pass
 #EXTINF:0, نیشنل جیوگرافک وائلڈ 
 #EXTGRP: Infotainment
-http://galaxyiptv.pro:8080/live/hajar/1234/246727.m3u8
+http://103.131.214.129:9985/stream/channelid/2036820770?ticket=52A50F5A096F67844621138135E0C46E87AAE7EA&profile=pass
 #EXTINF:0, نیشنل جیوگرافک  
 #EXTGRP: Infotainment
-http://112.196.61.212:9292/NATIONAL_GEOGRAPHIC_FHD_VIDECON/index.m3u8
+http://103.131.214.129:9985/stream/channelid/940961797?ticket=EEEC4ED8E73E190D5F4A9E5FEA4270A0C80B8953&profile=pass
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
