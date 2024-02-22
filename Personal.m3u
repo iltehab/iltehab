@@ -67,7 +67,7 @@ http://go.justflix.tv:80/client120/aarab.amar/85
 http://go.justflix.tv:80/client120/aarab.amar/112
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:0,Zee Cinema HD 
 #EXTGRP:Bollywood
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
@@ -83,15 +83,15 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback
 #EXTINF:0,SET Max UK
 #EXTGRP:Bollywood
 http://170.254.18.107/SONYMAX/index.m3u8
+#EXTINF:0,Star Gold Select HD
+#EXTGRP:Bollywood
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 #EXTINF:0,Star Gold HD
-#EXTGRP:Colors Superhit
-http://38.96.178.201/live/StarGold/index.m3u8
-#EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
-http://170.254.18.107/CINEPLEX/index.m3u8 
-#EXTINF:0, Star Gold Select
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8 
+#EXTINF:0, Sony Max HD
 #EXTGRP:Bollywood
-http://103.99.249.139/stargold/index.m3u8
+http://89.187.177.137:8081/SONYMAX/index.m3u8
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
