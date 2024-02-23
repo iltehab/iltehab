@@ -13,7 +13,7 @@ http://38.96.178.201/live/ARYNews/index.m3u8
 http://103.131.214.129:9985/stream/channelid/2022520510?ticket=8FEF589D0E07D080A83932B5310B71D480BB62C1&profile=pass
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-http://go.justflix.tv:80/client120/aarab.amar/17
+http://175.107.244.52:4457/play/a08i/index.m3u8
 #EXTINF:0,HUM TV UK
 #EXTGRP:Drama
 http://103.131.214.129:9985/stream/channelid/994406666?ticket=F39F29C1FB4041472483093DBB4585AEF43244EA&profile=pass
