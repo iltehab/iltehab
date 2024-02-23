@@ -13,25 +13,25 @@ http://38.96.178.201/live/ARYNews/index.m3u8
 http://103.131.214.129:9985/stream/channelid/2022520510?ticket=8FEF589D0E07D080A83932B5310B71D480BB62C1&profile=pass
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-http://175.107.244.52:4457/play/a08i/index.m3u8
-#EXTINF:0,HUM TV UK
-#EXTGRP:Drama
 http://103.131.214.129:9985/stream/channelid/994406666?ticket=F39F29C1FB4041472483093DBB4585AEF43244EA&profile=pass
+#EXTINF:0,ARY Zindagi
+#EXTGRP:Drama
+http://38.96.178.201/live/ARYZindagi/index.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
 http://38.96.178.201/live/ARYDigital/index.m3u8
-#EXTINF:0,Filmazia
+#EXTINF:0,Hum Sitaray
 #EXTGRP:Drama
-http://103.131.214.129:9985/stream/channelid/306129602?ticket=FB165E73EBE5A948DB2A793E23361594673EF732&profile=pass
+http://38.96.178.201/live/HumSitaray/index.m3u8
 #EXTINF:0, Express 
 #EXTGRP:Drama
-https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
+http://103.131.214.129:9985/stream/channelid/1416371276?ticket=09A76A70EB2BACA22F045DD6C5E869D7871CC247&profile=pass
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:0, Silver Screen
+#EXTINF:0, TV One
 #EXTGRP:Drama
-http://103.131.214.129:9985/stream/channelid/843922081?ticket=465C0E40C4A60E6A1B1D54D1DF6391FDEBDA18D9&profile=pass
+http://103.131.214.129:9985/stream/channelid/1156191538?ticket=ABF6B9B780F9A0E7502EB2C1F95EFD3E4F1B6E70&profile=pass
 #EXTINF:0,B4U Music US
 #EXTGRP:Music
 https://fifaxbd.fun/TOFXFE/play.m3u8?id=b4umusic&e=m3u8
