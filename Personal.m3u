@@ -64,7 +64,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 http://go.justflix.tv:80/client120/aarab.amar/85
 #EXTINF:0,Zing
 #EXTGRP:Music
-http://go.justflix.tv:80/client120/aarab.amar/112
+http://103.131.214.129:9985/stream/channelid/205392548?ticket=81E71B3ED45A9670235EA494A25F57440184C8EF&profile=pass
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
 http://103.99.249.139/zeecinema/index.m3u8
