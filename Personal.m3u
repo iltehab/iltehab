@@ -104,9 +104,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:0, Zee Cinema UK
 #EXTGRP:Bollywood
 http://170.254.18.107/ZEECINEMA/index.m3u8
-#EXTINF:0,Star Gold Romance
+#EXTINF:0, Bollywood Classics
 #EXTGRP:Bollywood
-http://38.96.178.201/live/StarGold/index.m3u8
+https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
