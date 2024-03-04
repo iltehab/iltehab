@@ -16,13 +16,13 @@ http://103.131.214.129:9985/stream/channelid/2022520510?ticket=8FEF589D0E07D080A
 http://103.131.214.129:9985/stream/channelid/994406666?ticket=F39F29C1FB4041472483093DBB4585AEF43244EA&profile=pass
 #EXTINF:0,ARY Zindagi
 #EXTGRP:Drama
-http://38.96.178.201/live/ARYZindagi/index.m3u8
+http://103.131.214.129:9985/stream/channelid/90340940?ticket=4F01EB87CF6210EF209466DACFE7530A63BE1C63&profile=pass
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
-http://38.96.178.201/live/ARYDigital/index.m3u8
+http://103.131.214.129:9985/stream/channelid/690405874?ticket=101BE5A83C333097D0005BAF2ACED9D2C0D714D4&profile=pass
 #EXTINF:0,Hum Sitaray
 #EXTGRP:Drama
-http://38.96.178.201/live/HumSitaray/index.m3u8
+http://103.131.214.129:9985/stream/channelid/371593588?ticket=A90A8FAD1FD97488B63C8DA7A49C1DC23326D1E2&profile=pass
 #EXTINF:0, Express 
 #EXTGRP:Drama
 http://103.131.214.129:9985/stream/channelid/1416371276?ticket=09A76A70EB2BACA22F045DD6C5E869D7871CC247&profile=pass
