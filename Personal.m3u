@@ -65,18 +65,18 @@ http://103.131.214.129:9985/stream/channelid/205392548?ticket=81E71B3ED45A967023
 #EXTINF:0,And Pictures HD
 #EXTGRP:Bollywood
 http://103.99.249.139/zeecinema/index.m3u8
-#EXTINF:0,Zee Cinema HD 
+#EXTINF:0,And Pictures HD 
 #EXTGRP:Bollywood
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+http://103.99.249.139/andpictures/index.m3u8
 #EXTINF:0,Colors Cineplex HD 
 #EXTGRP:Bollywood
 http://170.254.18.107/CINEPLEX/index.m3u8
-#EXTINF:0,Colors Cineplex Bollywood 
+#EXTINF:0,B4U Kadak 
 #EXTGRP:Bollywood
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
-#EXTINF:0,Colors Superhits
+https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
+#EXTINF:0,Pitaara
 #EXTGRP:Bollywood
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
+http://103.131.214.129:9985/stream/channelid/1491057963?ticket=658FD81946BCFA65458EE504D1AC711776F568CA&profile=pass
 #EXTINF:0,SET Max UK
 #EXTGRP:Bollywood
 http://170.254.18.107/SONYMAX/index.m3u8
