@@ -70,17 +70,17 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungi
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:0,MTV Beats
 #EXTGRP:Music
-https://fifaxbd.fun/TOFXFE/play.m3u8?id=mtv_beats_hd&e=m3u8
+http://175.107.244.52:4457/play/a07y/index.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:0,9x Jalwa
+#EXTINF:0,EMG Rhythm
 #EXTGRP:Music
-http://go.justflix.tv:80/client120/aarab.amar/85
-#EXTINF:0,Zing
+http://175.107.244.52:4457/play/a07y/index.m3u8
+#EXTINF:0,EMG Cinema
 #EXTGRP:Music
-http://103.131.214.129:9985/stream/channelid/205392548?ticket=81E71B3ED45A9670235EA494A25F57440184C8EF&profile=pass
-#EXTINF:0,And Pictures HD
+http://175.107.244.52:4457/play/a080/index.m3u8
+#EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:0,And Pictures HD 
@@ -107,12 +107,12 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 #EXTINF:0, Sony Max HD
 #EXTGRP:Bollywood
 http://89.187.177.137:8081/SONYMAX/index.m3u8
-#EXTINF:0, Zee Action
+#EXTINF:0, B4U Movies
 #EXTGRP:Bollywood
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
-#EXTINF:0,Zee Classic
+http://175.107.244.52:4457/play/a058/index.m3u8
+#EXTINF:0,Taaza
 #EXTGRP:Bollywood 
-http://51.159.13.107:8090/IN_ZeeClassic/index.m3u8?token=6db9dd4471e438f41565f041acfd37ec
+http://175.107.244.52:4457/play/a07y/index.m3u8
 #EXTINF:0, Bollywood Classic 
 #EXTGRP:Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
