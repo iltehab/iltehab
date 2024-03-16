@@ -58,9 +58,9 @@ http://103.99.249.139/sonysab/index.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 http://103.131.214.129:9985/stream/channelid/903797591?ticket=625B2F8797D5C5B5A46C099058C0ECD114CC2CB3&profile=pass
-#EXTINF:0,B4U Music
+#EXTINF:0,MTV India
 #EXTGRP:Music
-http://175.107.244.52:4457/play/a059/index.m3u8
+1http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6582/index.m3u8
 #EXTINF:0, Hindi Hits
 #EXTGRP:Music
 http://146.59.253.52:8080/hindihitshd/index.m3u8
