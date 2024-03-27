@@ -79,9 +79,9 @@ https://plx.iptv18.tech/smart.php?id=11723&e=m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:0,B4U Music UK
+#EXTINF:0,Shemaroo Filmi Gaane
 #EXTGRP:Music
-https://plx.iptv18.tech/smart.php?id=63093&e=m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
 #EXTINF:0,B4U Music USA
 #EXTGRP:Music
 https://plx.iptv18.tech/smart.php?id=8654&e=m3u8
