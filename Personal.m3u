@@ -94,6 +94,9 @@ http://103.99.249.139/andpictures/index.m3u8
 #EXTINF:0,Colors Cineplex HD 
 #EXTGRP:Bollywood
 http://170.254.18.107/CINEPLEX/index.m3u8
+#EXTINF:0,Colors Cineplex UK
+#EXTGRP:Bollywood
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6592/index.m3u8
 #EXTINF:0,B4U Kadak 
 #EXTGRP:Bollywood
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
@@ -130,6 +133,9 @@ http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:0, Bollywood Classics
 #EXTGRP:Bollywood
 https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
+#EXTINF:0,Zee Classic
+#EXTGRP:Bollywood
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6596/index.m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
