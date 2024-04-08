@@ -63,7 +63,7 @@ http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=157164&
 http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=42444&extension=ts&play_token=XMLjeiHHOA
 #EXTINF:0,Mastiii
 #EXTGRP:Music
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
 #EXTINF:0,MTV India
 #EXTGRP:Music
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6582/index.m3u8
