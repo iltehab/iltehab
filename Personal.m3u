@@ -81,16 +81,16 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/0a
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 #EXTINF:0, Show Box
 #EXTGRP:Music
-https://epiconvh.s.llnwi.net/showbox/master.m3u8
+https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/ab3a3324-2f08-4347-8cb7-379a674d215d/3.m3u8
 #EXTINF:0,Shemaroo Filmi Gaane
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
 #EXTINF:0,9X Jalwa
 #EXTGRP:Music
-https://i.mjh.nz/SamsungTVPlus/INBC2800013L6.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/index.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 https://freeiptv25.netlify.app/live/bdix/app/Zeecinema.m3u8
