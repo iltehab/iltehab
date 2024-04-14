@@ -120,7 +120,7 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6592/index.m3u8
 http://103.131.214.129:9985/stream/channelid/1491057963?ticket=658FD81946BCFA65458EE504D1AC711776F568CA&profile=pass
 #EXTINF:0, Sony Max HD
 #EXTGRP:Bollywood
-https://freeiptv25.netlify.app/live/bdix/app/Sonymax.m3u8
+http://89.187.177.137:8081/SONYMAX/index.m3u8
 #EXTINF:0,SET Max UK
 #EXTGRP:Bollywood
 http://170.254.18.107/SONYMAX/index.m3u8
