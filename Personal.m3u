@@ -193,9 +193,9 @@ http://195.181.175.69:2080/313/index.m3u8
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
 http://195.181.175.69:2080/22/index.m3u8
-#EXTINF:0, Channel 4
+#EXTINF:0, Channel 4 HD
 #EXTGRP: UK 
-http://195.181.175.69:2080/18/index.m3u8
+http://83.97.18.189:4215/bysid/21200.m3u8
 #EXTINF:0, Channel 5
 #EXTGRP: UK
 http://195.181.175.69:2080/19/index.m3u8
