@@ -195,10 +195,10 @@ http://195.181.175.69:2080/313/index.m3u8
 http://195.181.175.69:2080/22/index.m3u8
 #EXTINF:0, Channel 4 HD
 #EXTGRP: UK 
-http://83.97.18.189:4215/bysid/21200
+http://195.181.175.69:2080/314/index.m3u8
 #EXTINF:0, Channel 5
 #EXTGRP: UK
-http://195.181.175.69:2080/19/index.m3u8
+http://195.181.175.69:2080/548/index.m3u8
 #EXTINF:0, E4
 #EXTGRP: UK
 http://195.181.175.69:2080/25/index.m3u8
@@ -210,7 +210,7 @@ http://45.153.35.210:8000/play/UK_e4_1_sd/index.m3u8
 http://195.181.175.69:2080/67/index.m3u8
 #EXTINF:0, BBC THREE
 #EXTGRP: UK
-http://45.153.35.210:8000/play/UK_bbc_3_HD/index.m3u8
+http://195.181.175.69:2080/349/index.m3u8
 #EXTINF:0, Andfilx
 #EXTGRP: UK
 http://103.99.249.139/andflix/index.m3u8
