@@ -31,9 +31,9 @@ http://103.131.214.129:9985/stream/channelid/90340940?ticket=4F01EB87CF6210EF209
 #EXTINF:0, Express 
 #EXTGRP:Drama
 http://103.131.214.129:9985/stream/channelid/1416371276?ticket=09A76A70EB2BACA22F045DD6C5E869D7871CC247&profile=pass
-#EXTINF:0,Sony
+#EXTINF:0,Lollywood
 #EXTGRP:Drama
-http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+http://124.29.225.205:8000/play/a05m/index.m3u8
 #EXTINF:0,Sony Entertainment HD
 #EXTGRP:Drama
 http://103.131.214.129:9985/stream/channelid/1413291058?ticket=2B83F1451279A414EC3CD4EC0822A3B3778B7F3C&profile=pass
