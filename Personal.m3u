@@ -72,19 +72,19 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6582/index.m3u8
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:0, Music India
 #EXTGRP:Music
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+http://103.131.214.129:9985/stream/channelid/625173234?ticket=F493BD61C2194BAFB87871A031D2AC97DEE83537&profile=pass
 #EXTINF:0,YRF Music
 #EXTGRP:Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/0af67dad-7789-40f0-a1fe-4aad49acabe2/0.m3u8
 #EXTINF:0,Zoom
 #EXTGRP:Music
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
+http://103.131.214.129:9985/stream/channelid/1204457011?ticket=4BE6A99453BA1CA0103D9B90D212AC467E17F83C&profile=pass
 #EXTINF:0, Show Box
 #EXTGRP:Music
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/ab3a3324-2f08-4347-8cb7-379a674d215d/3.m3u8
+http://103.131.214.129:9985/stream/channelid/2135089736?ticket=4E83877FB922352CBAF3E8454F4F0C2B8F2EA6B3&profile=pass
 #EXTINF:0,Shemaroo Filmi Gaane
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
@@ -151,15 +151,15 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6596/index.m3u8
 #EXTINF:0,Shemaroo Bollywood
 #EXTGRP:Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:0,Goldmines Bollywood
+#EXTINF:0,Sherwani
 #EXTGRP:Bollywood
-https://0g24v5p5.codepad.live/filmaxxgoldbolly.m3u8
+http://103.131.214.129:9985/stream/channelid/201905765?ticket=612A7B4F76A02234827A0E551D51E724F5D1575C&profile=pass
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF:0, بی بی سی ارتھ
 #EXTGRP: Infotainment
-http://124.29.225.205:8000/play/a04a/index.m3u8
+http://103.131.214.129:9985/stream/channelid/1249715369?ticket=2CFD01A83F10503E2F67E9C8107C22B6F63546B7&profile=pass
 #EXTINF:0, نیشنل جیوگرافک وائلڈ 
 #EXTGRP: Infotainment
 http://103.131.214.129:9985/stream/channelid/2036820770?ticket=52A50F5A096F67844621138135E0C46E87AAE7EA&profile=pass
