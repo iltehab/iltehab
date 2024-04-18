@@ -183,10 +183,10 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 http://195.181.175.69:2080/66/index.m3u8
 #EXTINF:0, BBC One
 #EXTGRP: UK 
-http://45.153.35.210:8000/play/UK_bbc_1_HD/index.m3u8
+http://195.181.175.69:2080/51/index.m3u8
 #EXTINF:0, BBC Two
 #EXTGRP: UK 
-http://45.153.35.210:8000/play/UK_bbc_2_HD/index.m3u8
+http://195.181.175.69:2080/312/index.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
 http://195.181.175.69:2080/313/index.m3u8
