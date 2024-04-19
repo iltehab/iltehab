@@ -94,9 +94,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/index.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 https://freeiptv25.netlify.app/live/bdix/app/Zeecinema.m3u8
-#EXTINF:0, Bollywood 4U
+#EXTINF:0, UTV Movies
 #EXTGRP:Bollywood
-https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8
+http://103.107.79.87:8080/CH8109SD05/tracks-v1a1/mono.m3u8
 #EXTINF:0, Zee Cinema APAC
 #EXTGRP:Bollywood
 http://170.254.18.107/ZEECINEMA/index.m3u8
