@@ -72,25 +72,25 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6582/index.m3u8
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:0, Music India
 #EXTGRP:Music
-http://103.131.214.129:9985/stream/channelid/625173234?ticket=F493BD61C2194BAFB87871A031D2AC97DEE83537&profile=pass
+http://zeestb1.online/tata.php?id=1103&e=m3u8
 #EXTINF:0,YRF Music
 #EXTGRP:Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/0af67dad-7789-40f0-a1fe-4aad49acabe2/0.m3u8
 #EXTINF:0,Zoom
 #EXTGRP:Music
-http://103.131.214.129:9985/stream/channelid/1204457011?ticket=4BE6A99453BA1CA0103D9B90D212AC467E17F83C&profile=pass
+http://zeestb1.online/tata.php?id=799&e=m3u8
 #EXTINF:0, Show Box
 #EXTGRP:Music
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
-http://103.131.214.129:9985/stream/channelid/2135089736?ticket=4E83877FB922352CBAF3E8454F4F0C2B8F2EA6B3&profile=pass
+http://zeestb1.online/tata.php?id=701&e=m3u8
 #EXTINF:0,Shemaroo Filmi Gaane
 #EXTGRP:Music
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
+http://zeestb1.online/tata.php?id=8708&e=m3u8
 #EXTINF:0,9X Jalwa
 #EXTGRP:Music
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/index.m3u8
+http://zeestb1.online/tata.php?id=950&e=m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 https://freeiptv25.netlify.app/live/bdix/app/Zeecinema.m3u8
