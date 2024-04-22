@@ -54,7 +54,7 @@ http://103.131.214.129:9985/stream/channelid/1324610634?ticket=4CDA412ACA1813E94
 http://103.99.249.139/sonysab/index.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-http://103.131.214.129:9985/stream/channelid/903797591?ticket=625B2F8797D5C5B5A46C099058C0ECD114CC2CB3&profile=pass
+https://allinonereborn.000webhostapp.com/allinone.php?id=57399&e=m3u8
 #EXTINF:0,B4U Music APAC
 #EXTGRP:Music 
 http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=157164&extension=ts&play_token=6nD6qinlbL
@@ -70,6 +70,9 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6582/index.m3u8
 #EXTINF:0, Hindi Hits
 #EXTGRP:Music
 http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:0, Vision Beats
+#EXTGRP:Music
+https://allinonereborn.000webhostapp.com/allinone.php?id=57389&e=m3u8
 #EXTINF:0, Music India
 #EXTGRP:Music
 http://zeestb1.online/tata.php?id=1103&e=m3u8
