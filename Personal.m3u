@@ -42,7 +42,7 @@ http://103.131.214.129:9985/stream/channelid/1413291058?ticket=2B83F1451279A414E
 http://170.254.18.107/SONY/index.m3u8
 #EXTINF:0, Star Plus
 #EXTGRP:Drama
-http://103.99.249.139/starplus/index.m3u8
+http://103.120.172.74:1120
 #EXTINF:0, Zee TV
 #EXTGRP:Drama
 http://170.254.18.107/ZEE/index.m3u8
