@@ -45,7 +45,7 @@ http://170.254.18.107/SONY/index.m3u8
 http://103.99.249.139/starplus/index.m3u8
 #EXTINF:0, Zee TV
 #EXTGRP:Drama
-http://103.99.249.139/zeetv/index.m3u8
+http://170.254.18.107/ZEE/index.m3u8
 #EXTINF:0, Colors HD
 #EXTGRP:Drama
 http://170.254.18.107/COLORS/index.m3u8
