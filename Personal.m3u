@@ -57,10 +57,10 @@ http://103.99.249.139/sonysab/index.m3u8
 https://filmzilla.co.in/jiotv/app/live/183/Filmaxx/index.m3u8
 #EXTINF:0,B4U Music APAC
 #EXTGRP:Music 
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=157164&extension=ts&play_token=6nD6qinlbL
+https://desitv.dinesh29.com.np/live/desitv-universal/b4u-music-canada/index.ts
 #EXTINF:0,B4U Music UK 
 #EXTGRP:Music 
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=42444&extension=ts&play_token=XMLjeiHHOA
+https://desitv.dinesh29.com.np/live/desitv-universal/b4u-music-uk/index.ts
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
