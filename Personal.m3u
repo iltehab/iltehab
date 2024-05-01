@@ -24,29 +24,35 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 http://103.131.214.129:9985/stream/channelid/1156191538?ticket=63B1134A751602CDD67822C264E6F468186AAC8C&profile=pass
 #EXTINF:0,Hum Sitaray
 #EXTGRP:Drama
-http://103.131.214.129:9985/stream/channelid/371593588?ticket=A90A8FAD1FD97488B63C8DA7A49C1DC23326D1E2&profile=pass
+https://j7md5mbeyrwv-hls-live.5centscdn.com/hamara/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8
 #EXTINF:0,ARY Zindagi
 #EXTGRP:Drama
 http://103.131.214.129:9985/stream/channelid/90340940?ticket=4F01EB87CF6210EF209466DACFE7530A63BE1C63&profile=pass
 #EXTINF:0, Express 
 #EXTGRP:Drama
-http://103.131.214.129:9985/stream/channelid/1416371276?ticket=09A76A70EB2BACA22F045DD6C5E869D7871CC247&profile=pass
+https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
 #EXTINF:0,Lollywood
 #EXTGRP:Drama
 http://124.29.225.205:8000/play/a05m/index.m3u8
 #EXTINF:0,Sony Entertainment HD
 #EXTGRP:Drama
-http://103.131.214.129:9985/stream/channelid/1413291058?ticket=2B83F1451279A414EC3CD4EC0822A3B3778B7F3C&profile=pass
+http://jtv4u.xyz/IN_STVG/index.m3u8
 #EXTINF:0,Sony UK
 #EXTGRP:Drama
 http://170.254.18.107/SONY/index.m3u8
 #EXTINF:0, Star Plus
 #EXTGRP:Drama
-http://103.120.172.74:1120
+http://jtv4u.xyz/IN_STARPLUHD/index.m3u8
 #EXTINF:0, Zee TV
+#EXTGRP:Drama
+http://jtv4u.xyz/zeeIND/index.m3u8
+#EXTINF:0, Zee TV USA
 #EXTGRP:Drama
 http://170.254.18.107/ZEE/index.m3u8
 #EXTINF:0, Colors HD
+#EXTGRP:Drama
+http://jtv4u.xyz/IN_CTVG/index.m3u8
+#EXTINF:0, Colors USA
 #EXTGRP:Drama
 http://170.254.18.107/COLORS/index.m3u8
 #EXTINF:0, Sab HD
