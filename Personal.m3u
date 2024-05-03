@@ -36,28 +36,28 @@ https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
 http://124.29.225.205:8000/play/a05m/index.m3u8
 #EXTINF:0,Sony Entertainment HD
 #EXTGRP:Drama
-http://jtv4u.xyz/IN_STVG/index.m3u8
+http://jtv4u.xyz/IN_STVS/index.m3u8?token=c5fa8cb10cdf2212eefe27ab710daa4a
 #EXTINF:0,Sony UK
 #EXTGRP:Drama
 http://170.254.18.107/SONY/index.m3u8
 #EXTINF:0, Star Plus
 #EXTGRP:Drama
-http://jtv4u.xyz/IN_STARPLUHD/index.m3u8
+http://jtv4u.xyz/IN_STARPLUHD/index.m3u8?token=4f22153dd384bfa37ec7e060d39feb44
 #EXTINF:0, Zee TV
 #EXTGRP:Drama
-http://jtv4u.xyz/zeeIND/index.m3u8
+http://jtv4u.xyz/zeeIND/index.m3u8?token=dacb41a9b8a8b8b1de3778cf09af311e
 #EXTINF:0, Zee TV USA
 #EXTGRP:Drama
 http://170.254.18.107/ZEE/index.m3u8
 #EXTINF:0, Colors HD
 #EXTGRP:Drama
-http://jtv4u.xyz/IN_CTVG/index.m3u8
+http://jtv4u.xyz/IN_CTVG/index.m3u8?token=d834f4a0a1cc997b96abcec71938f8a8
 #EXTINF:0, Colors USA
 #EXTGRP:Drama
 http://170.254.18.107/COLORS/index.m3u8
 #EXTINF:0, Sab HD
 #EXTGRP:Drama
-http://jtv4u.xyz/PAK_HUMTVS/index.m3u8
+http://jtv4u.xyz/PAK_HUMTVG/mpegts?token=d587f5eb56125c41845e912334274f10
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 http://103.131.214.129:9985/stream/channelid/903797591?ticket=907385CBC64E2607F1671B2824F2B948E01A6FBB&profile=pass
