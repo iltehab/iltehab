@@ -12,10 +12,10 @@ http://103.131.214.129:9985/stream/channelid/1608163760?ticket=F85DCEC881B564893
 http://homeip.biz/PK_GREENTV/index.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-http://175.107.244.52:4457/play/a08i/index.m3u8
+http://103.131.214.129:9985/stream/channelid/994406666?ticket=114CCD2B03DBA42B752CB04244DB055A9D5C5D51&profile=pass
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
-http://jtv4u.xyz/PAK_ARYTVG/index.m3u8
+http://103.131.214.129:9985/stream/channelid/690405874?ticket=B1E24F7157A2AF05D0219373291D63C72910C58F&profile=pass
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
@@ -36,22 +36,22 @@ https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
 http://124.29.225.205:8000/play/a05m/index.m3u8
 #EXTINF:0,Sony Entertainment HD
 #EXTGRP:Drama
-http://jtv4u.xyz/IN_STVS/index.m3u8?token=c5fa8cb10cdf2212eefe27ab710daa4a
+http://103.131.214.129:9985/stream/channelid/1413291058?ticket=46B216D23CB641EC951D97938F12B247AC185DBA&profile=pass
 #EXTINF:0,Sony UK
 #EXTGRP:Drama
 http://170.254.18.107/SONY/index.m3u8
 #EXTINF:0, Star Plus
 #EXTGRP:Drama
-http://jtv4u.xyz/IN_STARPLUHD/index.m3u8?token=4f22153dd384bfa37ec7e060d39feb44
+http://103.131.214.129:9985/stream/channelid/163616411?ticket=AE3CB67C1C23177916F47E6B9DE16BCCC0AA3F22&profile=pass
 #EXTINF:0, Zee TV
 #EXTGRP:Drama
-http://jtv4u.xyz/zeeIND/index.m3u8?token=dacb41a9b8a8b8b1de3778cf09af311e
+http://103.131.214.129:9985/stream/channelid/404142528?ticket=3AA6DA8B6559B830CDFCB2B188A904D629291AC9&profile=pass
 #EXTINF:0, Zee TV USA
 #EXTGRP:Drama
 http://170.254.18.107/ZEE/index.m3u8
 #EXTINF:0, Colors HD
 #EXTGRP:Drama
-http://jtv4u.xyz/IN_CTVG/index.m3u8?token=d834f4a0a1cc997b96abcec71938f8a8
+http://103.131.214.129:9985/stream/channelid/1324610634?ticket=E2BEF342CB29924073B1E296064D91DB595FCB8E&profile=pass
 #EXTINF:0, Colors USA
 #EXTGRP:Drama
 http://170.254.18.107/COLORS/index.m3u8
