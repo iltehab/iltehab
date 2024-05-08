@@ -214,9 +214,9 @@ http://195.181.175.69:2080/25/index.m3u8
 #EXTINF:0, More4
 #EXTGRP: UK
 http://195.181.175.69:2080/26/index.m3u8
-#EXTINF:0, E4+1
+#EXTINF:0, E4Xtra
 #EXTGRP: UK
-http://bandookk.xyz:61/hyper/Rirabox/44551
+https://tgaadi-web.tech/play.php?tv=299185&e=m3u8
 #EXTINF:0, BBC THREE
 #EXTGRP: UK
 http://195.181.175.69:2080/349/index.m3u8
