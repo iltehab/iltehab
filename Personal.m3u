@@ -111,10 +111,10 @@ http://121.91.61.106:8000/play/a01r/index.m3u8
 http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=156139&extension=ts&play_token=YwKV5xnI0r
+http://humsab.xyz/IN_ZeeActionHD/index.m3u8
 #EXTINF:0, Zee Bollywood
 #EXTGRP:Bollywood
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=311859&extension=ts&play_token=svnKZSIFgv
+http://humsab.xyz/IN_ZEEBOLLYWOODHD/index.m3u8
 #EXTINF:0,And Pictures HD 
 #EXTGRP:Bollywood
 http://humsab.xyz/IN_PICURES/index.m3u8
@@ -156,7 +156,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
 #EXTINF:0,Zee Classic
 #EXTGRP:Bollywood
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6596/index.m3u8
+http://humsab.xyz/IN_ZeeClassic/index.m3u8
 #EXTINF:0,Shemaroo Bollywood
 #EXTGRP:Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
