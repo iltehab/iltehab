@@ -124,9 +124,9 @@ http://170.254.18.107/CINEPLEX/index.m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6592/index.m3u8
-#EXTINF:0,Pitaara
+#EXTINF:0,Star Gold 2
 #EXTGRP:Bollywood
-http://103.131.214.129:9985/stream/channelid/1491057963?ticket=658FD81946BCFA65458EE504D1AC711776F568CA&profile=pass
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=1112132&extension=ts&play_token=4lCdLTyKLK
 #EXTINF:0, Sony Max HD
 #EXTGRP:Bollywood
 http://humsab.xyz/IN_SonyMaxHD/index.m3u8
