@@ -220,9 +220,9 @@ https://tgaadi-web.tech/play.php?tv=299185&e=m3u8
 #EXTINF:0, BBC THREE
 #EXTGRP: UK
 http://195.181.175.69:2080/349/index.m3u8
-#EXTINF:0, Test
+#EXTINF:0, E4+1
 #EXTGRP: UK
-http://195.181.175.69:5080/311/mpegts
+https://tgaadi-web.tech/play.php?tv=290662&e=m3u8
 #EXTINF:0, Nat Geo Wild Hindi
 #EXTGRP: UK
 http://124.29.225.205:8000/play/a044/index.m3u8
