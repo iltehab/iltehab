@@ -36,16 +36,16 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6727/index.m3u8
 http://121.91.61.106:8000/play/a01m/index.m3u8
 #EXTINF:0,Sony Entertainment HD
 #EXTGRP:Drama
-http://103.131.214.129:9985/stream/channelid/1413291058?ticket=46B216D23CB641EC951D97938F12B247AC185DBA&profile=pass
+http://humsab.xyz/IN_STVG/index.m3u8
 #EXTINF:0,Sony UK
 #EXTGRP:Drama
 http://170.254.18.107/SONY/index.m3u8
 #EXTINF:0, Star Plus
 #EXTGRP:Drama
-http://103.131.214.129:9985/stream/channelid/163616411?ticket=AE3CB67C1C23177916F47E6B9DE16BCCC0AA3F22&profile=pass
+http://humsab.xyz/IN_STARPLUHD/index.m3u8
 #EXTINF:0, Zee TV
 #EXTGRP:Drama
-http://103.131.214.129:9985/stream/channelid/404142528?ticket=3AA6DA8B6559B830CDFCB2B188A904D629291AC9&profile=pass
+http://humsab.xyz/zeeIND/index.m3u8
 #EXTINF:0, Zee TV USA
 #EXTGRP:Drama
 http://170.254.18.107/ZEE/index.m3u8
@@ -171,7 +171,7 @@ http://humsab.xyz/IN_STU/mpegts
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF:0, بی بی سی ارتھ
 #EXTGRP: Infotainment
-http://zeestb1.online/tata.php?id=1032&e=m3u8
+http://humsab.xyz/IN_SONYBBCHD/index.m3u8
 #EXTINF:0, نیشنل جیوگرافک وائلڈ 
 #EXTGRP: Infotainment
 http://humsab.xyz/IND_NationalGeoHD/index.m3u8
