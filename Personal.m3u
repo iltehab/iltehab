@@ -31,9 +31,9 @@ http://103.131.214.129:9985/stream/channelid/90340940?ticket=4F01EB87CF6210EF209
 #EXTINF:0, Express 
 #EXTGRP:Drama
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6727/index.m3u8
-#EXTINF:0,Lollywood
+#EXTINF:0,Hum Europe
 #EXTGRP:Drama
-http://121.91.61.106:8000/play/a01m/index.m3u8
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6730/index.m3u8
 #EXTINF:0,Sony Entertainment HD
 #EXTGRP:Drama
 http://humsab.xyz/IN_STVG/index.m3u8
