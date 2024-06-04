@@ -87,7 +87,7 @@ http://humsab.xyz/IN_MB/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:0,YRF Music
 #EXTGRP:Music
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/0af67dad-7789-40f0-a1fe-4aad49acabe2/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/b4348cc3-aed2-444f-8847-089593be2fcd/0.m3u8
 #EXTINF:0,Zoom
 #EXTGRP:Music
 http://zeestb1.online/tata.php?id=799&e=m3u8
@@ -96,7 +96,7 @@ http://zeestb1.online/tata.php?id=799&e=m3u8
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/a1eb0c04-47f0-4553-a5f0-d37020d89180/3.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:0,Zoom USA
 #EXTGRP:Music
 http://zeestb1.online/tata.php?id=8708&e=m3u8
