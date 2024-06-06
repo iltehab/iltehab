@@ -13,9 +13,12 @@ http://humsab.xyz/PK_ARYNEWSS/index.m3u8
 #EXTINF:0, Green TV
 #EXTGRP:NEWS
 http://homeip.biz/PK_GREENTV/index.m3u8
+#EXTINF:0, Green TV HD
+#EXTGRP:NEWS
+http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/1925444.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-http://103.131.214.129:9985/stream/channelid/994406666?ticket=114CCD2B03DBA42B752CB04244DB055A9D5C5D51&profile=pass
+http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/1925438.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6719/index.m3u8
@@ -232,9 +235,9 @@ https://livegeoroueu.akamaized.net/28072023/smil:bbo1.smil/playlist.m3u8?hdnts=s
 #EXTINF:0, BBC THREE
 #EXTGRP: UK
 http://195.181.175.69:2080/349/index.m3u8
-#EXTINF:0, Hum test
+#EXTINF:0, Green test
 #EXTGRP: UK
-http://175.107.244.52:4457/play/a08i/index.m3u8
+http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/1925444.m3u8
 #EXTINF:0, Nat Geo Wild Hindi
 #EXTGRP: UK
 http://124.29.225.205:8000/play/a044/index.m3u8
