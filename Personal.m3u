@@ -226,15 +226,15 @@ http://195.181.175.69:2080/25/index.m3u8
 #EXTINF:0, More4
 #EXTGRP: UK
 http://195.181.175.69:2080/26/index.m3u8
-#EXTINF:0, Sky Nature
+#EXTINF:0, BBO
 #EXTGRP: UK
-https://linear407-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skynature)/manifest_720.mpd
+https://livegeoroueu.akamaized.net/28072023/smil:bbo1.smil/playlist.m3u8?hdnts=st=1717716651~exp=1717717251~acl=!*/28072023/smil:bbo1.smil/*!yuppTVCom_5_-1_d3592b123d254f1c_CY_153.92.0.20/payload/yuppTVCom_5_-1_d3592b123d254f1c_CY_153.92.0.20/*~hmac=80ba6287df33380d667ea678112cd4f4a4ccaf5a321f0462edb01829dce10380&amp;ads.app_bundle=&amp;ads.app_store_url=&amp;ads.content_livestream=1&amp;ads.language=HIN&amp;ads.content_genre=MOV&amp;ads.channel=3529&amp;ads.channel_name=BBO&amp;ads.network_name=yupptv&amp;ads.user=0
 #EXTINF:0, BBC THREE
 #EXTGRP: UK
 http://195.181.175.69:2080/349/index.m3u8
-#EXTINF:0, E4+1
+#EXTINF:0, Hum test
 #EXTGRP: UK
-https://tgaadi-web.tech/play.php?tv=290662&e=m3u8
+http://175.107.244.52:4457/play/a08i/index.m3u8
 #EXTINF:0, Nat Geo Wild Hindi
 #EXTGRP: UK
 http://124.29.225.205:8000/play/a044/index.m3u8
