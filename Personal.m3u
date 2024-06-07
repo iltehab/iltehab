@@ -93,7 +93,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/b4348cc3-aed2-444f-8847-089593be2fcd/0.m3u8
 #EXTINF:0,Zoom
 #EXTGRP:Music
-https://tgaadi-web.tech/trex.php?tv=945564&e=m3u8
+https://desktop.harimishra9109.workers.dev/bpk-tv/Zoom_MOB/Fallback/index.m3u8
 #EXTINF:0, Show Box
 #EXTGRP:Music
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
@@ -111,16 +111,16 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
 http://humsab.xyz/IN_ZeeCinemaHD/index.m3u8
 #EXTINF:0,Zee Cinema 
 #EXTGRP:Bollywood
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6542/index.m3u8
+https://desktop.harimishra9109.workers.dev/bpk-tv/Zee_Cinema_MOB/Fallback/index.m3u8
 #EXTINF:0, Zee Cinema APAC
 #EXTGRP:Bollywood
 http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
-http://humsab.xyz/IN_ZeeActionHD/index.m3u8
+https://desktop.harimishra9109.workers.dev/bpk-tv/Zee_Action_MOB/Fallback/index.m3u8
 #EXTINF:0, Zee Bollywood
 #EXTGRP:Bollywood
-http://humsab.xyz/IN_ZEEBOLLYWOODHD/index.m3u8
+https://desktop.harimishra9109.workers.dev/bpk-tv/Zee_Classic_MOB/Fallback/index.m3u8
 #EXTINF:0,And Pictures HD 
 #EXTGRP:Bollywood
 http://humsab.xyz/IN_PICURES/index.m3u8
@@ -171,7 +171,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
 #EXTINF:0,Zee Classic
 #EXTGRP:Bollywood
-http://humsab.xyz/IN_ZeeClassic/index.m3u8
+https://desktop.harimishra9109.workers.dev/bpk-tv/Zee_Classic_SD_MOB/Fallback/index.m3u8
 #EXTINF:0,Shemaroo Bollywood
 #EXTGRP:Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
