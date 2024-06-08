@@ -12,7 +12,7 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6720/index.m3u8
 http://humsab.xyz/PK_ARYNEWSS/index.m3u8
 #EXTINF:0, Green TV
 #EXTGRP:NEWS
-http://homeip.biz/PK_GREENTV/index.m3u8
+http://103.131.214.129:9985/stream/channelid/2022520510?ticket=F9F652D7334510DBB882426FC95BD7C4D13CCB8E&profile=pass
 #EXTINF:0, Green TV HD
 #EXTGRP:NEWS
 http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/1925444.m3u8
@@ -42,7 +42,7 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6727/index.m3u8
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6730/index.m3u8
 #EXTINF:0,Sony Entertainment HD
 #EXTGRP:Drama
-http://port.denver1769.in/miniProxy.php/https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+http://103.131.214.129:9985/stream/channelid/1275763018?ticket=A77D9562D788DB55DF8B21735291352136D7759E&profile=pass
 #EXTINF:0,Sony UK
 #EXTGRP:Drama
 http://170.254.18.107/SONY/index.m3u8
