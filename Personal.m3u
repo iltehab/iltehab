@@ -42,7 +42,7 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6727/index.m3u8
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6730/index.m3u8
 #EXTINF:0,Sony Entertainment HD
 #EXTGRP:Drama
-http://103.131.214.129:9985/stream/channelid/1275763018?ticket=A77D9562D788DB55DF8B21735291352136D7759E&profile=pass
+103.157.210.165:8000/play/a017/index.m3u8
 #EXTINF:0,Sony UK
 #EXTGRP:Drama
 http://170.254.18.107/SONY/index.m3u8
@@ -186,10 +186,10 @@ https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 http://humsab.xyz/IN_SONYBBCHD/index.m3u8
 #EXTINF:0, نیشنل جیوگرافک وائلڈ 
 #EXTGRP: Infotainment
-http://humsab.xyz/IND_NationalGeoHD/index.m3u8
+http://124.29.225.205:8000/play/a047/index.m3u8
 #EXTINF:0, نیشنل جیوگرافک  
 #EXTGRP: Infotainment
-http://103.131.214.129:9985/stream/channelid/940961797?ticket=EEEC4ED8E73E190D5F4A9E5FEA4270A0C80B8953&profile=pass
+http://124.29.225.205:8000/play/a04c/index.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
