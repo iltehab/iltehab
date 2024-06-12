@@ -111,10 +111,10 @@ https://desktop.harimishra9109.workers.dev/bpk-tv/Dil_Se_MOB/Fallback/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
-https://desktop.harimishra9109.workers.dev/bpk-tv/Zee_Cinema_HD_MOB/Fallback/index.m3u8
+https://neestreamtv.com/z5/stream.php?id=0-9-zeecinemahd&e=m3u8
 #EXTINF:0,Zee Cinema 
 #EXTGRP:Bollywood
-https://desktop.harimishra9109.workers.dev/bpk-tv/Zee_Cinema_MOB/Fallback/index.m3u8
+https://neestreamtv.com/z5/stream.php?id=0-9-zeecinema&e=m3u8
 #EXTINF:0, Zee Cinema APAC
 #EXTGRP:Bollywood
 http://170.254.18.107/ZEECINEMA/index.m3u8
@@ -138,7 +138,7 @@ http://170.254.18.107/CINEPLEX/index.m3u8
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6592/index.m3u8
 #EXTINF:0, Colors Cineplex Superhit
 #EXTGRP:Bollywood
-http://humsab.xyz/IN_RISHTEYCINE/index.m3u8
+http://port.denver1769.in/miniProxy.php/https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_RishteyCineplex/JCHLS/index.m3u8
 #EXTINF:0, Colors Cineplex Bollywood 
 #EXTGRP:Bollywood
 http://port.denver1769.in/miniProxy.php/https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
