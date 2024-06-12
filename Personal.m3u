@@ -250,6 +250,6 @@ http://195.181.175.69:2080/349/index.m3u8
 #EXTINF:0, Green test
 #EXTGRP: UK
 https://stream.ads.ottera.tv/cl/240612cpku34tjs5jf0fku4s10/1280x720_3071200_1_f.m3u8?i=475_10871
-#EXTINF:0, Nat Geo Wild Hindi
+#EXTINF:0, Test
 #EXTGRP: UK
-http://124.29.225.205:8000/play/a044/index.m3u8
+http://port.denver1769.in/miniProxy.php/https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
