@@ -42,13 +42,13 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6727/index.m3u8
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6730/index.m3u8
 #EXTINF:0,Sony Entertainment HD
 #EXTGRP:Drama
-103.157.210.165:8000/play/a017/index.m3u8
+http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2082962.m3u8
 #EXTINF:0,Sony UK
 #EXTGRP:Drama
 http://170.254.18.107/SONY/index.m3u8
 #EXTINF:0, Star Plus
 #EXTGRP:Drama
-http://humsab.xyz/IN_STARPLUHD/index.m3u8
+http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2082968.m3u8
 #EXTINF:0, Zee TV
 #EXTGRP:Drama
 https://neestreamtv.com/z5/stream.php?id=0-9-zeetvhd&e=m3u8
@@ -144,7 +144,7 @@ http://port.denver1769.in/miniProxy.php/https://prod-ent-live-gm.jiocinema.com/b
 https://neestreamtv.com/z5/stream.php?id=0-9-209&e=m3u8
 #EXTINF:0, Sony Max HD
 #EXTGRP:Bollywood
-http://humsab.xyz/IN_SonyMaxHD/index.m3u8
+http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2082999.m3u8
 #EXTINF:0,SET Max UK
 #EXTGRP:Bollywood
 http://170.254.18.107/SONYMAX/index.m3u8
@@ -175,7 +175,7 @@ https://desktop.harimishra9109.workers.dev/bpk-tv/Zee_Classic_SD_MOB/Fallback/in
 #EXTINF:0,Shemaroo Bollywood
 #EXTGRP:Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:0,Utsav Gold
+#EXTINF:0,Star Gold
 #EXTGRP:Bollywood
 https://neestreamtv.com/z5/stream.php?id=0-9-zeetvhd&e=m3u8
 #EXTINF:0, Discovery HD
@@ -183,7 +183,7 @@ https://neestreamtv.com/z5/stream.php?id=0-9-zeetvhd&e=m3u8
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF:0, بی بی سی ارتھ
 #EXTGRP: Infotainment
-http://humsab.xyz/IN_SONYBBCHD/index.m3u8
+http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2082963.m3u8
 #EXTINF:0, نیشنل جیوگرافک وائلڈ 
 #EXTGRP: Infotainment
 http://124.29.225.205:8000/play/a047/index.m3u8
