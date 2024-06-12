@@ -1,15 +1,15 @@
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
 https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
-#EXTINF:0,Dunya News
-#EXTGRP:NEWS
-https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8 
 #EXTINF:0,ARY News
 #EXTGRP:NEWS
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6720/index.m3u8
 #EXTINF:0,ARY News 2
 #EXTGRP:NEWS
 https://mhdtvplay.com/aryzap/stream.m3u8?id=arynewsweb
+#EXTINF:0,Dunya News
+#EXTGRP:NEWS
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8 
 #EXTINF:0, Green TV
 #EXTGRP:NEWS
 http://103.131.214.129:9985/stream/channelid/2022520510?ticket=F9F652D7334510DBB882426FC95BD7C4D13CCB8E&profile=pass
@@ -51,7 +51,7 @@ http://170.254.18.107/SONY/index.m3u8
 http://humsab.xyz/IN_STARPLUHD/index.m3u8
 #EXTINF:0, Zee TV
 #EXTGRP:Drama
-http://humsab.xyz/zeeIND/index.m3u8
+https://neestreamtv.com/z5/stream.php?id=0-9-zeetvhd&e=m3u8
 #EXTINF:0, Zee TV USA
 #EXTGRP:Drama
 http://170.254.18.107/ZEE/index.m3u8
@@ -117,13 +117,13 @@ https://desktop.harimishra9109.workers.dev/bpk-tv/Zee_Cinema_MOB/Fallback/index.
 http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
-https://desktop.harimishra9109.workers.dev/bpk-tv/Zee_Action_MOB/Fallback/index.m3u8
+https://neestreamtv.com/z5/stream.php?id=0-9-zeeaction&e=m3u8
 #EXTINF:0, Zee Bollywood
 #EXTGRP:Bollywood
-https://desktop.harimishra9109.workers.dev/bpk-tv/Zee_Classic_MOB/Fallback/index.m3u8
+https://neestreamtv.com/z5/stream.php?id=0-9-zeeclassic&e=m3u8
 #EXTINF:0,And Pictures HD 
 #EXTGRP:Bollywood
-http://humsab.xyz/IN_PICURES/index.m3u8
+https://neestreamtv.com/z5/stream.php?id=0-9-andpictureshd&e=m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 http://port.denver1769.in/miniProxy.php/https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
@@ -139,21 +139,21 @@ http://humsab.xyz/IN_RISHTEYCINE/index.m3u8
 #EXTINF:0, Colors Cineplex Bollywood 
 #EXTGRP:Bollywood
 http://port.denver1769.in/miniProxy.php/https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
-#EXTINF:0,Star Gold 2
+#EXTINF:0,And Xplor
 #EXTGRP:Bollywood
-http://humsab.xyz/IN_StarGold2/mpegts
+https://neestreamtv.com/z5/stream.php?id=0-9-209&e=m3u8
 #EXTINF:0, Sony Max HD
 #EXTGRP:Bollywood
 http://humsab.xyz/IN_SonyMaxHD/index.m3u8
 #EXTINF:0,SET Max UK
 #EXTGRP:Bollywood
 http://170.254.18.107/SONYMAX/index.m3u8
-#EXTINF:0,Star Gold Select HD
+#EXTINF:0,Zee Anmol Cinema
 #EXTGRP:Bollywood
-http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
-#EXTINF:0,Star Gold HD
+https://neestreamtv.com/z5/stream.php?id=0-9-zeeanmilcinema&e=m3u8
+#EXTINF:0,Zee Anmol Cinema 2
 #EXTGRP:Bollywood
-http://humsab.xyz/IN_STGOLD/index.m3u8
+https://neestreamtv.com/z5/stream.php?id=0-9-bigganga&e=m3u8
 #EXTINF:0, B4U Movies
 #EXTGRP:Bollywood
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
@@ -177,7 +177,7 @@ https://desktop.harimishra9109.workers.dev/bpk-tv/Zee_Classic_SD_MOB/Fallback/in
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:0,Utsav Gold
 #EXTGRP:Bollywood
-http://humsab.xyz/IN_STU/mpegts
+https://neestreamtv.com/z5/stream.php?id=0-9-zeetvhd&e=m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
