@@ -237,7 +237,7 @@ https://livegeoroueu.akamaized.net/28072023/smil:bbo1.smil/playlist.m3u8?hdnts=s
 http://195.181.175.69:2080/349/index.m3u8
 #EXTINF:0, Green test
 #EXTGRP: UK
-https://neestreamtv.com/z5/stream.php?id=0-9-zeeclassic
+https://neestreamtv.com/z5/stream.php?id=0-9-zeeclassic&e=m3u8
 #EXTINF:0, Nat Geo Wild Hindi
 #EXTGRP: UK
 http://124.29.225.205:8000/play/a044/index.m3u8
