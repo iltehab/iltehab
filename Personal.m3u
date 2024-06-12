@@ -12,7 +12,7 @@ https://mhdtvplay.com/aryzap/stream.m3u8?id=arynewsweb
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8 
 #EXTINF:0, Green TV
 #EXTGRP:NEWS
-http://103.131.214.129:9985/stream/channelid/2022520510?ticket=F9F652D7334510DBB882426FC95BD7C4D13CCB8E&profile=pass
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:7B:BD&stream=1505874&extension=ts&play_token=OgUvJAHL8u
 #EXTINF:0, Green TV HD
 #EXTGRP:NEWS
 http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/1925444.m3u8
