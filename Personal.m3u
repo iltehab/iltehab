@@ -148,6 +148,18 @@ http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2082999.m3u8
 #EXTINF:0,SET Max UK
 #EXTGRP:Bollywood
 http://170.254.18.107/SONYMAX/index.m3u8
+#EXTINF:0,Star Gold
+#EXTGRP:Bollywood
+http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2083030.m3u8
+#EXTINF:0,Star Gold Select
+#EXTGRP:Bollywood
+http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2083031.m3u8
+#EXTINF:0,Star Gold 2
+#EXTGRP:Bollywood
+http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2083034.m3u8
+#EXTINF:0,Star Gold Thrills
+#EXTGRP:Bollywood
+http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2083060.m3u8
 #EXTINF:0,Zee Anmol Cinema
 #EXTGRP:Bollywood
 https://neestreamtv.com/z5/stream.php?id=0-9-zeeanmolcinema&e=m3u8
@@ -175,9 +187,6 @@ https://desktop.harimishra9109.workers.dev/bpk-tv/Zee_Classic_SD_MOB/Fallback/in
 #EXTINF:0,Shemaroo Bollywood
 #EXTGRP:Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:0,Star Gold
-#EXTGRP:Bollywood
-https://neestreamtv.com/z5/stream.php?id=0-9-zeetvhd&e=m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
