@@ -57,7 +57,7 @@ https://neestreamtv.com/z5/stream.php?id=0-9-zeetvhd&e=m3u8
 http://170.254.18.107/ZEE/index.m3u8
 #EXTINF:0, Colors HD
 #EXTGRP:Drama
-http://port.denver1769.in/miniProxy.php/https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
+http://94.154.156.130:8080/colors/index.m3u8
 #EXTINF:0, Colors UK
 #EXTGRP:Drama
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6568/index.m3u8
@@ -132,7 +132,7 @@ https://neestreamtv.com/z5/stream.php?id=0-9-zeeclassic&e=m3u8
 https://neestreamtv.com/z5/stream.php?id=0-9-tvpictureshd&e=m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
-http://port.denver1769.in/miniProxy.php/https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
+http://94.154.156.130:8080/colorscineplex/index.m3u8
 #EXTINF:0,Colors Cineplex USA
 #EXTGRP:Bollywood
 http://170.254.18.107/CINEPLEX/index.m3u8
@@ -150,7 +150,7 @@ http://port.denver1769.in/miniProxy.php/https://prod-ent-live-gm.jiocinema.com/b
 https://neestreamtv.com/z5/stream.php?id=0-9-209&e=m3u8
 #EXTINF:0, Sony Max HD
 #EXTGRP:Bollywood
-http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2082999.m3u8
+http://94.154.156.130:8080/sonymax/index.m3u8
 #EXTINF:0,SET Max UK
 #EXTGRP:Bollywood
 http://170.254.18.107/SONYMAX/index.m3u8
