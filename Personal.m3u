@@ -48,7 +48,7 @@ http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2082990.m3u8
 http://170.254.18.107/SONY/index.m3u8
 #EXTINF:0, Star Plus
 #EXTGRP:Drama
-http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2082968.m3u8
+http://94.154.156.130:8080/starplushd/index.m3u8
 #EXTINF:0, Zee TV
 #EXTGRP:Drama
 https://neestreamtv.com/z5/stream.php?id=0-9-zeetvhd&e=m3u8
