@@ -6,7 +6,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6720/index.m3u8
 #EXTINF:0,ARY News 2
 #EXTGRP:NEWS
-https://mhdtvplay.com/aryzap/stream.m3u8?id=arynewsweb
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:7B:BD&stream=281102&extension=ts&play_token=V528VyHRHJ
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8 
@@ -18,7 +18,7 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:7B:BD&stream=1505874&exte
 http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/1925444.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/1925439.m3u8
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:7B:BD&stream=281125&extension=ts&play_token=m6Xd6n7BXK
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6719/index.m3u8
@@ -97,18 +97,18 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:0,YRF Music
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/b4348cc3-aed2-444f-8847-089593be2fcd/0.m3u8
-#EXTINF:0,Zoom
+#EXTINF:0,Zoom US
 #EXTGRP:Music
-https://desktop.harimishra9109.workers.dev/bpk-tv/Zoom_MOB/Fallback/index.m3u8
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:7B:BD&stream=1423443&extension=ts&play_token=a7i7kGjB0M
 #EXTINF:0, Show Box
 #EXTGRP:Music
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
-#EXTINF:0,Dil Se
+#EXTINF:0,Zoom
 #EXTGRP:Music
-https://desktop.harimishra9109.workers.dev/bpk-tv/Dil_Se_MOB/Fallback/index.m3u8
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:7B:BD&stream=945564&extension=ts&play_token=3aEiV5mJKT
 #EXTINF:0,9X Jalwa
 #EXTGRP:Music
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
