@@ -12,13 +12,13 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:7B:BD&stream=281102&exten
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8 
 #EXTINF:0, Green TV
 #EXTGRP:NEWS
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:7B:BD&stream=1505874&extension=ts&play_token=OgUvJAHL8u
+http://lifetvbd.xyz:8080/live/3363696/3363696/4688.m3u8
 #EXTINF:0, Green TV HD
 #EXTGRP:NEWS
 http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/1925444.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:7B:BD&stream=281125&extension=ts&play_token=m6Xd6n7BXK
+http://lifetvbd.xyz:8080/live/3363696/3363696/506.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6719/index.m3u8
@@ -42,13 +42,13 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6727/index.m3u8
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6730/index.m3u8
 #EXTINF:0,Sony Entertainment HD
 #EXTGRP:Drama
-http://94.154.156.130:8080/sonyset/index.m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/2799.m3u8
 #EXTINF:0,Sony UK
 #EXTGRP:Drama
 http://170.254.18.107/SONY/index.m3u8
 #EXTINF:0, Star Plus
 #EXTGRP:Drama
-http://94.154.156.130:8080/starplushd/index.m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/123.m3u8
 #EXTINF:0, Zee TV
 #EXTGRP:Drama
 https://neestreamtv.com/z5/stream.php?id=0-9-zeetvhd&e=m3u8
@@ -57,7 +57,7 @@ https://neestreamtv.com/z5/stream.php?id=0-9-zeetvhd&e=m3u8
 http://170.254.18.107/ZEE/index.m3u8
 #EXTINF:0, Colors HD
 #EXTGRP:Drama
-http://94.154.156.130:8080/colors/index.m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/1504.m3u8
 #EXTINF:0, Colors UK
 #EXTGRP:Drama
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6568/index.m3u8
@@ -90,7 +90,7 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6582/index.m3u8
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:0, MTV Beats
 #EXTGRP:Music
-http://94.154.156.130:8080/mtvbeats/index.m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/110.m3u8
 #EXTINF:0, Music India
 #EXTGRP:Music
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
@@ -132,7 +132,7 @@ https://neestreamtv.com/z5/stream.php?id=0-9-zeeclassic&e=m3u8
 https://neestreamtv.com/z5/stream.php?id=0-9-tvpictureshd&e=m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
-http://94.154.156.130:8080/colorscineplex/index.m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/214.m3u8
 #EXTINF:0,Colors Cineplex USA
 #EXTGRP:Bollywood
 http://170.254.18.107/CINEPLEX/index.m3u8
