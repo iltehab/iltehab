@@ -255,4 +255,4 @@ http://195.181.175.69:2080/349/index.m3u8
 http://api-ott-zee-zb.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=12&partner=distro
 #EXTINF:0, Test
 #EXTGRP: UK
-http://port.denver1769.in/miniProxy.php/https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+https://tsneh.vercel.app/zeecinema.m3u8
