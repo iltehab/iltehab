@@ -46,12 +46,15 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/2799.m3u8
 #EXTINF:0,Sony UK
 #EXTGRP:Drama
 http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458622&extension=ts&play_token=abEjJuH8W5
+#EXTINF:0,Sony USA
+#EXTGRP:Drama
+http://lifetvbd.xyz:8080/live/3363696/3363696/226.m3u8
 #EXTINF:0, Star Plus
 #EXTGRP:Drama
 http://lifetvbd.xyz:8080/live/3363696/3363696/123.m3u8
 #EXTINF:0, Zee TV
 #EXTGRP:Drama
-https://neestreamtv.com/z5/stream.php?id=0-9-zeetvhd&e=m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/996.m3u8
 #EXTINF:0, Zee TV UK
 #EXTGRP:Drama
 http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458632&extension=ts&play_token=OBFRamg63y
@@ -126,13 +129,13 @@ https://neestreamtv.com/z5/stream.php?id=0-9-zeecinema&e=m3u8
 http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
-https://neestreamtv.com/z5/stream.php?id=0-9-zeeaction&e=m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/2.m3u8
 #EXTINF:0, Zee Bollywood
 #EXTGRP:Bollywood
-https://neestreamtv.com/z5/stream.php?id=0-9-zeeclassic&e=m3u8
+http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:0,And Pictures HD 
 #EXTGRP:Bollywood
-https://neestreamtv.com/z5/stream.php?id=0-9-tvpictureshd&e=m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/4.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 http://lifetvbd.xyz:8080/live/3363696/3363696/214.m3u8
@@ -150,7 +153,7 @@ http://port.denver1769.in/miniProxy.php/https://prod-ent-live-gm.jiocinema.com/b
 http://port.denver1769.in/miniProxy.php/https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
 #EXTINF:0,And Xplor
 #EXTGRP:Bollywood
-https://neestreamtv.com/z5/stream.php?id=0-9-209&e=m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/99.m3u8
 #EXTINF:0, Sony Max HD
 #EXTGRP:Bollywood
 http://lifetvbd.xyz:8080/live/3363696/3363696/2800.m3u8
