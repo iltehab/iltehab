@@ -45,7 +45,7 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6730/index.m3u8
 http://lifetvbd.xyz:8080/live/3363696/3363696/2799.m3u8
 #EXTINF:0,Sony UK
 #EXTGRP:Drama
-http://170.254.18.107/SONY/index.m3u8
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458622&extension=ts&play_token=abEjJuH8W5
 #EXTINF:0, Star Plus
 #EXTGRP:Drama
 http://lifetvbd.xyz:8080/live/3363696/3363696/123.m3u8
@@ -153,7 +153,7 @@ https://neestreamtv.com/z5/stream.php?id=0-9-209&e=m3u8
 http://lifetvbd.xyz:8080/live/3363696/3363696/2800.m3u8
 #EXTINF:0,SET Max UK
 #EXTGRP:Bollywood
-http://170.254.18.107/SONYMAX/index.m3u8
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458625&extension=ts&play_token=mKScke3NmS
 #EXTINF:0,Star Gold
 #EXTGRP:Bollywood
 http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2083030.m3u8
@@ -166,9 +166,9 @@ http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2083034.m3u8
 #EXTINF:0,Star Gold Thrills
 #EXTGRP:Bollywood
 http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2083060.m3u8
-#EXTINF:0,Zee Anmol Cinema
+#EXTINF:0,Utsav Gold
 #EXTGRP:Bollywood
-https://neestreamtv.com/z5/stream.php?id=0-9-zeeanmolcinema&e=m3u8
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458627&extension=ts&play_token=0BBcDzo6YJ
 #EXTINF:0,Zee Anmol Cinema 2
 #EXTGRP:Bollywood
 https://neestreamtv.com/z5/stream.php?id=0-9-bigganga&e=m3u8
