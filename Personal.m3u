@@ -225,28 +225,28 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0,Sky News
 #EXTGRP: UK 
-http://195.181.175.69:2080/66/index.m3u8
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458565&extension=ts&play_token=VGHzRHYSE8
 #EXTINF:0, BBC One
 #EXTGRP: UK 
-http://195.181.175.69:5080/311/mpegts
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=229771&extension=ts&play_token=SdPwQiPb7p
 #EXTINF:0, BBC Two
 #EXTGRP: UK 
-http://195.181.175.69:2080/312/index.m3u8
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=812047&extension=ts&play_token=QCmTHQasmK
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
-http://195.181.175.69:2080/313/index.m3u8
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1014302&extension=ts&play_token=ewrFiHn8i0
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-http://195.181.175.69:2080/22/index.m3u8
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458555&extension=ts&play_token=jLGsMBc68k
 #EXTINF:0, Channel 4 HD
 #EXTGRP: UK 
-http://195.181.175.69:2080/314/index.m3u8
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=30555&extension=ts&play_token=9Dd5vZaelk
 #EXTINF:0, Channel 5
 #EXTGRP: UK
 http://195.181.175.69:2080/548/index.m3u8
 #EXTINF:0, E4
 #EXTGRP: UK
-http://195.181.175.69:2080/25/index.m3u8
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=30545&extension=ts&play_token=uOhx6SFJoo
 #EXTINF:0, More4
 #EXTGRP: UK
 http://195.181.175.69:2080/26/index.m3u8
