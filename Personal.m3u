@@ -225,7 +225,7 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0,Sky News
 #EXTGRP: UK 
-http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458565&extension=ts&play_token=VGHzRHYSE8
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:7B:BD&stream=1458565&extension=ts&play_token=MXGLIvNAPs
 #EXTINF:0, BBC One
 #EXTGRP: UK 
 http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=229771&extension=ts&play_token=SdPwQiPb7p
