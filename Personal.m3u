@@ -256,9 +256,9 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:7B:BD&stream=1014314&exte
 #EXTINF:0, BBC THREE
 #EXTGRP: UK
 http://195.181.175.69:2080/349/index.m3u8
-#EXTINF:0, Green test
+#EXTINF:0, Suno TV
 #EXTGRP: UK
-http://api-ott-zee-zb.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=12&partner=distro
+https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8
 #EXTINF:0, Test
 #EXTGRP: UK
 https://tsneh.vercel.app/zeecinema.m3u8
