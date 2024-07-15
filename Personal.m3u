@@ -9,7 +9,10 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6720/index.m3u8
 https://mhdtvplay.com/aryzap/stream.m3u8?id=arynewsweb
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
-https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8 
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:0, Suno TV
+#EXTGRP: NEWS
+https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8
 #EXTINF:0, Green TV
 #EXTGRP:NEWS
 http://lifetvbd.xyz:8080/live/3363696/3363696/4688.m3u8
@@ -256,9 +259,6 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:7B:BD&stream=1014314&exte
 #EXTINF:0, BBC THREE
 #EXTGRP: UK
 http://195.181.175.69:2080/349/index.m3u8
-#EXTINF:0, Suno TV
-#EXTGRP: UK
-https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8
 #EXTINF:0, Test
 #EXTGRP: UK
 https://tsneh.vercel.app/zeecinema.m3u8
