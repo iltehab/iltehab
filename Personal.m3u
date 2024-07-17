@@ -234,28 +234,28 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:7B:BD&stream=1458565&extension=ts&play_token=MXGLIvNAPs
 #EXTINF:0, BBC One
 #EXTGRP: UK 
-http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=229771&extension=ts&play_token=SdPwQiPb7p
+http://links-tv.com:8789/play/live.php?mac=00:1A:79:a2:65:75&stream=275323&extension=ts
 #EXTINF:0, BBC Two
 #EXTGRP: UK 
-http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=30580&extension=ts&play_token=ig5X9ecXz0
+http://links-tv.com:8789/play/live.php?mac=00:1A:79:a2:65:75&stream=275319&extension=ts
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
-http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1014302&extension=ts&play_token=ewrFiHn8i0
+http://links-tv.com:8789/play/live.php?mac=00:1A:79:a2:65:75&stream=117353&extension=ts
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458555&extension=ts&play_token=jLGsMBc68k
+http://links-tv.com:8789/play/live.php?mac=00:1A:79:a2:65:75&stream=117239&extension=ts
 #EXTINF:0, Channel 4 HD
 #EXTGRP: UK 
-http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=30555&extension=ts&play_token=9Dd5vZaelk
+http://links-tv.com:8789/play/live.php?mac=00:1A:79:a2:65:75&stream=117241&extension=ts
 #EXTINF:0, Channel 5
 #EXTGRP: UK
-http://195.181.175.69:2080/548/index.m3u8
+http://links-tv.com:8789/play/live.php?mac=00:1A:79:a2:65:75&stream=117326&extension=ts
 #EXTINF:0, E4
 #EXTGRP: UK
-http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=30545&extension=ts&play_token=uOhx6SFJoo
+http://links-tv.com:8789/play/live.php?mac=00:1A:79:a2:65:75&stream=117226&extension=ts
 #EXTINF:0, More4
 #EXTGRP: UK
-http://195.181.175.69:2080/26/index.m3u8
+http://links-tv.com:8789/play/live.php?mac=00:1A:79:a2:65:75&stream=275685&extension=ts
 #EXTINF:0, E4Xtra
 #EXTGRP: UK
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:7B:BD&stream=1014314&extension=ts&play_token=XcsbgW0q9P
