@@ -16,6 +16,9 @@ https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:0, Suno TV
 #EXTGRP: NEWS
 https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8
+#EXTINF:0, Aik News
+#EXTGRP: NEWS
+https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8
 #EXTINF:0, Green TV
 #EXTGRP:NEWS
 http://lifetvbd.xyz:8080/live/3363696/3363696/4688.m3u8
