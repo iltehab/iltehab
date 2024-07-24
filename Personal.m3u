@@ -265,9 +265,9 @@ http://links-tv.com:8789/play/live.php?mac=00:1A:79:a2:65:75&stream=275685&exten
 #EXTINF:0, E4Xtra
 #EXTGRP: UK
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:7B:BD&stream=1014314&extension=ts&play_token=XcsbgW0q9P
-#EXTINF:0, BBC THREE
+#EXTINF:0, T1
 #EXTGRP: UK
-http://195.181.175.69:2080/349/index.m3u8
+http://103.120.172.74:5100
 #EXTINF:0, Test
 #EXTGRP: UK
 https://tsneh.vercel.app/zeecinema.m3u8
