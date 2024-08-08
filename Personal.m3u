@@ -177,10 +177,10 @@ http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458625&exte
 http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2083030.m3u8
 #EXTINF:0,Star Gold Select
 #EXTGRP:Bollywood
-http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2083031.m3u8
+http://217.20.112.199/stargold/index.m3u8
 #EXTINF:0,Star Gold 2
 #EXTGRP:Bollywood
-http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2083034.m3u8
+http://217.20.112.199/stargold2/index.m3u8
 #EXTINF:0,Star Gold Thrills
 #EXTGRP:Bollywood
 http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2083060.m3u8
