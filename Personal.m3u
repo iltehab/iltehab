@@ -132,7 +132,7 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/1786.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
-http://lifetvbd.xyz:8080/live/3363696/3363696/1.m3u8
+http://116.202.46.40:9023/ZEE_CINEMA_HINDI/index.m3u8
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6642/index.m3u8
@@ -174,7 +174,7 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/2800.m3u8
 http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458625&extension=ts&play_token=mKScke3NmS
 #EXTINF:0,Star Gold
 #EXTGRP:Bollywood
-http://ptv.lol/live/Centra_Live/Gkz2bP7yMA/2083030.m3u8
+http://116.202.46.40:9023/STAR_GOLD_HINDI/index.m3u8
 #EXTINF:0,Star Gold Select
 #EXTGRP:Bollywood
 http://217.20.112.199/stargold/index.m3u8
