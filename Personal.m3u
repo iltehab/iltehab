@@ -7,18 +7,9 @@ http://223.123.40.18:8000/play/a0ub/index.m3u8
 #EXTINF:0,ARY News
 #EXTGRP:NEWS
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6720/index.m3u8
-#EXTINF:0,ARY News 2
-#EXTGRP:NEWS
-https://mhdtvplay.com/aryzap/stream.m3u8?id=arynewsweb
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-#EXTINF:0, Suno TV
-#EXTGRP: NEWS
-https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8
-#EXTINF:0, Aik News
-#EXTGRP: NEWS
-https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8
 #EXTINF:0, Green TV
 #EXTGRP:NEWS
 http://lifetvbd.xyz:8080/live/3363696/3363696/4688.m3u8
@@ -31,9 +22,6 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/506.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6719/index.m3u8
-#EXTINF:0,ARY Digital 2
-#EXTGRP:Drama
-https://mhdtvplay.com/aryzap/stream.m3u8?id=arydigital
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
@@ -43,9 +31,9 @@ https://vodzong.mjunoon.tv:8087/streamtest/TV1-129/playlist.m3u8
 #EXTINF:0,Hum Sitaray
 #EXTGRP:Drama
 https://j7md5mbeyrwv-hls-live.5centscdn.com/hamara/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8
-#EXTINF:0,Aur Life
+#EXTINF:0,Atv HD
 #EXTGRP:Drama
-http://124.109.47.101/hls/stream1.m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/2247.m3u8
 #EXTINF:0, Express 
 #EXTGRP:Drama
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6727/index.m3u8
@@ -88,12 +76,6 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6583/index.m3u8http://mydsat85.c
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 http://103.131.214.129:9985/stream/channelid/903797591?ticket=907385CBC64E2607F1671B2824F2B948E01A6FBB&profile=pass
-#EXTINF:0, B4U Music USA
-#EXTGRP:Music 
-http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1423435&extension=ts&play_token=A6VYU9cj0r
-#EXTINF:0,B4U Music UK 
-#EXTGRP:Music 
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:00:00:04&stream=697709&extension=ts&play_token=XGl6HsueEf
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
@@ -109,9 +91,9 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/3642.m3u8
 #EXTINF:0, MTV Beats
 #EXTGRP:Music
 http://lifetvbd.xyz:8080/live/3363696/3363696/110.m3u8
-#EXTINF:0, Dil Se
+#EXTINF:0, Saga Music
 #EXTGRP:Music
-http://lifetvbd.xyz:8080/live/3363696/3363696/1508.m3u8
+amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 #EXTINF:0,YRF Music
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
