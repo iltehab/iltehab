@@ -148,9 +148,9 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6592/index.m3u8
 #EXTINF:0, Colors Cineplex Superhit
 #EXTGRP:Bollywood
 http://port.denver1769.in/miniProxy.php/https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_RishteyCineplex/JCHLS/index.m3u8
-#EXTINF:0, Colors Cineplex Bollywood 
+#EXTINF:0, Zee Amol Cinema
 #EXTGRP:Bollywood
-http://port.denver1769.in/miniProxy.php/https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/zeeanmolcinema1.m3u8
 #EXTINF:0,And Xplor
 #EXTGRP:Bollywood
 http://lifetvbd.xyz:8080/live/3363696/3363696/99.m3u8
