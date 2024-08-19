@@ -96,7 +96,7 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/3642.m3u8
 http://lifetvbd.xyz:8080/live/3363696/3363696/110.m3u8
 #EXTINF:0, Saga Music
 #EXTGRP:Music
-amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 #EXTINF:0,YRF Music
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
@@ -126,13 +126,13 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6642/index.m3u8
 http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
-http://lifetvbd.xyz:8080/live/3363696/3363696/2.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 #EXTINF:0, Zee Bollywood
 #EXTGRP:Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:0,And Pictures HD 
 #EXTGRP:Bollywood
-http://lifetvbd.xyz:8080/live/3363696/3363696/4.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 http://lifetvbd.xyz:8080/live/3363696/3363696/214.m3u8
