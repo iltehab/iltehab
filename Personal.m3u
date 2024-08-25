@@ -57,13 +57,13 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/226.m3u8
 http://lifetvbd.xyz:8080/live/3363696/3363696/123.m3u8
 #EXTINF:0, Zee TV
 #EXTGRP:Drama
-http://lifetvbd.xyz:8080/live/3363696/3363696/996.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv1/default/zeetv1.m3u8
 #EXTINF:0, Zee TV UK
 #EXTGRP:Drama
 http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458632&extension=ts&play_token=OBFRamg63y
 #EXTINF:0, Colors HD
 #EXTGRP:Drama
-http://lifetvbd.xyz:8080/live/3363696/3363696/1504.m3u8
+http://116.202.46.40:9023/COLORS_HINDI/index.m3u8
 #EXTINF:0, Colors UK
 #EXTGRP:Drama
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6568/index.m3u8
