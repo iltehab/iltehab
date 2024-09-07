@@ -15,7 +15,7 @@ http://filex.tv:8080/wbNER77tKU/KTJLvmobZy/52043?play_token=bQjwjMtpJM
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:0, Green TV
 #EXTGRP:NEWS
-http://103.131.214.129:9985/stream/channelid/2022520510?ticket=4650F97F55F8310B19FCEEBD7B439CA6C4B2CB47&profile=pass
+http://103.131.214.129:9985/stream/channelid/2022520510
 #EXTINF:0, Green TV HD
 #EXTGRP:NEWS
 http://tv.cloudcdn.me:80/live.ts?channelId=393&uid=4246&deviceMac=00:1A:79:99:EC:D3
@@ -159,10 +159,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=183&uid=4246&deviceMac=00:1A:79:99:EC
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6596/index.m3u8
 #EXTINF:0, B4U Movies
 #EXTGRP:Bollywood
-http://103.131.214.129:9985/stream/channelid/743152564?ticket=7C67A73CBD8625AE8319F24D282A088BF0ECF4D0&profile=pass
+http://103.131.214.129:9985/stream/channelid/743152564
 #EXTINF:0,B4U Kadak 
 #EXTGRP:Bollywood
-http://103.131.214.129:9985/stream/channelid/1944604205?ticket=3CC3EB64F6B9FE26FF392734877017449847A268&profile=pass
+http://103.131.214.129:9985/stream/channelid/1944604205
 #EXTINF:0, Bollywood Classic 
 #EXTGRP:Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
