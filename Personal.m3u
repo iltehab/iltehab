@@ -9,7 +9,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=414&uid=4246&deviceMac=00:1A:79:99:EC
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6720/index.m3u8
 #EXTINF:0,ARY News HD
 #EXTGRP:NEWS
-http://103.131.214.129:9985/stream/channelid/1608163760?ticket=FCF061A901C2402F045B3E5513EF2EB6F15F0460&profile=pass
+http://filex.tv:8080/wbNER77tKU/KTJLvmobZy/52043?play_token=bQjwjMtpJM
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
