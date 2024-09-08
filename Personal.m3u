@@ -60,7 +60,7 @@ http://217.20.112.199/zeetvhd/index.m3u8
 http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458632&extension=ts&play_token=OBFRamg63y
 #EXTINF:0, Colors HD
 #EXTGRP:Drama
-http://116.202.46.40:9023/COLORS_HINDI/index.m3u8
+https://fifabangladesh.live/VHOD/go.php?id=Colors_HD_voot_MOB
 #EXTINF:0, Colors UK
 #EXTGRP:Drama
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6568/index.m3u8
@@ -84,7 +84,7 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6582/index.m3u8
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:0, MTV Beats
 #EXTGRP:Music
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
+https://fifabangladesh.live/VHOD/go.php?id=MTV_Beats_HD_voot_MOB
 #EXTINF:0,YRF Music
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
@@ -93,10 +93,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
-http://lifetvbd.xyz:8080/live/3363696/3363696/16.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
 #EXTINF:0,9X Jalwa
 #EXTGRP:Music
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 http://116.202.46.40:9023/ZEE_CINEMA_HINDI/index.m3u8
