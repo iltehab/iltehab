@@ -153,7 +153,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=4246&deviceMac=00:1A:79:99
 http://tv.cloudcdn.me:80/live.ts?channelId=12358&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:0,Sony Max 2
 #EXTGRP:Bollywood
-http://tv.cloudcdn.me:80/live.ts?channelId=183&uid=4246&deviceMac=00:1A:79:99:EC:D3
+http://103.49.69.156:8000/play/a02f/index.m3u8
 #EXTINF:0,Zee Classic
 #EXTGRP:Bollywood
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6596/index.m3u8
