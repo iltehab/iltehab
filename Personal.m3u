@@ -82,9 +82,9 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6582/index.m3u8
 #EXTINF:0, Hindi Hits
 #EXTGRP:Music
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:0, MTV Beats
+#EXTINF:0, Zoom
 #EXTGRP:Music
-https://fifabangladesh.live/VHOD/go.php?id=MTV_Beats_HD_voot_MOB
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:7B:BD&stream=945564&extension=ts&play_token=79vKMJbld8
 #EXTINF:0,YRF Music
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
