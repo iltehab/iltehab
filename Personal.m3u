@@ -3,13 +3,13 @@
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 #EXTINF:0,Geo News HD
 #EXTGRP:NEWS
-http://tv.cloudcdn.me:80/live.ts?channelId=414&uid=4246&deviceMac=00:1A:79:99:EC:D3
+http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
 #EXTINF:0,ARY News
 #EXTGRP:NEWS
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6720/index.m3u8
 #EXTINF:0,ARY News HD
 #EXTGRP:NEWS
-http://103.131.214.129:9985/stream/channelid/1608163760
+http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
