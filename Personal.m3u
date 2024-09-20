@@ -15,7 +15,7 @@ http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:0, Green TV
 #EXTGRP:NEWS
-http://103.131.214.129:9985/stream/channelid/2022520510
+http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8
 #EXTINF:0, Green TV HD
 #EXTGRP:NEWS
 http://tv.cloudcdn.me:80/live.ts?channelId=393&uid=4246&deviceMac=00:1A:79:99:EC:D3
