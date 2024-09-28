@@ -201,7 +201,7 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0,Sky News
 #EXTGRP: UK 
-http://newlife3.wanicelife.com:8880/live/29ca11113n01/adsfer3223/71064.m3u8
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:BC:87:E4&stream=30504&extension=ts&play_token=EsvLBgiEFR
 #EXTINF:0, BBC One
 #EXTGRP: UK 
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
@@ -210,16 +210,16 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_lon
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
-http://doubleclicktv.live/live/70376812/52663544/276747.m3u8
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:BC:87:E4&stream=111553&extension=ts&play_token=2stNInNNc3
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-http://doubleclicktv.live/live/70376812/52663544/276735.m3u8
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:BC:87:E4&stream=30555&extension=ts&play_token=EaetB5kFpF
 #EXTINF:0, Channel 4 HD
 #EXTGRP: UK 
 http://doubleclicktv.live/live/70376812/52663544/276743.m3u8
 #EXTINF:0, Channel 5
 #EXTGRP: UK
-http://doubleclicktv.live/live/70376812/52663544/276739.m3u8
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:BC:87:E4&stream=30554&extension=ts&play_token=4HfNStSeYq
 #EXTINF:0, E4
 #EXTGRP: UK
 http://doubleclicktv.live/live/70376812/52663544/276664.m3u8
