@@ -28,15 +28,15 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6719/index.m3u8
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 http://tv.cloudcdn.me:80/live.ts?channelId=410&uid=4246&deviceMac=00:1A:79:99:EC:D3
-#EXTINF:0,TV One
+#EXTINF:0,Set HD
 #EXTGRP:Drama
-https://vodzong.mjunoon.tv:8087/streamtest/TV1-129/playlist.m3u8
+http://175.107.244.52:4456/play/a06d/index.m3u8
 #EXTINF:0,Bol
 #EXTGRP:Drama
 http://tv.cloudcdn.me:80/live.ts?channelId=396&uid=4246&deviceMac=00:1A:79:99:EC:D3
-#EXTINF:0,Atv HD
+#EXTINF:0,Sab HD
 #EXTGRP:Drama
-http://tv.cloudcdn.me:80/live.ts?channelId=394&uid=4246&deviceMac=00:1A:79:99:EC:D3
+http://175.107.244.52:4456/play/a04f/index.m3u8
 #EXTINF:0, Express 
 #EXTGRP:Drama
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6727/index.m3u8
