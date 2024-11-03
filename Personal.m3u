@@ -60,7 +60,7 @@ http://217.20.112.199/zeetvhd/index.m3u8
 http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458632&extension=ts&play_token=OBFRamg63y
 #EXTINF:0, Colors HD
 #EXTGRP:Drama
-http://watchindia.net:8880/live/65596/46234/801.m3u8
+http://103.205.133.71/colorshd/tracks-v1a1/mono.m3u8
 #EXTINF:0, Colors UK
 #EXTGRP:Drama
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6568/index.m3u8
