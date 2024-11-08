@@ -198,10 +198,10 @@ https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:0, BBC News HD
 #EXTGRP:World News
-https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:0,Sky News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:0,CNN
 #EXTGRP: UK 
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:BC:87:E4&stream=30504&extension=ts&play_token=EsvLBgiEFR
+https://stream1.cinerama.uz/1259/tracks-v1a1/mono.m3u8
 #EXTINF:0, BBC One
 #EXTGRP: UK 
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
