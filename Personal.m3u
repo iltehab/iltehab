@@ -232,3 +232,6 @@ http://doubleclicktv.live/live/70376812/52663544/276661.m3u8
 #EXTINF:0, Test
 #EXTGRP: UK
 http://175.107.244.52:4456/play/a06h/index.m3u8
+#EXTINF:0, PTV Sports
+#EXTGRP: Sports
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
