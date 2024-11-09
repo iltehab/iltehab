@@ -51,16 +51,16 @@ http://217.20.112.199/sethd/index.m3u8
 http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458622&extension=ts&play_token=abEjJuH8W5
 #EXTINF:0, Star Plus
 #EXTGRP:Drama
-http://217.20.112.199/starplushd/index.m3u8
+http://119.156.26.155:8000/play/a06u/index.m3u8
 #EXTINF:0, Zee TV
 #EXTGRP:Drama
-http://217.20.112.199/zeetvhd/index.m3u8
+http://119.156.26.155:8000/play/a06v/index.m3u8
 #EXTINF:0, Zee TV UK
 #EXTGRP:Drama
 http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458632&extension=ts&play_token=OBFRamg63y
 #EXTINF:0, Colors HD
 #EXTGRP:Drama
-http://103.205.133.71/colorshd/tracks-v1a1/mono.m3u8
+http://119.156.26.155:8000/play/a06w/index.m3u8
 #EXTINF:0, Colors UK
 #EXTGRP:Drama
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6568/index.m3u8
@@ -111,7 +111,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=4246&deviceMac=00:1A:79:99:EC
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:0,And Pictures HD 
 #EXTGRP:Bollywood
-http://116.202.46.40:9023/AND_PICTURES_HINDI/index.m3u8
+http://119.156.26.155:8000/play/a07e/index.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=4246&deviceMac=00:1A:79:99:EC:D3
@@ -132,7 +132,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=209&uid=4246&deviceMac=00:1A:79:99:EC
 http://lifetvbd.xyz:8080/live/3363696/3363696/99.m3u8
 #EXTINF:0, Sony Max HD
 #EXTGRP:Bollywood
-http://lifetvbd.xyz:8080/live/3363696/3363696/2800.m3u8
+http://119.156.26.155:8000/play/a06e/index.m3u8
 #EXTINF:0,SET Max UK
 #EXTGRP:Bollywood
 http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458625&extension=ts&play_token=mKScke3NmS
@@ -141,10 +141,10 @@ http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458625&exte
 http://116.202.46.40:9023/STAR_GOLD_HINDI/index.m3u8
 #EXTINF:0,Star Gold Select
 #EXTGRP:Bollywood
-http://217.20.112.199/stargold/index.m3u8
+http://119.156.26.155:8000/play/a07b/index.m3u8
 #EXTINF:0,Star Gold 2
 #EXTGRP:Bollywood
-http://217.20.112.199/stargold2/index.m3u8
+http://119.156.26.155:8000/play/a079/index.m3u8
 #EXTINF:0,Star Gold Romance
 #EXTGRP:Bollywood
 http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=4246&deviceMac=00:1A:79:99:EC:D3
@@ -180,13 +180,13 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF:0, بی بی سی ارتھ
 #EXTGRP: Infotainment
-https://hdipl.live/oz/linear-live.php?id=201&vtoken=&e=.m3u8
+http://119.156.26.155:8000/play/a07c/index.m3u8
 #EXTINF:0, نیشنل جیوگرافک وائلڈ 
 #EXTGRP: Infotainment
-http://124.29.225.205:8000/play/a047/index.m3u8
+http://119.156.26.155:8000/play/a06f/index.m3u8
 #EXTINF:0, نیشنل جیوگرافک  
 #EXTGRP: Infotainment
-http://124.29.225.205:8000/play/a04c/index.m3u8
+http://119.156.26.155:8000/play/a06r/index.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
