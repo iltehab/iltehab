@@ -229,9 +229,9 @@ http://doubleclicktv.live/live/70376812/52663544/276664.m3u8
 #EXTINF:0, E4+
 #EXTGRP: UK
 http://doubleclicktv.live/live/70376812/52663544/276661.m3u8
-#EXTINF:0, Rhymes
+#EXTINF:0, Kids
 #EXTGRP: UK
-1https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
 #EXTINF:0, PTV Sports
 #EXTGRP: Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
