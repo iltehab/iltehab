@@ -61,9 +61,9 @@ http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458632&exte
 #EXTINF:0, Colors HD
 #EXTGRP:Drama
 http://119.156.26.155:8000/play/a06w/index.m3u8
-#EXTINF:0, Colors UK
+#EXTINF:0, Music India
 #EXTGRP:Drama
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6568/index.m3u8
+http://103.156.169.82:8000/play/a00k/index.m3u8
 #EXTINF:0, Pitaara
 #EXTGRP:Drama
 http://212.102.34.8:9080/Pitaara/index.m3u8
@@ -72,7 +72,7 @@ http://212.102.34.8:9080/Pitaara/index.m3u8
 http://103.156.169.82:8000/play/a02s/index.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-http://175.107.244.52:4457/play/a059/index.m3u8
+http://103.156.169.82:8000/play/a02j/index.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
