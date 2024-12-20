@@ -235,3 +235,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:0, PTV Sports
 #EXTGRP: Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+#EXTINF:0, Star Sports 1
+#EXTGRP: Sports
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:0, A Sports
+#EXTGRP: Sports
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
