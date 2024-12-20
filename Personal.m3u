@@ -67,9 +67,9 @@ http://103.156.169.82:8000/play/a00k/index.m3u8
 #EXTINF:0, Pitaara
 #EXTGRP:Drama
 http://212.102.34.8:9080/Pitaara/index.m3u8
-#EXTINF:0, Music Bollywood 
+#EXTINF:0, Zing
 #EXTGRP:Music
-http://103.156.169.82:8000/play/a02s/index.m3u8
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6589/index.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 http://103.156.169.82:8000/play/a02j/index.m3u8
