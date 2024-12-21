@@ -61,18 +61,18 @@ http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458632&exte
 #EXTINF:0, Colors HD
 #EXTGRP:Drama
 http://119.156.26.155:8000/play/a06w/index.m3u8
-#EXTINF:0, Music India
+#EXTINF:0, B4U Music UK
 #EXTGRP:Drama
-http://103.156.169.82:8000/play/a00k/index.m3u8
-#EXTINF:0, Pitaara
+http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/28901.m3u8
+#EXTINF:0, MTV Beats
 #EXTGRP:Drama
-http://212.102.34.8:9080/Pitaara/index.m3u8
+http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/55359.m3u8
 #EXTINF:0, Zing
 #EXTGRP:Music
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6589/index.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-http://103.156.169.82:8000/play/a02j/index.m3u8
+http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/1944.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
@@ -84,7 +84,7 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6582/index.m3u8
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:0, Zoom
 #EXTGRP:Music
-http://109.61.81.147:2080/cdn2/532/video.m3u8?token=4444
+http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/1951.m3u8
 #EXTINF:0,YRF Music
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
