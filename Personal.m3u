@@ -67,12 +67,9 @@ http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/28901.m3u8
 #EXTINF:0, B4U Music US
 #EXTGRP:Drama
 https://cdn-toffee.iptvbd.xyz/live.php?id=b4u_music&e=.m3u8
-#EXTINF:0, Zing
-#EXTGRP:Music
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6589/index.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/1944.m3u8
+https://tamashatv.live/jiotv/jiocloud.php?id=183&e=m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
@@ -97,6 +94,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:0,9X Jalwa
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+#EXTINF:0, Zing
+#EXTGRP:Music
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6589/index.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 https://la.drmlive.au/tp/zee-pictures.m3u8
