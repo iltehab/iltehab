@@ -64,9 +64,9 @@ http://119.156.26.155:8000/play/a06w/index.m3u8
 #EXTINF:0, B4U Music UK
 #EXTGRP:Drama
 http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/28901.m3u8
-#EXTINF:0, MTV Beats
+#EXTINF:0, B4U Music US
 #EXTGRP:Drama
-http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/55359.m3u8
+https://cdn-toffee.iptvbd.xyz/live.php?id=b4u_music&e=.m3u8
 #EXTINF:0, Zing
 #EXTGRP:Music
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6589/index.m3u8
@@ -178,21 +178,21 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
-#EXTINF:0, بی بی سی ارتھ
+#EXTINF:0, BBC Earth
 #EXTGRP: Infotainment
-http://119.156.26.155:8000/play/a07c/index.m3u8
-#EXTINF:0, نیشنل جیوگرافک وائلڈ 
+http://pizztv.xyz:8000/live/FREETV/FREETV/366.m3u8
+#EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
-http://119.156.26.155:8000/play/a06f/index.m3u8
-#EXTINF:0, نیشنل جیوگرافک  
+http://pizztv.xyz:8000/live/FREETV/FREETV/426.m3u8
+#EXTINF:0, Love Nature
 #EXTGRP: Infotainment
-http://119.156.26.155:8000/play/a06r/index.m3u8
+http://pizztv.xyz:8000/live/FREETV/FREETV/557.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
-https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-#EXTINF:0, ڈسکوری سائنس
+http://pizztv.xyz:8000/live/FREETV/FREETV/528.m3u8
+#EXTINF:0, Discovery Science
 #EXTGRP: Infotainment
-https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+http://pizztv.xyz:8000/live/FREETV/FREETV/1103.m3u8
 #EXTINF:0, Al-Jazeera
 #EXTGRP:World News
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
@@ -213,10 +213,10 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_lon
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:BC:87:E4&stream=111553&extension=ts&play_token=2stNInNNc3
+http://pizztv.xyz:8000/live/FREETV/FREETV/381.m3u8
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/2905.m3u8
+http://pizztv.xyz:8000/live/FREETV/FREETV/242.m3u8
 #EXTINF:0, Channel 4 HD
 #EXTGRP: UK 
 http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/2932.m3u8
@@ -229,9 +229,9 @@ http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/2918.m3u8
 #EXTINF:0, More4
 #EXTGRP: UK
 http://doubleclicktv.live/live/70376812/52663544/276664.m3u8
-#EXTINF:0, E4+
+#EXTINF:0, TLC
 #EXTGRP: UK
-http://doubleclicktv.live/live/70376812/52663544/276661.m3u8
+http://pizztv.xyz:8000/live/FREETV/FREETV/529.m3u8
 #EXTINF:0, Kids
 #EXTGRP: UK
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
