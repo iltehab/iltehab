@@ -30,7 +30,7 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6719/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=410&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:0,Set HD
 #EXTGRP:Drama
-http://175.107.244.52:4456/play/a06d/index.m3u8
+http://170.254.18.107/SONY/index.m3u8
 #EXTINF:0,Bol
 #EXTGRP:Drama
 http://tv.cloudcdn.me:80/live.ts?channelId=396&uid=4246&deviceMac=00:1A:79:99:EC:D3
@@ -99,13 +99,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
-https://tsneh.vercel.app/zeecinema.m3u8
+https://la.drmlive.au/tp/zee-pictures.m3u8
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6642/index.m3u8
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
-http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=4246&deviceMac=00:1A:79:99:EC:D3
+https://la.drmlive.au/tp/zee-zeeaction.m3u8
 #EXTINF:0, Zee Bollywood
 #EXTGRP:Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
@@ -132,7 +132,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=209&uid=4246&deviceMac=00:1A:79:99:EC
 http://lifetvbd.xyz:8080/live/3363696/3363696/99.m3u8
 #EXTINF:0, Sony Max HD
 #EXTGRP:Bollywood
-http://119.156.26.155:8000/play/a06e/index.m3u8
+http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
 #EXTINF:0,SET Max UK
 #EXTGRP:Bollywood
 http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458625&extension=ts&play_token=mKScke3NmS
