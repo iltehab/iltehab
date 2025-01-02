@@ -60,7 +60,7 @@ http://119.156.26.155:8000/play/a06v/index.m3u8
 http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458632&extension=ts&play_token=OBFRamg63y
 #EXTINF:0, Colors HD
 #EXTGRP:Drama
-http://119.156.26.155:8000/play/a06w/index.m3u8
+http://103.156.169.82:8000/play/a02s/index.m3u8
 #EXTINF:0, B4U Music UK
 #EXTGRP:Drama
 http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/28901.m3u8
