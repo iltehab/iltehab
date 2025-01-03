@@ -6,7 +6,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5
 http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
 #EXTINF:0,ARY News
 #EXTGRP:NEWS
-https://nowlivetv.com/aryzap/stream.m3u8?id=arynewsweb
+https://nowlivetv.com/aryzap/stream.m3u8?id=arynewsweb|Referer=https://nowlivetv.com//&key=BDStreamHub
 #EXTINF:0,ARY News HD
 #EXTGRP:NEWS
 http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
@@ -21,10 +21,10 @@ http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=393&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-https://nowlivetv.com/aryzap/stream.m3u8?id=arydigital|Referer=https://nowlivetv.com//&key=BDStreamHub
+g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6719/index.m3u8
+https://nowlivetv.com/aryzap/stream.m3u8?id=arydigital|Referer=https://nowlivetv.com//&key=BDStreamHub
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
