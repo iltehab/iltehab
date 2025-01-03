@@ -144,19 +144,19 @@ http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
 http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458625&extension=ts&play_token=mKScke3NmS
 #EXTINF:0,Star Gold
 #EXTGRP:Bollywood
-http://116.202.46.40:9023/STAR_GOLD_HINDI/index.m3u8
-#EXTINF:0,Star Gold Select
-#EXTGRP:Bollywood
-http://119.156.26.155:8000/play/a07b/index.m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=155969&extension=ts&play_token=Q2w1lYdGdo
 #EXTINF:0,Star Gold 2
 #EXTGRP:Bollywood
-http://119.156.26.155:8000/play/a079/index.m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=1112132&extension=ts&play_token=9GFk3GAHp1
 #EXTINF:0,Star Gold Romance
 #EXTGRP:Bollywood
-http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=4246&deviceMac=00:1A:79:99:EC:D3
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=156033&extension=ts&play_token=aq849o0tjx
+#EXTINF:0,Star Gold Select
+#EXTGRP:Bollywood
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=155970&extension=ts&play_token=6zhXIKAavO
 #EXTINF:0,Utsav Gold
 #EXTGRP:Bollywood
-http://tv.cloudcdn.me:80/live.ts?channelId=12358&uid=4246&deviceMac=00:1A:79:99:EC:D3
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=1458627&extension=ts&play_token=AEnwLVKgye
 #EXTINF:0,Sony Max 2
 #EXTGRP:Bollywood
 https://tamashatv.live/jiotv/jiocloud.php?id=483&e=m3u8
