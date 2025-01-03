@@ -219,19 +219,19 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_lon
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=79725&extension=ts&play_token=cNgKF54MRf
+http://tv.cloudcdn.me:80/live.ts?channelId=4228&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=111555&extension=ts&play_token=qSmUCs1ROv
+http://tv.cloudcdn.me:80/live.ts?channelId=4229&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0, Channel 4 HD
 #EXTGRP: UK 
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=30555&extension=ts&play_token=wg0Mp5haYA
+http://tv.cloudcdn.me:80/live.ts?channelId=4218&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0, Channel 5
 #EXTGRP: UK
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=30554&extension=ts&play_token=Lt7nTX6CNn
+http://tv.cloudcdn.me:80/live.ts?channelId=4219&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0, E4
 #EXTGRP: UK
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=30545&extension=ts&play_token=ILLL39eZBE
+http://tv.cloudcdn.me:80/live.ts?channelId=4207&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0, E4xtra
 #EXTGRP: UK
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=1014314&extension=ts&play_token=aYR5r3fSGt
