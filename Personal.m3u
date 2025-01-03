@@ -240,7 +240,7 @@ http://doubleclicktv.live/live/70376812/52663544/276664.m3u8
 http://pizztv.xyz:8000/live/FREETV/FREETV/529.m3u8
 #EXTINF:0, Kids
 #EXTGRP: UK
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=157164&extension=ts&play_token=mRf9ttNQFM
 #EXTINF:0, PTV Sports
 #EXTGRP: Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
