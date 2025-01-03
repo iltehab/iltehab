@@ -21,7 +21,7 @@ http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=393&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
 https://nowlivetv.com/aryzap/stream.m3u8?id=arydigital|Referer=https://nowlivetv.com//&key=BDStreamHub
