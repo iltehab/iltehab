@@ -4,9 +4,9 @@ https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5
 #EXTINF:0,Geo News HD
 #EXTGRP:NEWS
 http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
-#EXTINF:0,ARY News
+#EXTINF:0,ARY News zap
 #EXTGRP:NEWS
-https://nowlivetv.com/aryzap/stream.m3u8?id=arynewsweb|Referer=https://nowlivetv.com//&key=BDStreamHub
+https://nowlivetv.com/aryzap/stream.m3u8?id=arynewsweb|Referer=https://nowlivetv.com//&key=BDStreamHub&e=m3u8
 #EXTINF:0,ARY News HD
 #EXTGRP:NEWS
 http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
