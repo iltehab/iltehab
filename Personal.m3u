@@ -51,15 +51,15 @@ http://217.20.112.199/sethd/index.m3u8
 http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458622&extension=ts&play_token=abEjJuH8W5
 #EXTINF:0, Star Plus
 #EXTGRP:Drama
-http://119.156.26.155:8000/play/a06u/index.m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=155971&extension=ts&play_token=lOkgQh4C41
 #EXTINF:0, Zee TV
 #EXTGRP:Drama
 http://119.156.26.155:8000/play/a06v/index.m3u8
-#EXTINF:0, Zee TV UK
-#EXTGRP:Drama
-http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458632&extension=ts&play_token=OBFRamg63y
 #EXTINF:0, Colors HD
 #EXTGRP:Drama
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=156172&extension=ts&play_token=0LhBwUe55w
+#EXTINF:0, Music Bollywood
+#EXTGRP:Music
 http://103.156.169.82:8000/play/a02s/index.m3u8
 #EXTINF:0, B4U Music UK
 #EXTGRP:Drama
@@ -183,16 +183,16 @@ http://103.131.214.129:9985/stream/channelid/687452415?ticket=745F149C11835A0E71
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:0, Discovery HD
 #EXTGRP: Infotainment
-https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=280754&extension=ts&play_token=E42wks3Ytj
 #EXTINF:0, BBC Earth
 #EXTGRP: Infotainment
-http://pizztv.xyz:8000/live/FREETV/FREETV/366.m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=1118064&extension=ts&play_token=daXicFMNDO
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
-http://pizztv.xyz:8000/live/FREETV/FREETV/426.m3u8
-#EXTINF:0, Love Nature
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=155989&extension=ts&play_token=RkOYhlJRZP
+#EXTINF:0, National Geographic
 #EXTGRP: Infotainment
-http://pizztv.xyz:8000/live/FREETV/FREETV/557.m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=156011&extension=ts&play_token=gepUWBfihV
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
 https://tamashatv.live/jiotv/jiocloud.php?id=566&e=m3u8
@@ -219,25 +219,25 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_lon
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
-http://pizztv.xyz:8000/live/FREETV/FREETV/381.m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=79725&extension=ts&play_token=cNgKF54MRf
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-http://pizztv.xyz:8000/live/FREETV/FREETV/242.m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=111555&extension=ts&play_token=qSmUCs1ROv
 #EXTINF:0, Channel 4 HD
 #EXTGRP: UK 
-http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/2932.m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=30555&extension=ts&play_token=wg0Mp5haYA
 #EXTINF:0, Channel 5
 #EXTGRP: UK
-http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/2931.m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=30554&extension=ts&play_token=Lt7nTX6CNn
 #EXTINF:0, E4
 #EXTGRP: UK
-http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/2918.m3u8
-#EXTINF:0, More4
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=30545&extension=ts&play_token=ILLL39eZBE
+#EXTINF:0, E4xtra
 #EXTGRP: UK
-http://doubleclicktv.live/live/70376812/52663544/276664.m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=1014314&extension=ts&play_token=aYR5r3fSGt
 #EXTINF:0, TLC
 #EXTGRP: UK
-http://pizztv.xyz:8000/live/FREETV/FREETV/529.m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=1540025&extension=ts&play_token=S4U3fNaIal
 #EXTINF:0, Kids
 #EXTGRP: UK
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=157164&extension=ts&play_token=mRf9ttNQFM
