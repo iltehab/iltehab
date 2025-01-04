@@ -28,9 +28,6 @@ http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/28901.m3u8
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:0,Set HD
-#EXTGRP:Drama
-http://170.254.18.107/SONY/index.m3u8
 #EXTINF:0,Bol
 #EXTGRP:Drama
 http://tv.cloudcdn.me:80/live.ts?channelId=396&uid=4246&deviceMac=00:1A:79:99:EC:D3
@@ -45,6 +42,12 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6727/index.m3u8
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6730/index.m3u8
 #EXTINF:0,Sony Entertainment HD
 #EXTGRP:Drama
+https://baskardo.vip/IN_STVS/index.m3u8
+#EXTINF:0,Set HD
+#EXTGRP:Drama
+http://170.254.18.107/SONY/index.m3u8
+#EXTINF:0,Set UK
+#EXTGRP:Drama
 http://217.20.112.199/sethd/index.m3u8
 #EXTINF:0,Sony UK
 #EXTGRP:Drama
@@ -54,10 +57,10 @@ http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458622&exte
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=155971&extension=ts&play_token=lOkgQh4C41
 #EXTINF:0, Zee TV
 #EXTGRP:Drama
-http://119.156.26.155:8000/play/a06v/index.m3u8
+https://baskardo.vip/IS_ZE/index.m3u8
 #EXTINF:0, Colors HD
 #EXTGRP:Drama
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=156172&extension=ts&play_token=0LhBwUe55w
+https://baskardo.vip/IN_STS/index.m3u8
 #EXTINF:0, Music Bollywood
 #EXTGRP:Music
 http://103.156.169.82:8000/play/a02s/index.m3u8
@@ -144,7 +147,7 @@ http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
 http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458625&extension=ts&play_token=mKScke3NmS
 #EXTINF:0,Star Gold
 #EXTGRP:Bollywood
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=155969&extension=ts&play_token=Q2w1lYdGdo
+https://baskardo.vip/IN_STGOLD/index.m3u8
 #EXTINF:0,Star Gold 2
 #EXTGRP:Bollywood
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=1112132&extension=ts&play_token=9GFk3GAHp1
