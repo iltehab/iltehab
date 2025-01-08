@@ -238,9 +238,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=4207&uid=4898&deviceMac=00:1A:79:4D:0
 #EXTINF:0, E4xtra
 #EXTGRP: UK
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=1014314&extension=ts&play_token=aYR5r3fSGt
-#EXTINF:0, TLC
+#EXTINF:0, Test
 #EXTGRP: UK
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=1540025&extension=ts&play_token=S4U3fNaIal
+https://live5.shoq.com.pk/live/eds/HUM_TV/DASH/HUM_TV.mpd
 #EXTINF:0, Kids
 #EXTGRP: UK
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=157164&extension=ts&play_token=mRf9ttNQFM
