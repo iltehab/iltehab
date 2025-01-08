@@ -243,7 +243,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=1014314&e
 https://live5.shoq.com.pk/live/eds/HUM_TV/DASH/HUM_TV.mpd
 #EXTINF:0, Kids
 #EXTGRP: UK
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=157164&extension=ts&play_token=mRf9ttNQFM
+https://live2.shoq.com.pk/live/eds/HUM_TV/DASH/HUM_TV.mpd
 #EXTINF:0, PTV Sports
 #EXTGRP: Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
