@@ -24,7 +24,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=393&uid=4246&deviceMac=00:1A:79:99:EC
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
-http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/28901.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=382&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
@@ -33,13 +33,13 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 http://tv.cloudcdn.me:80/live.ts?channelId=396&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:0,Sab HD
 #EXTGRP:Drama
-http://175.107.244.52:4456/play/a04f/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=123276&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0, Express 
 #EXTGRP:Drama
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6727/index.m3u8
-#EXTINF:0,Hum Europe
+#EXTINF:0,World
 #EXTGRP:Drama
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6730/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=424&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0,Sony Entertainment HD
 #EXTGRP:Drama
 https://baskardo.vip/IN_STVS/index.m3u8
