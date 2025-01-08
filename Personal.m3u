@@ -36,7 +36,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=396&uid=4246&deviceMac=00:1A:79:99:EC
 http://tv.cloudcdn.me:80/live.ts?channelId=123276&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0, Express 
 #EXTGRP:Drama
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6727/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=407&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0,World
 #EXTGRP:Drama
 http://tv.cloudcdn.me:80/live.ts?channelId=424&uid=4898&deviceMac=00:1A:79:4D:0B:67
@@ -198,7 +198,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=155989&ex
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=156011&extension=ts&play_token=gepUWBfihV
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
-https://tamashatv.live/jiotv/jiocloud.php?id=566&e=m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=151&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0, Discovery Science
 #EXTGRP: Infotainment
 https://tamashatv.live/jiotv/jiocloud.php?id=568&e=m3u8
