@@ -12,7 +12,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 http://92.114.85.72:8000/play/a0hu
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
-http://92.114.85.72:8000/play/a0ag
+http://tv.cloudcdn.me:80/live.ts?channelId=414&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0,Geo News HD
 #EXTGRP:NEWS
 http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
@@ -21,7 +21,7 @@ http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
 http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/31725.m3u8
 #EXTINF:0,ARY News HD
 #EXTGRP:NEWS
-http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=386&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
@@ -40,16 +40,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=382&uid=4898&deviceMac=00:1A:79:4D:0B
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:0,Bol
-#EXTGRP:Drama
-http://tv.cloudcdn.me:80/live.ts?channelId=396&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:0,Sab HD
 #EXTGRP:Drama
 http://tv.cloudcdn.me:80/live.ts?channelId=123276&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0, Express 
 #EXTGRP:Drama
 http://tv.cloudcdn.me:80/live.ts?channelId=407&uid=4898&deviceMac=00:1A:79:4D:0B:67
-#EXTINF:0,World
+#EXTINF:0,Hum World
 #EXTGRP:Drama
 http://tv.cloudcdn.me:80/live.ts?channelId=424&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0,Sony Entertainment HD
