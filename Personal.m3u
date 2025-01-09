@@ -123,7 +123,7 @@ https://tamashatv.live/jiotv/jiocloud.php?id=2065&e=m3u8
 https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6642/index.m3u8
+http://92.114.85.72:8000/play/a0kf
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
 https://la.drmlive.au/tp/zee-zeeaction.m3u8
@@ -171,7 +171,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=156033&ex
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=155970&extension=ts&play_token=6zhXIKAavO
 #EXTINF:0,Utsav Gold
 #EXTGRP:Bollywood
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=1458627&extension=ts&play_token=AEnwLVKgye
+http://92.114.85.72:8000/play/a0af
 #EXTINF:0,Sony Max 2
 #EXTGRP:Bollywood
 https://tamashatv.live/jiotv/jiocloud.php?id=483&e=m3u8
@@ -237,7 +237,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=4219&uid=4898&deviceMac=00:1A:79:4D:0
 http://tv.cloudcdn.me:80/live.ts?channelId=4207&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0, E4xtra
 #EXTGRP: UK
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=1014314&extension=ts&play_token=aYR5r3fSGt
+http://92.114.85.72:8000/play/a0n4
 #EXTINF:0, Test
 #EXTGRP: UK
 https://live5.shoq.com.pk/live/eds/HUM_TV/DASH/HUM_TV.mpd
