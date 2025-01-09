@@ -141,7 +141,7 @@ https://tamashatv.live/jiotv/jiocloud.php?id=1477&e=m3u8
 https://tamashatv.live/jiotv/jiocloud.php?id=1763&e=m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6592/index.m3u8
+http://92.114.85.72:8000/play/a06v
 #EXTINF:0, Colors Cineplex Superhit
 #EXTGRP:Bollywood
 https://tamashatv.live/jiotv/jiocloud.php?id=1450&e=m3u8
@@ -203,8 +203,13 @@ http://92.114.85.72:8000/play/a0hs
 #EXTGRP: Infotainment
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=1118064&extension=ts&play_token=daXicFMNDO
 #EXTINF:0, Nat Geo Wild
+#EXTINF:0, E4
+#EXTGRP: UK
+http://92.114.85.72:8000/play/a07n
 #EXTGRP: Infotainment
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=155989&extension=ts&play_token=RkOYhlJRZP
+#EXTINF:0, E4
+#EXTGRP: UK
+http://92.114.85.72:8000/play/a0h1
 #EXTINF:0, National Geographic
 #EXTGRP: Infotainment
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=156011&extension=ts&play_token=gepUWBfihV
@@ -232,6 +237,9 @@ http://92.114.85.72:8000/play/a023
 #EXTINF:0, Channel 5
 #EXTGRP: UK
 http://92.114.85.72:8000/play/a085
+#EXTINF:0, Comedy Central
+#EXTGRP: UK
+http://92.114.85.72:8000/play/a0a1
 #EXTINF:0, E4
 #EXTGRP: UK
 http://92.114.85.72:8000/play/a07n
@@ -241,9 +249,9 @@ http://92.114.85.72:8000/play/a0n4
 #EXTINF:0, E4+
 #EXTGRP: UK
 http://92.114.85.72:8000/play/a0mz
-#EXTINF:0, Sky Max
+#EXTINF:0, 5 Select
 #EXTGRP: UK
-http://92.114.85.72:8000/play/a0hq
+http://92.114.85.72:8000/play/a082
 #EXTINF:0, PTV Sports
 #EXTGRP: Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
