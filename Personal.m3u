@@ -196,9 +196,9 @@ http://103.131.214.129:9985/stream/channelid/687452415?ticket=745F149C11835A0E71
 #EXTINF:0,Shemaroo Bollywood
 #EXTGRP:Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:0, Discovery HD
+#EXTINF:0, Sky Nature
 #EXTGRP: Infotainment
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=280754&extension=ts&play_token=E42wks3Ytj
+http://92.114.85.72:8000/play/a0hs
 #EXTINF:0, BBC Earth
 #EXTGRP: Infotainment
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=1118064&extension=ts&play_token=daXicFMNDO
@@ -222,10 +222,10 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_lon
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
-http://tv.cloudcdn.me:80/live.ts?channelId=4228&uid=4898&deviceMac=00:1A:79:4D:0B:67
+http://92.114.85.72:8000/play/a0o2
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-http://tv.cloudcdn.me:80/live.ts?channelId=4229&uid=4898&deviceMac=00:1A:79:4D:0B:67
+http://92.114.85.72:8000/play/a0nz
 #EXTINF:0, Channel 4 HD
 #EXTGRP: UK 
 http://92.114.85.72:8000/play/a023
@@ -238,12 +238,12 @@ http://92.114.85.72:8000/play/a07n
 #EXTINF:0, E4xtra
 #EXTGRP: UK
 http://92.114.85.72:8000/play/a0n4
-#EXTINF:0, Test
+#EXTINF:0, E4+
 #EXTGRP: UK
-https://live5.shoq.com.pk/live/eds/HUM_TV/DASH/HUM_TV.mpd
-#EXTINF:0, Kids
+http://92.114.85.72:8000/play/a0mz
+#EXTINF:0, Sky Max
 #EXTGRP: UK
-https://live5.shoq.com.pk/live/eds/HUM_TV/DASH/HUM_TV.mpd
+http://92.114.85.72:8000/play/a0hq
 #EXTINF:0, PTV Sports
 #EXTGRP: Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
