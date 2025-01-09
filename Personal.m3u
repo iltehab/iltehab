@@ -81,7 +81,7 @@ http://103.156.169.82:8000/play/a02s/index.m3u8
 http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/28901.m3u8
 #EXTINF:0, B4U Music US
 #EXTGRP:Drama
-https://cdn-toffee.iptvbd.xyz/live.php?id=b4u_music&e=.m3u8
+http://92.114.85.72:8000/play/a0ag
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 https://tamashatv.live/jiotv/jiocloud.php?id=183&e=m3u8
@@ -228,13 +228,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=4228&uid=4898&deviceMac=00:1A:79:4D:0
 http://tv.cloudcdn.me:80/live.ts?channelId=4229&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0, Channel 4 HD
 #EXTGRP: UK 
-http://tv.cloudcdn.me:80/live.ts?channelId=4218&uid=4898&deviceMac=00:1A:79:4D:0B:67
+http://92.114.85.72:8000/play/a023
 #EXTINF:0, Channel 5
 #EXTGRP: UK
-http://tv.cloudcdn.me:80/live.ts?channelId=4219&uid=4898&deviceMac=00:1A:79:4D:0B:67
+http://92.114.85.72:8000/play/a085
 #EXTINF:0, E4
 #EXTGRP: UK
-http://tv.cloudcdn.me:80/live.ts?channelId=4207&uid=4898&deviceMac=00:1A:79:4D:0B:67
+http://92.114.85.72:8000/play/a07n
 #EXTINF:0, E4xtra
 #EXTGRP: UK
 http://92.114.85.72:8000/play/a0n4
