@@ -73,10 +73,10 @@ https://baskardo.vip/IN_STS/index.m3u8
 #EXTINF:0, Music Bollywood
 #EXTGRP:Music
 http://103.156.169.82:8000/play/a02s/index.m3u8
-#EXTINF:0, B4U Music UK
+#EXTINF:0, ABC Music
 #EXTGRP:Drama
-http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/28901.m3u8
-#EXTINF:0, B4U Music US
+http://103.156.169.82:8000/play/a007/index.m3u8
+#EXTINF:0, B4U Music UK
 #EXTGRP:Drama
 http://92.114.85.72:8000/play/a0ag
 #EXTINF:0,B4U Music
