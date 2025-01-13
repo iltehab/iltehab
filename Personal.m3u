@@ -70,12 +70,9 @@ https://baskardo.vip/IS_ZE/index.m3u8
 #EXTINF:0, Colors HD
 #EXTGRP:Drama
 https://baskardo.vip/IN_STS/index.m3u8
-#EXTINF:0, Music Bollywood
-#EXTGRP:Music
-http://103.156.169.82:8000/play/a02s/index.m3u8
 #EXTINF:0, Test
 #EXTGRP:Drama
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 #EXTINF:0, B4U Music UK
 #EXTGRP:Drama
 http://92.114.85.72:8000/play/a0ag
