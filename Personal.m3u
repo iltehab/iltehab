@@ -73,9 +73,9 @@ https://baskardo.vip/IN_STS/index.m3u8
 #EXTINF:0, Music Bollywood
 #EXTGRP:Music
 http://103.156.169.82:8000/play/a02s/index.m3u8
-#EXTINF:0, ABC Music
+#EXTINF:0, Test
 #EXTGRP:Drama
-http://103.156.169.82:8000/play/a007/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.m3u8
 #EXTINF:0, B4U Music UK
 #EXTGRP:Drama
 http://92.114.85.72:8000/play/a0ag
@@ -93,7 +93,7 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6582/index.m3u8
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:0, Zoom
 #EXTGRP:Music
-https://tamashatv.live/jiotv/jiocloud.php?id=592&e=m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/e1435b07-2b74-4171-b5b3-8a5f2592dc3a/0.m3u8
 #EXTINF:0,YRF Music
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
