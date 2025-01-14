@@ -114,22 +114,22 @@ http://92.114.85.72:8000/play/a0oc
 https://tamashatv.live/jiotv/jiocloud.php?id=2065&e=m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
-https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/Zeecinemahd.m3u8
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
 http://92.114.85.72:8000/play/a0kf
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
-https://la.drmlive.au/tp/zee-zeeaction.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/Zeeaction.m3u8
 #EXTINF:0, Zee Bollywood
 #EXTGRP:Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:0,And Pictures HD 
 #EXTGRP:Bollywood
-https://la.drmlive.au/tp/zee-tvpictureshd.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/Andpictureshd.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
-https://tamashatv.live/jiotv/jiocloud.php?id=1477&e=m3u8
+http://192.168.1.6:8080/live.php?id=1477&key=JITENDRAUNATTI&e=.m3u8
 #EXTINF:0,Colors Cineplex Bollywood
 #EXTGRP:Bollywood
 https://tamashatv.live/jiotv/jiocloud.php?id=1763&e=m3u8
@@ -180,7 +180,7 @@ http://103.131.214.129:9985/stream/channelid/743152564
 http://103.131.214.129:9985/stream/channelid/1944604205
 #EXTINF:0, Bollywood Classic 
 #EXTGRP:Bollywood
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/Zeebollywood.m3u8
 #EXTINF:0, Bollywood HD
 #EXTGRP:Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
