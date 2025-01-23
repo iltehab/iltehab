@@ -90,13 +90,13 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6582/index.m3u8
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:0, Zoom
 #EXTGRP:Music
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/e1435b07-2b74-4171-b5b3-8a5f2592dc3a/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 #EXTINF:0,YRF Music
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
-#EXTINF:0, Show Box
+#EXTINF:0, E24
 #EXTGRP:Music
-https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_1824k.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
@@ -108,10 +108,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://tamashatv.live/jiotv/jiocloud.php?id=753&e=m3u8
 #EXTINF:0, Music India
 #EXTGRP:Music
-http://92.114.85.72:8000/play/a0oc
-#EXTINF:0, Saregama
+https://cdn-2.pishow.tv/live/226/226_1.m3u8
+#EXTINF:0, Music India UK
 #EXTGRP:Music
-https://tamashatv.live/jiotv/jiocloud.php?id=2065&e=m3u8
+http://92.114.85.72:8000/play/a0oc
+#EXTINF:0, iLove
+#EXTGRP:Music
+https://cdn-2.pishow.tv/live/238/238_1.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/Zeecinemahd.m3u8
