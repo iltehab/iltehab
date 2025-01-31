@@ -63,7 +63,7 @@ http://217.20.112.199/sethd/index.m3u8
 http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458622&extension=ts&play_token=abEjJuH8W5
 #EXTINF:0, Star Plus
 #EXTGRP:Drama
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=155971&extension=ts&play_token=lOkgQh4C41
+http://45.148.145.57/IN_STARPLUHD/tracks-v1a1/mono.m3u8
 #EXTINF:0, Zee TV
 #EXTGRP:Drama
 https://baskardo.vip/IS_ZE/index.m3u8
@@ -198,7 +198,7 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 http://92.114.85.72:8000/play/a0hs
 #EXTINF:0, BBC Earth
 #EXTGRP: Infotainment
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=1118064&extension=ts&play_token=daXicFMNDO
+http://45.148.145.57/IN_SONYBBCHD/index.m3u8
 #EXTINF:0, Nat Geo Wild
 #EXTINF:0, E4
 #EXTGRP: UK
