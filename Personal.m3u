@@ -199,20 +199,19 @@ http://92.114.85.72:8000/play/a0hs
 #EXTINF:0, BBC Earth
 #EXTGRP: Infotainment
 http://45.148.145.57/IN_SONYBBCHD/index.m3u8
-#EXTINF:0, Nat Geo Wild
-#EXTINF:0, E4
-#EXTGRP: UK
-http://92.114.85.72:8000/play/a07n
+#EXTINF:0, Discovery
 #EXTGRP: Infotainment
-#EXTINF:0, E4
-#EXTGRP: UK
-http://92.114.85.72:8000/play/a0h1
+http://45.148.145.57/IN_DiscoveryFhd/index.m3u8
+#EXTGRP: Infotainment
+#EXTINF:0, TLC
+#EXTGRP: Infotainment
+http://45.148.145.57/IND_TLCHIND/index.m3u8
 #EXTINF:0, National Geographic
 #EXTGRP: Infotainment
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=156011&extension=ts&play_token=gepUWBfihV
+http://45.148.145.57/IND_NationalGeoHD/index.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
-http://tv.cloudcdn.me:80/live.ts?channelId=151&uid=4898&deviceMac=00:1A:79:4D:0B:67
+http://45.148.145.57/IN_ANIMALHD/index.m3u8
 #EXTINF:0, Discovery Science
 #EXTGRP: Infotainment
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/Investigationdiscovery2.m3u8
