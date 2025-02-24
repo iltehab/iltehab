@@ -70,11 +70,11 @@ https://baskardo.vip/IS_ZE/index.m3u8
 #EXTINF:0, Colors HD
 #EXTGRP:Drama
 https://baskardo.vip/IN_STS/index.m3u8
-#EXTINF:0, Test
-#EXTGRP:Drama
-https://stream01.vnet.am/AnimalPlanet/index.m3u8
+#EXTINF:0, Bindass
+#EXTGRP:Music
+http://119.152.240.15:8001/play/a0bb/index.m3u8
 #EXTINF:0, B4U Music UK
-#EXTGRP:Drama
+#EXTGRP:Music
 http://92.114.85.72:8000/play/a0ag
 #EXTINF:0,B4U Music
 #EXTGRP:Music
