@@ -105,7 +105,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 #EXTINF:0, MTV Beats
 #EXTGRP:Music
-https://tamashatv.live/jiotv/jiocloud.php?id=753&e=m3u8
+http://119.152.240.15:8001/play/a02j/index.m3u8
 #EXTINF:0, Music India
 #EXTGRP:Music
 https://cdn-2.pishow.tv/live/226/master.m3u8
@@ -212,9 +212,9 @@ http://45.148.145.57/IND_NationalGeoHD/index.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
 http://45.148.145.57/IN_ANIMALHD/index.m3u8
-#EXTINF:0, Discovery Science
+#EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/Investigationdiscovery2.m3u8
+http://119.152.240.15:8001/play/a0do/index.m3u8
 #EXTINF:0, BBC One
 #EXTGRP: UK 
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
