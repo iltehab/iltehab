@@ -117,19 +117,19 @@ http://92.114.85.72:8000/play/a0oc
 https://cdn-2.pishow.tv/live/238/master.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/Zeecinemahd.m3u8
+http://45.148.145.57/IN_ZeeCinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Cinema UK
 #EXTGRP:Bollywood
 http://92.114.85.72:8000/play/a0kf
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/Zeeaction.m3u8
+http://45.148.145.57/IN_ZeeActionHD/index.m3u8
 #EXTINF:0, Zee Bollywood
 #EXTGRP:Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:0,And Pictures HD 
 #EXTGRP:Bollywood
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/Andpictureshd.m3u8
+http://45.148.145.57/IN_PICURES/index.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 http://192.168.1.6:8080/live.php?id=1477&key=JITENDRAUNATTI&e=.m3u8
@@ -144,7 +144,7 @@ http://92.114.85.72:8000/play/a06v
 https://tamashatv.live/jiotv/jiocloud.php?id=1450&e=m3u8
 #EXTINF:0, Zee Amol Cinema
 #EXTGRP:Bollywood
-https://tamashatv.live/jiotv/jiocloud.php?id=415&e=m3u8
+http://45.148.145.57/IN_ZEAN/tracks-v1a1/mono.m3u8
 #EXTINF:0,And Xplor
 #EXTGRP:Bollywood
 https://la.drmlive.au/tp/zee-209.m3u8
