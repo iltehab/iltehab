@@ -141,7 +141,7 @@ https://tamashatv.live/jiotv/jiocloud.php?id=1763&e=m3u8
 http://92.114.85.72:8000/play/a06v
 #EXTINF:0, Colors Cineplex Superhit
 #EXTGRP:Bollywood
-https://tamashatv.live/jiotv/jiocloud.php?id=1450&e=m3u8
+http://119.152.240.15:8001/play/a01v/index.m3u8
 #EXTINF:0, Zee Amol Cinema
 #EXTGRP:Bollywood
 http://45.148.145.57/IN_ZEAN/tracks-v1a1/mono.m3u8
@@ -159,7 +159,7 @@ http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458625&exte
 https://baskardo.vip/IN_STGOLD/index.m3u8
 #EXTINF:0,Star Gold 2
 #EXTGRP:Bollywood
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=1112132&extension=ts&play_token=9GFk3GAHp1
+http://119.152.240.15:8001/play/a0iz/index.m3u8
 #EXTINF:0,Star Gold Romance
 #EXTGRP:Bollywood
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=156033&extension=ts&play_token=aq849o0tjx
@@ -169,9 +169,9 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=155970&ex
 #EXTINF:0,Utsav Gold
 #EXTGRP:Bollywood
 http://92.114.85.72:8000/play/a0af
-#EXTINF:0,Sony Max 2
+#EXTINF:0,Star Gold Romance
 #EXTGRP:Bollywood
-https://tamashatv.live/jiotv/jiocloud.php?id=483&e=m3u8
+http://119.152.240.15:8001/play/a0iy/index.m3u8
 #EXTINF:0,Zee Classic
 #EXTGRP:Bollywood
 https://la.drmlive.au/tp/zee-176.m3u8
