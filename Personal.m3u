@@ -105,7 +105,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 #EXTINF:0, MTV Beats
 #EXTGRP:Music
-http://119.152.240.15:8001/play/a02j/index.m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=373021&extension=ts&play_token=yxdNH51iqr
 #EXTINF:0, Music India
 #EXTGRP:Music
 https://cdn-2.pishow.tv/live/226/master.m3u8
