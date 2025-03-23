@@ -251,9 +251,9 @@ http://92.114.85.72:8000/play/a082
 #EXTINF:0, PTV Sports
 #EXTGRP: Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-#EXTINF:0, Star Sports 1
+#EXTINF:0, T Sports 
 #EXTGRP: Sports
-http://41.205.93.154/STARSPORTS1/index.m3u8
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:0, A Sports
 #EXTGRP: Sports
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
