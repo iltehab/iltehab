@@ -9,16 +9,13 @@ https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, Sky News
 #EXTGRP:NEWS
-http://92.114.85.72:8000/play/a0hu
-#EXTINF:0,Geo News
-#EXTGRP:NEWS
-http://tv.cloudcdn.me:80/live.ts?channelId=414&uid=4898&deviceMac=00:1A:79:4D:0B:67
+http://125.209.88.166:45793/BRN/SkyNews.stream/playlist.m3u8
 #EXTINF:0,Geo News HD
 #EXTGRP:NEWS
 http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
-#EXTINF:0,ARY News zap
+#EXTINF:0,ARY News
 #EXTGRP:NEWS
-http://newlife3.wanicelife.com:8880/live/JH12M3D238/2WfvkguZ9g/31725.m3u8
+http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
 #EXTINF:0,ARY News HD
 #EXTGRP:NEWS
 http://tv.cloudcdn.me:80/live.ts?channelId=386&uid=4898&deviceMac=00:1A:79:4D:0B:67
@@ -49,27 +46,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=407&uid=4898&deviceMac=00:1A:79:4D:0B
 #EXTINF:0,Hum World
 #EXTGRP:Drama
 http://tv.cloudcdn.me:80/live.ts?channelId=424&uid=4898&deviceMac=00:1A:79:4D:0B:67
-#EXTINF:0,Sony Entertainment HD
-#EXTGRP:Drama
-https://baskardo.vip/IN_STVS/index.m3u8
-#EXTINF:0,Set HD
-#EXTGRP:Drama
-http://170.254.18.107/SONY/index.m3u8
-#EXTINF:0,Set UK
-#EXTGRP:Drama
-http://217.20.112.199/sethd/index.m3u8
-#EXTINF:0,Sony UK
-#EXTGRP:Drama
-http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458622&extension=ts&play_token=abEjJuH8W5
-#EXTINF:0, Star Plus
-#EXTGRP:Drama
-http://45.148.145.57/IN_STARPLUHD/tracks-v1a1/mono.m3u8
-#EXTINF:0, Zee TV
-#EXTGRP:Drama
-https://baskardo.vip/IS_ZE/index.m3u8
-#EXTINF:0, Colors HD
-#EXTGRP:Drama
-http://170.254.18.107/COLORS/index.m3u8
 #EXTINF:0, Bindass
 #EXTGRP:Music
 http://119.152.240.15:8001/play/a0bb/index.m3u8
