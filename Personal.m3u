@@ -48,10 +48,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=407&uid=4898&deviceMac=00:1A:79:4D:0B
 http://tv.cloudcdn.me:80/live.ts?channelId=424&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0, Bindass
 #EXTGRP:Music
-http://119.152.240.15:8001/play/a0bb/index.m3u8
+http://b1g.uk:80/play/live.php?mac=00:1A:79:B4:3D:F2&stream=615430&extension=ts&play_token=TI6thOzeXL&sn2=
 #EXTINF:0, B4U Music UK
 #EXTGRP:Music
-https://tinyurl.com/iltehab
+http://b1g.uk:80/play/live.php?mac=00:1A:79:B4:3D:F2&stream=621041&extension=ts&play_token=OeSeP7ChJG&sn2=
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 https://cdn-2.pishow.tv/live/415/master.m3u8
