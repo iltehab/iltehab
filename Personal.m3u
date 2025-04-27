@@ -1,12 +1,12 @@
-#EXTINF:0, BBC News World
+#EXTINF:0, BBC News
 #EXTGRP:NEWS
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, Al-Jazeera
 #EXTGRP:NEWS
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
-#EXTINF:0,BBC News UK
+#EXTINF:0,DW
 #EXTGRP: NEWS
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:0, Sky News
 #EXTGRP:NEWS
 http://125.209.88.166:45793/BRN/SkyNews.stream/playlist.m3u8
