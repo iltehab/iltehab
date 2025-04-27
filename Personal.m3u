@@ -93,43 +93,43 @@ http://45.148.145.57/IN_ZeeActionHD/index.m3u8
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:0,And Pictures HD 
 #EXTGRP:Bollywood
-http://45.148.145.57/IN_PICURES/index.m3u8
+http://38.76.152.22:8000/play/a01t/index.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
-http://192.168.1.6:8080/live.php?id=1477&key=JITENDRAUNATTI&e=.m3u8
+http://38.76.152.22:8000/play/a06z/index.m3u8
 #EXTINF:0,Colors Cineplex Bollywood
 #EXTGRP:Bollywood
-https://tamashatv.live/jiotv/jiocloud.php?id=1763&e=m3u8
+http://38.76.152.22:8000/play/a01a/index.m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
-http://92.114.85.72:8000/play/a06v
+http://38.76.152.22:8000/play/a06m/index.m3u8
 #EXTINF:0, Colors Cineplex Superhit
 #EXTGRP:Bollywood
 http://119.152.240.15:8001/play/a01v/index.m3u8
 #EXTINF:0, Zee Amol Cinema
 #EXTGRP:Bollywood
-http://45.148.145.57/IN_ZEAN/tracks-v1a1/mono.m3u8
+http://38.76.152.22:8000/play/a01v/index.m3u8
 #EXTINF:0,And Xplor
 #EXTGRP:Bollywood
 https://la.drmlive.au/tp/zee-209.m3u8
 #EXTINF:0, Sony Max HD
 #EXTGRP:Bollywood
 http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8
-#EXTINF:0,SET Max UK
+#EXTINF:0,Sony Max 2
 #EXTGRP:Bollywood
-http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458625&extension=ts&play_token=mKScke3NmS
+http://38.76.152.22:8000/play/a00h/index.m3u8
 #EXTINF:0,Star Gold
 #EXTGRP:Bollywood
-https://baskardo.vip/IN_STGOLD/index.m3u8
+http://38.76.152.22:8000/play/a00f/index.m3u8
 #EXTINF:0,Star Gold 2
 #EXTGRP:Bollywood
-http://119.152.240.15:8001/play/a0iz/index.m3u8
+http://38.76.152.22:8000/play/a00g/index.m3u8
 #EXTINF:0,Star Gold Romance
 #EXTGRP:Bollywood
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=156033&extension=ts&play_token=aq849o0tjx
+http://38.76.152.22:8000/play/a00r/index.m3u8
 #EXTINF:0,Star Gold Select
 #EXTGRP:Bollywood
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1a:79:0B:B3:6E&stream=155970&extension=ts&play_token=6zhXIKAavO
+http://38.76.152.22:8000/play/a01s/index.m3u8
 #EXTINF:0,Utsav Gold
 #EXTGRP:Bollywood
 http://92.114.85.72:8000/play/a0af
@@ -138,13 +138,13 @@ http://92.114.85.72:8000/play/a0af
 http://119.152.240.15:8001/play/a0iy/index.m3u8
 #EXTINF:0,Zee Classic
 #EXTGRP:Bollywood
-https://la.drmlive.au/tp/zee-176.m3u8
+http://38.76.152.22:8000/play/a006/index.m3u8
 #EXTINF:0, B4U Movies
 #EXTGRP:Bollywood
-http://103.131.214.129:9985/stream/channelid/743152564
+http://38.76.152.22:8000/play/a01w/index.m3u8
 #EXTINF:0,B4U Kadak 
 #EXTGRP:Bollywood
-http://103.131.214.129:9985/stream/channelid/1944604205
+http://38.76.152.22:8000/play/a01l/index.m3u8
 #EXTINF:0, Bollywood Classic 
 #EXTGRP:Bollywood
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/Zeebollywood.m3u8
