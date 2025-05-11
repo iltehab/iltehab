@@ -196,7 +196,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=823719&e
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=823718&extension=ts&play_token=3sDNfoL1F8
 #EXTINF:0, E4
 #EXTGRP: UK
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=823719&extension=ts&play_token=mFIGbHTbkb
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=823717&extension=ts&play_token=Bo25Mq4Ko2
 #EXTINF:0, PTV Sports
 #EXTGRP: Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
