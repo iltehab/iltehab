@@ -13,12 +13,15 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:0,Geo News HD
 #EXTGRP:NEWS
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
+#EXTINF:0,Geo News
+#EXTGRP:NEWS
+http://opplex.rw/live/93753738393/98556373838/221343.m3u8
 #EXTINF:0,ARY News
 #EXTGRP:NEWS
 http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
 #EXTINF:0,ARY News HD
 #EXTGRP:NEWS
-http://tv.cloudcdn.me:80/live.ts?channelId=386&uid=4898&deviceMac=00:1A:79:4D:0B:67
+http://opplex.rw/live/93753738393/98556373838/221344.m3u8
 #EXTINF:0,Dunya News
 #EXTGRP:NEWS
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
