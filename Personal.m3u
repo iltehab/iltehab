@@ -96,7 +96,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=Zeeaction
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:0,And Pictures HD 
 #EXTGRP:Bollywood
-https://smart.pendy.dpdns.org/Smart.php?id=Andpicshd
+https://smart.pendy.dpdns.org/Smart.php?id=Npicture
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 http://38.76.152.22:8000/play/a06z/index.m3u8
@@ -187,13 +187,13 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_lon
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=394403&extension=ts&play_token=3B3Mif5rM1
+https://smart.pendy.dpdns.org/Smart.php?id=itv1_antik
 #EXTINF:0, ITV 2
 #EXTGRP: UK 
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=394401&extension=ts&play_token=fu1GTTUEMU
+https://smart.pendy.dpdns.org/Smart.php?id=itv2_antik
 #EXTINF:0, Channel 4 HD
 #EXTGRP: UK 
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=823719&extension=ts&play_token=mFIGbHTbkb
+https://smart.pendy.dpdns.org/Smart.php?id=channel4_antik
 #EXTINF:0, Channel 5
 #EXTGRP: UK
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=823718&extension=ts&play_token=3sDNfoL1F8
