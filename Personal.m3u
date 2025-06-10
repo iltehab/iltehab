@@ -64,6 +64,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:0, Hindi Hits
 #EXTGRP:Music
 http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:0,B4U Music UK
+#EXTGRP:Music
+https://portal-to-m3u-07.iptv07india.workers.dev/?id=476716&e=m3u8
 #EXTINF:0, Zoom
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
