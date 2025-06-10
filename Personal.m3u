@@ -51,10 +51,10 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1721/output/index.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF:0,B4U Music Canada
 #EXTGRP:Music
-https://portal-to-m3u-07.iptv07india.workers.dev/?id=311&e=m3u8
+https://portal-to-m3u-07.iptv07india.workers.dev/?id=3118&e=m3u8
 #EXTINF:0,B4U Music UK
 #EXTGRP:Music
-https://portal-to-m3u-07.iptv07india.workers.dev/?id=466859&e=m3u8
+https://portal-to-m3u-07.iptv07india.workers.dev/?id=476859&e=m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 https://cdn-2.pishow.tv/live/415/master.m3u8
