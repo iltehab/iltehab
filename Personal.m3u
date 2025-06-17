@@ -40,9 +40,9 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 #EXTINF:0,Awaz
 #EXTGRP:Drama
 https://streamer12.vdn.dstreamone.net/awaztv/awaztv/playlist.m3u8
-#EXTINF:0, Express 
+#EXTINF:0, Lollywood
 #EXTGRP:Drama
-http://tv.cloudcdn.me:80/live.ts?channelId=407&uid=4898&deviceMac=00:1A:79:4D:0B:67
+http://182.176.185.207:7500/play/a098/index.m3u8
 #EXTINF:0, Hum Europe 
 #EXTGRP:Drama
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1721/output/index.m3u8
