@@ -18,7 +18,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5
 https://proxy-07-op.vercel.app/api/stream?id=129&e=m3u8
 #EXTINF:0,ARY News
 #EXTGRP:NEWS
-http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
+http://38.96.178.201/live/ARYNews/index.m3u8
 #EXTINF:0,ARY News HD
 #EXTGRP:NEWS
 http://175.107.244.52:4456/play/a04y/index.m3u8
@@ -33,7 +33,7 @@ http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
-http://tv.cloudcdn.me:80/live.ts?channelId=382&uid=4898&deviceMac=00:1A:79:4D:0B:67
+http://38.96.178.201/live/ARYDigital/index.m3u8
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
@@ -205,10 +205,10 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=823718&e
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=823717&extension=ts&play_token=Bo25Mq4Ko2
 #EXTINF:0, PTV Sports
 #EXTGRP: Sports
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+http://38.96.178.201/live/PTVSports/index.m3u8
 #EXTINF:0, T Sports 
 #EXTGRP: Sports
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:0, A Sports
 #EXTGRP: Sports
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+http://38.96.178.201/live/ASports/index.m3u8
