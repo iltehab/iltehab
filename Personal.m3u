@@ -15,7 +15,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
-https://proxy-07-op.vercel.app/api/stream?id=129&e=m3u8
+http://tigerott.com:8080/live/vZLVqaZqmE/uTfWGYyzU3/82648.m3u8
 #EXTINF:0,ARY News
 #EXTGRP:NEWS
 http://38.96.178.201/live/ARYNews/index.m3u8
