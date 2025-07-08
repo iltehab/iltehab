@@ -30,7 +30,7 @@ https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
-https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+http://tigerott.com:8080/live/vZLVqaZqmE/uTfWGYyzU3/82783.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
 http://38.96.178.201/live/ARYDigital/index.m3u8
