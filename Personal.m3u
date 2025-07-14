@@ -120,10 +120,10 @@ http://38.76.152.22:8000/play/a01v/index.m3u8
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTINF:0, Sony Max HD
 #EXTGRP:Bollywood
-https://otttv.co.in/d2h/livestream/sony-max/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 #EXTINF:0,Sony Max 2
 #EXTGRP:Bollywood
-https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 #EXTINF:0,Star Gold
 #EXTGRP:Bollywood
 http://38.96.178.201/live/StarGold/index.m3u8
@@ -165,7 +165,7 @@ http://103.131.214.129:9985/stream/channelid/687452415?ticket=745F149C11835A0E71
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:0, BBC Earth
 #EXTGRP: Infotainment
-https://otttv.co.in/d2h/livestream/sony-bbc-earth-hd/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTINF:0, Discovery
 #EXTGRP: Infotainment
 https://sonyliv-by07.vercel.app/api/stream?channel=7
