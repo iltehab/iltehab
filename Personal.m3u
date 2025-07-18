@@ -90,7 +90,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_1824k.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
-https://smart.pendy.dpdns.org/Smart.php?id=Zeecinemahd&e=m3u8
+https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
 https://smart.pendy.dpdns.org/Smart.php?id=Zeeaction&e=m3u8
@@ -99,10 +99,10 @@ https://smart.pendy.dpdns.org/Smart.php?id=Zeeaction&e=m3u8
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:0,And Pictures HD 
 #EXTGRP:Bollywood
-https://smart.pendy.dpdns.org/Smart.php?id=Npicture&e=m3u8
+https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
-http://38.76.152.22:8000/play/a06z/index.m3u8
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/live.php?id=1477&e=.m3u8
 #EXTINF:0,Colors Cineplex Bollywood
 #EXTGRP:Bollywood
 http://38.76.152.22:8000/play/a01a/index.m3u8
@@ -114,7 +114,7 @@ http://38.76.152.22:8000/play/a06m/index.m3u8
 http://119.152.240.15:8001/play/a01v/index.m3u8
 #EXTINF:0, Zee Amol Cinema
 #EXTGRP:Bollywood
-http://38.76.152.22:8000/play/a01v/index.m3u8
+https://live.drmlive-02.workers.dev/zee/zeeanmolcinema.m3u8
 #EXTINF:0,Sony Wah
 #EXTGRP:Bollywood
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
@@ -139,9 +139,9 @@ http://38.76.152.22:8000/play/a01s/index.m3u8
 #EXTINF:0,Utsav Gold
 #EXTGRP:Bollywood
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-#EXTINF:0,Star Gold Romance
+#EXTINF:0,Zee Anmol Cinema 2
 #EXTGRP:Bollywood
-http://119.152.240.15:8001/play/a0iy/index.m3u8
+https://la.drmlive.au/tp/zee-bigganga.m3u8
 #EXTINF:0,Zee Classic
 #EXTGRP:Bollywood
 http://38.76.152.22:8000/play/a006/index.m3u8
@@ -175,7 +175,7 @@ https://sonyliv-by07.vercel.app/api/stream?channel=7
 http://45.148.145.57/IND_TLCHIND/index.m3u8
 #EXTINF:0, National Geographic
 #EXTGRP: Infotainment
-http://opplex.rw/live/93753738393/98556373838/363002.m3u8
+http://45.148.145.57/IND_NationalGeoHD/index.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
 http://tv.cloudcdn.me:80/live.ts?channelId=151&uid=4805&deviceMac=00:1A:79:07:F5:32
