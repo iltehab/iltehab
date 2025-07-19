@@ -33,7 +33,7 @@ http://filex.tv:8080/live/Multicity/1234/110094.m3u8
 http://filex.tv:8080/live/Multicity/1234/110034.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
-http://38.96.178.201/live/ARYDigital/index.m3u8
+http://filex.tv:8080/live/Multicity/1234/110038.m3u8
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
@@ -45,7 +45,7 @@ https://streamer12.vdn.dstreamone.net/awaztv/awaztv/playlist.m3u8
 http://filex.tv:8080/live/Multicity/1234/502978.m3u8
 #EXTINF:0, Hum Europe 
 #EXTGRP:Drama
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1721/output/index.m3u8
+http://filex.tv:8080/live/Multicity/1234/110046.m3u8
 #EXTINF:0, Bollywood 90's Music
 #EXTGRP:Music
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
