@@ -93,7 +93,7 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
-https://smart.pendy.dpdns.org/Smart.php?id=Zeeaction&e=m3u8
+http://45.117.104.34:8000/play/a01p/index.m3u8
 #EXTINF:0, Zee Bollywood
 #EXTGRP:Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
