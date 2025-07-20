@@ -178,10 +178,10 @@ http://45.148.145.57/IND_TLCHIND/index.m3u8
 http://45.148.145.57/IND_NationalGeoHD/index.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
-http://tv.cloudcdn.me:80/live.ts?channelId=151&uid=4805&deviceMac=00:1A:79:07:F5:32
+http://streamburst.xyz:80/play/live.php?mac=00:1a:79:7e:6a:09&stream=156168&extension=ts&play_token=wDvrjpXm24
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
-https://tatatv.stevosure123.workers.dev/video.m3u8?id=1052
+http://streamburst.xyz:80/play/live.php?mac=00:1a:79:7e:6a:09&stream=155989&extension=ts&play_token=5sCXZS0PpC
 #EXTINF:0, BBC One
 #EXTGRP: UK 
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
