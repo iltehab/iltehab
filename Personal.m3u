@@ -150,7 +150,7 @@ http://38.76.152.22:8000/play/a006/index.m3u8
 https://portal-to-m3u-07.iptv07india.workers.dev/?id=477151&e=m3u8
 #EXTINF:0,B4U Kadak 
 #EXTGRP:Bollywood
-http://38.76.152.22:8000/play/a01l/index.m3u8
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 #EXTINF:0, Bollywood Classic 
 #EXTGRP:Bollywood
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/Zeebollywood.m3u8
