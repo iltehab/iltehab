@@ -12,7 +12,7 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:0,Geo News HD
 #EXTGRP:NEWS
-https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
+http://streamburst.xyz:80/play/live.php?mac=00:1a:79:7e:6a:09&stream=281119&extension=ts&play_token=oJs6Jm6b7d
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
 https://portal-to-m3u-07.iptv07india.workers.dev/?id=5452&e=m3u8
@@ -91,6 +91,9 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 https://portal-to-m3u-07.iptv07india.workers.dev/?id=3186&e=m3u8
+#EXTINF:0, Z Cinema
+#EXTGRP: Bollywood
+https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 #EXTINF:0, Zee Action
 #EXTGRP:Bollywood
 http://45.117.104.34:8000/play/a01p/index.m3u8
@@ -205,10 +208,7 @@ https://portal-to-m3u-07.iptv07india.workers.dev/?id=8499&e=m3u8
 https://portal-to-m3u-07.iptv07india.workers.dev/?id=8551&e=m3u8
 #EXTINF:0, E4Xtra
 #EXTGRP: Sports
-http://Itekfzco.com:80/DQfQySQHMl7r/g9rmajIKiA/3187?play_token=3j5Mjs2xHN
-#EXTINF:0, Z Cinema
-#EXTGRP: Sports
-https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=476&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0, A Sports
 #EXTGRP: Sports
 http://38.96.178.201/live/ASports/index.m3u8
