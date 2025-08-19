@@ -209,6 +209,6 @@ https://portal-to-m3u-07.iptv07india.workers.dev/?id=8551&e=m3u8
 #EXTINF:0, E4Xtra
 #EXTGRP: Sports
 http://tv.cloudcdn.me:80/live.ts?channelId=476&uid=4898&deviceMac=00:1A:79:4D:0B:67
-#EXTINF:0, A Sports
+#EXTINF:0, Test
 #EXTGRP: Sports
-http://38.96.178.201/live/ASports/index.m3u8
+http://45.117.104.34:8000/play/a04w/index.m3u8
