@@ -4,9 +4,9 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:0, Al-Jazeera
 #EXTGRP:NEWS
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
-#EXTINF:0,TRT World
+#EXTINF:0,Asia One
 #EXTGRP: NEWS
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
+http://175.107.244.52:4456/play/a07j/index.m3u8
 #EXTINF:0, Sky News
 #EXTGRP:NEWS
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
