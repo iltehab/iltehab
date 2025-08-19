@@ -45,7 +45,7 @@ http://175.107.244.52:4456/play/a07f/index.m3u8
 http://175.107.244.52:4456/play/a07e/index.m3u8
 #EXTINF:0, Hum Europe 
 #EXTGRP:Drama
-http://filex.tv:8080/live/Multicity/1234/110046.m3u8
+https://app.hughag.store/api/4518a8c92f/playlist.m3u8
 #EXTINF:0, Bollywood 90's Music
 #EXTGRP:Music
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
@@ -117,7 +117,7 @@ https://portal-to-m3u-07.iptv07india.workers.dev/?id=3219&e=m3u8
 https://portal-to-m3u-07.iptv07india.workers.dev/?id=474894&e=m3u8
 #EXTINF:0, Zee Amol Cinema
 #EXTGRP:Bollywood
-https://live.drmlive-02.workers.dev/zee/zeeanmolcinema.m3u8
+https://tiger-hub.vercel.app/Zee__anmoL-Cinema_/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Sony Wah
 #EXTGRP:Bollywood
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
@@ -211,4 +211,4 @@ https://portal-to-m3u-07.iptv07india.workers.dev/?id=8551&e=m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=476&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:0, Test
 #EXTGRP: Sports
-http://45.117.104.34:8000/play/a04w/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/playlist.m3u8
