@@ -54,7 +54,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 https://portal-to-m3u-07.iptv07india.workers.dev/?id=3118&e=m3u8
 #EXTINF:0,B4U Music UK
 #EXTGRP:Music
-https://portal-to-m3u-07.iptv07india.workers.dev/?id=3120&e=m3u8
+https://app.hughag.store/api/60fb3f6a8b/playlist.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 https://cdn-2.pishow.tv/live/415/master.m3u8
@@ -66,7 +66,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:0, Vision Beats
 #EXTGRP:Music
-https://portal-to-m3u-07.iptv07india.workers.dev/?id=476716&e=m3u8
+http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
 #EXTINF:0, Zoom
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
@@ -78,7 +78,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 #EXTINF:0, Zoom US
 #EXTGRP:Music
-https://portal-to-m3u-07.iptv07india.workers.dev/?id=476723&e=m3u8
+https://tiger-hub.vercel.app/Zoom-_-TV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0, Music India
 #EXTGRP:Music
 https://cdn-2.pishow.tv/live/226/master.m3u8
@@ -206,9 +206,9 @@ https://portal-to-m3u-07.iptv07india.workers.dev/?id=8499&e=m3u8
 #EXTINF:0, E4
 #EXTGRP: UK
 https://portal-to-m3u-07.iptv07india.workers.dev/?id=8551&e=m3u8
-#EXTINF:0, E4Xtra
+#EXTINF:0,T Sports HD
 #EXTGRP: Sports
-http://tv.cloudcdn.me:80/live.ts?channelId=476&uid=4898&deviceMac=00:1A:79:4D:0B:67
+http://103.122.252.100:8080/T-SPORTS/index.m3u8
 #EXTINF:0, Test
 #EXTGRP: Sports
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/playlist.m3u8
