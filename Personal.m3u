@@ -190,7 +190,7 @@ https://portal-to-m3u-07.iptv07india.workers.dev/?id=3155&e=m3u8
 https://portal-to-m3u-07.iptv07india.workers.dev/?id=3160&e=m3u8
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
-https://portal-to-m3u-07.iptv07india.workers.dev/?id=3157&e=m3u8
+http://185.46.40.10/~acc877klivfun/opx20/stream.php?id=206286
 #EXTINF:0, BBC One
 #EXTGRP: UK 
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
