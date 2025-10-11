@@ -57,7 +57,7 @@ https://portal-to-m3u-07.iptv07india.workers.dev/?id=3118&e=m3u8
 https://app.hughag.store/api/60fb3f6a8b/playlist.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-https://cdn-2.pishow.tv/live/415/master.m3u8
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
@@ -154,10 +154,10 @@ https://la.drmlive.au/tp/zee-bigganga.m3u8
 #EXTINF:0,Zee Classic
 #EXTGRP:Bollywood
 http://38.76.152.22:8000/play/a006/index.m3u8
-#EXTINF:0, B4U Movies
+#EXTINF:0, B4U Kadak
 #EXTGRP:Bollywood
-https://portal-to-m3u-07.iptv07india.workers.dev/?id=477151&e=m3u8
-#EXTINF:0,B4U Kadak 
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+#EXTINF:0,B4U Movies
 #EXTGRP:Bollywood
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 #EXTINF:0, Bollywood Classic 
