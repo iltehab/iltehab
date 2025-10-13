@@ -120,7 +120,7 @@ http://116.90.120.149:8000/play/a031/index.m3u8
 https://portal-to-m3u-07.iptv07india.workers.dev/?id=3219&e=m3u8
 #EXTINF:0, Colors Cineplex Superhit
 #EXTGRP:Bollywood
-https://portal-to-m3u-07.iptv07india.workers.dev/?id=474894&e=m3u8
+http://116.90.120.149:8000/play/a035/index.m3u8
 #EXTINF:0, Zee Amol Cinema
 #EXTGRP:Bollywood
 https://tiger-hub.vercel.app/Zee__anmoL-Cinema_/tracks-v1a1/mono.ts.m3u8
