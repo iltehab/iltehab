@@ -108,13 +108,13 @@ http://45.117.104.34:8000/play/a01p/index.m3u8
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:0,And Pictures HD 
 #EXTGRP:Bollywood
-http://116.90.120.149:8000/play/a0dl/index.m3u8
+http://87.255.35.150:18510.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
 https://portal-to-m3u-07.iptv07india.workers.dev/?id=3138&e=m3u8
 #EXTINF:0,Colors Cineplex Bollywood
 #EXTGRP:Bollywood
-http://116.90.120.149:8000/play/a031/index.m3u8
+http://87.255.35.150:18296.m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
 https://portal-to-m3u-07.iptv07india.workers.dev/?id=3219&e=m3u8
@@ -132,7 +132,7 @@ https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 http://116.90.120.149:8000/play/a0bw/index.m3u8
 #EXTINF:0,Sony Max 2
 #EXTGRP:Bollywood
-http://116.90.120.149:8000/play/a0c4/index.m3u8
+http://87.255.35.150:18841.m3u8
 #EXTINF:0,Star Gold
 #EXTGRP:Bollywood
 https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3172
@@ -143,8 +143,7 @@ https://portal-to-m3u-07.iptv07india.workers.dev/?id=3175&e=m3u8
 #EXTGRP:Bollywood
 http://38.76.152.22:8000/play/a00r/index.m3u8
 #EXTINF:0,Star Gold Select
-#EXTGRP:Bollywood
-https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3176
+#EXTGRP:Bollywoodhttp://87.255.35.150:18429.m3u8
 #EXTINF:0,Utsav Gold
 #EXTGRP:Bollywood
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
