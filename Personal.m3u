@@ -198,10 +198,10 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_lon
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
-https://portal-to-m3u-07.iptv07india.workers.dev/?id=8613&e=m3u8
+http://212.32.241.201:8000/play/a03l
 #EXTINF:0, ITV 2
-#EXTGRP: UK 
-https://portal-to-m3u-07.iptv07india.workers.dev/?id=8623&e=m3u8
+#EXTGR: UK
+http://212.32.241.201:8000/play/a03k
 #EXTINF:0, Channel 4 HD
 #EXTGRP: UK 
 http://212.32.241.201:8000/play/a002
