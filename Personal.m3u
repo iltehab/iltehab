@@ -176,20 +176,20 @@ https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m
 http://116.90.120.149:8000/play/a0dj/index.m3u8
 #EXTINF:0, Discovery
 #EXTGRP: Infotainment
-https://sonyliv-by07.vercel.app/api/stream?channel=7
+http://116.90.120.149:8000/play/a0j1/index.m3u8
 #EXTGRP: Infotainment
 #EXTINF:0, TLC
 #EXTGRP: Infotainment
 http://45.148.145.57/IND_TLCHIND/index.m3u8
 #EXTINF:0, National Geographic
 #EXTGRP: Infotainment
-http://116.90.120.149:8000/play/a0d8/index.m3u8
+http://116.90.120.149:8000/play/a0in/index.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
-https://portal-to-m3u-07.iptv07india.workers.dev/?id=3160&e=m3u8
+http://116.90.120.149:8000/play/a0hv/index.m3u8
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
-https://portal-to-m3u-07.iptv07india.workers.dev/?id=3154&e=m3u8
+http://116.90.120.149:8000/play/a0ie/index.m3u8
 #EXTINF:0, BBC One
 #EXTGRP: UK 
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
