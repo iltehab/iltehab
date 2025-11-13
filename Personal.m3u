@@ -12,13 +12,13 @@ http://175.107.244.52:4456/play/a07j/index.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:0,Geo News HD
 #EXTGRP:NEWS
-http://175.107.244.52:4456/play/a06o/index.m3u8
+http://212.32.241.201:8000/play/a01u
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
 http://116.90.120.149:8000/play/a020/index.m3u8
 #EXTINF:0,ARY News
 #EXTGRP:NEWS
-https://portal-to-m3u-07.iptv07india.workers.dev/?id=5448&e=m3u8
+http://212.32.241.201:8000/play/a01r
 #EXTINF:0,ARY News HD
 #EXTGRP:NEWS
 http://175.107.244.52:4456/play/a04y/index.m3u8
@@ -204,16 +204,16 @@ https://portal-to-m3u-07.iptv07india.workers.dev/?id=8613&e=m3u8
 https://portal-to-m3u-07.iptv07india.workers.dev/?id=8623&e=m3u8
 #EXTINF:0, Channel 4 HD
 #EXTGRP: UK 
-https://portal-to-m3u-07.iptv07india.workers.dev/?id=8495&e=m3u8
+http://212.32.241.201:8000/play/a002
 #EXTINF:0, Channel 5
 #EXTGRP: UK
 http://212.32.241.201:8000/play/a023
 #EXTINF:0, E4
 #EXTGRP: UK
-https://portal-to-m3u-07.iptv07india.workers.dev/?id=8551&e=m3u8
-#EXTINF:0,Willow HD
-#EXTGRP: Sports
-https://tvsen5.aynaott.com/willowhd/index.m3u8
+http://212.32.241.201:8000/play/a00b
+#EXTINF:0,E4Xtra
+#EXTGRP: UK
+http://212.32.241.201:8000/play/a008
 #EXTINF:0, Test
 #EXTGRP: Sports
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/playlist.m3u8
