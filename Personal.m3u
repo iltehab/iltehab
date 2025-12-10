@@ -72,7 +72,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
 #EXTINF:0, Zoom
 #EXTGRP:Music
-https://tiger-hub.vercel.app/Zoom-_-TV/tracks-v1a1/mono.ts.m3u8
+https://b.jsrdn.com/strm/channels/zoom/master.m3u8
 #EXTINF:0, Zoom US
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
