@@ -186,10 +186,10 @@ http://116.90.120.149:8000/play/a0id/index.m3u8
 http://116.90.120.149:8000/play/a0in/index.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
-http://116.90.120.149:8000/play/a0hv/index.m3u8
+http://66.102.120.18:8000/play/a001/index.m3u8
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
-http://116.90.120.149:8000/play/a0ie/index.m3u8
+http://66.102.120.18:8000/play/a01d/index.m3u8
 #EXTINF:0, BBC One
 #EXTGRP: UK 
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
