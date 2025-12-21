@@ -105,19 +105,19 @@ http://45.117.104.34:8000/play/a01p/index.m3u8
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:0,And Pictures HD 
 #EXTGRP:Bollywood
-http://87.255.35.150:18510.m3u8
-#EXTINF:0,Colors Cineplex HD
+http://66.102.120.18:8000/play/a01t/index.m3u8
+#EXTINF:0, Cinema 1
 #EXTGRP:Bollywood
 http://str24.l9574.com/742.stream/index.m3u8
-#EXTINF:0,Colors Cineplex Bollywood
+#EXTINF:0,Colors Cineplex HD
 #EXTGRP:Bollywood
-http://87.255.35.150:18296.m3u8
+http://66.102.120.18:8000/play/a06z/index.m3u8
 #EXTINF:0,Colors Cineplex UK
 #EXTGRP:Bollywood
 https://portal-to-m3u-07.iptv07india.workers.dev/?id=3219&e=m3u8
 #EXTINF:0, Colors Cineplex Superhit
 #EXTGRP:Bollywood
-http://116.90.120.149:8000/play/a035/index.m3u8
+http://66.102.120.18:8000/play/a01a/index.m3u8
 #EXTINF:0, Zee Amol Cinema
 #EXTGRP:Bollywood
 https://tiger-hub.vercel.app/Zee__anmoL-Cinema_/tracks-v1a1/mono.ts.m3u8
@@ -126,27 +126,28 @@ https://tiger-hub.vercel.app/Zee__anmoL-Cinema_/tracks-v1a1/mono.ts.m3u8
 http://45.148.145.57/IN_STU/index.m3u8
 #EXTINF:0, Sony Max HD
 #EXTGRP:Bollywood
-http://116.90.120.149:8000/play/a0bw/index.m3u8
+http://66.102.120.18:8000/play/a071/index.m3u8
 #EXTINF:0,Sony Max 2
 #EXTGRP:Bollywood
-http://87.255.35.150:18841.m3u8
+http://66.102.120.18:8000/play/a00h/index.m3u8
 #EXTINF:0,Star Gold
 #EXTGRP:Bollywood
-https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3172
+http://66.102.120.18:8000/play/a00f/index.m3u8
 #EXTINF:0,Star Gold 2
 #EXTGRP:Bollywood
-https://portal-to-m3u-07.iptv07india.workers.dev/?id=3175&e=m3u8
+http://66.102.120.18:8000/play/a077/index.m3u8
 #EXTINF:0,Star Gold Romance
 #EXTGRP:Bollywood
-http://38.76.152.22:8000/play/a00r/index.m3u8
+http://66.102.120.18:8000/play/a00r/index.m3u8
 #EXTINF:0,Star Gold Select
-#EXTGRP:Bollywoodhttp://87.255.35.150:18429.m3u8
+#EXTGRP:Bollywood
+http://66.102.120.18:8000/play/a01s/index.m3u8
 #EXTINF:0,Utsav Gold
 #EXTGRP:Bollywood
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:0,Zee Anmol Cinema 2
 #EXTGRP:Bollywood
-https://la.drmlive.au/tp/zee-bigganga.m3u8
+http://66.102.120.18:8000/play/a01c/index.m3u8
 #EXTINF:0,Zee Classic
 #EXTGRP:Bollywood
 http://str24.l9574.com/733.stream/index.m3u8
@@ -173,7 +174,7 @@ https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m
 http://45.148.145.57/IN_SONYBBCHD/index.m3u8
 #EXTINF:0, Discovery
 #EXTGRP: Infotainment
-http://116.90.120.149:8000/play/a0j1/index.m3u8
+http://66.102.120.18:8000/play/a01k/index.m3u8
 #EXTGRP: Infotainment
 #EXTINF:0, TLC
 #EXTGRP: Infotainment
@@ -183,7 +184,7 @@ http://45.148.145.57/IND_TLCHIND/index.m3u8
 http://116.90.120.149:8000/play/a0id/index.m3u8
 #EXTINF:0, National Geographic
 #EXTGRP: Infotainment
-http://116.90.120.149:8000/play/a0in/index.m3u8
+http://66.102.120.18:8000/play/a01f/index.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
 http://66.102.120.18:8000/play/a001/index.m3u8
@@ -211,9 +212,9 @@ https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 #EXTINF:0, E4
 #EXTGRP: UK
 http://212.32.241.201:8000/play/a00b
-#EXTINF:0,E4Xtra
+#EXTINF:0, Discovery Science
 #EXTGRP: UK
-http://212.32.241.201:8000/play/a008
+http://66.102.120.18:8000/play/a01l/index.m3u8
 #EXTINF:0, Test
 #EXTGRP: Sports
 https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858.m3u8?playback_start_ts=1763063441&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
