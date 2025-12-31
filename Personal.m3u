@@ -191,6 +191,9 @@ http://66.102.120.18:8000/play/a001/index.m3u8
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
 http://66.102.120.18:8000/play/a01d/index.m3u8
+#EXTINF:0, Discovery Science
+#EXTGRP: UK
+http://66.102.120.18:8000/play/a01l/index.m3u8
 #EXTINF:0, BBC One
 #EXTGRP: UK 
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
@@ -212,9 +215,9 @@ https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 #EXTINF:0, E4
 #EXTGRP: UK
 http://212.32.241.201:8000/play/a00b
-#EXTINF:0, Discovery Science
+#EXTINF:0, E4Xtra
 #EXTGRP: UK
-http://66.102.120.18:8000/play/a01l/index.m3u8
+http://212.32.241.201:8000/play/a008
 #EXTINF:0, Test
 #EXTGRP: Sports
 https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858.m3u8?playback_start_ts=1763063441&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
