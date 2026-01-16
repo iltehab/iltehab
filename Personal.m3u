@@ -42,7 +42,7 @@ http://103.178.78.151:7505/play/asd1/index.m3u8
 http://103.178.78.151:7505/play/a1ce/index.m3u8
 #EXTINF:0, Hum Europe 
 #EXTGRP:Drama
-http://103.178.78.151:7505/play/a1wc/index.m3u8
+http://103.178.78.151:7505/play/a1cc/index.m3u8
 #EXTINF:0, Bollywood 90's Music
 #EXTGRP:Music
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
