@@ -34,15 +34,15 @@ http://66.102.120.18:8000/play/a030/index.m3u8
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:0,Hungama
+#EXTINF:0,Arsh
 #EXTGRP:Drama
-http://175.107.244.52:4456/play/a07f/index.m3u8
+http://103.178.78.151:7505/play/asd1/index.m3u8
 #EXTINF:0, Rhythm
 #EXTGRP:Drama
-http://175.107.244.52:4456/play/a07e/index.m3u8
+http://103.178.78.151:7505/play/a1ce/index.m3u8
 #EXTINF:0, Hum Europe 
 #EXTGRP:Drama
-https://d1jfc1x2reg057.cloudfront.net/titan/_definst_/vidly_vod/content/smil:video/movies/golgappo-2022/movie/GolGappo_HD.smil/manifest.m3u8
+http://103.178.78.151:7505/play/a1wc/index.m3u8
 #EXTINF:0, Bollywood 90's Music
 #EXTGRP:Music
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
