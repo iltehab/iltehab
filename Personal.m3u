@@ -69,7 +69,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
 #EXTINF:0, Zoom
 #EXTGRP:Music
-https://b.jsrdn.com/strm/channels/zoom/master.m3u8
+http://103.178.78.151:7505/play/a1qs/index.m3u8
 #EXTINF:0, Zoom US
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
@@ -89,8 +89,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTGRP:Music
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_1824k.m3u8
 #EXTINF:0, MTV HD
-#EXTGRP:Music
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&stream=280760&extension=ts&play_token=JmL81Phrsp
+http://103.178.78.151:7505/play/a0pb/index.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:Bollywood
 http://103.175.242.10:8080/zeecinema/tracks-v1a1/mono.m3u8
