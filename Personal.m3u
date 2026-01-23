@@ -30,10 +30,10 @@ https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
 http://45.148.145.57/PAK_HUMTVG/index.m3u8
 #EXTINF:0,ARY Digital HD
 #EXTGRP:Drama
-http://66.102.120.18:8000/play/a030/index.m3u8
+https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
 #EXTINF:0,Arsh
 #EXTGRP:Drama
 http://103.178.78.151:7505/play/asd1/index.m3u8
