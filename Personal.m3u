@@ -201,16 +201,16 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_lon
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
-https://a1xs.vip/1000011
+http://212.32.241.201:8000/play/a03o
 #EXTINF:0, ITV 2
 #EXTGR: UK
-https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
+http://212.32.241.201:8000/play/a03k
 #EXTINF:0, Channel 4 HD
 #EXTGRP: UK 
-https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+http://212.32.241.201:8000/play/a002
 #EXTINF:0, Channel 5
 #EXTGRP: UK
-https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+http://212.32.241.201:8000/play/a01w
 #EXTINF:0, E4
 #EXTGRP: UK
 http://212.32.241.201:8000/play/a00b
