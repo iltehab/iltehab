@@ -219,5 +219,13 @@ http://212.32.241.201:8000/play/a00b
 http://212.32.241.201:8000/play/a008
 #EXTINF:0, Test
 #EXTGRP: Sports
+https://tigerhub-bd.vercel.app/Sports-zone/PTV-Sports/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0, Test
+#EXTGRP: Sports
 https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858.m3u8?playback_start_ts=1763063441&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
+#EXTINF:0, Test
+#EXTGRP: Sports
 http://170.254.18.106/STAR/index.m3u8
+#EXTINF:0, Test
+#EXTGRP: Sports
+https://tigerhub-bd.vercel.app/Sports-zone/PTV-Sports/tracks-v1a1/mono.ts.m3u8
