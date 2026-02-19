@@ -34,9 +34,9 @@ https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
-#EXTINF:0,Arsh
+#EXTINF:0,Hum Europe
 #EXTGRP:Drama
-http://103.178.78.151:7505/play/asd1/index.m3u8
+http://tv.asimxtech.online:3000/api/hls/hum-tv/master.m3u8
 #EXTINF:0, Rhythm
 #EXTGRP:Drama
 http://103.178.78.151:7505/play/a1ce/index.m3u8
@@ -125,7 +125,7 @@ https://tiger-hub.vercel.app/Zee__anmoL-Cinema_/tracks-v1a1/mono.ts.m3u8
 http://45.148.145.57/IN_STU/index.m3u8
 #EXTINF:0, Sony Max HD
 #EXTGRP:Bollywood
-http://66.102.120.18:8000/play/a071/index.m3u8
+http://tv.asimxtech.online:3000/api/hls/sony-max-hd/master.m3u8
 #EXTINF:0,Sony Max 2
 #EXTGRP:Bollywood
 http://66.102.120.18:8000/play/a00h/index.m3u8
