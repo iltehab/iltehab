@@ -37,9 +37,9 @@ https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
 #EXTINF:0,Hum Europe
 #EXTGRP:Drama
 http://tv.asimxtech.online:3000/api/hls/hum-tv/master.m3u8
-#EXTINF:0, Rhythm
+#EXTINF:0, Mnews hd
 #EXTGRP:Drama
-http://103.178.78.151:7505/play/a1ce/index.m3u8
+https://cdn.abra.stream/M-World/index.fmp4.m3u8
 #EXTINF:0, Hum Europe 
 #EXTGRP:Drama
 http://103.178.78.151:7505/play/a1cc/index.m3u8
