@@ -51,7 +51,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #EXTINF:0,B4U Music APAC
 #EXTGRP:Music
-https://app.hughag.store/api/60fb3f6a8b/playlist.m3u8
+https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/index.m3u8?token=920eff03bfe621e5a063499bc46c6afa5c8687d8-1ef0b4920ef795af84e7b87ecc2531fb-1772653770-1772650170
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
