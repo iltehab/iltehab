@@ -171,9 +171,9 @@ https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m
 #EXTINF:0, BBC Earth
 #EXTGRP: Infotainment
 http://45.148.145.57/IN_SONYBBCHD/index.m3u8
-#EXTINF:0, Discovery
+#EXTINF:0, BBC Earth Hindi
 #EXTGRP: Infotainment
-http://66.102.120.18:8000/play/a01k/index.m3u8
+https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Sonybbc.m3u8
 #EXTGRP: Infotainment
 #EXTINF:0, TLC
 #EXTGRP: Infotainment
