@@ -54,7 +54,7 @@ http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/index.m3u8?token=920eff03bfe621e5a063499bc46c6afa5c8687d8-1ef0b4920ef795af84e7b87ecc2531fb-1772653770-1772650170
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+https://cdn-2.pishow.tv/live/415/master.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 https://cdn-2.pishow.tv/live/226/master.m3u8
@@ -90,85 +90,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_1824k.m3u8
 #EXTINF:0, MTV HD
 http://103.178.78.151:7505/play/a0pb/index.m3u8
-#EXTINF:0,Zee Cinema HD
-#EXTGRP:Bollywood
-http://103.175.242.10:8080/zeecinema/tracks-v1a1/mono.m3u8
-#EXTINF:0, Z Cinema
-#EXTGRP: Bollywood
-https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
-#EXTINF:0, Zee Action
-#EXTGRP:Bollywood
-http://45.117.104.34:8000/play/a01p/index.m3u8
-#EXTINF:0, Zee Bollywood
-#EXTGRP:Bollywood
-http://212.102.34.8:9080/ZeeBollywood/video.m3u8
-#EXTINF:0,And Pictures HD 
-#EXTGRP:Bollywood
-http://66.102.120.18:8000/play/a01t/index.m3u8
-#EXTINF:0, Cinema 1
-#EXTGRP:Bollywood
-http://str24.l9574.com/742.stream/index.m3u8
-#EXTINF:0,Colors Cineplex HD
-#EXTGRP:Bollywood
-http://66.102.120.18:8000/play/a06z/index.m3u8
-#EXTINF:0,Colors Cineplex UK
-#EXTGRP:Bollywood
-https://portal-to-m3u-07.iptv07india.workers.dev/?id=3219&e=m3u8
-#EXTINF:0, Colors Cineplex Superhit
-#EXTGRP:Bollywood
-http://66.102.120.18:8000/play/a01a/index.m3u8
-#EXTINF:0, Zee Amol Cinema
-#EXTGRP:Bollywood
-https://tiger-hub.vercel.app/Zee__anmoL-Cinema_/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,Utsav Gold
-#EXTGRP:Bollywood
-http://45.148.145.57/IN_STU/index.m3u8
-#EXTINF:0, Sony Max HD
-#EXTGRP:Bollywood
-http://tv.asimxtech.online:3000/api/hls/sony-max-hd/master.m3u8
-#EXTINF:0,Sony Max 2
-#EXTGRP:Bollywood
-http://66.102.120.18:8000/play/a00h/index.m3u8
-#EXTINF:0,Star Gold
-#EXTGRP:Bollywood
-http://66.102.120.18:8000/play/a00f/index.m3u8
-#EXTINF:0,Star Gold 2
-#EXTGRP:Bollywood
-http://66.102.120.18:8000/play/a077/index.m3u8
-#EXTINF:0,Star Gold Romance
-#EXTGRP:Bollywood
-http://66.102.120.18:8000/play/a00r/index.m3u8
-#EXTINF:0,Star Gold Select
-#EXTGRP:Bollywood
-http://66.102.120.18:8000/play/a01s/index.m3u8
-#EXTINF:0,Utsav Gold
-#EXTGRP:Bollywood
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-#EXTINF:0,Zee Anmol Cinema 2
-#EXTGRP:Bollywood
-http://66.102.120.18:8000/play/a01c/index.m3u8
-#EXTINF:0,Zee Classic
-#EXTGRP:Bollywood
-http://str24.l9574.com/733.stream/index.m3u8
-#EXTINF:0, B4U Kadak
-#EXTGRP:Bollywood
-https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
-#EXTINF:0,B4U Movies
-#EXTGRP:Bollywood
-https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-#EXTINF:0, Bollywood Classic 
-#EXTGRP:Bollywood
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/Zeebollywood.m3u8
-#EXTINF:0, Bollywood HD
-#EXTGRP:Bollywood
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:0, Bollywood Classics
-#EXTGRP:Bollywood
-http://103.131.214.129:9985/stream/channelid/687452415?ticket=745F149C11835A0E7168B5B3AE50EAFBD1A505E8&profile=pass
-#EXTINF:0,Z Bolly
-#EXTGRP:Bollywood
-https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0, BBC Earth
+Bollywood
 #EXTGRP: Infotainment
 http://45.148.145.57/IN_SONYBBCHD/index.m3u8
 #EXTINF:0, BBC Earth Hindi
