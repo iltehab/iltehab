@@ -75,7 +75,7 @@ http://103.178.78.151:7505/play/a1qs/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
+http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:0,9X Jalwa
 #EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
