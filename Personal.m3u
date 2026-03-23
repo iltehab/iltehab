@@ -34,15 +34,15 @@ https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
-#EXTINF:0,Hum Europe
+#EXTINF:0,Express 
 #EXTGRP:Drama
-http://tv.asimxtech.online:3000/api/hls/hum-tv/master.m3u8
+https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
 #EXTINF:0, Mnews hd
 #EXTGRP:Drama
 https://cdn.abra.stream/M-World/index.fmp4.m3u8
-#EXTINF:0, Hum Europe 
+#EXTINF:0, Aaj
 #EXTGRP:Drama
-http://103.178.78.151:7505/play/a1cc/index.m3u8
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
 #EXTINF:0, Bollywood 90's Music
 #EXTGRP:Music
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
