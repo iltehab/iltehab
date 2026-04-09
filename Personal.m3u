@@ -108,7 +108,7 @@ http://116.90.120.149:8000/play/a0id/index.m3u8
 http://103.229.254.25:7001/play/a038/index.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
-https://freelivtv.xyz/oppu/m3u.php?id=206282&e=.m3u8
+http://103.229.254.25:7001/play/a0dr/index.m3u8
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
 http://58.147.140.106:4000/play/a0h3/index.m3u8
