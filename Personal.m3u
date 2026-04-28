@@ -90,16 +90,16 @@ https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Sonybbc.m3u8
 #EXTGRP: Infotainment
 #EXTINF:0, TLC
 #EXTGRP: Infotainment
-http://45.148.145.57/IND_TLCHIND/index.m3u8
+http://103.229.254.25:7001/play/a0dr/index.m3u8
+#EXTINF:0, Discovery Science
+#EXTGRP: UK
+http://103.229.254.25:7001/play/a06r/index.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
 https://restream-bay.vercel.app/chuchhi?id=206282
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
 https://restream-bay.vercel.app/chuchhi?id=206286&e=m3u8
-#EXTINF:0, Discovery Science
-#EXTGRP: UK
-http://110.39.27.47:8001/play/a018/index.m3u8
 #EXTINF:0, BBC One
 #EXTGRP: UK 
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
