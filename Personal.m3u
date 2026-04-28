@@ -66,7 +66,7 @@ http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
 http://103.178.78.151:7505/play/a1qs/index.m3u8
 #EXTINF:0, Zoom US
 #EXTGRP:Music
-https://d35j504z0x2vu2.cloudfront.net/v1/master/03u8
+http://suiptv265.xyz:80/play/live.php?mac=00:1A:79:B6:C5:3D&stream=281307&extension=ts&play_token=uEbHJqrL2n
 #EXTINF:0,9X Jalwa
 #EXTGRP:Music
 http://103.175.73.12:8080/live/161/161_0.m3u8
@@ -75,7 +75,7 @@ http://103.175.73.12:8080/live/161/161_0.m3u8
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:0,YRF Music
 #EXTGRP:Music
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+http://suiptv265.xyz:80/play/live.php?mac=00:1A:79:B6:C5:3D&stream=281279&extension=ts&play_token=9V9mRvekVE
 #EXTINF:0, E24
 #EXTGRP:Music
 http://103.175.73.12:8080/live/159/159_0.m3u8
@@ -84,7 +84,7 @@ http://suiptv265.xyz:80/play/live.php?mac=00:1A:79:B6:C5:3D&stream=281315&extens
 Bollywood
 #EXTINF:0, BBC Earth
 #EXTGRP: Infotainment
-http://45.148.145.57/IN_SONYBBCHD/index.m3u8
+http://suiptv265.xyz:80/play/live.php?mac=00:1A:79:B6:C5:3D&stream=281340&extension=ts&play_token=gijI00HcIQ
 #EXTINF:0, BBC Earth Hindi
 #EXTGRP: Infotainment
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Sonybbc.m3u8
