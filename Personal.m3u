@@ -63,7 +63,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
 #EXTINF:0, Zoom
 #EXTGRP:Music
-http://103.178.78.151:7505/play/a1qs/index.m3u8
+https://dai.google.com/linear/hls/pa/event/JCAm25qkRXiKcK1AJMlvKQ/stream/fc840228-114d-4c4e-b70f-2aa87ef25398:BRU/master.m3u8
 #EXTINF:0, Zoom US
 #EXTGRP:Music
 http://suiptv265.xyz:80/play/live.php?mac=00:1A:79:B6:C5:3D&stream=281307&extension=ts&play_token=uEbHJqrL2n
