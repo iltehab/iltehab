@@ -28,15 +28,6 @@ https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
 #EXTINF:0,Geo Entertainment 
 #EXTGRP:Drama
 https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
-#EXTINF:0,Express 
-#EXTGRP:Drama
-https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
-#EXTINF:0, Express247
-#EXTGRP:Drama
-http://103.147.87.50:8001/play/a038/index.m3u8
-#EXTINF:0, Aaj
-#EXTGRP:Drama
-https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
 #EXTINF:0, Bollywood 90's Music
 #EXTGRP:Music
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
@@ -88,13 +79,6 @@ http://suiptv265.xyz:80/play/live.php?mac=00:1A:79:B6:C5:3D&stream=281340&extens
 #EXTINF:0, BBC Earth Hindi
 #EXTGRP: Infotainment
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Sonybbc.m3u8
-#EXTGRP: Infotainment
-#EXTINF:0, AP
-#EXTGRP: Infotainment
-http://103.229.254.25:7001/play/a0dr/index.m3u8
-#EXTINF:0, NTG
-#EXTGRP: Infotainment
-http://103.229.254.25:7001/play/a06r/index.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
 https://restream-bay.vercel.app/chuchhi?id=206282
