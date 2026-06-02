@@ -93,13 +93,13 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_lon
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
-http://212.32.241.201:8000/play/a03o
+http://176.65.146.224:4004/play/a07n/index.m3u8
 #EXTINF:0, ITV 2
 #EXTGR: UK
-http://212.32.241.201:8000/play/a03k
+http://176.65.146.224:4004/play/a07l/index.m3u8
 #EXTINF:0, Channel 4 HD
 #EXTGRP: UK 
-http://212.32.241.201:8000/play/a002
+http://176.65.146.224:4007/play/a074/index.m3u8
 #EXTINF:0, Channel 5
 #EXTGRP: UK
 http://212.32.241.201:8000/play/a01w
@@ -109,9 +109,9 @@ http://212.32.241.201:8000/play/a00b
 #EXTINF:0, E4Xtra
 #EXTGRP: UK
 http://212.32.241.201:8000/play/a008
-#EXTINF:0, PTV Sports
+#EXTINF:0, Sky Mix
 #EXTGRP: Sports
-https://tigerhub-bd.vercel.app/Sports-zone/PTV-Sports/tracks-v1a1/mono.ts.m3u8
+http://176.65.146.224:4007/play/a071/index.m3u8
 #EXTINF:0, BBC Earth
 #EXTGRP: Sports
 https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858.m3u8?playback_start_ts=1763063441&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
