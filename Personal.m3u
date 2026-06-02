@@ -40,9 +40,6 @@ https://yupptv.rkdyiptv.workers.dev/live/1212.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 https://jmp2.uk/stvp-IN3900017KM
-#EXTINF:0,Mastiii
-#EXTGRP:Music
-https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:0, Show Box
 #EXTGRP:Music
 http://103.175.73.12:8080/live/469/469_0.m3u8
@@ -52,12 +49,12 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:0, Vision Beats
 #EXTGRP:Music
 http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
+#EXTINF:0, 9XN
+#EXTGRP:Music
+https://epiconvh.akamaized.net/9XM/master.m3u8
 #EXTINF:0, Zoom
 #EXTGRP:Music
-https://dai.google.com/linear/hls/pa/event/JCAm25qkRXiKcK1AJMlvKQ/stream/fc840228-114d-4c4e-b70f-2aa87ef25398:BRU/master.m3u8
-#EXTINF:0, Zoom US
-#EXTGRP:Music
-http://suiptv265.xyz:80/play/live.php?mac=00:1A:79:B6:C5:3D&stream=281307&extension=ts&play_token=uEbHJqrL2n
+https://dai.google.com/linear/hls/pa/event/JCAm25qkRXiKcK1AJMlvKQ/stream/6f162f70-1153-486d-acc5-44fb4ef7da77:GRQ/master.m3u8
 #EXTINF:0,9X Jalwa
 #EXTGRP:Music
 http://103.175.73.12:8080/live/161/161_0.m3u8
