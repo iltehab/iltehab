@@ -102,16 +102,16 @@ http://176.65.146.224:4004/play/a07l/index.m3u8
 http://176.65.146.224:4007/play/a074/index.m3u8
 #EXTINF:0, Channel 5
 #EXTGRP: UK
-http://212.32.241.201:8000/play/a01w
+http://176.65.146.224:4003/play/a06m/index.m3u8
 #EXTINF:0, E4
 #EXTGRP: UK
-http://212.32.241.201:8000/play/a00b
+http://176.65.146.224:4002/play/a06t/index.m3u8
 #EXTINF:0, E4Xtra
 #EXTGRP: UK
-http://212.32.241.201:8000/play/a008
+http://176.65.146.224:4002/play/a06w/index.m3u8
 #EXTINF:0, Sky Mix
 #EXTGRP: Sports
 http://176.65.146.224:4007/play/a071/index.m3u8
 #EXTINF:0, BBC Earth
 #EXTGRP: Sports
-https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858.m3u8?playback_start_ts=1763063441&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
+http://176.65.146.224:4003/play/a06j/index.m3u8
