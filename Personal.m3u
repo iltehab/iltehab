@@ -64,21 +64,21 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:0,YRF Music
 #EXTGRP:Music
 http://suiptv265.xyz:80/play/live.php?mac=00:1A:79:B6:C5:3D&stream=281279&extension=ts&play_token=9V9mRvekVE
-#EXTINF:0, E24
-#EXTGRP:Music
-http://103.175.73.12:8080/live/159/159_0.m3u8
+#EXTINF:0, Discovery Science 
+#EXTGRP: Infotainment 
+http://103.157.248.140:8000/play/a018/index.m3u8
 #EXTINF:0, MTV HD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla
-Bollywood
-#EXTINF:0, BBC Earth
 #EXTGRP: Infotainment
-http://suiptv265.xyz:80/play/live.php?mac=00:1A:79:B6:C5:3D&stream=281340&extension=ts&play_token=gijI00HcIQ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla
+#EXTINF:0, Discovery 
+#EXTGRP: Infotainment
+http://103.157.248.140:8000/play/a017/index.m3u8
 #EXTINF:0, BBC Earth Hindi
 #EXTGRP: Infotainment
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Sonybbc.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
-https://restream-bay.vercel.app/chuchhi?id=206282
+http://103.157.248.140:8000/play/a08z/index.m3u8
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
 http://103.157.248.140:8000/play/a010/index.m3u8
