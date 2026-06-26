@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Sonybbc.m3u8
 https://restream-bay.vercel.app/chuchhi?id=206282
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
-https://restream-bay.vercel.app/chuchhi?id=206286&e=m3u8
+http://103.157.248.140:8000/play/a010/index.m3u8
 #EXTINF:0, BBC One
 #EXTGRP: UK 
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
