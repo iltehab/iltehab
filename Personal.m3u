@@ -9,7 +9,7 @@ https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
-https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/75810ad1df1beb09072aaac7df49b110.sdp/playlist.m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373101&extension=ts&play_token=sVxGXZXpm
 #EXTINF:0,ARY News HD
 #EXTGRP:NEWS
 https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8
