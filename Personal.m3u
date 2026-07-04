@@ -102,4 +102,4 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=1168958&
 http://176.65.146.224:4007/play/a071/index.m3u8
 #EXTINF:0, BBC Earth
 #EXTGRP: Sports
-http://176.65.146.224:4003/play/a06j/index.m3u8
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
