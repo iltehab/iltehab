@@ -81,16 +81,16 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_lon
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0, ITV 1
 #EXTGRP: UK 
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=394403&extension=ts&play_token=DoWcyrErT
+http://tvmate.icu:8080/live/VM121628/56784321/53651.m3u8
 #EXTINF:0, ITV 2
 #EXTGR: UK
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=394401&extension=ts&play_token=vQnUy8kVL3
 #EXTINF:0, Channel 4 HD
 #EXTGRP: UK 
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=823719&extension=ts&play_token=nW9KlJm37
+http://tvmate.icu:8080/live/VM121628/56784321/99138.m3u8
 #EXTINF:0, Channel 5
 #EXTGRP: UK
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=823718&extension=ts&play_token=5pkyM1alo6
+http://tvmate.icu:8080/live/VM121628/56784321/53653.m3u8
 #EXTINF:0, E4
 #EXTGRP: UK
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=823717&extension=ts&play_token=GGmIKUlTQ
