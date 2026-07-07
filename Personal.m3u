@@ -9,7 +9,7 @@ https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8?ads.cdn=https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com&ads.csid=sitesection:SkyNews:Web&manifest.mthost=7a38d30e7dd84cd0872ab4f691c38f58&manifest.region=mediatailor.eu-west-1.amazonaws.com
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373101&extension=ts&play_token=sVxGXZXpm
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:FD:41:1E&stream=373101&extension=ts&play_token=kVU1PW3mQX
 #EXTINF:0,ARY News HD
 #EXTGRP:NEWS
 https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8
@@ -69,10 +69,10 @@ http://103.157.248.140:8000/play/a017/index.m3u8
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Sonybbc.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
-http://103.157.248.140:8000/play/a08z/index.m3u8
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:FD:41:1E&stream=944624&extension=ts&play_token=lpSoFH1M67
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
-http://103.157.248.140:8000/play/a010/index.m3u8
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:FD:41:1E&stream=373018&extension=ts&play_token=IUjCwfjOmr
 #EXTINF:0, BBC One
 #EXTGRP: UK 
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
