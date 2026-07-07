@@ -18,7 +18,7 @@ https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:0, Green TV
 #EXTGRP:NEWS
-https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
+https://cdn01.medialive.one:2096/GREENENTFHD/index.m3u8
 #EXTINF:0,HUM TV HD
 #EXTGRP:Drama
 https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
