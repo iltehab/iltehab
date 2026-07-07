@@ -6,7 +6,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 #EXTINF:0, Sky News
 #EXTGRP:NEWS
-https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8?ads.cdn=https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com&ads.csid=sitesection:SkyNews:Web&manifest.mthost=7a38d30e7dd84cd0872ab4f691c38f58&manifest.region=mediatailor.eu-west-1.amazonaws.com
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373101&extension=ts&play_token=sVxGXZXpm
