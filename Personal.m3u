@@ -69,7 +69,7 @@ http://103.157.248.140:8000/play/a017/index.m3u8
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Sonybbc.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:FD:41:1E&stream=944624&extension=ts&play_token=lpSoFH1M67
+http://103.155.18.186:8000/play/a0aa/index.m3u8
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:FD:41:1E&stream=373018&extension=ts&play_token=IUjCwfjOmr
