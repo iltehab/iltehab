@@ -57,7 +57,7 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:0, Discovery Science 
 #EXTGRP: Infotainment 
-http://103.157.248.140:8000/play/a018/index.m3u8
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:0, MTV HD
 #EXTGRP: Infotainment
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla
