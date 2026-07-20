@@ -33,7 +33,7 @@ https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
 https://jmp2.uk/stvp-IN3900017KM
 #EXTINF:0, 9XM
 #EXTGRP:Music
-https://epiconvh.akamaized.net/9XM/master.m3u8
+http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:0, Show Box
 #EXTGRP:Music
 http://103.175.73.12:8080/live/469/469_0.m3u8
