@@ -9,7 +9,7 @@ https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8?ads.cdn=https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com&ads.csid=sitesection:SkyNews:Web&manifest.mthost=7a38d30e7dd84cd0872ab4f691c38f58&manifest.region=mediatailor.eu-west-1.amazonaws.com
 #EXTINF:0,Geo News
 #EXTGRP:NEWS
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:FD:41:1E&stream=373101&extension=ts&play_token=kVU1PW3mQX
+http://66.102.126.10:8000/play/a05w/index.m3u8
 #EXTINF:0,ARY News HD
 #EXTGRP:NEWS
 https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8
