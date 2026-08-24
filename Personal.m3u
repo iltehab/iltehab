@@ -33,10 +33,10 @@ https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
 https://jmp2.uk/stvp-IN3900017KM
 #EXTINF:0, 9XM
 #EXTGRP:Music
-http://103.175.73.12:8080/live/155/155_0.m3u8
-#EXTINF:0, Show Box
+https://9xmusic2.keralive.workers.dev/28072023/smil:9xmusic4.smil/playlist.m3u8
+#EXTINF:0, Epic Music
 #EXTGRP:Music
-http://103.175.73.12:8080/live/469/469_0.m3u8
+https://cc-3cyxq80qusspd.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/39bfd039-b9d6-43c7-8079-260276e46633/1.m3u8
 #EXTINF:0, Hindi Hits
 #EXTGRP:Music
 http://146.59.253.52:8080/hindihitshd/index.m3u8
@@ -48,7 +48,7 @@ http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:0,9X Jalwa
 #EXTGRP:Music
-http://103.175.73.12:8080/live/161/161_0.m3u8
+https://9xmusic2.keralive.workers.dev/28072023/smil:9xjalwa.smil/playlist.m3u8
 #EXTINF:0, Music India
 #EXTGRP:Music
 https://cdn-2.pishow.tv/live/226/master.m3u8
@@ -91,15 +91,18 @@ http://tvmate.icu:8080/live/VM121628/56784321/99138.m3u8
 #EXTINF:0, Channel 5
 #EXTGRP: UK
 http://tvmate.icu:8080/live/VM121628/56784321/53653.m3u8
-#EXTINF:0, E4
+#EXTINF:0, Evergreen Hits
 #EXTGRP: UK
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=823717&extension=ts&play_token=GGmIKUlTQ
-#EXTINF:0, E4Xtra
+https://mumt07.tangotv.in/zHjX9OFlEVERGREENHITS2/index.m3u8
+#EXTINF:0, Melody Hits
 #EXTGRP: UK
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=1168958&extension=ts&play_token=50CHkUw6MA
-#EXTINF:0, Sky Mix
+https://mumt03.tangotv.in/Dsly5z3HMELODYHITS/index.m3u8
+#EXTINF:0, Deewana HD
 #EXTGRP: Sports
-http://176.65.146.224:4007/play/a071/index.m3u8
-#EXTINF:0, BBC Earth
+https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
+#EXTINF:0, Filmi Gaane
 #EXTGRP: Sports
-https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+https://runn-tv.keralive.workers.dev/shemaroo/stream/smrfgn/playlist.m3u8
+#EXTINF:0, Mtunes
+#EXTGRP: Sports
+https://rpn3.bozztv.com/dvrfl07/ushba-t4/playlist.m3u8
