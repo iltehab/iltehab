@@ -52,9 +52,9 @@ http://103.175.73.12:8080/live/161/161_0.m3u8
 #EXTINF:0, Music India
 #EXTGRP:Music
 https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:0,YRF Music
+#EXTINF:0,Loop HD
 #EXTGRP:Music
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+https://live.yettelevision.com:5443/LiveApp/streams/vN7dKqR9mX2Lp5TcH8Za.m3u8
 #EXTINF:0, BBC Earth
 #EXTGRP: Infotainment 
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
