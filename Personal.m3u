@@ -75,16 +75,16 @@ https://live.yettelevision.com:5443/WebRTCApp/streams/B-VIgWzlh-CEvpjvo37pbTOi8Z
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:0, MTV HD
 #EXTGRP: Infotainment
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla
+http://live.balajibroadband.com:3500/live/573.m3u8
 #EXTINF:0, Discovery Science
 #EXTGRP: Infotainment
-http://66.102.126.10:8000/play/a01l/index.m3u8
+http://live.balajibroadband.com:3500/live/3453.m3u8
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Sonybbc.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
-http://103.155.18.186:8000/play/a0aa/index.m3u8
+http://live.balajibroadband.com:3500/live/566.m3u8
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
 http://103.155.18.186:8000/play/a05j/index.m3u8
