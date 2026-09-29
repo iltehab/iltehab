@@ -49,9 +49,9 @@ https://jmp2.uk/stvp-IN460001373
 #EXTINF:0, 9XM
 #EXTGRP:Music
 https://wiselp.wiseplayout.com/9XM/master.m3u8
-#EXTINF:0, Epic Music
+#EXTINF:0, Zing
 #EXTGRP:Music
-https://streams.tangotv.in/EPICMUSIC/ORIGIN/tracks-v1a1/mono.m3u8
+http://107.167.16.138/zing/index.m3u8?token=test
 #EXTINF:0, Hindi Hits
 #EXTGRP:Music
 http://146.59.253.52:8080/hindihitshd/index.m3u8
