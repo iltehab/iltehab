@@ -78,13 +78,13 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 http://live.balajibroadband.com:3500/live/573.m3u8
 #EXTINF:0, Discovery Science
 #EXTGRP: Infotainment
-http://live.balajibroadband.com:3500/live/3453.m3u8
+http://103.155.18.186:8000/play/a060/index.m3u8
 #EXTINF:0, Sony BBC Earth Hindi
 #EXTGRP: Infotainment
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Sonybbc.m3u8
 #EXTINF:0, Animal Planet
 #EXTGRP: Infotainment
-http://live.balajibroadband.com:3500/live/566.m3u8
+http://103.155.18.186:8000/play/a0aa/index.m3u8
 #EXTINF:0, Nat Geo Wild
 #EXTGRP: Infotainment
 http://103.155.18.186:8000/play/a05j/index.m3u8
