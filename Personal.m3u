@@ -73,9 +73,9 @@ https://live.yettelevision.com:5443/WebRTCApp/streams/B-VIgWzlh-CEvpjvo37pbTOi8Z
 #EXTINF:0, BBC Earth
 #EXTGRP: Infotainment 
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:0, MTV HD
+#EXTINF:0, test
 #EXTGRP: Infotainment
-http://live.balajibroadband.com:3500/live/573.m3u8
+http://103.151.60.162:2122/play/a01f/index.m3u8
 #EXTINF:0, Discovery Science
 #EXTGRP: Infotainment
 http://103.155.18.186:8000/play/a060/index.m3u8
