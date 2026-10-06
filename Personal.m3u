@@ -112,3 +112,9 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:BB:81:24&stream=717659&exten
 #EXTINF:0, E4
 #EXTGRP: UK
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:BB:81:24&stream=717658&extension=ts&play_token=JsBRj13RdQ
+#EXTINF:0, Star Movies
+#EXTGRP: UK
+http://51.75.127.199:3141/starmovieshd/index.m3u8
+#EXTINF:0, Star Movies Select
+#EXTGRP: UK
+http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
